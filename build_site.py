@@ -82,6 +82,10 @@ def is_garbled_text(text: str) -> bool:
         return True
     return False
 
+def clean_for_dedup(s: str) -> str:
+    """文の重複・類似比較用に記号・空白を除去"""
+    return re.sub(r'[\s\u3000「」『』【】（）()・…、。！？!?\-\|:：]', '', s).lower()
+
 def fetch_article_content(url: str) -> Tuple[str, str]:
     headers = {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
@@ -108,30 +112,24 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
             'JavaScript', 'クッキー', 'Cookie', '利用規約', '無断転載', '禁無断転載',
             '有料会員', 'ログイン', '本文へスキップ', '閲覧支援', '文字サイズ', 'サイトマップ',
             'サイト内検索', 'プライバシーポリシー', 'お問い合わせ', 'ページ先頭', '報道発表日', '更新日',
-            '本プレスリリースの内容は', 'プレスリリース一覧'
+            '本プレスリリースの内容は', 'プレスリリース一覧', '電話', 'TEL', 'FAX', 'メールアドレス',
+            'アンケート', '質問1', '質問2', 'お問合せ先', 'お問い合わせ先', '外部リンク', '再生ボタン', '担当者名', '係'
         ]
 
-        main_container = soup.find(['article', 'main']) or soup.find(id=re.compile(r'content|main|article', re.I)) or soup.find(class_=re.compile(r'content|main|article|entry', re.I)) or soup
+        main_container = soup.find(['article', 'main']) or soup.find(id=re.compile(r'content|main|article', re.I)) or soup.find(class_=re.compile(r'entry|content|main|article', re.I)) or soup
             
         paragraphs = []
-        for p in main_container.find_all('p'):
-            text = p.get_text().strip()
-            if len(text) > 20 and not any(bad in text for bad in bad_words) and not is_garbled_text(text):
-                if text not in paragraphs:
-                    paragraphs.append(text)
-            if len(paragraphs) >= 5:
+        raw_lines = [line.strip() for line in main_container.get_text().splitlines() if len(line.strip()) > 15]
+        for line in raw_lines:
+            if any(bad in line for bad in bad_words) or is_garbled_text(line):
+                continue
+            line_norm = clean_for_dedup(line)
+            if not any(SequenceMatcher(None, clean_for_dedup(p), line_norm).ratio() > 0.65 for p in paragraphs):
+                paragraphs.append(line)
+            if len(paragraphs) >= 8:
                 break
-
-        if len(paragraphs) < 2:
-            for d in main_container.find_all(['div', 'section']):
-                text = d.get_text().strip()
-                if 20 < len(text) < 300 and not any(bad in text for bad in bad_words) and not is_garbled_text(text):
-                    if text not in paragraphs:
-                        paragraphs.append(text)
-                if len(paragraphs) >= 5:
-                    break
                 
-        body_text = "\n".join(paragraphs[:3])
+        body_text = "\n".join(paragraphs[:6])
         return desc, body_text
     except Exception:
         return "", ""
@@ -177,19 +175,39 @@ def generate_summary_with_gemini(title: str, body: str, api_key: str) -> Optiona
     return None
 
 def create_auto_summary(title: str, desc: str, body: str) -> str:
-    base_text = desc if desc else body
+    """自動要約生成（重複文・タイトル重複を徹底排除）"""
+    base_text = (desc + "\n" + body).strip() if (desc and body) else (desc if desc else body)
     if not base_text or is_garbled_text(base_text):
         return f"・{title}"
     clean = re.sub(r'【写真を見る】.*', '', base_text)
     clean = re.sub(r'（.*放送）', '', clean)
     clean = re.sub(r'https?://\S+', '', clean)
     clean = clean.strip()
-    sentences = [s.strip() for s in re.split(r'。|\n', clean) if len(s.strip()) > 10 and not is_garbled_text(s)]
-    if len(sentences) >= 2:
-        points = [f"・{s}。" for s in sentences[:3]]
-        return "\n".join(points)
-    elif sentences:
-        return f"・{sentences[0]}。"
+
+    title_norm = clean_for_dedup(title)
+    raw_sentences = [s.strip() for s in re.split(r'。|\n', clean) if len(s.strip()) > 10 and not is_garbled_text(s)]
+
+    unique_sentences: List[str] = []
+    for s in raw_sentences:
+        s_norm = clean_for_dedup(s)
+        if len(s_norm) < 10:
+            continue
+        # タイトルと類似（70%以上一致、またはタイトルの包含）する文をスキップ
+        if SequenceMatcher(None, title_norm, s_norm).ratio() > 0.70:
+            continue
+        if s_norm in title_norm or (len(s_norm) < 60 and title_norm in s_norm):
+            continue
+        # 既に選んだ要約文と類似（60%以上一致）する文をスキップ
+        if any(SequenceMatcher(None, clean_for_dedup(u), s_norm).ratio() > 0.60 for u in unique_sentences):
+            continue
+        unique_sentences.append(s)
+        if len(unique_sentences) >= 3:
+            break
+
+    if len(unique_sentences) >= 2:
+        return "\n".join(f"・{s}。" for s in unique_sentences[:3])
+    elif len(unique_sentences) == 1:
+        return f"・{unique_sentences[0]}。"
     else:
         return f"・{title}"
 
