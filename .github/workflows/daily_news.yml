@@ -1,0 +1,47 @@
+name: 和歌山ニュース自動収集＆サイト更新
+
+on:
+  schedule:
+    # 毎日 日本時間 06:00, 12:00, 18:00 に自動実行 (UTC 21:00, 03:00, 09:00)
+    - cron: '0 21,3,9 * * *'
+  workflow_dispatch: # GitHub上のボタンからいつでも手動実行可能
+
+permissions:
+  contents: write
+
+jobs:
+  collect-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Pythonのセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 依存パッケージのインストール
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser requests beautifulsoup4 google-genai
+
+      - name: 和歌山ニュース収集＆静的サイトビルド
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python build_site.py
+
+      - name: 変更をコミットしてGitHub Pagesへ自動反映
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "変更はありませんでした（新着記事なし）"
+          else
+            git commit -m "chore: 和歌山デイリーニュース自動更新 [$(date +'%Y-%m-%d %H:%M')]"
+            git push
+          fi

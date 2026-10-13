@@ -1,0 +1,364 @@
+// 和歌山デイリーニュース 静的サイト (GitHub Pages対応) フロントエンドJS
+
+let currentDate = null;
+let currentCategory = 'all';
+let searchQuery = '';
+let availableDates = [];
+let dateArticlesCache = {};
+let allArticlesSearchCache = null;
+
+// DOM要素
+const dateListEl = document.getElementById('dateList');
+const datePickerInput = document.getElementById('datePickerInput');
+const articlesContainerEl = document.getElementById('articlesContainer');
+const currentDisplayDateEl = document.getElementById('currentDisplayDate');
+const currentCountBadgeEl = document.getElementById('currentCountBadge');
+const statArticlesEl = document.getElementById('statArticles');
+const statDaysEl = document.getElementById('statDays');
+const statUpdatedEl = document.getElementById('statUpdated');
+const searchInput = document.getElementById('searchInput');
+const searchClearBtn = document.getElementById('searchClearBtn');
+const categoryFilterEl = document.getElementById('categoryFilter');
+
+// カテゴリ色マッピング
+const categoryBadgeClasses = {
+  '観光・文化': 'bg-emerald-50 text-emerald-700 border-emerald-200',
+  '社会・事件': 'bg-rose-50 text-rose-700 border-rose-200',
+  '政治・行政': 'bg-indigo-50 text-indigo-700 border-indigo-200',
+  'スポーツ': 'bg-blue-50 text-blue-700 border-blue-200',
+  '経済・産業': 'bg-amber-50 text-amber-700 border-amber-200',
+  '地域・一般': 'bg-slate-100 text-slate-700 border-slate-200'
+};
+
+// 初期化
+document.addEventListener('DOMContentLoaded', async () => {
+  if (window.lucide) lucide.createIcons();
+  setupEventListeners();
+  await loadInitialData();
+});
+
+// イベントリスナー設定
+function setupEventListeners() {
+  // 日付ピッカー変更
+  if (datePickerInput) {
+    datePickerInput.addEventListener('change', (e) => {
+      if (e.target.value) {
+        selectDate(e.target.value);
+      }
+    });
+  }
+
+  // 検索入力
+  let searchTimeout = null;
+  if (searchInput) {
+    searchInput.addEventListener('input', (e) => {
+      searchQuery = e.target.value.trim();
+      searchClearBtn.classList.toggle('hidden', searchQuery.length === 0);
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => {
+        loadArticles();
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      searchQuery = '';
+      searchClearBtn.classList.add('hidden');
+      loadArticles();
+    });
+  }
+
+  // カテゴリ選択
+  if (categoryFilterEl) {
+    categoryFilterEl.addEventListener('click', (e) => {
+      const btn = e.target.closest('.cat-pill');
+      if (!btn) return;
+      
+      document.querySelectorAll('.cat-pill').forEach(b => {
+        b.classList.remove('bg-slate-900', 'text-white', 'active');
+        b.classList.add('bg-slate-100', 'text-slate-600');
+      });
+      btn.classList.remove('bg-slate-100', 'text-slate-600');
+      btn.classList.add('bg-slate-900', 'text-white', 'active');
+
+      currentCategory = btn.dataset.category;
+      loadArticles();
+    });
+  }
+}
+
+// 初期データ（index.json）読み込み
+async function loadInitialData() {
+  try {
+    const res = await fetch('data/index.json?v=' + Date.now());
+    if (!res.ok) throw new Error('Failed to load index.json');
+    const data = await res.json();
+
+    // 統計反映
+    if (data.stats) {
+      statArticlesEl.textContent = `蓄積記事: ${data.stats.total_articles.toLocaleString()} 件`;
+      statDaysEl.textContent = `アーカイブ: ${data.stats.total_days} 日分`;
+      if (data.stats.last_updated) {
+        const d = new Date(data.stats.last_updated);
+        statUpdatedEl.textContent = `自動更新: ${d.toLocaleDateString('ja-JP')} ${d.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' })}`;
+      }
+    }
+
+    // 日付リスト
+    availableDates = data.dates || [];
+    renderDateList();
+
+    // 最新日付を選択
+    if (availableDates.length > 0) {
+      currentDate = availableDates[0].article_date;
+      if (datePickerInput) datePickerInput.value = currentDate;
+      await loadArticles();
+    }
+  } catch (err) {
+    console.error('初期データ読み込みエラー:', err);
+    articlesContainerEl.innerHTML = `
+      <div class="p-8 text-center text-rose-500 text-sm bg-rose-50 rounded-2xl border border-rose-200">
+        データの読み込みに失敗しました。ページを再読み込みしてください。
+      </div>
+    `;
+  }
+}
+
+// 日付サイドバーの描画
+function renderDateList() {
+  dateListEl.innerHTML = '';
+  if (availableDates.length === 0) {
+    dateListEl.innerHTML = '<div class="p-3 text-center text-xs text-slate-400">記事がまだありません。</div>';
+    return;
+  }
+
+  availableDates.forEach((item, index) => {
+    const btn = document.createElement('button');
+    const isActive = item.article_date === currentDate || (!currentDate && index === 0);
+    btn.className = `date-item w-full flex items-center justify-between px-3 py-2 text-xs rounded-xl border border-transparent hover:bg-slate-100 transition-all text-left ${isActive ? 'active' : 'text-slate-700'}`;
+    
+    const formattedDate = formatDisplayDate(item.article_date);
+    const isToday = isTodayDate(item.article_date);
+    
+    btn.innerHTML = `
+      <div class="flex items-center gap-1.5">
+        <span class="font-medium">${formattedDate}</span>
+        ${isToday ? '<span class="text-[10px] px-1.5 py-0.2 bg-orange-200 text-orange-800 rounded font-bold">今日</span>' : ''}
+      </div>
+      <span class="text-[11px] px-2 py-0.5 rounded-full bg-slate-200/70 text-slate-600 font-semibold">${item.count}件</span>
+    `;
+
+    btn.addEventListener('click', () => {
+      selectDate(item.article_date);
+    });
+
+    dateListEl.appendChild(btn);
+  });
+}
+
+// 日付選択
+function selectDate(dateStr) {
+  currentDate = dateStr;
+  if (datePickerInput) datePickerInput.value = dateStr;
+
+  // 日付リストのアクティブ表示更新
+  document.querySelectorAll('.date-item').forEach(el => {
+    el.classList.remove('active');
+  });
+  const match = [...document.querySelectorAll('.date-item')].find(el => el.textContent.includes(formatDisplayDate(dateStr)));
+  if (match) match.classList.add('active');
+
+  loadArticles();
+}
+
+// 記事取得とフィルタリング
+async function loadArticles() {
+  articlesContainerEl.innerHTML = `
+    <div class="p-12 text-center text-slate-400 text-xs bg-white rounded-2xl border border-slate-200 flex flex-col items-center justify-center gap-2">
+      <div class="w-6 h-6 border-2 border-orange-500 border-t-transparent rounded-full animate-spin"></div>
+      <span>記事を読み込み中...</span>
+    </div>
+  `;
+
+  try {
+    let articles = [];
+
+    // 検索クエリがある場合で、全期間検索したい場合
+    if (searchQuery && !currentDate) {
+      if (!allArticlesSearchCache) {
+        const sRes = await fetch('data/search_index.json?v=' + Date.now());
+        allArticlesSearchCache = await sRes.json();
+      }
+      articles = allArticlesSearchCache;
+    } else if (currentDate) {
+      // 特定日のJSONをキャッシュまたはfetch
+      if (!dateArticlesCache[currentDate]) {
+        const res = await fetch(`data/dates/${currentDate}.json?v=` + Date.now());
+        if (res.ok) {
+          dateArticlesCache[currentDate] = await res.json();
+        } else {
+          dateArticlesCache[currentDate] = [];
+        }
+      }
+      articles = dateArticlesCache[currentDate] || [];
+    }
+
+    // フィルタリング処理
+    let filtered = articles;
+
+    // カテゴリフィルター
+    if (currentCategory && currentCategory !== 'all') {
+      filtered = filtered.filter(a => a.category === currentCategory);
+    }
+
+    // 検索キーワードフィルター
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      filtered = filtered.filter(a => 
+        (a.title && a.title.toLowerCase().includes(q)) || 
+        (a.summary && a.summary.toLowerCase().includes(q)) ||
+        (a.source && a.source.toLowerCase().includes(q))
+      );
+    }
+
+    // ヘッダー情報更新
+    currentDisplayDateEl.textContent = currentDate ? `${formatDisplayDate(currentDate)} のニュース` : '全期間検索結果';
+    currentCountBadgeEl.textContent = `${filtered.length} 件`;
+
+    if (filtered.length === 0) {
+      articlesContainerEl.innerHTML = `
+        <div class="p-12 text-center text-slate-500 text-sm bg-white rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
+          <i data-lucide="inbox" class="w-8 h-8 text-slate-300 mx-auto"></i>
+          <p class="font-medium text-slate-700">条件に合致するニュースが見つかりませんでした</p>
+          <p class="text-xs text-slate-400">別の日付を選ぶか、検索条件を変更してください。</p>
+        </div>
+      `;
+      if (window.lucide) lucide.createIcons();
+      return;
+    }
+
+    // 描画
+    articlesContainerEl.innerHTML = filtered.map(renderArticleCard).join('');
+    if (window.lucide) lucide.createIcons();
+
+  } catch (err) {
+    console.error('記事読み込みエラー:', err);
+    articlesContainerEl.innerHTML = `
+      <div class="p-8 text-center text-rose-500 text-sm bg-rose-50 rounded-2xl border border-rose-200">
+        記事の取得に失敗しました。
+      </div>
+    `;
+  }
+}
+
+// 記事カード1枚のHTML生成
+function renderArticleCard(a) {
+  const catClass = categoryBadgeClasses[a.category] || categoryBadgeClasses['地域・一般'];
+  
+  const rawSummary = a.summary || '';
+  const summaryPoints = rawSummary
+    .split('\n')
+    .map(line => line.trim())
+    .filter(line => line.length > 0)
+    .map(line => line.replace(/^[・\-\*]\s*/, ''));
+
+  const summaryHtml = summaryPoints.map(point => `
+    <li class="flex items-start gap-2 text-slate-700 text-xs sm:text-sm leading-relaxed">
+      <span class="text-orange-500 font-bold shrink-0 mt-0.5">•</span>
+      <span>${escapeHtml(point)}</span>
+    </li>
+  `).join('');
+
+  const isAi = a.summary_type === 'ai';
+
+  return `
+    <article class="bg-white rounded-2xl border border-slate-200/80 p-5 shadow-sm hover:shadow-md transition-all space-y-4">
+      
+      <!-- 上部メタ情報 -->
+      <div class="flex flex-wrap items-center justify-between gap-2 text-xs">
+        <div class="flex items-center gap-2">
+          <span class="px-2.5 py-0.5 rounded-full border text-[11px] font-semibold ${catClass}">
+            ${escapeHtml(a.category)}
+          </span>
+          <span class="font-medium text-slate-600 flex items-center gap-1">
+            <i data-lucide="newspaper" class="w-3 h-3 text-slate-400"></i>
+            ${escapeHtml(a.source || '配信元')}
+          </span>
+        </div>
+        <span class="text-slate-400 text-[11px] flex items-center gap-1">
+          <i data-lucide="clock" class="w-3 h-3"></i>
+          ${escapeHtml(a.published_at || '')}
+        </span>
+      </div>
+
+      <!-- 記事タイトル -->
+      <h3 class="text-base sm:text-lg font-bold text-slate-900 leading-snug">
+        ${escapeHtml(a.title)}
+      </h3>
+
+      <!-- 30秒要約ボックス -->
+      <div class="summary-box p-3.5 rounded-xl space-y-2">
+        <div class="flex items-center justify-between">
+          <span class="text-xs font-bold text-orange-950 flex items-center gap-1.5">
+            <i data-lucide="zap" class="w-3.5 h-3.5 text-orange-600 fill-orange-500"></i>
+            さっと読める要約ポイント
+          </span>
+          ${isAi ? `
+            <span class="text-[10px] font-semibold px-2 py-0.5 bg-gradient-to-r from-purple-100 to-indigo-100 text-indigo-700 rounded-full border border-indigo-200 flex items-center gap-1">
+              ✨ AI要約
+            </span>
+          ` : `
+            <span class="text-[10px] text-slate-400">自動抽出</span>
+          `}
+        </div>
+        <ul class="space-y-1.5 pl-1">
+          ${summaryHtml}
+        </ul>
+      </div>
+
+      <!-- 下部アクション: 元記事リンク -->
+      <div class="flex items-center justify-between pt-1">
+        <div class="text-[11px] text-slate-400">
+          詳細や写真・続報は元記事で確認できます
+        </div>
+        <a 
+          href="${escapeHtml(a.url)}" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          class="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-semibold bg-slate-900 hover:bg-orange-600 text-white transition-all shadow-sm"
+        >
+          <span>元記事を読む</span>
+          <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+        </a>
+      </div>
+
+    </article>
+  `;
+}
+
+function formatDisplayDate(dateStr) {
+  if (!dateStr) return '';
+  const parts = dateStr.split('-');
+  if (parts.length === 3) {
+    return `${parts[0]}年${parseInt(parts[1], 10)}月${parseInt(parts[2], 10)}日`;
+  }
+  return dateStr;
+}
+
+function isTodayDate(dateStr) {
+  const today = new Date();
+  const y = today.getFullYear();
+  const m = String(today.getMonth() + 1).padStart(2, '0');
+  const d = String(today.getDate()).padStart(2, '0');
+  return dateStr === `${y}-${m}-${d}`;
+}
+
+function escapeHtml(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+}

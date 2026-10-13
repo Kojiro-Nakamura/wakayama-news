@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>和歌山デイリーニュース | Wakayama Daily News</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&family=Shippori+Mincho:wght@600;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col font-sans antialiased">
+
+  <!-- ヘッダー -->
+  <header class="bg-white border-b border-slate-200 sticky top-0 z-30 shadow-sm backdrop-blur-md bg-white/95">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex flex-wrap items-center justify-between gap-3">
+      <!-- ロゴ -->
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-amber-500 to-orange-600 flex items-center justify-center text-white shadow-md shadow-orange-500/20 font-bold text-xl tracking-tighter">
+          和
+        </div>
+        <div>
+          <h1 class="text-xl font-bold tracking-tight text-slate-900 font-serif flex items-center gap-2">
+            和歌山デイリーニュース
+            <span class="text-xs font-normal font-sans px-2 py-0.5 rounded-full bg-orange-100 text-orange-700 border border-orange-200">無料版</span>
+          </h1>
+          <p class="text-xs text-slate-500">和歌山県内の重要ニュースを30秒で読める要約まとめ</p>
+        </div>
+      </div>
+
+      <!-- 操作ボタン -->
+      <div class="flex items-center gap-2">
+        <button id="collectBtn" class="flex items-center gap-1.5 px-3.5 py-2 text-xs font-semibold rounded-lg bg-orange-600 hover:bg-orange-700 active:bg-orange-800 text-white transition-all shadow-sm shadow-orange-600/30">
+          <i data-lucide="refresh-cw" class="w-3.5 h-3.5" id="refreshIcon"></i>
+          <span>最新ニュース取得</span>
+        </button>
+        <button id="settingsBtn" class="p-2 text-slate-600 hover:text-slate-900 hover:bg-slate-100 rounded-lg transition-colors border border-slate-200" title="設定">
+          <i data-lucide="settings" class="w-4 h-4"></i>
+        </button>
+      </div>
+    </div>
+
+    <!-- サブバー: 統計 & 情報 -->
+    <div class="bg-slate-100/70 border-t border-slate-200/80 px-4 py-1.5 text-xs text-slate-600">
+      <div class="max-w-6xl mx-auto flex items-center justify-between flex-wrap gap-2">
+        <div class="flex items-center gap-4">
+          <span class="flex items-center gap-1.5">
+            <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+            <span id="statArticles">蓄積記事: -- 件</span>
+          </span>
+          <span class="text-slate-300">|</span>
+          <span id="statDays">アーカイブ: -- 日分</span>
+        </div>
+        <div id="statUpdated" class="text-slate-500">
+          最終更新: --
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- メインコンテンツ -->
+  <main class="max-w-6xl mx-auto px-4 py-6 flex-1 w-full flex flex-col md:flex-row gap-6">
+
+    <!-- 左サイドバー: 日付アーカイブナビゲーション -->
+    <aside class="w-full md:w-64 shrink-0 space-y-5">
+      <div class="bg-white p-4 rounded-2xl border border-slate-200/80 shadow-sm">
+        <div class="flex items-center justify-between mb-3">
+          <h2 class="text-xs font-bold text-slate-500 uppercase tracking-wider flex items-center gap-1.5">
+            <i data-lucide="calendar" class="w-3.5 h-3.5 text-orange-600"></i>
+            日付からさかのぼる
+          </h2>
+          <span class="text-[10px] text-slate-400">日別アーカイブ</span>
+        </div>
+
+        <!-- 日付ピッカー入力（任意の日付指定） -->
+        <div class="mb-3">
+          <label class="block text-[11px] font-medium text-slate-600 mb-1">特定の日付を指定</label>
+          <input type="date" id="datePickerInput" class="w-full px-2.5 py-1.5 text-xs bg-slate-50 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500/20 focus:border-orange-500">
+        </div>
+
+        <!-- 日付リスト（直近の登録済み日付） -->
+        <div class="space-y-1 max-h-80 overflow-y-auto pr-1" id="dateList">
+          <div class="p-3 text-center text-xs text-slate-400">日付一覧を読み込み中...</div>
+        </div>
+      </div>
+
+      <!-- 和歌山地域メモ -->
+      <div class="bg-gradient-to-br from-amber-50 to-orange-50 p-4 rounded-2xl border border-orange-200/60 text-xs text-amber-900/80 leading-relaxed">
+        <div class="font-bold flex items-center gap-1.5 text-orange-800 mb-1">
+          <i data-lucide="info" class="w-3.5 h-3.5"></i>
+          完全無料で利用中
+        </div>
+        <p>Google News RSSから和歌山県関連ニュースを自動収集し、データベース（SQLite）に永久保存しています。いつでも過去の日付にさかのぼって振り返ることができます。</p>
+      </div>
+    </aside>
+
+    <!-- 右メイン: 検索、フィルター、記事リスト -->
+    <section class="flex-1 min-w-0 flex flex-col gap-5">
+      
+      <!-- 検索 ＆ カテゴリタブ -->
+      <div class="bg-white p-4 rounded-2xl border border-slate-200/80 shadow-sm space-y-3">
+        <!-- 検索バー -->
+        <div class="relative">
+          <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2"></i>
+          <input 
+            type="text" 
+            id="searchInput" 
+            placeholder="タイトルや要約からキーワード検索（例: 白浜, パンダ, 高野山, 知事...）" 
+            class="w-full pl-10 pr-24 py-2 text-sm bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-orange-500/20 focus:border-orange-500 transition-all"
+          >
+          <button id="searchClearBtn" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-xs text-slate-400 hover:text-slate-600 bg-slate-200/60 hover:bg-slate-200 rounded px-1.5 py-0.5">
+            クリア
+          </button>
+        </div>
+
+        <!-- カテゴリフィルター -->
+        <div class="flex items-center gap-1.5 overflow-x-auto pb-1 text-xs no-scrollbar" id="categoryFilter">
+          <button data-category="all" class="cat-pill active px-3 py-1.5 rounded-lg font-medium transition-colors bg-slate-900 text-white">
+            すべて
+          </button>
+          <button data-category="観光・文化" class="cat-pill px-3 py-1.5 rounded-lg font-medium transition-colors bg-slate-100 text-slate-600 hover:bg-slate-200">
+            観光・文化
+          </button>
+          <button data-category="社会・事件" class="cat-pill px-3 py-1.5 rounded-lg font-medium transition-colors bg-slate-100 text-slate-600 hover:bg-slate-200">
+            社会・事件
+          </button>
+          <button data-category="政治・行政" class="cat-pill px-3 py-1.5 rounded-lg font-medium transition-colors bg-slate-100 text-slate-600 hover:bg-slate-200">
+            政治・行政
+          </button>
+          <button data-category="スポーツ" class="cat-pill px-3 py-1.5 rounded-lg font-medium transition-colors bg-slate-100 text-slate-600 hover:bg-slate-200">
+            スポーツ
+          </button>
+          <button data-category="経済・産業" class="cat-pill px-3 py-1.5 rounded-lg font-medium transition-colors bg-slate-100 text-slate-600 hover:bg-slate-200">
+            経済・産業
+          </button>
+          <button data-category="地域・一般" class="cat-pill px-3 py-1.5 rounded-lg font-medium transition-colors bg-slate-100 text-slate-600 hover:bg-slate-200">
+            地域・一般
+          </button>
+        </div>
+      </div>
+
+      <!-- 現在表示中の日付ヘッダー -->
+      <div class="flex items-center justify-between px-1">
+        <div class="flex items-baseline gap-2">
+          <h2 id="currentDisplayDate" class="text-lg font-bold text-slate-900 font-serif">
+            ----年--月--日のニュース
+          </h2>
+          <span id="currentCountBadge" class="text-xs font-semibold px-2 py-0.5 bg-orange-100 text-orange-700 rounded-full">
+            0 件
+          </span>
+        </div>
+        <div class="text-xs text-slate-500" id="filterStatusText"></div>
+      </div>
+
+      <!-- 記事カード一覧 -->
+      <div id="articlesContainer" class="space-y-4">
+        <!-- 記事カードがここに動的生成されます -->
+        <div class="p-12 text-center text-slate-400 text-sm bg-white rounded-2xl border border-slate-200">
+          記事を読み込んでいます...
+        </div>
+      </div>
+
+    </section>
+  </main>
+
+  <!-- フッター -->
+  <footer class="bg-white border-t border-slate-200 py-6 mt-auto text-xs text-slate-500 text-center">
+    <div class="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
+      <div>
+        <span>和歌山デイリーニュース 🗞️ 完全無料の地域ニュース要約システム</span>
+      </div>
+      <div>
+        <span>データ保存: ローカルSQLite | 情報源: Google News RSS</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- 設定モーダル -->
+  <div id="settingsModal" class="fixed inset-0 bg-slate-900/50 backdrop-blur-sm z-50 flex items-center justify-center p-4 hidden">
+    <div class="bg-white rounded-2xl shadow-xl max-w-md w-full p-6 border border-slate-100 space-y-4">
+      <div class="flex items-center justify-between border-b border-slate-100 pb-3">
+        <h3 class="text-base font-bold text-slate-900 flex items-center gap-2">
+          <i data-lucide="sliders" class="w-4 h-4 text-orange-600"></i>
+          システム設定
+        </h3>
+        <button id="closeSettingsBtn" class="text-slate-400 hover:text-slate-600 p-1 rounded-lg">
+          <i data-lucide="x" class="w-4 h-4"></i>
+        </button>
+      </div>
+
+      <div class="space-y-3 text-xs leading-relaxed text-slate-600">
+        <div>
+          <label class="block font-semibold text-slate-800 mb-1">
+            Google Gemini APIキー (無料枠で利用可能・任意)
+          </label>
+          <input 
+            type="password" 
+            id="geminiKeyInput" 
+            placeholder="AI Studioの無料キー (例: AIzaSy...)" 
+            class="w-full px-3 py-2 border border-slate-200 rounded-lg text-xs font-mono focus:outline-none focus:ring-2 focus:ring-orange-500/20 focus:border-orange-500"
+          >
+          <p class="text-[11px] text-slate-500 mt-1">
+            ※ 未設定でも記事メタデータによる自動3行要約が<strong>完全無料・無制限</strong>で動作します。<br>
+            ※ Google AI Studioの無料キーを入れると、より賢いAI箇条書き要約に自動アップグレードされます。
+          </p>
+        </div>
+
+        <div id="apiKeyStatus" class="p-2.5 rounded-lg bg-slate-50 border border-slate-200 text-slate-600 flex items-center gap-2">
+          <span class="w-2 h-2 rounded-full bg-slate-400"></span>
+          <span>現在のステータス: 未登録（標準自動要約モード）</span>
+        </div>
+      </div>
+
+      <div class="flex items-center justify-end gap-2 pt-2 border-t border-slate-100">
+        <button id="cancelSettingsBtn" class="px-4 py-2 text-xs font-medium text-slate-600 hover:bg-slate-100 rounded-lg">
+          閉じる
+        </button>
+        <button id="saveSettingsBtn" class="px-4 py-2 text-xs font-semibold text-white bg-orange-600 hover:bg-orange-700 rounded-lg shadow-sm">
+          設定を保存
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- トースト通知 -->
+  <div id="toast" class="fixed bottom-6 right-6 bg-slate-900 text-white px-4 py-3 rounded-xl shadow-lg text-xs font-medium transform transition-all duration-300 translate-y-20 opacity-0 z-50 flex items-center gap-2">
+    <i data-lucide="check-circle" class="w-4 h-4 text-emerald-400"></i>
+    <span id="toastMsg">通知メッセージ</span>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

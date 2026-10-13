@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Local data (SQLite is local cache; docs/data is published to GitHub Pages)
+data/*.log
+
+# Environment variables
+.env
