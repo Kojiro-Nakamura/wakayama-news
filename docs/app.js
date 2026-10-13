@@ -1,11 +1,9 @@
-// 和歌山デイリーニュース 静的サイト (GitHub Pages対応) フロントエンドJS
+// 和歌山デイリーニュース フロントエンドJS
 
 let currentDate = null;
 let currentCategory = 'all';
 let searchQuery = '';
 let availableDates = [];
-let dateArticlesCache = {};
-let allArticlesSearchCache = null;
 
 // DOM要素
 const dateListEl = document.getElementById('dateList');
@@ -19,6 +17,17 @@ const statUpdatedEl = document.getElementById('statUpdated');
 const searchInput = document.getElementById('searchInput');
 const searchClearBtn = document.getElementById('searchClearBtn');
 const categoryFilterEl = document.getElementById('categoryFilter');
+const collectBtn = document.getElementById('collectBtn');
+const refreshIcon = document.getElementById('refreshIcon');
+const settingsBtn = document.getElementById('settingsBtn');
+const settingsModal = document.getElementById('settingsModal');
+const closeSettingsBtn = document.getElementById('closeSettingsBtn');
+const cancelSettingsBtn = document.getElementById('cancelSettingsBtn');
+const saveSettingsBtn = document.getElementById('saveSettingsBtn');
+const geminiKeyInput = document.getElementById('geminiKeyInput');
+const apiKeyStatusEl = document.getElementById('apiKeyStatus');
+const toastEl = document.getElementById('toast');
+const toastMsgEl = document.getElementById('toastMsg');
 
 // カテゴリ色マッピング
 const categoryBadgeClasses = {
@@ -33,133 +42,179 @@ const categoryBadgeClasses = {
 // 初期化
 document.addEventListener('DOMContentLoaded', async () => {
   if (window.lucide) lucide.createIcons();
+  await loadStats();
+  await loadDates();
+  await loadSettings();
   setupEventListeners();
-  await loadInitialData();
 });
 
 // イベントリスナー設定
 function setupEventListeners() {
   // 日付ピッカー変更
-  if (datePickerInput) {
-    datePickerInput.addEventListener('change', (e) => {
-      if (e.target.value) {
-        selectDate(e.target.value);
-      }
-    });
-  }
+  datePickerInput.addEventListener('change', (e) => {
+    if (e.target.value) {
+      selectDate(e.target.value);
+    }
+  });
 
   // 検索入力
   let searchTimeout = null;
-  if (searchInput) {
-    searchInput.addEventListener('input', (e) => {
-      searchQuery = e.target.value.trim();
-      searchClearBtn.classList.toggle('hidden', searchQuery.length === 0);
-      clearTimeout(searchTimeout);
-      searchTimeout = setTimeout(() => {
-        loadArticles();
-      }, 200);
-    });
-
-    searchClearBtn.addEventListener('click', () => {
-      searchInput.value = '';
-      searchQuery = '';
-      searchClearBtn.classList.add('hidden');
+  searchInput.addEventListener('input', (e) => {
+    searchQuery = e.target.value.trim();
+    searchClearBtn.classList.toggle('hidden', searchQuery.length === 0);
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(() => {
       loadArticles();
-    });
-  }
+    }, 250);
+  });
+
+  searchClearBtn.addEventListener('click', () => {
+    searchInput.value = '';
+    searchQuery = '';
+    searchClearBtn.classList.add('hidden');
+    loadArticles();
+  });
 
   // カテゴリ選択
-  if (categoryFilterEl) {
-    categoryFilterEl.addEventListener('click', (e) => {
-      const btn = e.target.closest('.cat-pill');
-      if (!btn) return;
-      
-      document.querySelectorAll('.cat-pill').forEach(b => {
-        b.classList.remove('bg-slate-900', 'text-white', 'active');
-        b.classList.add('bg-slate-100', 'text-slate-600');
-      });
-      btn.classList.remove('bg-slate-100', 'text-slate-600');
-      btn.classList.add('bg-slate-900', 'text-white', 'active');
-
-      currentCategory = btn.dataset.category;
-      loadArticles();
+  categoryFilterEl.addEventListener('click', (e) => {
+    const btn = e.target.closest('.cat-pill');
+    if (!btn) return;
+    
+    document.querySelectorAll('.cat-pill').forEach(b => {
+      b.classList.remove('bg-slate-900', 'text-white', 'active');
+      b.classList.add('bg-slate-100', 'text-slate-600');
     });
-  }
-}
+    btn.classList.remove('bg-slate-100', 'text-slate-600');
+    btn.classList.add('bg-slate-900', 'text-white', 'active');
 
-// 初期データ（index.json）読み込み
-async function loadInitialData() {
-  try {
-    const res = await fetch('data/index.json?v=' + Date.now());
-    if (!res.ok) throw new Error('Failed to load index.json');
-    const data = await res.json();
+    currentCategory = btn.dataset.category;
+    loadArticles();
+  });
 
-    // 統計反映
-    if (data.stats) {
-      statArticlesEl.textContent = `蓄積記事: ${data.stats.total_articles.toLocaleString()} 件`;
-      statDaysEl.textContent = `アーカイブ: ${data.stats.total_days} 日分`;
-      if (data.stats.last_updated) {
-        const d = new Date(data.stats.last_updated);
-        statUpdatedEl.textContent = `自動更新: ${d.toLocaleDateString('ja-JP')} ${d.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' })}`;
+  // ニュース手動取得
+  collectBtn.addEventListener('click', async () => {
+    collectBtn.disabled = true;
+    refreshIcon.classList.add('animate-spin-fast');
+    showToast('最新ニュースを巡回取得しています...');
+
+    try {
+      const res = await fetch('/api/collect', { method: 'POST' });
+      const data = await res.json();
+      if (data.status === 'success') {
+        showToast(`取得完了！新着: ${data.new_articles}件 (合計チェック: ${data.total_checked}件)`);
+        await loadStats();
+        await loadDates();
+        await loadArticles();
+      } else {
+        showToast('取得中にエラーが発生しました');
       }
+    } catch (err) {
+      console.error(err);
+      showToast('通信エラーが発生しました');
+    } finally {
+      collectBtn.disabled = false;
+      refreshIcon.classList.remove('animate-spin-fast');
     }
+  });
 
-    // 日付リスト
-    availableDates = data.dates || [];
-    renderDateList();
+  // 設定モーダル
+  settingsBtn.addEventListener('click', () => {
+    settingsModal.classList.remove('hidden');
+  });
 
-    // 最新日付を選択
-    if (availableDates.length > 0) {
-      currentDate = availableDates[0].article_date;
-      if (datePickerInput) datePickerInput.value = currentDate;
-      await loadArticles();
+  closeSettingsBtn.addEventListener('click', () => {
+    settingsModal.classList.add('hidden');
+  });
+
+  cancelSettingsBtn.addEventListener('click', () => {
+    settingsModal.classList.add('hidden');
+  });
+
+  saveSettingsBtn.addEventListener('click', async () => {
+    const key = geminiKeyInput.value.trim();
+    try {
+      const res = await fetch('/api/settings', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ gemini_api_key: key })
+      });
+      const data = await res.json();
+      showToast(data.message || '設定を保存しました');
+      settingsModal.classList.add('hidden');
+      await loadSettings();
+    } catch (err) {
+      console.error(err);
+      showToast('設定の保存に失敗しました');
     }
-  } catch (err) {
-    console.error('初期データ読み込みエラー:', err);
-    articlesContainerEl.innerHTML = `
-      <div class="p-8 text-center text-rose-500 text-sm bg-rose-50 rounded-2xl border border-rose-200">
-        データの読み込みに失敗しました。ページを再読み込みしてください。
-      </div>
-    `;
-  }
-}
-
-// 日付サイドバーの描画
-function renderDateList() {
-  dateListEl.innerHTML = '';
-  if (availableDates.length === 0) {
-    dateListEl.innerHTML = '<div class="p-3 text-center text-xs text-slate-400">記事がまだありません。</div>';
-    return;
-  }
-
-  availableDates.forEach((item, index) => {
-    const btn = document.createElement('button');
-    const isActive = item.article_date === currentDate || (!currentDate && index === 0);
-    btn.className = `date-item w-full flex items-center justify-between px-3 py-2 text-xs rounded-xl border border-transparent hover:bg-slate-100 transition-all text-left ${isActive ? 'active' : 'text-slate-700'}`;
-    
-    const formattedDate = formatDisplayDate(item.article_date);
-    const isToday = isTodayDate(item.article_date);
-    
-    btn.innerHTML = `
-      <div class="flex items-center gap-1.5">
-        <span class="font-medium">${formattedDate}</span>
-        ${isToday ? '<span class="text-[10px] px-1.5 py-0.2 bg-orange-200 text-orange-800 rounded font-bold">今日</span>' : ''}
-      </div>
-      <span class="text-[11px] px-2 py-0.5 rounded-full bg-slate-200/70 text-slate-600 font-semibold">${item.count}件</span>
-    `;
-
-    btn.addEventListener('click', () => {
-      selectDate(item.article_date);
-    });
-
-    dateListEl.appendChild(btn);
   });
 }
 
-// 日付選択
+// 統計情報読み込み
+async function loadStats() {
+  try {
+    const res = await fetch('/api/stats');
+    const data = await res.json();
+    statArticlesEl.textContent = `蓄積記事: ${data.total_articles.toLocaleString()} 件`;
+    statDaysEl.textContent = `アーカイブ: ${data.total_days} 日分`;
+    if (data.last_updated) {
+      const d = new Date(data.last_updated);
+      statUpdatedEl.textContent = `最終更新: ${d.toLocaleDateString('ja-JP')} ${d.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' })}`;
+    }
+  } catch (err) {
+    console.error('統計読み込みエラー:', err);
+  }
+}
+
+// 日付一覧読み込み
+async function loadDates() {
+  try {
+    const res = await fetch('/api/dates');
+    const data = await res.json();
+    availableDates = data.dates || [];
+
+    dateListEl.innerHTML = '';
+    if (availableDates.length === 0) {
+      dateListEl.innerHTML = '<div class="p-3 text-center text-xs text-slate-400">記事がまだありません。<br>上の「最新ニュース取得」を押してください。</div>';
+      return;
+    }
+
+    availableDates.forEach((item, index) => {
+      const btn = document.createElement('button');
+      btn.className = `date-item w-full flex items-center justify-between px-3 py-2 text-xs rounded-xl border border-transparent hover:bg-slate-100 transition-all text-left ${item.article_date === currentDate || (!currentDate && index === 0) ? 'active' : 'text-slate-700'}`;
+      
+      const formattedDate = formatDisplayDate(item.article_date);
+      const isToday = isTodayDate(item.article_date);
+      
+      btn.innerHTML = `
+        <div class="flex items-center gap-1.5">
+          <span class="font-medium">${formattedDate}</span>
+          ${isToday ? '<span class="text-[10px] px-1.5 py-0.2 bg-orange-200 text-orange-800 rounded font-bold">今日</span>' : ''}
+        </div>
+        <span class="text-[11px] px-2 py-0.5 rounded-full bg-slate-200/70 text-slate-600 font-semibold">${item.count}件</span>
+      `;
+
+      btn.addEventListener('click', () => {
+        selectDate(item.article_date);
+      });
+
+      dateListEl.appendChild(btn);
+    });
+
+    // 初期選択日付の設定
+    if (!currentDate && availableDates.length > 0) {
+      currentDate = availableDates[0].article_date;
+      datePickerInput.value = currentDate;
+      await loadArticles();
+    }
+  } catch (err) {
+    console.error('日付取得エラー:', err);
+  }
+}
+
+// 日付の選択
 function selectDate(dateStr) {
   currentDate = dateStr;
-  if (datePickerInput) datePickerInput.value = dateStr;
+  datePickerInput.value = dateStr;
 
   // 日付リストのアクティブ表示更新
   document.querySelectorAll('.date-item').forEach(el => {
@@ -171,7 +226,7 @@ function selectDate(dateStr) {
   loadArticles();
 }
 
-// 記事取得とフィルタリング
+// 記事一覧の読み込み
 async function loadArticles() {
   articlesContainerEl.innerHTML = `
     <div class="p-12 text-center text-slate-400 text-xs bg-white rounded-2xl border border-slate-200 flex flex-col items-center justify-center gap-2">
@@ -181,51 +236,23 @@ async function loadArticles() {
   `;
 
   try {
-    let articles = [];
-
-    // 検索クエリがある場合で、全期間検索したい場合
-    if (searchQuery && !currentDate) {
-      if (!allArticlesSearchCache) {
-        const sRes = await fetch('data/search_index.json?v=' + Date.now());
-        allArticlesSearchCache = await sRes.json();
-      }
-      articles = allArticlesSearchCache;
-    } else if (currentDate) {
-      // 特定日のJSONをキャッシュまたはfetch
-      if (!dateArticlesCache[currentDate]) {
-        const res = await fetch(`data/dates/${currentDate}.json?v=` + Date.now());
-        if (res.ok) {
-          dateArticlesCache[currentDate] = await res.json();
-        } else {
-          dateArticlesCache[currentDate] = [];
-        }
-      }
-      articles = dateArticlesCache[currentDate] || [];
-    }
-
-    // フィルタリング処理
-    let filtered = articles;
-
-    // カテゴリフィルター
+    let url = `/api/articles?date=${encodeURIComponent(currentDate || '')}`;
     if (currentCategory && currentCategory !== 'all') {
-      filtered = filtered.filter(a => a.category === currentCategory);
+      url += `&category=${encodeURIComponent(currentCategory)}`;
+    }
+    if (searchQuery) {
+      url += `&q=${encodeURIComponent(searchQuery)}`;
     }
 
-    // 検索キーワードフィルター
-    if (searchQuery) {
-      const q = searchQuery.toLowerCase();
-      filtered = filtered.filter(a => 
-        (a.title && a.title.toLowerCase().includes(q)) || 
-        (a.summary && a.summary.toLowerCase().includes(q)) ||
-        (a.source && a.source.toLowerCase().includes(q))
-      );
-    }
+    const res = await fetch(url);
+    const data = await res.json();
+    const articles = data.articles || [];
 
     // ヘッダー情報更新
-    currentDisplayDateEl.textContent = currentDate ? `${formatDisplayDate(currentDate)} のニュース` : '全期間検索結果';
-    currentCountBadgeEl.textContent = `${filtered.length} 件`;
+    currentDisplayDateEl.textContent = currentDate ? `${formatDisplayDate(currentDate)} のニュース` : 'ニュース一覧';
+    currentCountBadgeEl.textContent = `${articles.length} 件`;
 
-    if (filtered.length === 0) {
+    if (articles.length === 0) {
       articlesContainerEl.innerHTML = `
         <div class="p-12 text-center text-slate-500 text-sm bg-white rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
           <i data-lucide="inbox" class="w-8 h-8 text-slate-300 mx-auto"></i>
@@ -237,8 +264,8 @@ async function loadArticles() {
       return;
     }
 
-    // 描画
-    articlesContainerEl.innerHTML = filtered.map(renderArticleCard).join('');
+    // 記事カードのレンダリング
+    articlesContainerEl.innerHTML = articles.map(renderArticleCard).join('');
     if (window.lucide) lucide.createIcons();
 
   } catch (err) {
@@ -255,6 +282,7 @@ async function loadArticles() {
 function renderArticleCard(a) {
   const catClass = categoryBadgeClasses[a.category] || categoryBadgeClasses['地域・一般'];
   
+  // 要約テキストの箇条書き整形
   const rawSummary = a.summary || '';
   const summaryPoints = rawSummary
     .split('\n')
@@ -336,6 +364,39 @@ function renderArticleCard(a) {
   `;
 }
 
+// 設定状態読み込み
+async function loadSettings() {
+  try {
+    const res = await fetch('/api/settings');
+    const data = await res.json();
+    if (data.has_gemini_key) {
+      apiKeyStatusEl.innerHTML = `
+        <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
+        <span class="text-emerald-700 font-medium">登録済み (末尾: ${data.key_hint}) - 高精度AI要約モード有効</span>
+      `;
+    } else {
+      apiKeyStatusEl.innerHTML = `
+        <span class="w-2 h-2 rounded-full bg-slate-400"></span>
+        <span>未登録（標準自動要約モードで稼働中・完全無料）</span>
+      `;
+    }
+  } catch (err) {
+    console.error('設定取得エラー:', err);
+  }
+}
+
+// トースト通知表示
+function showToast(msg) {
+  toastMsgEl.textContent = msg;
+  toastEl.classList.remove('translate-y-20', 'opacity-0');
+  toastEl.classList.add('translate-y-0', 'opacity-100');
+  setTimeout(() => {
+    toastEl.classList.remove('translate-y-0', 'opacity-100');
+    toastEl.classList.add('translate-y-20', 'opacity-0');
+  }, 3500);
+}
+
+// 日付フォーマット関数 (YYYY-MM-DD -> YYYY年M月D日)
 function formatDisplayDate(dateStr) {
   if (!dateStr) return '';
   const parts = dateStr.split('-');
@@ -353,6 +414,7 @@ function isTodayDate(dateStr) {
   return dateStr === `${y}-${m}-${d}`;
 }
 
+// HTMLエスケープ
 function escapeHtml(str) {
   if (!str) return '';
   return String(str)
