@@ -18,15 +18,16 @@ body {
   font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-/* ブランドタイトル（ロゴ）: 洗練されたモダン和文「しっぽり明朝」 */
+/* ブランドタイトル（ロゴ）: 洗練されたモダン角ゴシック「Zen Kaku Gothic New」 */
 .brand-title {
-  font-family: 'Shippori Mincho', 'Noto Serif JP', serif;
-  letter-spacing: 0.03em;
-  font-weight: 700;
+  font-family: 'Zen Kaku Gothic New', 'BIZ UDPGothic', sans-serif;
+  letter-spacing: -0.01em;
+  font-weight: 800;
 }
 
 .brand-logo-icon {
-  font-family: 'Shippori Mincho', serif;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
+  font-weight: 800;
 }
 
 /* セクション見出し & 日付ヘッダー: 洗練されたモダンゴシック「Zen Kaku Gothic New」 */
