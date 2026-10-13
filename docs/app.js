@@ -285,21 +285,21 @@ function renderArticleCard(a) {
             ${escapeHtml(a.source || '配信元')}
           </span>
         </div>
-        <span class="text-slate-400 text-[11px] flex items-center gap-1">
-          <i data-lucide="clock" class="w-3 h-3"></i>
+        <span class="text-slate-400 text-[11px] font-en flex items-center gap-1 font-medium">
+          <i data-lucide="clock" class="w-3 h-3 text-slate-400"></i>
           ${escapeHtml(a.published_at || '')}
         </span>
       </div>
 
       <!-- 記事タイトル -->
-      <h3 class="text-base sm:text-lg font-bold text-slate-900 leading-snug">
+      <h3 class="text-base sm:text-lg font-bold leading-snug cursor-pointer hover:underline decoration-orange-400 underline-offset-4">
         ${escapeHtml(a.title)}
       </h3>
 
       <!-- 30秒要約ボックス -->
-      <div class="summary-box p-3.5 rounded-xl space-y-2">
+      <div class="summary-box p-4 rounded-xl space-y-2">
         <div class="flex items-center justify-between">
-          <span class="text-xs font-bold text-orange-950 flex items-center gap-1.5">
+          <span class="text-xs font-bold text-orange-950 flex items-center gap-1.5 tracking-tight">
             <i data-lucide="zap" class="w-3.5 h-3.5 text-orange-600 fill-orange-500"></i>
             さっと読める要約ポイント
           </span>
@@ -308,10 +308,10 @@ function renderArticleCard(a) {
               ✨ AI要約
             </span>
           ` : `
-            <span class="text-[10px] text-slate-400">自動抽出</span>
+            <span class="text-[10px] text-slate-400 font-en">SUMMARY</span>
           `}
         </div>
-        <ul class="space-y-1.5 pl-1">
+        <ul class="space-y-2 pl-1">
           ${summaryHtml}
         </ul>
       </div>
@@ -319,16 +319,16 @@ function renderArticleCard(a) {
       <!-- 下部アクション: 元記事リンク -->
       <div class="flex items-center justify-between pt-1">
         <div class="text-[11px] text-slate-400">
-          詳細や写真・続報は元記事で確認できます
+          公式メディアで全文・写真を確認
         </div>
         <a 
           href="${escapeHtml(a.url)}" 
           target="_blank" 
           rel="noopener noreferrer" 
-          class="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-semibold bg-slate-900 hover:bg-orange-600 text-white transition-all shadow-sm"
+          class="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-semibold bg-slate-900 hover:bg-orange-600 active:scale-95 text-white transition-all shadow-sm hover:shadow"
         >
           <span>元記事を読む</span>
-          <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+          <i data-lucide="arrow-up-right" class="w-3.5 h-3.5"></i>
         </a>
       </div>
 

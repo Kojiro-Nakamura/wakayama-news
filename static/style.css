@@ -1,38 +1,91 @@
-/* UDフォント (Universal Design Font) スタイル設定 */
+/* ========================================================
+   和歌山デイリーニュース (Wakayama Daily News) スタイル
+   モダン ＆ UDフォント ハイブリッド・タイポグラフィ
+   ======================================================== */
+
+/* 基本設定: 本文は圧倒的な読みやすさのUDフォント */
 body {
   font-family: 'BIZ UDPGothic', 'BIZ UDPゴシック', 'Hiragino Kaku Gothic ProN', 'Meiryo', sans-serif;
-  letter-spacing: 0.025em;
+  letter-spacing: 0.02em;
   line-height: 1.75;
   color: #1e293b;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* タイトル・見出しもUDゴシックで統一 */
-h1, h2, h3, h4, .font-serif {
-  font-family: 'BIZ UDPGothic', 'BIZ UDPゴシック', sans-serif !important;
-  letter-spacing: 0.015em;
+/* 欧文・数字フォントクラス */
+.font-en {
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* ブランドタイトル（ロゴ）: 洗練されたモダン和文「しっぽり明朝」 */
+.brand-title {
+  font-family: 'Shippori Mincho', 'Noto Serif JP', serif;
+  letter-spacing: 0.03em;
   font-weight: 700;
 }
 
-/* 記事カードのタイトル */
-article h3 {
-  line-height: 1.5;
-  font-size: 1.125rem;
-  letter-spacing: 0.01em;
+.brand-logo-icon {
+  font-family: 'Shippori Mincho', serif;
 }
 
-/* 記事要約ボックス */
+/* セクション見出し & 日付ヘッダー: 洗練されたモダンゴシック「Zen Kaku Gothic New」 */
+h2, .section-title, #currentDisplayDate {
+  font-family: 'Zen Kaku Gothic New', 'BIZ UDPGothic', sans-serif;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+}
+
+/* 記事カードの見出し（タイトル）: モダンで引き締まったZen角ゴシック */
+article h3 {
+  font-family: 'Zen Kaku Gothic New', 'BIZ UDPGothic', sans-serif;
+  font-weight: 700;
+  line-height: 1.55;
+  font-size: 1.15rem;
+  letter-spacing: 0.005em;
+  color: #0f172a;
+  transition: color 0.15s ease-in-out;
+}
+
+article:hover h3 {
+  color: #ea580c; /* オレンジの微細なホバーアクセント */
+}
+
+/* 記事カードのモダンなホバー浮き上がり効果 */
+article {
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s ease;
+}
+
+article:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.06), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+}
+
+/* 30秒要約ボックス: UDフォントで抜群に読みやすく */
 .summary-box {
-  background: #f8fafc;
-  border-left: 4px solid #f97316;
-  border-radius: 0.75rem;
+  background: linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%);
+  border-left: 3.5px solid #f97316;
+  border-radius: 0.875rem;
+  box-shadow: inset 0 1px 2px 0 rgba(0, 0, 0, 0.02);
 }
 
 .summary-box li {
+  font-family: 'BIZ UDPGothic', sans-serif;
   line-height: 1.7;
-  font-size: 0.875rem;
+  font-size: 0.885rem;
   color: #334155;
+  letter-spacing: 0.015em;
+}
+
+/* 日付・数字・カウントバッジのモダン欧文適用 */
+.date-item span,
+#currentCountBadge,
+#statArticles,
+#statDays,
+#statUpdated,
+time,
+.time-badge {
+  font-variant-numeric: tabular-nums;
 }
 
 /* スクロールバー装飾 */
@@ -65,4 +118,13 @@ article h3 {
   color: #c2410c;
   font-weight: 700;
   border-color: #fdba74;
+}
+
+/* アニメーション */
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.animate-spin-fast {
+  animation: spin 0.8s linear infinite;
 }
