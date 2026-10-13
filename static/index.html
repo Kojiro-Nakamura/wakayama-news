@@ -4,6 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>和歌山デイリーニュース | Wakayama Daily News</title>
+  <!-- ファビコン & アイコン -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="icon" type="image/png" sizes="64x64" href="favicon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <meta name="theme-color" content="#ea580c">
+
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- Lucide Icons -->
@@ -11,35 +17,38 @@
   <link rel="stylesheet" href="style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&family=Outfit:wght@400;500;600;700&family=Shippori+Mincho:wght@600;700;800&family=Zen+Kaku+Gothic+New:wght@500;700;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&family=Outfit:wght@400;500;600;700;800&family=Shippori+Mincho:wght@600;700;800&family=Zen+Kaku+Gothic+New:wght@500;700;900&display=swap" rel="stylesheet">
 </head>
 <body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col font-sans antialiased">
 
   <!-- ヘッダー -->
   <header class="bg-white/95 border-b border-slate-200/80 sticky top-0 z-30 shadow-sm backdrop-blur-md">
-    <div class="max-w-6xl mx-auto px-4 py-3.5 flex flex-wrap items-center justify-between gap-3">
+    <div class="max-w-6xl mx-auto px-4 py-3 sm:py-3.5 flex flex-wrap items-center justify-between gap-3">
       <!-- ロゴ -->
-      <div class="flex items-center gap-3.5">
-        <div class="w-10 h-10 rounded-2xl bg-gradient-to-tr from-orange-600 via-amber-500 to-amber-400 flex items-center justify-center text-white shadow-md shadow-orange-500/25 font-bold text-xl tracking-tighter brand-logo-icon">
-          和
+      <a href="./" class="flex items-center gap-3 group transition-transform active:scale-98 text-inherit no-underline">
+        <!-- みかん若葉付きプレミアムロゴアイコン -->
+        <div class="relative shrink-0">
+          <img src="favicon.svg" alt="和歌山デイリーニュース" class="w-10 h-10 sm:w-11 sm:h-11 drop-shadow-sm transition-transform group-hover:scale-105 duration-200">
         </div>
         <div>
           <div class="flex items-center gap-2">
-            <h1 class="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 brand-title">
-              和歌山デイリーニュース
+            <h1 class="text-xl sm:text-2xl font-bold tracking-tight brand-title flex items-center">
+              <span class="bg-gradient-to-r from-slate-900 via-slate-800 to-amber-950 bg-clip-text text-transparent">和歌山</span>
+              <span class="text-slate-300 font-light mx-1">/</span>
+              <span class="bg-gradient-to-r from-orange-600 to-amber-600 bg-clip-text text-transparent font-extrabold tracking-normal">デイリーニュース</span>
             </h1>
-            <span class="text-[11px] font-medium font-en px-2 py-0.5 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200/80 flex items-center gap-1 shadow-2xs">
+            <span class="hidden sm:inline-flex text-[10px] font-semibold font-en px-2 py-0.5 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200/80 items-center gap-1 shadow-2xs">
               <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
               LIVE
             </span>
           </div>
-          <div class="flex items-center gap-2 text-slate-400 text-[11px] leading-tight mt-0.5">
-            <span class="font-en tracking-wider font-semibold text-orange-600 uppercase">Wakayama Daily News</span>
-            <span class="text-slate-300">|</span>
-            <span class="text-slate-500">和歌山の重要ニュースを30秒で読める要約まとめ</span>
+          <div class="flex items-center gap-2 text-[10px] sm:text-[11px] leading-tight mt-0.5">
+            <span class="font-en tracking-[0.2em] font-bold text-orange-600/90 uppercase text-[10px]">THE WAKAYAMA DAILY</span>
+            <span class="text-slate-300 font-light">•</span>
+            <span class="text-slate-500 font-medium">30秒で読める県内ニュース要約</span>
           </div>
         </div>
-      </div>
+      </a>
 
       <!-- 右側バッジ -->
       <div class="flex items-center gap-2 text-xs">
