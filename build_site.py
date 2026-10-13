@@ -242,15 +242,6 @@ def build_static_site():
     print("=== 和歌山デイリーニュース 静的サイト＆データ構築開始 ===")
     os.makedirs(DATES_DIR, exist_ok=True)
     
-    # 静的ファイルのコピー（static -> docs）
-    static_dir = os.path.join(BASE_DIR, "static")
-    if os.path.exists(static_dir):
-        for item in ["index.html", "style.css", "app.js"]:
-            src = os.path.join(static_dir, item)
-            dst = os.path.join(DOCS_DIR, item)
-            if os.path.exists(src):
-                shutil.copy2(src, dst)
-                
     gemini_key = os.environ.get("GEMINI_API_KEY", "")
     
     # 既存のJSONアーカイブを読み込み
