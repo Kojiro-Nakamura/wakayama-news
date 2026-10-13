@@ -102,7 +102,8 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
         
         meta_desc = soup.find('meta', attrs={'name': 'description'}) or soup.find('meta', attrs={'property': 'og:description'})
         desc = meta_desc['content'].strip() if meta_desc and meta_desc.get('content') else ''
-        if is_garbled_text(desc):
+        # 末尾が … や ... で途切れている不完全なディスクリプションは破棄して本文を優先
+        if desc.endswith('…') or desc.endswith('...') or len(desc) < 30 or is_garbled_text(desc):
             desc = ''
         
         for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'noscript']):
@@ -189,6 +190,9 @@ def create_auto_summary(title: str, desc: str, body: str) -> str:
 
     unique_sentences: List[str] = []
     for s in raw_sentences:
+        # 末尾が … や ... で切れている不完全な文はスキップ
+        if s.endswith('…') or s.endswith('...') or s.endswith('..'):
+            continue
         s_norm = clean_for_dedup(s)
         if len(s_norm) < 10:
             continue
@@ -204,10 +208,16 @@ def create_auto_summary(title: str, desc: str, body: str) -> str:
         if len(unique_sentences) >= 3:
             break
 
+    def finish_sentence(text: str) -> str:
+        t = text.strip()
+        if not t.endswith(('。', '！', '!', '？', '?')):
+            return t + '。'
+        return t
+
     if len(unique_sentences) >= 2:
-        return "\n".join(f"・{s}。" for s in unique_sentences[:3])
+        return "\n".join(f"・{finish_sentence(s)}" for s in unique_sentences[:3])
     elif len(unique_sentences) == 1:
-        return f"・{unique_sentences[0]}。"
+        return f"・{finish_sentence(unique_sentences[0])}"
     else:
         return f"・{title}"
 
