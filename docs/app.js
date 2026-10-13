@@ -17,8 +17,21 @@ const statArticlesEl = document.getElementById('statArticles');
 const statDaysEl = document.getElementById('statDays');
 const statUpdatedEl = document.getElementById('statUpdated');
 const searchInput = document.getElementById('searchInput');
-const searchClearBtn = document.getElementById('searchClearBtn');
 const categoryFilterEl = document.getElementById('categoryFilter');
+
+// 日付ナビゲーション ＆ モバイルアコーディオン要素
+const dateArchiveToggleBtn = document.getElementById('dateArchiveToggleBtn');
+const dateArchiveContent = document.getElementById('dateArchiveContent');
+const dateArchiveToggleLabel = document.getElementById('dateArchiveToggleLabel');
+const dateArchiveChevron = document.getElementById('dateArchiveChevron');
+const prevDateBtn = document.getElementById('prevDateBtn');
+const nextDateBtn = document.getElementById('nextDateBtn');
+const bottomPrevDateBtn = document.getElementById('bottomPrevDateBtn');
+const bottomNextDateBtn = document.getElementById('bottomNextDateBtn');
+const bottomPrevDateLabel = document.getElementById('bottomPrevDateLabel');
+const bottomNextDateLabel = document.getElementById('bottomNextDateLabel');
+const dateNavControls = document.getElementById('dateNavControls');
+const bottomDateNav = document.getElementById('bottomDateNav');
 
 // カテゴリ色マッピング
 const categoryBadgeClasses = {
@@ -83,6 +96,25 @@ function setupEventListeners() {
 
       currentCategory = btn.dataset.category;
       loadArticles();
+    });
+  }
+
+  // モバイル用: 日付アーカイブアコーディオンの開閉トグル
+  if (dateArchiveToggleBtn && dateArchiveContent) {
+    dateArchiveToggleBtn.addEventListener('click', () => {
+      // スマホ幅（md未満）のときのみトグル
+      if (window.innerWidth < 768) {
+        const isHidden = dateArchiveContent.classList.contains('hidden');
+        if (isHidden) {
+          dateArchiveContent.classList.remove('hidden');
+          if (dateArchiveToggleLabel) dateArchiveToggleLabel.textContent = '閉じる';
+          if (dateArchiveChevron) dateArchiveChevron.classList.add('rotate-180');
+        } else {
+          dateArchiveContent.classList.add('hidden');
+          if (dateArchiveToggleLabel) dateArchiveToggleLabel.textContent = '開く';
+          if (dateArchiveChevron) dateArchiveChevron.classList.remove('rotate-180');
+        }
+      }
     });
   }
 }
@@ -161,6 +193,13 @@ function selectDate(dateStr) {
   currentDate = dateStr;
   if (datePickerInput) datePickerInput.value = dateStr;
 
+  // モバイル表示時は、日付を選択したら自動的にアコーディオンを閉じる
+  if (window.innerWidth < 768 && dateArchiveContent && !dateArchiveContent.classList.contains('hidden')) {
+    dateArchiveContent.classList.add('hidden');
+    if (dateArchiveToggleLabel) dateArchiveToggleLabel.textContent = '開く';
+    if (dateArchiveChevron) dateArchiveChevron.classList.remove('rotate-180');
+  }
+
   // 日付リストのアクティブ表示更新
   document.querySelectorAll('.date-item').forEach(el => {
     el.classList.remove('active');
@@ -225,6 +264,9 @@ async function loadArticles() {
     currentDisplayDateEl.textContent = currentDate ? `${formatDisplayDate(currentDate)} のニュース` : '全期間検索結果';
     currentCountBadgeEl.textContent = `${filtered.length} 件`;
 
+    // 前日・翌日ナビゲーションの更新
+    updateDateNav();
+
     if (filtered.length === 0) {
       articlesContainerEl.innerHTML = `
         <div class="p-12 text-center text-slate-500 text-sm bg-white rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
@@ -249,6 +291,68 @@ async function loadArticles() {
       </div>
     `;
   }
+}
+
+// 前日・翌日ナビゲーションボタンの更新
+function updateDateNav() {
+  if (!availableDates || availableDates.length === 0 || !currentDate) {
+    if (dateNavControls) dateNavControls.classList.add('hidden');
+    if (bottomDateNav) bottomDateNav.classList.add('hidden');
+    return;
+  }
+
+  if (dateNavControls) dateNavControls.classList.remove('hidden');
+  if (bottomDateNav) bottomDateNav.classList.remove('hidden');
+
+  const dateStrings = availableDates.map(d => d.article_date);
+  const currIdx = dateStrings.indexOf(currentDate);
+
+  // availableDatesは降順（新しい順）なので：
+  // 前日（1つ古い日付）は currIdx + 1
+  // 翌日（1つ新しい日付）は currIdx - 1
+  const prevDate = currIdx !== -1 && currIdx < dateStrings.length - 1 ? dateStrings[currIdx + 1] : null;
+  const nextDate = currIdx > 0 ? dateStrings[currIdx - 1] : null;
+
+  // 前日ボタン
+  [prevDateBtn, bottomPrevDateBtn].forEach(btn => {
+    if (!btn) return;
+    if (prevDate) {
+      btn.disabled = false;
+      btn.onclick = () => selectDate(prevDate);
+    } else {
+      btn.disabled = true;
+      btn.onclick = null;
+    }
+  });
+
+  if (bottomPrevDateLabel) {
+    bottomPrevDateLabel.textContent = prevDate ? `前日 (${formatShortDate(prevDate)})` : '前日なし';
+  }
+
+  // 翌日ボタン
+  [nextDateBtn, bottomNextDateBtn].forEach(btn => {
+    if (!btn) return;
+    if (nextDate) {
+      btn.disabled = false;
+      btn.onclick = () => selectDate(nextDate);
+    } else {
+      btn.disabled = true;
+      btn.onclick = null;
+    }
+  });
+
+  if (bottomNextDateLabel) {
+    bottomNextDateLabel.textContent = nextDate ? `翌日 (${formatShortDate(nextDate)})` : '翌日なし';
+  }
+}
+
+function formatShortDate(dateStr) {
+  if (!dateStr) return '';
+  const parts = dateStr.split('-');
+  if (parts.length === 3) {
+    return `${parseInt(parts[1], 10)}/${parseInt(parts[2], 10)}`;
+  }
+  return dateStr;
 }
 
 // 記事カード1枚のHTML生成

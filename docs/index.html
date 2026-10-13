@@ -81,30 +81,49 @@
   <main class="max-w-6xl mx-auto px-4 py-6 flex-1 w-full flex flex-col md:flex-row gap-6">
 
     <!-- 左サイドバー: 日付アーカイブナビゲーション -->
-    <aside class="w-full md:w-64 shrink-0 space-y-5">
-      <div class="bg-white p-4 rounded-2xl border border-slate-200/80 shadow-sm">
-        <div class="flex items-center justify-between mb-3">
-          <h2 class="text-xs font-bold text-slate-500 uppercase tracking-wider flex items-center gap-1.5">
-            <i data-lucide="calendar" class="w-3.5 h-3.5 text-orange-600"></i>
-            日付からさかのぼる
-          </h2>
-          <span class="text-[10px] text-slate-400">日別アーカイブ</span>
-        </div>
+    <aside class="w-full md:w-64 shrink-0 space-y-4">
+      <div class="bg-white p-3.5 sm:p-4 rounded-2xl border border-slate-200/80 shadow-sm">
+        <!-- モバイル対応: 日付アーカイブ開閉トグルヘッダー -->
+        <button 
+          type="button" 
+          id="dateArchiveToggleBtn" 
+          class="w-full flex items-center justify-between text-left md:cursor-default group"
+        >
+          <div class="flex items-center gap-2">
+            <div class="w-7 h-7 rounded-lg bg-orange-50 text-orange-600 flex items-center justify-center shrink-0">
+              <i data-lucide="calendar" class="w-4 h-4"></i>
+            </div>
+            <div>
+              <h2 class="text-xs font-bold text-slate-800 tracking-wide flex items-center gap-1.5">
+                日付からさかのぼる
+              </h2>
+              <p class="text-[10px] text-slate-400 md:hidden">タップして過去アーカイブを開く</p>
+            </div>
+          </div>
+          <!-- モバイルでのみ表示する開閉バッジ -->
+          <span class="md:hidden flex items-center gap-1 text-[11px] font-semibold text-orange-800 bg-orange-50 group-hover:bg-orange-100 border border-orange-200/60 px-2 py-1 rounded-lg transition-colors">
+            <span id="dateArchiveToggleLabel">開く</span>
+            <i data-lucide="chevron-down" id="dateArchiveChevron" class="w-3.5 h-3.5 transition-transform duration-200"></i>
+          </span>
+        </button>
 
-        <!-- 日付ピッカー入力（任意の日付指定） -->
-        <div class="mb-3">
-          <label class="block text-[11px] font-medium text-slate-600 mb-1">特定の日付を指定</label>
-          <input type="date" id="datePickerInput" class="w-full px-2.5 py-1.5 text-xs bg-slate-50 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500/20 focus:border-orange-500">
-        </div>
+        <!-- アーカイブコンテンツ（スマホでは初期非表示 hidden、PCでは常時表示 md:block） -->
+        <div id="dateArchiveContent" class="hidden md:block mt-3 pt-3 border-t border-slate-100 space-y-3">
+          <!-- 日付ピッカー入力（任意の日付指定） -->
+          <div>
+            <label class="block text-[11px] font-medium text-slate-600 mb-1">特定の日付を指定</label>
+            <input type="date" id="datePickerInput" class="w-full px-2.5 py-1.5 text-xs bg-slate-50 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500/20 focus:border-orange-500">
+          </div>
 
-        <!-- 日付リスト（直近の登録済み日付） -->
-        <div class="space-y-1 max-h-80 overflow-y-auto pr-1" id="dateList">
-          <div class="p-3 text-center text-xs text-slate-400">日付一覧を読み込み中...</div>
+          <!-- 日付リスト（直近の登録済み日付） -->
+          <div class="space-y-1 max-h-72 overflow-y-auto pr-1" id="dateList">
+            <div class="p-3 text-center text-xs text-slate-400">日付一覧を読み込み中...</div>
+          </div>
         </div>
       </div>
 
-      <!-- 和歌山地域メモ -->
-      <div class="bg-gradient-to-br from-amber-50 to-orange-50 p-4 rounded-2xl border border-orange-200/60 text-xs text-amber-900/80 leading-relaxed space-y-2">
+      <!-- 和歌山地域メモ（PCで表示） -->
+      <div class="hidden md:block bg-gradient-to-br from-amber-50 to-orange-50 p-4 rounded-2xl border border-orange-200/60 text-xs text-amber-900/80 leading-relaxed space-y-2">
         <div class="font-bold flex items-center gap-1.5 text-orange-800">
           <i data-lucide="sparkles" class="w-3.5 h-3.5"></i>
           完全無料で利用中
@@ -158,15 +177,37 @@
         </div>
       </div>
 
-      <!-- 現在表示中の日付ヘッダー -->
-      <div class="flex items-center justify-between px-1">
+      <!-- 現在表示中の日付ヘッダー ＆ 前日・翌日クイックナビ -->
+      <div class="flex flex-wrap items-center justify-between gap-2 px-1">
         <div class="flex items-baseline gap-2">
-          <h2 id="currentDisplayDate" class="text-lg font-bold text-slate-900 font-serif">
+          <h2 id="currentDisplayDate" class="text-base sm:text-lg font-bold text-slate-900 font-serif">
             ----年--月--日のニュース
           </h2>
           <span id="currentCountBadge" class="text-xs font-semibold px-2 py-0.5 bg-orange-100 text-orange-700 rounded-full">
             0 件
           </span>
+        </div>
+
+        <!-- 前日・翌日ナビゲーションボタン -->
+        <div class="flex items-center gap-1.5" id="dateNavControls">
+          <button 
+            type="button" 
+            id="prevDateBtn" 
+            class="flex items-center gap-1 px-3 py-1.5 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 active:scale-95 text-xs font-bold text-slate-700 shadow-sm transition-all disabled:opacity-30 disabled:pointer-events-none group"
+            title="前の日のニュースへ"
+          >
+            <i data-lucide="chevron-left" class="w-4 h-4 text-slate-400 group-hover:text-orange-600 transition-colors"></i>
+            <span>前日</span>
+          </button>
+          <button 
+            type="button" 
+            id="nextDateBtn" 
+            class="flex items-center gap-1 px-3 py-1.5 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 active:scale-95 text-xs font-bold text-slate-700 shadow-sm transition-all disabled:opacity-30 disabled:pointer-events-none group"
+            title="次の日のニュースへ"
+          >
+            <span>翌日</span>
+            <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400 group-hover:text-orange-600 transition-colors"></i>
+          </button>
         </div>
       </div>
 
@@ -175,6 +216,26 @@
         <div class="p-12 text-center text-slate-400 text-sm bg-white rounded-2xl border border-slate-200">
           記事を読み込んでいます...
         </div>
+      </div>
+
+      <!-- 最下部の前日・翌日ページネーションバー -->
+      <div id="bottomDateNav" class="pt-2 flex items-center justify-between border-t border-slate-200/80">
+        <button 
+          type="button" 
+          id="bottomPrevDateBtn" 
+          class="flex items-center gap-1.5 px-3.5 py-2 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 active:scale-95 text-xs font-bold text-slate-700 shadow-sm transition-all disabled:opacity-30 disabled:pointer-events-none group"
+        >
+          <i data-lucide="arrow-left" class="w-3.5 h-3.5 text-slate-400 group-hover:text-orange-600"></i>
+          <span id="bottomPrevDateLabel">前日のニュース</span>
+        </button>
+        <button 
+          type="button" 
+          id="bottomNextDateBtn" 
+          class="flex items-center gap-1.5 px-3.5 py-2 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 active:scale-95 text-xs font-bold text-slate-700 shadow-sm transition-all disabled:opacity-30 disabled:pointer-events-none group"
+        >
+          <span id="bottomNextDateLabel">翌日のニュース</span>
+          <i data-lucide="arrow-right" class="w-3.5 h-3.5 text-slate-400 group-hover:text-orange-600"></i>
+        </button>
       </div>
 
     </section>
