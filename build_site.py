@@ -72,6 +72,16 @@ def decode_google_news_url(google_rss_url: str) -> str:
     except Exception:
         return google_rss_url
 
+def is_garbled_text(text: str) -> bool:
+    """UTF-8バイト列がISO-8859-1等で誤読されたような文字化け（æ, ã, é等の連続、日本語の欠如）を検知"""
+    if not text:
+        return False
+    jp_chars = len(re.findall(r'[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9fa5]', text))
+    mojibake_chars = len(re.findall(r'[æøåãðþïéèàù§©®]', text))
+    if mojibake_chars >= 2 and jp_chars < 5:
+        return True
+    return False
+
 def fetch_article_content(url: str) -> Tuple[str, str]:
     headers = {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
@@ -79,22 +89,47 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
     try:
         resp = requests.get(url, headers=headers, timeout=6)
         resp.raise_for_status()
+
+        # requestsのISO-8859-1誤認による文字化けを防止
+        if not resp.encoding or resp.encoding.lower() in ('iso-8859-1', 'latin1', 'us-ascii'):
+            resp.encoding = resp.apparent_encoding or 'utf-8'
+
         soup = BeautifulSoup(resp.text, 'html.parser')
         
         meta_desc = soup.find('meta', attrs={'name': 'description'}) or soup.find('meta', attrs={'property': 'og:description'})
         desc = meta_desc['content'].strip() if meta_desc and meta_desc.get('content') else ''
+        if is_garbled_text(desc):
+            desc = ''
         
-        for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside']):
+        for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'noscript']):
             tag.decompose()
+
+        bad_words = [
+            'JavaScript', 'クッキー', 'Cookie', '利用規約', '無断転載', '禁無断転載',
+            '有料会員', 'ログイン', '本文へスキップ', '閲覧支援', '文字サイズ', 'サイトマップ',
+            'サイト内検索', 'プライバシーポリシー', 'お問い合わせ', 'ページ先頭', '報道発表日', '更新日',
+            '本プレスリリースの内容は', 'プレスリリース一覧'
+        ]
+
+        main_container = soup.find(['article', 'main']) or soup.find(id=re.compile(r'content|main|article', re.I)) or soup.find(class_=re.compile(r'content|main|article|entry', re.I)) or soup
             
         paragraphs = []
-        for p in soup.find_all(['p', 'div']):
+        for p in main_container.find_all('p'):
             text = p.get_text().strip()
-            if len(text) > 25 and not any(bad in text for bad in ['JavaScript', 'クッキー', 'Cookie', '利用規約', '無断転載', '禁無断転載', '有料会員', 'ログイン']):
+            if len(text) > 20 and not any(bad in text for bad in bad_words) and not is_garbled_text(text):
                 if text not in paragraphs:
                     paragraphs.append(text)
             if len(paragraphs) >= 5:
                 break
+
+        if len(paragraphs) < 2:
+            for d in main_container.find_all(['div', 'section']):
+                text = d.get_text().strip()
+                if 20 < len(text) < 300 and not any(bad in text for bad in bad_words) and not is_garbled_text(text):
+                    if text not in paragraphs:
+                        paragraphs.append(text)
+                if len(paragraphs) >= 5:
+                    break
                 
         body_text = "\n".join(paragraphs[:3])
         return desc, body_text
@@ -143,20 +178,20 @@ def generate_summary_with_gemini(title: str, body: str, api_key: str) -> Optiona
 
 def create_auto_summary(title: str, desc: str, body: str) -> str:
     base_text = desc if desc else body
-    if not base_text:
+    if not base_text or is_garbled_text(base_text):
         return f"・{title}"
     clean = re.sub(r'【写真を見る】.*', '', base_text)
     clean = re.sub(r'（.*放送）', '', clean)
     clean = re.sub(r'https?://\S+', '', clean)
     clean = clean.strip()
-    sentences = [s.strip() for s in re.split(r'。|\n', clean) if len(s.strip()) > 10]
+    sentences = [s.strip() for s in re.split(r'。|\n', clean) if len(s.strip()) > 10 and not is_garbled_text(s)]
     if len(sentences) >= 2:
         points = [f"・{s}。" for s in sentences[:3]]
         return "\n".join(points)
     elif sentences:
         return f"・{sentences[0]}。"
     else:
-        return f"・{clean[:120]}…"
+        return f"・{title}"
 
 def process_single_entry(entry: Any, gemini_key: str) -> Optional[Dict[str, Any]]:
     google_url = entry.get('link', '')
