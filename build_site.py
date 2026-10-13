@@ -86,6 +86,82 @@ def clean_for_dedup(s: str) -> str:
     """文の重複・類似比較用に記号・空白を除去"""
     return re.sub(r'[\s\u3000「」『』【】（）()・…、。！？!?\-\|:：]', '', s).lower()
 
+def is_noise_text(line: str) -> bool:
+    """日付のみ、会員誘導、おすすめ記事、広告キャンペーンなどのノイズ文を徹底判定"""
+    l = line.strip()
+    if len(l) < 8:
+        return True
+    # 日時・日付・時刻のみの行
+    # 日時・日付・時刻のみの行、または日付時刻で終わる行
+    if re.match(r'^(?:\d{4}[年/\-\.]\s*)?\d{1,2}[月/\-\.]\s*\d{1,2}日?\s*(?:\(?[\w曜]+\)?)?\s*(?:\d{1,2}:\d{2}(?::\d{2})?)?$', l):
+        return True
+    if re.match(r'^\d{1,2}:\d{2}(?::\d{2})?$', l):
+        return True
+    if re.search(r'\d{1,2}/\d{1,2}\s*(?:\([^\)]+\))?\s*\d{1,2}:\d{2}', l) and len(l) < 30:
+        return True
+    # 有料・会員・購読案内
+    if any(k in l for k in [
+        '会員限定', '有料会員', '有料コンテンツ', '読み放題', '初月無料', '月額', '税込',
+        '残り', '全文', 'ログイン', '無料体験', 'お申し込み', '購読', '会員登録', '有料プラン'
+    ]):
+        return True
+    # 広告・レコメンド・ランキング・キャンペーン
+    if any(k in l for k in [
+        'あなたにおすすめ', 'おすすめ記事', 'おすすめ情報', '関連記事', '他の記事', 'アクセスランキング', '最新ニュース',
+        'ニュース一覧', '一覧へ', 'もっと見る', '円引き', '割引き', 'プレゼント', '抽選', '懸賞',
+        'クーポン', 'キャンペーン', 'タイアップ', 'PR記事'
+    ]):
+        return True
+    # システム・規約・UI
+    if any(k in l for k in [
+        'JavaScript', 'Cookie', 'クッキー', '利用規約', '無断転載', '禁無断転載',
+        'プライバシーポリシー', 'お問い合わせ', 'サイトマップ', 'シェア', 'ツイート',
+        'LINEで送る', 'ブックマーク', 'フォトギャラリー', '写真を見る', '再生ボタン'
+    ]):
+        return True
+    return False
+
+def rescue_meta_desc(raw_desc: str) -> str:
+    """末尾が…で切れているメタディスクリプションから、完全な文（「。」で終わる文）を救出"""
+    if not raw_desc or is_garbled_text(raw_desc):
+        return ''
+    raw_desc = raw_desc.strip()
+    if not (raw_desc.endswith('…') or raw_desc.endswith('...') or raw_desc.endswith('..')):
+        return raw_desc
+    # 句点「。」で分割して完全な文だけを救出
+    parts = re.split(r'。', raw_desc)
+    valid_parts = []
+    for p in parts:
+        p = p.strip()
+        if not p or p.endswith(('…', '...', '..')):
+            continue
+        if len(p) >= 15 and not is_noise_text(p) and not is_garbled_text(p):
+            valid_parts.append(p + '。')
+    if valid_parts:
+        return ''.join(valid_parts)
+    return ''
+
+def extract_meaningful_tokens(text: str) -> set:
+    """漢字熟語（2文字以上）、カタカナ語（3文字以上）、英単語（3文字以上）を意味のある語彙として抽出"""
+    kanji = re.findall(r'[\u4e00-\u9fa5]{2,}', text)
+    katakana = re.findall(r'[\u30a0-\u30ff]{3,}', text)
+    alpha = re.findall(r'[a-zA-Z]{3,}', text)
+    tokens = set(katakana + alpha)
+    for k in kanji:
+        tokens.add(k)
+        for i in range(len(k) - 1):
+            tokens.add(k[i:i+2])
+    return tokens
+
+def is_relevant_to_title(title: str, sentence: str) -> bool:
+    """文がタイトルと文脈上の関連（実質的な語彙・熟語の一致）を持つか検証し、無関係な別記事や広告を完全排除"""
+    t_tokens = extract_meaningful_tokens(title)
+    if not t_tokens:
+        return True
+    s_tokens = extract_meaningful_tokens(sentence)
+    common = t_tokens.intersection(s_tokens)
+    return len(common) >= 1
+
 def fetch_article_content(url: str) -> Tuple[str, str]:
     headers = {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
@@ -101,33 +177,36 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
         soup = BeautifulSoup(resp.text, 'html.parser')
         
         meta_desc = soup.find('meta', attrs={'name': 'description'}) or soup.find('meta', attrs={'property': 'og:description'})
-        desc = meta_desc['content'].strip() if meta_desc and meta_desc.get('content') else ''
-        # 末尾が … や ... で途切れている不完全なディスクリプションは破棄して本文を優先
-        if desc.endswith('…') or desc.endswith('...') or len(desc) < 30 or is_garbled_text(desc):
-            desc = ''
+        raw_desc = meta_desc['content'].strip() if meta_desc and meta_desc.get('content') else ''
+        desc = rescue_meta_desc(raw_desc)
         
-        for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'noscript']):
+        # 不要なタグ・セクションの徹底分解・削除
+        for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'noscript', 'form', 'figure', 'figcaption']):
             tag.decompose()
 
-        bad_words = [
-            'JavaScript', 'クッキー', 'Cookie', '利用規約', '無断転載', '禁無断転載',
-            '有料会員', 'ログイン', '本文へスキップ', '閲覧支援', '文字サイズ', 'サイトマップ',
-            'サイト内検索', 'プライバシーポリシー', 'お問い合わせ', 'ページ先頭', '報道発表日', '更新日',
-            '本プレスリリースの内容は', 'プレスリリース一覧', '電話', 'TEL', 'FAX', 'メールアドレス',
-            'アンケート', '質問1', '質問2', 'お問合せ先', 'お問い合わせ先', '外部リンク', '再生ボタン', '担当者名', '係'
-        ]
+        # 広告・レコメンド・ランキング・会員限定誘導・サイドバーのコンテナを全削除
+        noise_pattern = re.compile(
+            r'(recommend|related|ranking|paywall|member|subscription|banner|ad-|sidebar|sns|social|comment|breadcrumb|share|pickup|popular|follow|entry-date|post-date|campaign)',
+            re.I
+        )
+        for tag in soup.find_all(attrs={'class': noise_pattern}):
+            tag.decompose()
+        for tag in soup.find_all(attrs={'id': noise_pattern}):
+            tag.decompose()
 
         body_soup = soup.body or soup
 
-        # head内のlinkなどを拾わないよう、body内のブロック要素からコンテナを探す
+        # 本文コンテナの特定（記事本文らしい専用クラスを最優先）
         main_container = None
         for candidate in [
+            body_soup.select_one('div.limited_main_text'),
+            body_soup.select_one('div.news_item'),
             body_soup.find(['article', 'main']),
-            body_soup.find(['div', 'section'], id=re.compile(r'^(?!.*(css|js|style)).*(content|main|article|entry)', re.I)),
-            body_soup.find(['div', 'section'], class_=re.compile(r'^(?!.*(css|js|style)).*(entry|content|main|article)', re.I)),
+            body_soup.find(['div', 'section'], class_=re.compile(r'^(?!.*(css|js|style|grid)).*(entry-content|article-body|main-text|post-content|story-body)', re.I)),
+            body_soup.find(['div', 'section'], id=re.compile(r'^(?!.*(css|js|style|grid)).*(entry-content|article-body|main-text|post-content)', re.I)),
             body_soup
         ]:
-            if candidate and len(candidate.get_text().strip()) > 80:
+            if candidate and len(candidate.get_text().strip()) > 60:
                 main_container = candidate
                 break
 
@@ -137,7 +216,7 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
         paragraphs = []
         for p in main_container.find_all('p'):
             text = p.get_text().strip()
-            if len(text) > 20 and not any(bad in text for bad in bad_words) and not is_garbled_text(text):
+            if len(text) > 20 and not is_noise_text(text) and not is_garbled_text(text):
                 if text not in paragraphs:
                     paragraphs.append(text)
             if len(paragraphs) >= 6:
@@ -146,7 +225,7 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
         if len(paragraphs) < 3:
             raw_lines = [line.strip() for line in main_container.get_text().splitlines() if len(line.strip()) > 15]
             for line in raw_lines:
-                if any(bad in line for bad in bad_words) or is_garbled_text(line):
+                if is_noise_text(line) or is_garbled_text(line):
                     continue
                 line_norm = clean_for_dedup(line)
                 if not any(SequenceMatcher(None, clean_for_dedup(p), line_norm).ratio() > 0.65 for p in paragraphs):
@@ -214,6 +293,12 @@ def create_auto_summary(title: str, desc: str, body: str) -> str:
 
     unique_sentences: List[str] = []
     for s in raw_sentences:
+        # ノイズ文（日付、会員誘導、おすすめ記事、広告など）はスキップ
+        if is_noise_text(s):
+            continue
+        # タイトルとの関連性が全くない文（無関係な別記事や広告リンク）はスキップ
+        if not is_relevant_to_title(title, s):
+            continue
         # 末尾が … や ... で切れている不完全な文はスキップ
         if s.endswith('…') or s.endswith('...') or s.endswith('..'):
             continue
