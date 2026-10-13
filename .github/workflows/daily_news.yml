@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: リポジトリをチェックアウト
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Pythonのセットアップ
         uses: actions/setup-python@v5
@@ -43,5 +45,6 @@ jobs:
             echo "変更はありませんでした（新着記事なし）"
           else
             git commit -m "chore: 和歌山デイリーニュース自動更新 [$(date +'%Y-%m-%d %H:%M')]"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
