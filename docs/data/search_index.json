@@ -1,13 +1,125 @@
 [
   {
+    "article_date": "2026-10-14",
+    "title": "高齢者運び見守る「半自動運転」 和歌山県太地町、完全無人求めず",
+    "url": "https://www.nikkei.com/article/DGXZQOUF261BK0W6A920C2000000/",
+    "source": "日本経済新聞",
+    "published_at": "2026-10-14 05:00",
+    "summary": "・自動運転というと、無人化が可能な「レベル4」に達してこそと考えがちだ。\n・だが本州の南端部、過疎化が進む和歌山県太地町は、運転手（オペレーター）が介在する「レベル2」を生活のなかでうまく使いこなしている。\n・狭い路地に沿って民家が広がる漁師町特有のエリアを、電動カートが最高時速12キロメートルでトコトコ走る。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-13",
+    "title": "「あかつきプロジェクト」で支援し、販売する現地の手作り雑貨",
+    "url": "https://wakayama.keizai.biz/photoflash/7965/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-13 23:13",
+    "summary": "・ネパール洪水復興支援チャリティーイベントがJR和歌山駅前「わかちか広場」と県民交流プラザ「和歌山ビッグ愛」（和歌山市手平2）で10月17日、開催される。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-13",
+    "title": "和歌山駅前とビッグ愛でネパール洪水復興支援イベント 秋の祝祭に合わせ（みんなの経済新聞ネットワーク）",
+    "url": "https://news.yahoo.co.jp/articles/9dbe659948c66b60686c2466a47eca20ba8f73b6",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-13 23:00",
+    "summary": "・ネパール洪水復興支援チャリティーイベントがJR和歌山駅前「わかちか広場」と県民交流プラザ「和歌山ビッグ愛」（和歌山市手平2）で10月17日、開催される。\n・（和歌山経済新聞）【写真】「あかつきプロジェク。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-13",
+    "title": "小田凱人「気持ち高まっている」",
+    "url": "https://wakayama.keizai.biz/gpnews/1773524/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-13 22:32",
+    "summary": "・愛知・名古屋アジアパラ大会に出場する車いすテニス日本代表が１３日、名古屋市内で事前合宿を公開し、男子で愛知県出身の小田凱人は「気持ちは高まっている。\n・自分の全てを出して勝ちたい」と意気込みを語った。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": []
+  },
+  {
     "article_date": "2026-10-13",
     "title": "香川県さぬき市 東かがわ市 小豆島町で「震度1」和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町",
-    "url": "https://newsdig.tbs.co.jp/articles/-/3009285?display=1",
-    "source": "TBS NEWS DIG",
-    "published_at": "2026-10-13 20:54",
-    "summary": "・きょう（13日）午後8時44分ごろ、和歌山県、徳島県で最大震度2を観測する地震がありました。\n・気象庁によりますと、震源地は紀伊水道で、震源の深さはおよそ40km、地震の規模を示すマグニチュードは3.8と推定されま… (1ページ)。",
+    "url": "https://article.auone.jp/7a50f930-f6cc-4f27-823e-1042258fd5a5",
+    "source": "au Webポータル",
+    "published_at": "2026-10-13 20:55",
+    "summary": "・きょう（13日）午後8時44分ごろ、和歌山県、徳島県で最大震度2を観測する地震がありました。\n・気象庁によりますと、震源地は紀伊水道で、震源の深さはおよそ40km、地震の規模を示すマグニチュードは3.8。",
     "summary_type": "auto",
-    "category": "社会・事件"
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "香川県さぬき市 東かがわ市 小豆島町で「震度1」和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3009285?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-13 20:54"
+      },
+      {
+        "title": "和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/5ea0b890fa6bc6e618f0091dc85ce9c9a037aec7/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-13 20:49"
+      },
+      {
+        "title": "和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/5ea0b890fa6bc6e618f0091dc85ce9c9a037aec7",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-13 20:49"
+      },
+      {
+        "title": "和歌山県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町(放送局のニュース )",
+        "url": "https://tenki.jp/lite/news/fnn/c477d1d8-3ac5-4b75-8d6c-2b74005a9545.html",
+        "source": "tenki.jp",
+        "published_at": "2026-10-13 20:48"
+      },
+      {
+        "title": "和歌山県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町(放送局のニュース )",
+        "url": "https://tenki.jp/news/fnn/c477d1d8-3ac5-4b75-8d6c-2b74005a9545.html",
+        "source": "tenki.jp",
+        "published_at": "2026-10-13 20:48"
+      },
+      {
+        "title": "和歌山県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町（FNNプライムオンライン（フジテレビ系））",
+        "url": "https://news.yahoo.co.jp/articles/2e6221f7ac5e925324bd5e622839bc74bafa12c1",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-13 20:48"
+      },
+      {
+        "title": "和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3009281",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-13 20:47"
+      },
+      {
+        "title": "和歌山県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町（FNNプライムオンライン）",
+        "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1132189",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-13 20:47"
+      },
+      {
+        "title": "和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町｜Infoseekニュース",
+        "url": "https://news.infoseek.co.jp/article/tbs_3009281/",
+        "source": "Infoseek",
+        "published_at": "2026-10-13 20:47"
+      },
+      {
+        "title": "和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町 (2026年10月13日掲載)",
+        "url": "https://news.livedoor.com/topics/detail/32558009/",
+        "source": "ライブドアニュース",
+        "published_at": "2026-10-13 20:47"
+      },
+      {
+        "title": "和歌山県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町",
+        "url": "https://www.fnn.jp/articles/-/1132189",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-10-13 20:47"
+      }
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -17,67 +129,26 @@
     "published_at": "2026-10-13 20:51",
     "summary": "・「どこ」が「どれだけ」揺れたか詳細な地震情報に加え、地震被害などを最新記事でお伝えします。\n・和歌山県、徳島県で最大震度2の地震　和歌山県・湯浅町、徳島県・小松島市、石井町、13日午後8時44分ごろ、和歌山県、徳島県で最大震度2を観測する地震がありました。\n・気象庁によりますと、震源地は紀伊水道で、震源の深さはおよそ40km、地震の規模を示すマグニチュードは3.8と推定されます。",
     "summary_type": "auto",
-    "category": "社会・事件"
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 山口のニュース・天気・防災｜tys NEWS｜ｔｙｓテレビ山口",
+        "url": "https://newsdig.tbs.co.jp/list/tys/bousai/earthquake/detail?event=20261013204422",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-13 20:51"
+      }
+    ]
   },
   {
     "article_date": "2026-10-13",
-    "title": "震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 山口のニュース・天気・防災｜tys NEWS｜ｔｙｓテレビ山口",
-    "url": "https://newsdig.tbs.co.jp/list/tys/bousai/earthquake/detail?event=20261013204422",
-    "source": "TBS NEWS DIG",
-    "published_at": "2026-10-13 20:51",
-    "summary": "・「どこ」が「どれだけ」揺れたか詳細な地震情報に加え、地震被害などを最新記事でお伝えします。\n・和歌山県、徳島県で最大震度2の地震　和歌山県・湯浅町、徳島県・小松島市、石井町、13日午後8時44分ごろ、和歌山県、徳島県で最大震度2を観測する地震がありました。\n・気象庁によりますと、震源地は紀伊水道で、震源の深さはおよそ40km、地震の規模を示すマグニチュードは3.8と推定されます。",
-    "summary_type": "auto",
-    "category": "社会・事件"
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "和歌山県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町(放送局のニュース )",
-    "url": "https://tenki.jp/lite/news/fnn/c477d1d8-3ac5-4b75-8d6c-2b74005a9545.html",
-    "source": "tenki.jp",
-    "published_at": "2026-10-13 20:48",
-    "summary": "・<figure>      <img src=\" />    <...。",
-    "summary_type": "auto",
-    "category": "スポーツ"
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "和歌山県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町(放送局のニュース )",
-    "url": "https://tenki.jp/news/fnn/c477d1d8-3ac5-4b75-8d6c-2b74005a9545.html",
-    "source": "tenki.jp",
-    "published_at": "2026-10-13 20:48",
-    "summary": "・10月13日20時44分、紀伊水道の深さ40キロメートルを震源とするマグニチュード3.8の地震があり、和歌山県湯浅町で最大震度2の地震が観測されました。\n・この地震による津波の心配はありません。",
-    "summary_type": "auto",
-    "category": "政治・行政"
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町",
-    "url": "https://newsdig.tbs.co.jp/articles/-/3009281",
-    "source": "TBS NEWS DIG",
+    "title": "震度＝気象庁発表（１３日２０時４７分）震度順・市区町村別 ：地震",
+    "url": "https://www.ehime-np.co.jp/article/ky2026101302000027",
+    "source": "愛媛新聞",
     "published_at": "2026-10-13 20:47",
-    "summary": "・13日午後8時44分ごろ、和歌山県、徳島県で最大震度2を観測する地震がありました。\n・気象庁によりますと、震源地は紀伊水道で、震源の深さはおよそ40km、地震の規模を示すマグニチュードは3.8と推定されます。",
+    "summary": "・１３日午後８時４４分ごろ地震がありました。\n・気象庁によると、震源地は紀伊水道北緯３３・８度、東経１３４・７度で、震源の深さは約４０キロ。\n・地震の規模はマグニチュード（Ｍ）３・８と推定される。",
     "summary_type": "auto",
-    "category": "社会・事件"
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "和歌山県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町（FNNプライムオンライン）",
-    "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1132189",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-13 20:47",
-    "summary": "・和歌山県で最大震度2の地震　和歌山県・湯浅町、徳島県・小松島市、石井町（FNNプライムオンライン）。\n・10月13日20時44分、紀伊水道の深さ40キロメートルを震源とするマグニチュード3.8の地震があり、和歌山県湯浅町で最大震度2の地震…。",
-    "summary_type": "auto",
-    "category": "社会・事件"
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町｜Infoseekニュース",
-    "url": "https://news.infoseek.co.jp/article/tbs_3009281/",
-    "source": "Infoseek",
-    "published_at": "2026-10-13 20:47",
-    "summary": "・13日午後8時44分ごろ、和歌山県、徳島県で最大震度2を観測する地震がありました。\n・気象庁によりますと、震源地は紀伊。",
-    "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -87,17 +158,26 @@
     "published_at": "2026-10-13 20:18",
     "summary": "・世界遺産に登録されている高野参詣道「黒河（くろこ）道」で2日、男性がツキノワグマに襲われけがをした和歌山県九度山町で、山間部の柿畑3カ所の柿の木の枝が折られたり、実をかじられたりしたことが町への取材。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "柿畑にクマの痕跡、複数が活動か 男性襲われた和歌山・九度山",
+        "url": "https://mainichi.jp/articles/20261013/k00/00m/310/296000c",
+        "source": "毎日新聞",
+        "published_at": "2026-10-13 20:17"
+      }
+    ]
   },
   {
     "article_date": "2026-10-13",
-    "title": "柿畑にクマの痕跡、複数が活動か 男性襲われた和歌山・九度山",
-    "url": "https://mainichi.jp/articles/20261013/k00/00m/310/296000c",
-    "source": "毎日新聞",
-    "published_at": "2026-10-13 20:17",
-    "summary": "・世界遺産に登録されている高野参詣道「黒河（くろこ）道」で2日、男性がツキノワグマに襲われけがをした和歌山県九度山町で、山間部の柿畑3カ所の柿の木の枝が折られたり、実をかじられたりしたことが町への取材で13日明らかになった。\n・クマによる被害とみられ、町産業振興課は複数個体が活動しているとみて防災行政無。",
+    "title": "イオンシネマ和歌山「ストリートファイター ザ・ムービー」の上映時間（和歌山市）",
+    "url": "https://eiga.com/movie-theater/105732/30/300101/5105/",
+    "source": "映画.com",
+    "published_at": "2026-10-13 20:02",
+    "summary": "・「ストリートファイター　ザ・ムービー」を上映する、イオンシネマ和歌山（和歌山県 和歌山市）の映画館（上映館）情報と上映スケジュールを掲載。\n・イオンシネマ和歌山の上映時間やアクセス方法、料金・割引等をチェック - 映画.com。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -107,7 +187,8 @@
     "published_at": "2026-10-13 19:03",
     "summary": "・13日、鳥取県大山町の国立公園・大山で下山中の男性が転倒し、救助される遭難事案が発生しました。",
     "summary_type": "auto",
-    "category": "社会・事件"
+    "category": "社会・事件",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -117,17 +198,15 @@
     "published_at": "2026-10-13 17:21",
     "summary": "・つかえるね。和歌山放送…",
     "summary_type": "auto",
-    "category": "政治・行政"
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "防災庁設置「防災シンポジウム」11月5日に和歌山市で開催",
-    "url": "https://portal.uqmobile.jp/detail/1/2/5/10485_5_r_20261013_1791879812767214",
-    "source": "UQライフ",
-    "published_at": "2026-10-13 17:21",
-    "summary": "・UQ mobileï¼ã¢ãã¤ã«ï¼ã®å¬å¼ãµã¤ãã§ããUQ mobileã®ãUQ LiFE ãã¦ã³ã­ã¼ãã®ãæ¡åãã®ãµãã¼ããã¼ã¸ãau 5G/4G LTEã§å¿«é©ã«ãeSIMå¯¾å¿ãUQ mobileï¼。",
-    "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": [
+      {
+        "title": "防災庁設置「防災シンポジウム」11月5日に和歌山市で開催",
+        "url": "https://portal.uqmobile.jp/detail/1/2/5/10485_5_r_20261013_1791879812767214",
+        "source": "UQライフ",
+        "published_at": "2026-10-13 17:21"
+      }
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -137,7 +216,15 @@
     "published_at": "2026-10-13 17:14",
     "summary": "・つかえるね。和歌山放送…",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": [
+      {
+        "title": "片男波海水浴場で「紀州砂フェス」１８日に／和歌山",
+        "url": "https://article.auone.jp/e2a36579-7ca1-4007-9c3d-56a2043720aa",
+        "source": "au Webポータル",
+        "published_at": "2026-10-13 17:14"
+      }
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -147,7 +234,8 @@
     "published_at": "2026-10-13 16:49",
     "summary": "・エジプトで９月からの新年度、一部中高生向けに日本語教育が導入され、１２日、北部スエズの学校で授業がメディアに公開された。\n・生徒は「日本語を学び、将来はエジプトと日本の架け橋になりたい」と意欲を示した。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -157,7 +245,8 @@
     "published_at": "2026-10-13 16:39",
     "summary": "・９日、スウェーデン南西部イエーテボリ郊外で、ウサギの跳躍力を競う欧州大会が開かれた。\n・１１日までの期間中、直線コースでのジャンプや走り高跳びなど複数種目が行われ、愛らしい姿で観戦者の目を楽しませた。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -167,7 +256,8 @@
     "published_at": "2026-10-13 16:30",
     "summary": "・【画像…",
     "summary_type": "auto",
-    "category": "社会・事件"
+    "category": "社会・事件",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -177,7 +267,8 @@
     "published_at": "2026-10-13 16:25",
     "summary": "・第８０回国民スポーツ大会（国スポ）本会期が１０日、青森県で開幕した。\n・１５日からの陸上やカヌー競技に出場する和歌山県紀南の高校生が、本番に向けて最後の追い込みや調整をしている。\n・【「期待に応えたい」 和。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -187,7 +278,8 @@
     "published_at": "2026-10-13 16:25",
     "summary": "・和歌山県田辺市中芳養の産業廃棄物処理会社「蒲田辰商店」（蒲田啓吾社長）は、県から優良産廃処理業者の認定を受けた。\n・基準をクリアした業者を審査・認定する制度で、同社は収集運搬と中間処理の二つの区分で優良。",
     "summary_type": "auto",
-    "category": "経済・産業"
+    "category": "経済・産業",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -197,7 +289,15 @@
     "published_at": "2026-10-13 16:25",
     "summary": "・２０２６年度前期の技能検定（和歌山県職業能力開発協会主催）があり、田辺工業高校（和歌山県田辺市あけぼの）の２、３年生５人が合格した。\n・【山根選手（田辺工業）ら優勝／田辺で弓道大会の記事】 各都道府県で。",
     "summary_type": "auto",
-    "category": "スポーツ"
+    "category": "スポーツ",
+    "related_articles": [
+      {
+        "title": "技能検定に5人合格 田辺工業高の生徒、和歌山",
+        "url": "https://www.47news.jp/15074968.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-13 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -207,7 +307,8 @@
     "published_at": "2026-10-13 16:25",
     "summary": "・和歌山県田辺市秋津町にあるＪＡわかやまの産直店「紀菜柑」は３日、同市上秋津でバナナ園の見学ツアーを開いた。\n・参加した親子連れらが、バナナの実がなった様子に感動していた。\n・【外国人がミカン満喫 上秋津で収。",
     "summary_type": "auto",
-    "category": "地域・一般"
+    "category": "地域・一般",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -217,7 +318,8 @@
     "published_at": "2026-10-13 16:02",
     "summary": "・再開発準備組合が解散した友田町３丁目地区周辺和歌山市の「和歌山駅前友田町３丁目地区市街地再開発準備組合」は１３日、解散を発表した。\n・再開発の事業化について複数の地権者との合意が困難で、本組合の設立要件を満たせなくなったことなどが要因。\n・同駅前エリアの活性化を目指して検討されてきた計画は、白紙に戻ることになった。",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -227,7 +329,8 @@
     "published_at": "2026-10-13 14:30",
     "summary": "・和歌山県田辺市本宮町で１０日、世界遺産である熊野本宮大社の旧社地・大斎原（おおゆのはら）へと続く御幸道などを時代行列が練り歩く第２５回...。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -237,7 +340,8 @@
     "published_at": "2026-10-13 13:39",
     "summary": "・７月の熊本地震で被災し、一部区間で運休が続いていた第三セクター「肥薩おれんじ鉄道」（熊本県八代市）が１３日、全線での運転を再開した。\n・写真は列車に手を振る保育園児ら＝同日午前、同市　【時事通信社】。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -247,7 +351,8 @@
     "published_at": "2026-10-13 13:34",
     "summary": "・ナフサ問題で全国ネットのテレビ取材が殺到したあの「無地透明袋あられ」がやばいパッケージ＆やばい味に！。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -257,17 +362,21 @@
     "published_at": "2026-10-13 12:06",
     "summary": "・利用者数の減少傾向と赤字が続くJR紀勢線の白浜・新宮間の利用促進に、JR西日本や沿線の自治体などと連携する和歌山県の宮﨑泉知事は、1日あたりの特急利用者数が当初の目標の1040人に届いていない現状に。",
     "summary_type": "auto",
-    "category": "観光・文化"
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "紀州鉄道譲渡白紙・和歌山県知事「非常に残念」（WBS和歌山放送ニュース）",
-    "url": "https://news.yahoo.co.jp/articles/8c468a06bffea1108d9f9cb4ff1276537444461a",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-13 11:58",
-    "summary": "・利用者数の減少による慢性的な赤字が続き、事業譲渡交渉も決裂して存続の危機がさらに高まっている、和歌山県中部・御坊市のミニ鉄道・紀州鉄道について、和歌山県の宮﨑泉知事は「非常に残念だ。",
-    "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "JR紀勢線・白浜~新宮利用者回復鈍く・和歌山県知事「連携をさらに強化」 (WBS和歌山放送ニュース)",
+        "url": "https://news.yahoo.co.jp/articles/7c1dbbbdd0a77db1fe47b28e8bb974f7913cc60e/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-13 12:06"
+      },
+      {
+        "title": "紀州鉄道譲渡白紙・和歌山県知事「非常に残念」（WBS和歌山放送ニュース）",
+        "url": "https://news.yahoo.co.jp/articles/8c468a06bffea1108d9f9cb4ff1276537444461a",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-13 11:58"
+      }
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -277,7 +386,8 @@
     "published_at": "2026-10-13 11:21",
     "summary": "・「いかのおすし」覚えてね　読売防犯協など　和歌山で啓発　和歌山県。",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -287,7 +397,8 @@
     "published_at": "2026-10-13 10:04",
     "summary": "・和歌山市は、豊臣兄弟にゆかりの深い和歌山城において、1,000機のドローンショー「WAKAYAMA LIGHTS 2026」を2026年11月21日に開催する。",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -297,7 +408,8 @@
     "published_at": "2026-10-13 07:05",
     "summary": "・田畑で出た刈り草や剪定枝を、その場で燃やして処分する野焼き。\n・和歌山市農林水産課が公式Instagramで、農業上の野焼きへの注意を呼びかけました。\n・野焼きは法律で原則禁止されており、例外として認められる場合も煙やにおいへの配慮が求められます。",
     "summary_type": "auto",
-    "category": "社会・事件"
+    "category": "社会・事件",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -307,7 +419,8 @@
     "published_at": "2026-10-13 06:04",
     "summary": "・頑張っている球児を応援する高校野球報道サイト。\n・コラムや試合記事など高校野球情報を公開中。",
     "summary_type": "auto",
-    "category": "スポーツ"
+    "category": "スポーツ",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -317,7 +430,8 @@
     "published_at": "2026-10-13 05:15",
     "summary": "・★お天気川柳★青い空メールの山もほどけそうーーおはようございます！和歌山市専用のお天気サポートAIです！■きょうのざっくり天気■【気温の目安】昨日と比べて、最低気温は17℃で1℃低く、ひんやり感じる。",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -327,17 +441,15 @@
     "published_at": "2026-10-13 02:47",
     "summary": "・10月20日(火)深夜2時29分〜「和歌山県で筏下りの旅」第2話（日テレTOPICS）。\n・「和歌山県で筏下りの旅」第2話。\n・一行はくっきー！さんおすすめのテーマパーク「白浜エネルギーランド」へ！目の錯覚を利用した…。",
     "summary_type": "auto",
-    "category": "観光・文化"
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "「くっきー！と和歌山県で筏下りの旅」第1話（日テレTOPICS）",
-    "url": "https://topics.smt.docomo.ne.jp/article/ntv_topics/entertainment/www.ntv.co.jp-tabizaru-articles-3297n3djwu8rqmtsfl4d-html",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-13 02:45",
-    "summary": "・「くっきー！と和歌山県で筏下りの旅」第1話（日テレTOPICS）。\n・10月13日（火）深夜 2:05〜2:35 放送くっきー！と和歌山県で筏下りの旅【映像】くっきー！のボキャブラ出演時代の(秘)話 ▼ゲスト…。",
-    "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "「くっきー！と和歌山県で筏下りの旅」第1話（日テレTOPICS）",
+        "url": "https://topics.smt.docomo.ne.jp/article/ntv_topics/entertainment/www.ntv.co.jp-tabizaru-articles-3297n3djwu8rqmtsfl4d-html",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-13 02:45"
+      }
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -347,7 +459,8 @@
     "published_at": "2026-10-13 02:43",
     "summary": "・和歌山県和歌山市 区分マンションの物件詳細ページです。\n・国内最大の不動産投資サイト【楽待／らくまち】は収益物件数・使いやすさ・利用者数No.1。\n・高利回りの一棟マンション・アパートなど、希望の収益物件やセミナーを簡単に探せます。",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -357,7 +470,8 @@
     "published_at": "2026-10-12 19:30",
     "summary": "・和歌山地方気象台が10月12日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・北部は「晴れ夕方からくもり」、南部は「晴れ夕方からくもり」でしょう。\n・最高気温は、和歌山27℃、潮岬25℃でしょう。",
     "summary_type": "auto",
-    "category": "社会・事件"
+    "category": "社会・事件",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -367,7 +481,8 @@
     "published_at": "2026-10-12 17:51",
     "summary": "・「青の煌めきあおもり国スポ 第80回国民スポーツ大会」サッカー競技少年男子2回戦が11日に行われ、八戸市南郷陸上競技場の第1試合では静岡県が和歌山県に6-1で勝利した。",
     "summary_type": "auto",
-    "category": "スポーツ"
+    "category": "スポーツ",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -377,17 +492,15 @@
     "published_at": "2026-10-12 17:49",
     "summary": "・人生の最終段階で、希望する医療やケアについて前もって話し合う「人生会議」の普及啓発イベントが、俳優の…。",
     "summary_type": "auto",
-    "category": "政治・行政"
-  },
-  {
-    "article_date": "2026-10-12",
-    "title": "「人生会議」普及イベント和歌山市で開催。 松下由樹さんらトーク／和歌山",
-    "url": "https://news.wbs.co.jp/220819",
-    "source": "WBS和歌山放送ニュース",
-    "published_at": "2026-10-12 17:49",
-    "summary": "・つかえるね。和歌山放送…",
-    "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": [
+      {
+        "title": "「人生会議」普及イベント和歌山市で開催。 松下由樹さんらトーク／和歌山",
+        "url": "https://news.wbs.co.jp/220819",
+        "source": "WBS和歌山放送ニュース",
+        "published_at": "2026-10-12 17:49"
+      }
+    ]
   },
   {
     "article_date": "2026-10-12",
@@ -397,7 +510,8 @@
     "published_at": "2026-10-12 16:09",
     "summary": "・もぐナビニュースこんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。\n・発売中の菓子パン第一パンコッペパン安納芋＆ホイップもぐナビニュース国産…。",
     "summary_type": "auto",
-    "category": "経済・産業"
+    "category": "経済・産業",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -407,7 +521,8 @@
     "published_at": "2026-10-12 14:14",
     "summary": "・茨城の方言で豪快にツッコミを入れる漫才で人気のお笑いコンビ「カミナリ」の石田たくみさんが、YouTubeチャンネルのロケで訪れた和歌山市の友ヶ島(ともがしま)をイメージした楽曲を作り、10月11日、。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -417,7 +532,26 @@
     "published_at": "2026-10-12 10:45",
     "summary": "・和歌山市西浜の認定こども園「ようすい子ども園」で8日、園児たちがマグロ解体を見学。\n・食の大切さや感謝の気持ちを育んだ。\n・勝浦漁港で水揚げされた体重約46キロのキハダマグロが園内の遊戯室に運ばれると、1…。",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": [
+      {
+        "title": "マグロの命「いただきます」　和歌山の園児ら解体見学",
+        "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVBC46VNVBCPXLB00CM",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-12 10:45"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-10-12",
+    "title": "木の粉散らし命を吹き込む 和歌山・チェーンソーアート",
+    "url": "https://news.at-s.com/article/2074577",
+    "source": "静岡新聞DIGITAL",
+    "published_at": "2026-10-12 06:00",
+    "summary": "・紀伊山地の山々に囲まれ、視界いっぱいに緑が広がる和歌山県田辺市龍神村。\n・観光客が多く訪れる龍神温泉の入り口では、空に昇るようにも見える高さ５メートルほどの木彫り…。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -427,7 +561,8 @@
     "published_at": "2026-10-12 05:10",
     "summary": "・【和歌山市】10/12 最高27℃、昼間はやや暑さを感じる場面も、朝から夜まで晴れる予想【朝版】",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -437,7 +572,8 @@
     "published_at": "2026-10-12 05:02",
     "summary": "・県産業資源循環協会は8日、10月が県の定める「ごみの散乱防止強化月間」であることにちなみ、和歌山市内で不法投棄防止巡回パトロールを実施した。\n・2005年から続ける活動で、県の「わかやまごみゼロ活動」にも認定されている。",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-11",
@@ -447,27 +583,21 @@
     "published_at": "2026-10-11 23:39",
     "summary": "・１１日午後１０時４５分頃、ＪＲ阪和線の我孫子町駅（大阪市住吉区）で、関西空港発京都行の特急電車「はるか６０号」（９両、乗客約１５０人）が人と接触した。",
     "summary_type": "auto",
-    "category": "観光・文化"
-  },
-  {
-    "article_date": "2026-10-11",
-    "title": "JR阪和線で人身事故 天王寺～和歌山駅間で運転を見合わせ 運転再開は12日午前0時の見込み",
-    "url": "https://newsdig.tbs.co.jp/articles/mbs/3005057?display=1",
-    "source": "TBS NEWS DIG",
-    "published_at": "2026-10-11 23:36",
-    "summary": "・11日午後10時45分ごろ、JR阪和線の我孫子町駅で人身事故があり、JR阪和線は天王寺～和歌山駅間で運転を見合わせています。\n・JR西日本によりますと、午後10時45分ごろ、上りの「特急はるか60号」が大阪市住吉区の我孫… (1ページ)。",
-    "summary_type": "auto",
-    "category": "観光・文化"
-  },
-  {
-    "article_date": "2026-10-11",
-    "title": "【速報】JR阪和線の天王寺－和歌山駅間で運転見合わせ 再開は午前0時ごろの見込み",
-    "url": "https://www.asahi.co.jp/webnews/pages/abc_62988.html",
-    "source": "朝日放送",
-    "published_at": "2026-10-11 23:03",
-    "summary": "・ãï¼ªï¼²è¥¿æ¥æ¬ã«ããã¾ãã¨ãï¼ï¼æ¥åå¾ï¼ï¼æï¼ï¼åãããéªåç·ã®æå­«å­çºé§ã§åè»ã¨äººãæ¥è§¦ãããããå¤©çå¯ºã¼åæ­å±±é§éã§éè»¢ãè¦åããã¦ãã¾ãããéè»¢åéã¯ï¼ï¼æ¥â¦。",
-    "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "JR阪和線で人身事故 天王寺～和歌山駅間で運転を見合わせ 運転再開は12日午前0時の見込み",
+        "url": "https://newsdig.tbs.co.jp/articles/mbs/3005057?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-11 23:36"
+      },
+      {
+        "title": "【速報】JR阪和線の天王寺－和歌山駅間で運転見合わせ 再開は午前0時ごろの見込み",
+        "url": "https://www.asahi.co.jp/webnews/pages/abc_62988.html",
+        "source": "朝日放送",
+        "published_at": "2026-10-11 23:03"
+      }
+    ]
   },
   {
     "article_date": "2026-10-11",
@@ -477,7 +607,8 @@
     "published_at": "2026-10-11 21:15",
     "summary": "・2026年のNHK大河ドラマ『豊臣兄弟！』ゆかりの地をバイクで巡る旅として、和歌山県和歌山市の「和歌山城」を訪れました。\n・現在は徳川御三家のひとつ、紀州徳川家の城として知られますが、その始まりをたどる。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-11",
@@ -487,7 +618,8 @@
     "published_at": "2026-10-11 17:00",
     "summary": "・【読売新聞】　近代日本画の巨匠・小林 古径 （ こけい ） （１８８３～１９５７年）を特集した特別展が１０日、和歌山県の田辺市立美術館で始まった。\n・同館は昨年６月から設備工事のために休館していたが、この日が１年４か月ぶりのオープンで、。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-11",
@@ -497,7 +629,8 @@
     "published_at": "2026-10-11 16:00",
     "summary": "・和歌山県 和歌山市 西浜にある 和歌山下津港 第6岸壁で、和歌山地方協力本部による「オータムフェスタ2026 in 和歌山港」が2026年10月11日(日)に開催されます。\n・イベントでは、海上自衛隊 掃海艇「ちちじま」や 和歌山海上保安部 巡視船「きい」の一般公開、装備品展示、キッチンカーなどが行われますので、是非ご来場ください。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-11",
@@ -507,7 +640,8 @@
     "published_at": "2026-10-11 10:45",
     "summary": "・「赤ちゃんの日」の10日、和歌山県白浜町のアドベンチャーワールドで、2歳未満までの赤ちゃんによる「ハイハイレース」があった。\n・関西各地から25人の赤ちゃんらが5組に分かれて、3メートル先のゴールを目指…。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-04",
@@ -517,7 +651,8 @@
     "published_at": "2026-10-04 16:00",
     "summary": "・和歌山県では2018年度まで40年以上、高校生の県内大学への進学率が全国ワースト1位という状況でした。\n・この課題の解決策として、和歌山市はこれまで大学誘致に取り組み、市内の中心部には5つの大学が拠点を。",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-09-30",
@@ -527,7 +662,8 @@
     "published_at": "2026-09-30 16:14",
     "summary": "・和歌山市でＯ１５７など腸管出血性大腸菌の感染症の届け出が増加し、ことしの累計で１５件、うち９月だけで２４日までに８件に上り、市は感染予防の徹底を呼びかけている。\n・市保健所によると、市内の届け出数は昨年１年間で１８件、２０２４年は１１件。\n・ことしは５月まで届け出はなかったが、６月に４件、７月に２件、８月に１件あった後、９月に８件と大きく増えた。",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-09-24",
@@ -537,7 +673,8 @@
     "published_at": "2026-09-24 16:00",
     "summary": "・和歌山市の中心街で再開発計画が動き出す。\n・核となるのは、2033年度以降の完成を見込む南海和歌山市駅前とJR和歌山駅近くの複合ビル建設だ。\n・同市では市街地が拡散し、中心部の空洞化が進む。",
     "summary_type": "auto",
-    "category": "政治・行政"
+    "category": "政治・行政",
+    "related_articles": []
   },
   {
     "article_date": "2026-09-04",
@@ -547,6 +684,7 @@
     "published_at": "2026-09-04 16:00",
     "summary": "・2026年9月1日時点の月間アクセスランキングをもとに、和歌山市・加太・和歌浦・紀の川エリアの人気スポットTOP10をお届けします。\n・1位は屋内遊園地が連続首位に。\n・まだ暑さの残るいまのおでかけにも、秋の行き先探しにもおすすめです。",
     "summary_type": "auto",
-    "category": "観光・文化"
+    "category": "観光・文化",
+    "related_articles": []
   }
 ]
