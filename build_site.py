@@ -117,18 +117,42 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
             'アンケート', '質問1', '質問2', 'お問合せ先', 'お問い合わせ先', '外部リンク', '再生ボタン', '担当者名', '係'
         ]
 
-        main_container = soup.find(['article', 'main']) or soup.find(id=re.compile(r'content|main|article', re.I)) or soup.find(class_=re.compile(r'entry|content|main|article', re.I)) or soup
+        body_soup = soup.body or soup
+
+        # head内のlinkなどを拾わないよう、body内のブロック要素からコンテナを探す
+        main_container = None
+        for candidate in [
+            body_soup.find(['article', 'main']),
+            body_soup.find(['div', 'section'], id=re.compile(r'^(?!.*(css|js|style)).*(content|main|article|entry)', re.I)),
+            body_soup.find(['div', 'section'], class_=re.compile(r'^(?!.*(css|js|style)).*(entry|content|main|article)', re.I)),
+            body_soup
+        ]:
+            if candidate and len(candidate.get_text().strip()) > 80:
+                main_container = candidate
+                break
+
+        if not main_container:
+            main_container = body_soup
             
         paragraphs = []
-        raw_lines = [line.strip() for line in main_container.get_text().splitlines() if len(line.strip()) > 15]
-        for line in raw_lines:
-            if any(bad in line for bad in bad_words) or is_garbled_text(line):
-                continue
-            line_norm = clean_for_dedup(line)
-            if not any(SequenceMatcher(None, clean_for_dedup(p), line_norm).ratio() > 0.65 for p in paragraphs):
-                paragraphs.append(line)
-            if len(paragraphs) >= 8:
+        for p in main_container.find_all('p'):
+            text = p.get_text().strip()
+            if len(text) > 20 and not any(bad in text for bad in bad_words) and not is_garbled_text(text):
+                if text not in paragraphs:
+                    paragraphs.append(text)
+            if len(paragraphs) >= 6:
                 break
+
+        if len(paragraphs) < 3:
+            raw_lines = [line.strip() for line in main_container.get_text().splitlines() if len(line.strip()) > 15]
+            for line in raw_lines:
+                if any(bad in line for bad in bad_words) or is_garbled_text(line):
+                    continue
+                line_norm = clean_for_dedup(line)
+                if not any(SequenceMatcher(None, clean_for_dedup(p), line_norm).ratio() > 0.65 for p in paragraphs):
+                    paragraphs.append(line)
+                if len(paragraphs) >= 8:
+                    break
                 
         body_text = "\n".join(paragraphs[:6])
         return desc, body_text
