@@ -67,6 +67,15 @@ function setupEventListeners() {
     searchInput.addEventListener('input', (e) => {
       searchQuery = e.target.value.trim();
       searchClearBtn.classList.toggle('hidden', searchQuery.length === 0);
+      document.querySelectorAll('.region-tag').forEach(b => {
+        if (b.dataset.region === searchQuery) {
+          b.classList.remove('bg-slate-100', 'text-slate-600');
+          b.classList.add('bg-orange-500', 'text-white');
+        } else {
+          b.classList.remove('bg-orange-500', 'text-white');
+          b.classList.add('bg-slate-100', 'text-slate-600');
+        }
+      });
       clearTimeout(searchTimeout);
       searchTimeout = setTimeout(() => {
         loadArticles();
@@ -77,6 +86,39 @@ function setupEventListeners() {
       searchInput.value = '';
       searchQuery = '';
       searchClearBtn.classList.add('hidden');
+      document.querySelectorAll('.region-tag').forEach(b => {
+        b.classList.remove('bg-orange-500', 'text-white');
+        b.classList.add('bg-slate-100', 'text-slate-600');
+      });
+      loadArticles();
+    });
+  }
+
+  // 市町村・地域タグ選択
+  const regionTagsEl = document.getElementById('regionTags');
+  if (regionTagsEl) {
+    regionTagsEl.addEventListener('click', (e) => {
+      const btn = e.target.closest('.region-tag');
+      if (!btn) return;
+      const region = btn.dataset.region;
+      if (searchInput.value === region) {
+        // 解除
+        searchInput.value = '';
+        searchQuery = '';
+        searchClearBtn.classList.add('hidden');
+        btn.classList.remove('bg-orange-500', 'text-white');
+        btn.classList.add('bg-slate-100', 'text-slate-600');
+      } else {
+        document.querySelectorAll('.region-tag').forEach(b => {
+          b.classList.remove('bg-orange-500', 'text-white');
+          b.classList.add('bg-slate-100', 'text-slate-600');
+        });
+        btn.classList.remove('bg-slate-100', 'text-slate-600');
+        btn.classList.add('bg-orange-500', 'text-white');
+        searchInput.value = region;
+        searchQuery = region;
+        searchClearBtn.classList.remove('hidden');
+      }
       loadArticles();
     });
   }

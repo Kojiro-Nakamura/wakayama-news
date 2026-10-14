@@ -20,17 +20,67 @@ DOCS_DIR = os.path.join(BASE_DIR, "docs")
 DATA_DIR = os.path.join(DOCS_DIR, "data")
 DATES_DIR = os.path.join(DATA_DIR, "dates")
 
-WAKAYAMA_KEYWORDS = [
-    "和歌山", "紀州", "白浜", "高野山", "熊野", "田辺", "新宮", "有田", 
-    "御坊", "橋本", "海南", "岩出", "紀の川", "串本", "那智勝浦", "九度山", 
-    "かつらぎ", "湯浅", "広川", "みなべ", "日高", "印南", "由良", "美浜", 
-    "日高川", "すさみ", "古座川", "太地", "北山", "紀美野", "アドベンチャーワールド",
-    "南紀", "紀南", "紀北", "紀中"
+# 和歌山県全30市町村および6郡、地域キーワード
+WAKAYAMA_MUNICIPALITIES = [
+    # 9市
+    "和歌山市", "海南市", "橋本市", "有田市", "御坊市", "田辺市", "新宮市", "紀の川市", "岩出市",
+    # 6郡
+    "海草郡", "伊都郡", "有田郡", "日高郡", "西牟婁郡", "東牟婁郡",
+    # 20町・1村
+    "紀美野町", "かつらぎ町", "九度山町", "高野町", "湯浅町", "広川町", "有田川町",
+    "美浜町", "日高町", "由良町", "印南町", "みなべ町", "日高川町",
+    "白浜町", "上富田町", "すさみ町", "那智勝浦町", "太地町", "古座川町", "北山村", "串本町"
+]
+
+WAKAYAMA_KEYWORDS = WAKAYAMA_MUNICIPALITIES + [
+    # 短縮表記・主要地名・地域名
+    "和歌山", "紀州", "白浜", "高野山", "熊野", "熊野古道", "有田川", "上富田",
+    "すさみ", "古座川", "太地", "北山", "紀美野", "アドベンチャーワールド",
+    "南紀", "紀南", "紀北", "紀中", "潮岬", "那智の滝", "貴志川線", "たま駅長",
+    "かつらぎ", "九度山", "湯浅", "広川", "みなべ", "印南", "由良", "日高川",
+    "那智勝浦", "串本", "田辺", "新宮", "有田", "御坊", "橋本", "海南", "岩出", "紀の川"
+]
+
+# 他県と同名になりやすい町村名（愛知・福井・北海道・福岡等の誤爆防止フィルター用）
+AMBIGUOUS_TOWN_KEYWORDS = {
+    "美浜町": ["愛知", "知多郡", "福井", "三方郡", "千葉", "美浜区"],
+    "美浜": ["愛知", "知多郡", "福井", "三方郡", "千葉", "美浜区"],
+    "日高町": ["北海道", "沙流郡", "豊岡"],
+    "日高": ["北海道", "沙流郡", "日高山脈", "日高振興局", "豊岡"],
+    "広川町": ["福岡", "八女郡"],
+    "広川": ["福岡", "八女郡"],
+    "新宮市": ["福岡", "糟屋郡", "新宮町"],
+    "北山": ["京都", "北山区"]
+}
+
+# 確実に和歌山県内と判定できるアンカーキーワード
+STRONG_WAKAYAMA_ANCHORS = [
+    "和歌山", "和歌山県", "紀州", "紀南", "紀北", "紀中", "南紀", "高野山", "熊野", "熊野古道",
+    "白浜町", "アドベンチャーワールド", "和歌山市", "海南市", "橋本市", "有田市", "御坊市", "田辺市", "紀の川市", "岩出市",
+    "海草郡", "伊都郡", "有田郡", "日高郡", "西牟婁郡", "東牟婁郡"
 ]
 
 def is_wakayama_relevant(title: str, text: str) -> bool:
     combined = title + " " + text
-    return any(kw in combined for kw in WAKAYAMA_KEYWORDS)
+    
+    # 強い和歌山キーワードが含まれていれば即OK
+    if any(anchor in combined for anchor in STRONG_WAKAYAMA_ANCHORS):
+        return True
+        
+    # いずれかの和歌山キーワードに合致するか
+    matched_kws = [kw for kw in WAKAYAMA_KEYWORDS if kw in combined]
+    if not matched_kws:
+        return False
+        
+    # 曖昧な地名のみで合致した場合、他県の兆候があれば除外
+    for kw in matched_kws:
+        if kw in AMBIGUOUS_TOWN_KEYWORDS:
+            other_clues = AMBIGUOUS_TOWN_KEYWORDS[kw]
+            if any(clue in combined for clue in other_clues):
+                # 他県の手がかりがあり、かつ強い和歌山キーワードがない場合は除外
+                return False
+
+    return True
 
 def decode_google_news_url(google_rss_url: str) -> str:
     try:
@@ -509,8 +559,19 @@ def build_static_site():
             except Exception as e:
                 print(f"Error loading {fn}: {e}")
 
-    # Google Newsから最新ニュースを取得
-    queries = ["和歌山県", "和歌山市"]
+    # 和歌山県全30市町村・6郡を網羅するGoogle News収集クエリ
+    queries = [
+        "和歌山県",
+        "和歌山市",
+        "海南市 OR 橋本市 OR 有田市 OR 御坊市 OR 紀の川市 OR 岩出市",
+        "田辺市 OR 新宮市 OR 白浜町 OR 串本町 OR 那智勝浦町",
+        "紀美野町 OR かつらぎ町 OR 九度山町 OR 高野町 OR 湯浅町 OR 有田川町",
+        "由良町 OR 印南町 OR みなべ町 OR 日高川町",
+        "上富田町 OR すさみ町 OR 太地町 OR 古座川町 OR 北山村",
+        "和歌山 美浜町 OR 和歌山 日高町 OR 和歌山 広川町",
+        "海草郡 OR 伊都郡 OR 有田郡 OR 日高郡 OR 西牟婁郡 OR 東牟婁郡",
+        "紀州 OR 南紀 OR 紀南 OR 高野山 OR 熊野古道"
+    ]
     seen_links = set()
     raw_entries = []
     

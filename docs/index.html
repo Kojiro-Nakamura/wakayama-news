@@ -123,12 +123,25 @@
       </div>
 
       <!-- 和歌山地域メモ（PCで表示） -->
-      <div class="hidden md:block bg-gradient-to-br from-amber-50 to-orange-50 p-4 rounded-2xl border border-orange-200/60 text-xs text-amber-900/80 leading-relaxed space-y-2">
+      <div class="hidden md:block bg-gradient-to-br from-amber-50 to-orange-50 p-4 rounded-2xl border border-orange-200/60 text-xs text-amber-950 leading-relaxed space-y-2.5">
         <div class="font-bold flex items-center gap-1.5 text-orange-800">
-          <i data-lucide="sparkles" class="w-3.5 h-3.5"></i>
-          完全無料で利用中
+          <i data-lucide="map-pin" class="w-3.5 h-3.5"></i>
+          県内全30市町村を完全網羅
         </div>
-        <p>Google News RSSから和歌山県関連ニュースを自動収集し、日ごとに蓄積しています。スマホのブラウザでもいつでも閲覧・過去検索が可能です。</p>
+        <p class="text-[11px] text-slate-600 leading-relaxed">
+          和歌山県内すべての市町村・郡（全30市町村）の最新情報を毎日自動巡回・収集しています。
+        </p>
+        <div class="text-[11px] space-y-1.5 pt-1.5 border-t border-orange-200/60 text-slate-700">
+          <div>
+            <span class="font-bold text-orange-950">紀北:</span> 和歌山市、海南市、橋本市、紀の川市、岩出市、紀美野町、かつらぎ町、九度山町、高野町
+          </div>
+          <div>
+            <span class="font-bold text-orange-950">紀中:</span> 有田市、御坊市、湯浅町、広川町、有田川町、美浜町、日高町、由良町、印南町、みなべ町、日高川町
+          </div>
+          <div>
+            <span class="font-bold text-orange-950">紀南:</span> 田辺市、新宮市、白浜町、上富田町、すさみ町、那智勝浦町、太地町、古座川町、北山村、串本町
+          </div>
+        </div>
       </div>
     </aside>
 
@@ -143,12 +156,29 @@
           <input 
             type="text" 
             id="searchInput" 
-            placeholder="タイトルや要約からキーワード検索（例: 白浜, パンダ, 高野山, 知事...）" 
+            placeholder="市町村名やキーワードで検索（例: 白浜町, 田辺市, 和歌山市, 有田川町, パンダ...）" 
             class="w-full pl-10 pr-24 py-2 text-sm bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-orange-500/20 focus:border-orange-500 transition-all"
           >
           <button id="searchClearBtn" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-xs text-slate-400 hover:text-slate-600 bg-slate-200/60 hover:bg-slate-200 rounded px-1.5 py-0.5">
             クリア
           </button>
+        </div>
+
+        <!-- 市町村・地域クイック絞り込みタグ -->
+        <div class="flex items-center gap-1.5 overflow-x-auto pb-0.5 text-[11px] no-scrollbar" id="regionTags">
+          <span class="text-slate-400 shrink-0 font-medium text-[10px] uppercase tracking-wider">市町村:</span>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="和歌山市">和歌山市</button>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="白浜町">白浜町</button>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="田辺市">田辺市</button>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="新宮市">新宮市</button>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="串本町">串本町</button>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="海南市">海南市</button>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="橋本市">橋本市</button>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="有田市">有田市</button>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="有田川町">有田川町</button>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="御坊市">御坊市</button>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="高野町">高野町</button>
+          <button type="button" class="region-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-orange-100 hover:text-orange-900 text-slate-600 transition-colors shrink-0 font-medium" data-region="那智勝浦町">那智勝浦町</button>
         </div>
 
         <!-- カテゴリフィルター -->
