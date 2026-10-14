@@ -126,6 +126,12 @@
         "url": "https://news.yahoo.co.jp/articles/0d2445c8c770bdabf565fa7237a158788601c617/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-13 20:55"
+      },
+      {
+        "title": "香川県さぬき市　東かがわ市　小豆島町で「震度1」和歌山県、徳島県で最大震度2の地震　和歌山県・湯浅町、徳島県・小松島市、石井町",
+        "url": "https://news.infoseek.co.jp/article/rsk_3009285/",
+        "source": "Infoseek",
+        "published_at": "2026-10-13 20:54"
       }
     ]
   },
@@ -298,14 +304,7 @@
     "summary": "・２０２６年度前期の技能検定（和歌山県職業能力開発協会主催）があり、田辺工業高校（和歌山県田辺市あけぼの）の２、３年生５人が合格した。\n・【山根選手（田辺工業）ら優勝／田辺で弓道大会の記事】 各都道府県で。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [
-      {
-        "title": "技能検定に5人合格 田辺工業高の生徒、和歌山",
-        "url": "https://www.47news.jp/15074968.html",
-        "source": "47NEWS",
-        "published_at": "2026-10-13 14:30"
-      }
-    ]
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -373,12 +372,6 @@
     "category": "観光・文化",
     "related_articles": [
       {
-        "title": "JR紀勢線・白浜~新宮利用者回復鈍く・和歌山県知事「連携をさらに強化」 (WBS和歌山放送ニュース)",
-        "url": "https://news.yahoo.co.jp/articles/7c1dbbbdd0a77db1fe47b28e8bb974f7913cc60e/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-13 12:06"
-      },
-      {
         "title": "紀州鉄道譲渡白紙・和歌山県知事「非常に残念」（WBS和歌山放送ニュース）",
         "url": "https://news.yahoo.co.jp/articles/8c468a06bffea1108d9f9cb4ff1276537444461a",
         "source": "Yahoo!ニュース",
@@ -406,7 +399,14 @@
     "summary": "・「すぐに次の予約をしました」 和歌山県の“食事評価が高い宿”1位に「蕎麦の麺つゆが持って帰りたいくらい最高」「他の宿に行こうと思わない」「シャトーブリアンが記憶に残る美味しさ」 (ねとらぼ)",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "「すぐに次の予約をしました」 和歌山県の“食事評価が高い宿”1位に「蕎麦の麺つゆが持って帰りたいくらい最高」「他の宿に行こうと思わない」「シャトーブリアンが記憶に残る美味しさ」",
+        "url": "https://nlab.itmedia.co.jp/research/articles/4048994/",
+        "source": "ねとらぼ",
+        "published_at": "2026-10-13 11:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -461,14 +461,7 @@
     "summary": "・10月20日(火)深夜2時29分〜「和歌山県で筏下りの旅」第2話（日テレTOPICS）。\n・「和歌山県で筏下りの旅」第2話。\n・一行はくっきー！さんおすすめのテーマパーク「白浜エネルギーランド」へ！目の錯覚を利用した…。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [
-      {
-        "title": "「くっきー！と和歌山県で筏下りの旅」第1話（日テレTOPICS）",
-        "url": "https://topics.smt.docomo.ne.jp/article/ntv_topics/entertainment/www.ntv.co.jp-tabizaru-articles-3297n3djwu8rqmtsfl4d-html",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-13 02:45"
-      }
-    ]
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
