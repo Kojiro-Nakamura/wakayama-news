@@ -160,6 +160,12 @@
         "url": "https://news.yahoo.co.jp/articles/2f6b25594b8c0f384dfaf500331e8c33a1440432/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-14 17:33"
+      },
+      {
+        "title": "和歌山市に時価1億円超相当の金塊5キロ寄付「和歌山城内の維持・管理のために使ってほしい」市長が発表",
+        "url": "https://news.ntv.co.jp/n/ytv/category/society/yt92c51a2810c74e37b8cd2ee3401dcc6c",
+        "source": "日テレNEWS NNN",
+        "published_at": "2026-10-14 17:33"
       }
     ]
   },
@@ -208,6 +214,24 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-14",
+    "title": "「地域一丸で防除を」 和歌山・みなべでクビアカ被害調査（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/506d358b46c35a2487d143e20d023366b5fe1158",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-14 16:25",
+    "summary": "・外来のクビアカツヤカミキリ（クビアカ）による梅の木の被害が和歌山県みなべ町内で初確認されたのを受け、県やみなべ町、ＪＡわかやまが、最初に被害が確認された地点の半径１キロ圏内の被害状況調査をした。\n・県は被害発生状況（累計）を３カ月単位でまとめ、鳥獣害対策課のホームページで公表している。\n・【みなべで被害　初確認／クビアカツヤカミキリ／梅の一大産地に脅威の記事】　県は９月２８日、町内の梅園地の木１本でクビアカの被害が確認されたと発表した。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "「地域一丸で防除を」 和歌山・みなべでクビアカ被害調査",
+        "url": "https://www.agara.co.jp/article/698800",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-14 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-10-14",
@@ -260,17 +284,6 @@
     "summary": "・印南町は９月３０日、同町印南の町役場で、住民福祉課の尾花仁美さん（２３）への辞令交付式をした。\n・首長日程（１０月１５日）みなべ町、印南町。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-14",
-    "title": "「地域一丸で防除を」 和歌山・みなべでクビアカ被害調査",
-    "url": "https://www.agara.co.jp/article/698800",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-10-14 14:30",
-    "summary": "・みなべで被害　初確認／クビアカツヤカミキリ／梅の一大産地に脅威。\n・クビアカ対策強化求める／みなべ町　独自予算を検討。\n・【速報】「南高梅」産地・みなべ町でクビアカツヤカミキリの被害初確認、和歌山。",
-    "summary_type": "auto",
-    "category": "社会・事件",
     "related_articles": []
   },
   {

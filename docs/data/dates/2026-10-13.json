@@ -41,6 +41,17 @@
   },
   {
     "article_date": "2026-10-13",
+    "title": "記念イベント 2026年度 和歌山県小学4年生サッカー大会 10/25開催！組合せ掲載",
+    "url": "https://www.juniorsoccer-news.com/post-1962418",
+    "source": "Green Card ニュース",
+    "published_at": "2026-10-13 22:50",
+    "summary": "・◆この大会、各チームはどう戦う？どう戦った？\n・ディヴェルタSSS　-　スポーツクラブ和歌山ヴィーヴォまつえ。\n・主催：（一社）和歌山県サッカー協会。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-13",
     "title": "小田凱人「気持ち高まっている」",
     "url": "https://wakayama.keizai.biz/gpnews/1773524/",
     "source": "和歌山経済新聞",
@@ -70,14 +81,20 @@
   },
   {
     "article_date": "2026-10-13",
-    "title": "和歌山 湯浅町で震度2（20:44）",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58879",
-    "source": "NHKニュース",
-    "published_at": "2026-10-13 21:19",
-    "summary": "・【NHK】13日午後8時44分ごろ、和歌山県と徳島県で震度2の揺れを観測する地震がありました。\n・県内の震度は、▼震度2が、湯浅町。\n・▼震度1が和歌山市、海南市、有田。",
+    "title": "香川県さぬき市　東かがわ市　小豆島町で「震度1」和歌山県、徳島県で最大震度2の地震　和歌山県・湯浅町、徳島県・小松島市、石井町",
+    "url": "https://topics.smt.docomo.ne.jp/article/rsk/region/rsk-3009285",
+    "source": "ｄメニューニュース",
+    "published_at": "2026-10-13 21:26",
+    "summary": "・きょう（13日）午後8時44分ごろ、和歌山県、徳島県で最大震度2を観測する地震がありました。\n・気象庁によりますと、震源地は紀伊水道で、震源の深さはおよそ40km、地震の規模を示すマグニチュードは3.8と推定されます。\n・この地震による津波の心配はありません。",
     "summary_type": "auto",
     "category": "政治・行政",
     "related_articles": [
+      {
+        "title": "和歌山 湯浅町で震度2（20:44）",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261013de58879",
+        "source": "NHKニュース",
+        "published_at": "2026-10-13 21:19"
+      },
       {
         "title": "香川県さぬき市 東かがわ市 小豆島町で「震度1」和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町",
         "url": "https://article.auone.jp/7a50f930-f6cc-4f27-823e-1042258fd5a5",
@@ -163,11 +180,31 @@
         "published_at": "2026-10-13 20:53"
       },
       {
-        "title": "震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 山形のニュース│TUYテレビユー山形",
-        "url": "https://newsdig.tbs.co.jp/list/tuy/bousai/earthquake/detail?event=20261013204422",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-13 20:52"
+        "title": "和歌山県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町 (FNNプライムオンライン（フジテレビ系）)",
+        "url": "https://news.yahoo.co.jp/articles/2e6221f7ac5e925324bd5e622839bc74bafa12c1/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-13 20:48"
       },
+      {
+        "title": "和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町",
+        "url": "https://article.auone.jp/article/ad58a212-aa4d-4311-b6be-1966815c9aa2",
+        "source": "au Webポータル",
+        "published_at": "2026-10-13 20:47"
+      },
+      {
+        "title": "香川県さぬき市 東かがわ市 小豆島町で「震度1」和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町 | 岡山・香川のニュース | 天気 | RSK山陽放送",
+        "url": "https://newsdig.tbs.co.jp/articles/rsk/3009285",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-13 20:54"
+      }
+    ]
+  },
+  {
+    "title": "震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 山形のニュース│TUYテレビユー山形",
+    "url": "https://newsdig.tbs.co.jp/list/tuy/bousai/earthquake/detail?event=20261013204422",
+    "source": "TBS NEWS DIG",
+    "published_at": "2026-10-13 20:52",
+    "related_articles": [
       {
         "title": "震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 長崎のニュース | 天気 | NBC長崎放送",
         "url": "https://newsdig.tbs.co.jp/list/nbc/bousai/earthquake/detail?event=20261013204422",
@@ -265,28 +302,10 @@
         "published_at": "2026-10-13 20:51"
       },
       {
-        "title": "和歌山県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町 (FNNプライムオンライン（フジテレビ系）)",
-        "url": "https://news.yahoo.co.jp/articles/2e6221f7ac5e925324bd5e622839bc74bafa12c1/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-13 20:48"
-      },
-      {
-        "title": "和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町",
-        "url": "https://article.auone.jp/article/ad58a212-aa4d-4311-b6be-1966815c9aa2",
-        "source": "au Webポータル",
-        "published_at": "2026-10-13 20:47"
-      },
-      {
         "title": "震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 沖縄のニュース｜RBC 琉球放送",
         "url": "https://newsdig.tbs.co.jp/list/rbc/bousai/earthquake/detail?event=20261013204422",
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-13 20:44"
-      },
-      {
-        "title": "香川県さぬき市 東かがわ市 小豆島町で「震度1」和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町 | 岡山・香川のニュース | 天気 | RSK山陽放送",
-        "url": "https://newsdig.tbs.co.jp/articles/rsk/3009285",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-13 20:54"
       }
     ]
   },
