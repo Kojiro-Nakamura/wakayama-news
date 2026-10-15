@@ -66,6 +66,24 @@
   },
   {
     "article_date": "2026-10-14",
+    "title": "アルカディア不正アクセス 和歌山県内自治体で影響広がる 6市で情報漏洩か（産経新聞）",
+    "url": "https://news.yahoo.co.jp/articles/cb306d96aa84a2f1d3103f4eaf77400814262806",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-14 19:42",
+    "summary": "・自治体の防災情報などを配信するサービスを手がけるアルカディア（大阪府箕面市）への不正アクセスに関連して、和歌山県内では14日までに、和歌山や海南、橋本、御坊、新宮、紀の川の計6市が登録者の個人情報が。\n・和歌山市は延べ2万3679件の個人情報が漏洩した可能性があると発表。\n・漏洩の可能性があるのは「市防災情報メール」に登録されたメールアドレス2万1493件、災害情報をFAXで受け取るための番号26件、市職員の氏名や携帯電話番号など2160件。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "アルカディア不正アクセス　和歌山県内自治体で影響広がる　6市で情報漏洩か",
+        "url": "https://topics.smt.docomo.ne.jp/article/sankei/nation/sankei-_west_west_affairs_7QNBLSJIKJNKXJCHM6TZOYBENM",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-14 19:30"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-10-14",
     "title": "（和歌山）田辺市龍神村安井でクマ出没　１０月１４日",
     "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1483053217851277740?fm=latestnews",
     "source": "ｄメニューニュース",
@@ -73,17 +91,6 @@
     "summary": "・（和歌山）田辺市龍神村安井でクマ出没　１０月１４日（日本不審者情報センター）田辺市によると、１０月１４日午後３時３０分頃、田辺市龍神村安井で、クマが出没しました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-14",
-    "title": "アルカディア不正アクセス　和歌山県内自治体で影響広がる　6市で情報漏洩か",
-    "url": "https://topics.smt.docomo.ne.jp/article/sankei/nation/sankei-_west_west_affairs_7QNBLSJIKJNKXJCHM6TZOYBENM",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-14 19:30",
-    "summary": "・自治体の防災情報などを配信するサービスを手がけるアルカディア（大阪府箕面市）への不正アクセスに関連して、和歌山県内では14日までに、和歌山や海南、橋本、御坊、新宮、紀の川の計6市が登録者の個人情報が漏洩（ろうえい）した可能性があると公表した。\n・和歌山市は延べ2万3679件の個人情報が漏洩した可能性があると発表。\n・漏洩の可能性があるのは「市防災情報メール」に登録されたメールアドレス2万1493件、災害情報をFAXで受け取るための番号26件、市職員の氏名や携帯電話番号など2160件。",
-    "summary_type": "auto",
-    "category": "政治・行政",
     "related_articles": []
   },
   {
@@ -147,6 +154,12 @@
         "url": "https://news.yahoo.co.jp/articles/2f6b25594b8c0f384dfaf500331e8c33a1440432",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-14 17:33"
+      },
+      {
+        "title": "和歌山市に時価1億円超相当の金塊5キロ寄付「和歌山城内の維持・管理のために使ってほしい」市長が発表 (読売テレビ)",
+        "url": "https://news.yahoo.co.jp/articles/2f6b25594b8c0f384dfaf500331e8c33a1440432/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-14 17:33"
       }
     ]
   },
@@ -175,6 +188,12 @@
         "title": "阪神の連覇記念グッズが人気 和歌山のタイガースショップ",
         "url": "https://www.sankei.com/article/20261014-GCMF4GFWFBL5TIHGKOOLYY3FNY/",
         "source": "産経ニュース",
+        "published_at": "2026-10-14 16:33"
+      },
+      {
+        "title": "阪神の連覇記念グッズが人気　和歌山のタイガースショップ",
+        "url": "https://topics.smt.docomo.ne.jp/article/sankei/life/sankei-_life_trend_GCMF4GFWFBL5TIHGKOOLYY3FNY",
+        "source": "ｄメニューニュース",
         "published_at": "2026-10-14 16:33"
       }
     ]
@@ -223,7 +242,14 @@
     "summary": "・【読売新聞】　和歌山市は１４日、匿名の市民から金塊５キロ（１億円相当）の寄付を受けたと発表した。\n・寄付者は「和歌山城をよりきれいにしてほしい」と望んでいるといい、和歌山城公園内の維持管理の充実に役立てる。\n・尾崎太郎市長は１４日の定例記。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "「和歌山城をよりきれいに」と１億円相当の金塊を匿名で寄付…和歌山市長「本当にびっくりし喜んでいる」（読売新聞オンライン）",
+        "url": "https://news.yahoo.co.jp/articles/fdc00b46b8812a85330cc8c592c852eea727312e",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-14 16:21"
+      }
+    ]
   },
   {
     "article_date": "2026-10-14",

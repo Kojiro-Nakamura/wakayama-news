@@ -281,6 +281,12 @@
         "url": "https://newsdig.tbs.co.jp/list/rbc/bousai/earthquake/detail?event=20261013204422",
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-13 20:44"
+      },
+      {
+        "title": "香川県さぬき市 東かがわ市 小豆島町で「震度1」和歌山県、徳島県で最大震度2の地震 和歌山県・湯浅町、徳島県・小松島市、石井町 | 岡山・香川のニュース | 天気 | RSK山陽放送",
+        "url": "https://newsdig.tbs.co.jp/articles/rsk/3009285",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-13 20:54"
       }
     ]
   },
@@ -510,14 +516,7 @@
     "summary": "・和歌山県田辺市中芳養の産業廃棄物処理会社「蒲田辰商店」（蒲田啓吾社長）は、県から優良産廃処理業者の認定を受けた。\n・基準をクリアした業者を審査・認定する制度で、同社は収集運搬と中間処理の二つの区分で優良。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [
-      {
-        "title": "優良産廃処理業者に認定 和歌山・田辺の蒲田辰商店、中間処理は紀南初",
-        "url": "https://www.agara.co.jp/article/698130",
-        "source": "AGARA 紀伊民報",
-        "published_at": "2026-10-13 14:30"
-      }
-    ]
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -596,6 +595,30 @@
   },
   {
     "article_date": "2026-10-13",
+    "title": "和歌山・熊野古道の滝尻王子から近露王子|黄泉がえりの道を往く世界遺産（おとなの週末）",
+    "url": "https://news.yahoo.co.jp/articles/230b279f67440cf368463f9c95c40258d6ce8a8a",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-13 14:10",
+    "summary": "・太古の昔、火山大爆発で地球の生物を大量絶滅させた、熊野の山に巨石がゴロリ。\n・「黄泉の国」と古代人が畏れ、平安貴族が来世を祈り、いつしか熊野は聖地になった。\n・足を踏み入れる者は、一度死んで、そして蘇る？奥深い森の謎の聖地へ、いざ！熊野古道「中辺路」の旅路は全3回で紹介！今回は、“王子”をめぐる旅の始まり、滝尻王子から近露王子の前編をお届けする。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "【歩ける世界遺産】熊野古道「中辺路」を歩く! 滝尻王子から熊野本宮大社までの長定番ルートを解説（BRAVO MOUNTAIN）",
+        "url": "https://news.yahoo.co.jp/articles/c14e3153e41895f274a95a7387c4e0b404984128?page=2",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-13 06:06"
+      },
+      {
+        "title": "【歩ける世界遺産】熊野古道「中辺路」を歩く! 滝尻王子から熊野本宮大社までの長定番ルートを解説 (BRAVO MOUNTAIN)",
+        "url": "https://news.yahoo.co.jp/articles/c14e3153e41895f274a95a7387c4e0b404984128/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-13 06:06"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-10-13",
     "title": "列車に手を振る保育園児ら",
     "url": "https://wakayama.keizai.biz/gpnews/1773388/",
     "source": "和歌山経済新聞",
@@ -629,12 +652,6 @@
       {
         "title": "紀州鉄道譲渡白紙・和歌山県知事「非常に残念」（WBS和歌山放送ニュース）",
         "url": "https://news.yahoo.co.jp/articles/8c468a06bffea1108d9f9cb4ff1276537444461a",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-13 11:58"
-      },
-      {
-        "title": "紀州鉄道譲渡白紙・和歌山県知事「非常に残念」 (WBS和歌山放送ニュース)",
-        "url": "https://news.yahoo.co.jp/articles/8c468a06bffea1108d9f9cb4ff1276537444461a/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-13 11:58"
       }
@@ -683,24 +700,6 @@
     "summary_type": "auto",
     "category": "社会・事件",
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "【歩ける世界遺産】熊野古道「中辺路」を歩く! 滝尻王子から熊野本宮大社までの長定番ルートを解説（BRAVO MOUNTAIN）",
-    "url": "https://news.yahoo.co.jp/articles/c14e3153e41895f274a95a7387c4e0b404984128?page=2",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-13 06:06",
-    "summary": "・いつか熊野古道を歩いてみたいというハイカーに向け、熊野古道アンバサダーを務めるぼくが、その歩き方を提案する連載の第2弾。\n・今回は、実際に自らの足で熊野本宮大社まで参拝に行く「熊野詣」として歩いてほしい。\n・2日目は、近露王子から熊野本宮大社まで歩く。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "related_articles": [
-      {
-        "title": "【歩ける世界遺産】熊野古道「中辺路」を歩く! 滝尻王子から熊野本宮大社までの長定番ルートを解説 (BRAVO MOUNTAIN)",
-        "url": "https://news.yahoo.co.jp/articles/c14e3153e41895f274a95a7387c4e0b404984128/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-13 06:06"
-      }
-    ]
   },
   {
     "article_date": "2026-10-13",
