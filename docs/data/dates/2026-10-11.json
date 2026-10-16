@@ -34,9 +34,9 @@
     "summary": "・南海電鉄「沿線価値向上プロジェクト」の高野山麓観光魅力向上プロジェクト紹介ページです。\n・世界遺産に登録されている天空の聖地・高野山。\n・「高野山観光魅力向上プロジェクト」は、そんな高野山エリアとその周りに広がるふもとエリアの新しい魅力を生み出し、発信するプロジェクトです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-11",
@@ -47,9 +47,9 @@
     "summary": "・2026年のNHK大河ドラマ『豊臣兄弟！』ゆかりの地をバイクで巡る旅として、和歌山県和歌山市の「和歌山城」を訪れました。\n・現在は徳川御三家のひとつ、紀州徳川家の城として知られますが、その始まりをたどる。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-11",
@@ -60,9 +60,9 @@
     "summary": "・2026年の潮位表（毎時潮位、満潮・干潮の時刻と潮位）は、PDF版、テキストデータ版でもご利用いただけます。\n・潮位表ダウンロード（潮位表基準面上の値）　　PDF版（満潮・干潮のみ　約70KB）　　PDF版（毎時潮位含む　約300KB）　　テキストデータ版（50KB）。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-11",
@@ -73,26 +73,8 @@
     "summary": "・高野町東部の山あいにある富貴(ふき)地区で、きょう（１０月１１日）神社の秋の例大祭が営まれ、氏子たちが威勢のいいかけ声とともに、神輿を担いで集落を練り歩きました。\n・例大祭は、東富貴地区と西富貴地区にそれぞれ鎮座する丹生(にう)神社で、毎年１０月のこの時期に営まれていて、およそ３００年の歴史を誇ります。\n・西富貴丹生神社の井阪祥春(いさか・よしはる)宮司は「例大祭が無事に行われるのは大変有難い。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [
-      {
-        "title": "祭の担い手戻りつつある高野町富貴地区で秋の例大祭／和歌山県（WBS和歌山放送ニュース）",
-        "url": "https://news.yahoo.co.jp/articles/0c828b0c89967396660dd560b73003c08f1acac4",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-11 16:12"
-      }
-    ],
     "importance_score": 26,
-    "is_featured": true
-  },
-  {
-    "article_date": "2026-10-11",
-    "title": "高野町富貴地区・丹生神社の例大祭／和歌山",
-    "url": "https://news.wbs.co.jp/220788",
-    "source": "WBS和歌山放送ニュース",
-    "published_at": "2026-10-11 17:28",
-    "summary": "・高野町東部の山あいにある富貴(ふき)地区で、きょう（１０月１１日）神社の秋の例大祭が営まれ、氏子たちが威勢のいいかけ声とともに、神輿を担いで集落を練り歩きました。\n・例大祭は、東富貴地区と西富貴地区にそれぞれ鎮座する丹生(にう)神社で、毎年１０月のこの時期に営まれていて、およそ３００年の歴史を誇ります。\n・午前１０時過ぎ、東西それぞれの丹生神社に法被姿の男衆が参拝したあと、およそ２０人がひと組となって神輿を担いで「ヨーイソーリャ」のかけ声とともに集落を練り歩き、ときおり住民らがはやし立てる声に合わせて「ワッショイワッショイ」と激しく神輿を揺さぶる荒技を披露し、盛り上げていました。",
-    "summary_type": "auto",
-    "category": "観光・文化",
+    "is_featured": true,
     "related_articles": [
       {
         "title": "祭の担い手戻りつつある高野町富貴地区で秋の例大祭／和歌山県（WBS和歌山放送ニュース）",
@@ -124,6 +106,8 @@
     "summary": "・ミカンの神様をまつる和歌山県海南市の橘本神社で１１日、特産品ミカンの恵みに感謝し、豊作を祈る「みかん祭」が営まれた。\n・「みかん祭」で供えられた極わせ品種のミカン＝１１日午後、和歌山県海南市。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 33,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "ミカンの神様に豊作祈願、和歌山 「発祥の地」掲げる海南市",
@@ -137,9 +121,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-11 16:28"
       }
-    ],
-    "importance_score": 33,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-11",
@@ -163,9 +145,9 @@
     "summary": "・江戸時代から古式捕鯨で栄えた和歌山県太地町。\n・狭い道を走る自動運転カート＝４月、和歌山県太地町。\n・捕鯨が衰退して高齢化が進む中、町は住民の生活の質向上につなげようと、移動に便利な自動運転カートを導入するなど外出支援に取り組んでいる。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-11",
@@ -176,9 +158,9 @@
     "summary": "・梅の里社会人野球、みなべ町のやんちゃが初優勝／和歌山。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-11",
@@ -189,9 +171,9 @@
     "summary": "・（和歌山）紀美野町梅本でクマ出没の可能性　１０月１１日（日本不審者情報センター）和歌山県警によると、１０月１１日午前８時４５分頃、紀美野町梅本で、クマとみられる動物が出没しました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-11",

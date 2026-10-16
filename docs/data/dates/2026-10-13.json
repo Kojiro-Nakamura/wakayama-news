@@ -8,9 +8,9 @@
     "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・現在地周辺の雨雲レーダー（ズームイン/ズームアウト）。\n・和歌山県の落雷地点・雷予報をチェック！",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -21,6 +21,8 @@
     "summary": "・ネパール洪水復興支援チャリティーイベントがJR和歌山駅前「わかちか広場」と県民交流プラザ「和歌山ビッグ愛」（和歌山市手平2）で10月17日、開催される。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "ココネパールフェスティバル2026年で販売する現地の手作り雑貨",
@@ -28,9 +30,7 @@
         "source": "和歌山経済新聞",
         "published_at": "2026-10-13 23:13"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -41,9 +41,9 @@
     "summary": "・ネパール洪水復興支援チャリティーイベントがJR和歌山駅前「わかちか広場」と県民交流プラザ「和歌山ビッグ愛」（和歌山市手平2）で10月17日、開催される。\n・（和歌山経済新聞）【写真】「あかつきプロジェク。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -54,9 +54,9 @@
     "summary": "・◆この大会、各チームはどう戦う？どう戦った？\n・ディヴェルタSSS　-　スポーツクラブ和歌山ヴィーヴォまつえ。\n・主催：（一社）和歌山県サッカー協会。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -67,9 +67,9 @@
     "summary": "・愛知・名古屋アジアパラ大会に出場する車いすテニス日本代表が１３日、名古屋市内で事前合宿を公開し、男子で愛知県出身の小田凱人は「気持ちは高まっている。\n・自分の全てを出して勝ちたい」と意気込みを語った。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -80,6 +80,8 @@
     "summary": "・11日午後9時52分ごろ、日帰りで奈良県上北山村の和佐又山方面へ登山に出掛けた大阪市阿倍野区の会社員男性(63)と連絡が取れないないと、男性の妻から警察に通報があった。\n・吉野署と県広域消防組合が捜索し、12日午前11時55分ごろ、男性を発見したが死亡が確認された。\n・同署によると、男性は和佐又ヒュッテから大普賢岳や七曜岳を周回するコース上にある、底無井戸付近の登山道から崖下数十メートルの場所で見つかった。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "登山道で転落か 遭難の男性死亡 - 奈良県上北山村",
@@ -87,9 +89,7 @@
         "source": "47NEWS",
         "published_at": "2026-10-13 21:40"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -100,6 +100,8 @@
     "summary": "・きょう（13日）午後8時44分ごろ、和歌山県、徳島県で最大震度2を観測する地震がありました。\n・気象庁によりますと、震源地は紀伊水道で、震源の深さはおよそ40km、地震の規模を示すマグニチュードは3.8と推定されます。\n・この地震による津波の心配はありません。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 276,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山 湯浅町で震度2（20:44）",
@@ -209,16 +211,16 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-13 20:54"
       }
-    ],
-    "importance_score": 276,
-    "is_featured": true
+    ]
   },
   {
     "title": "震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 山形のニュース│TUYテレビユー山形",
     "url": "https://newsdig.tbs.co.jp/list/tuy/bousai/earthquake/detail?event=20261013204422",
     "source": "TBS NEWS DIG",
     "published_at": "2026-10-13 20:52",
-    "summary": "・震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 山形のニュース│TUYテレビユー山形",
+    "summary": "・震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 山形のニュース│TUYテレビユー山形。",
+    "importance_score": 255,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 長崎のニュース | 天気 | NBC長崎放送",
@@ -322,9 +324,7 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-13 20:44"
       }
-    ],
-    "importance_score": 255,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -335,6 +335,8 @@
     "summary": "・１３日午後８時４４分ごろ地震がありました。\n・気象庁によると、震源地は紀伊水道北緯３３・８度、東経１３４・７度で、震源の深さは約４０キロ。\n・地震の規模はマグニチュード（Ｍ）３・８と推定される。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "震度＝気象庁発表（１３日２０時４７分）震度順・市区町村別　：地震",
@@ -342,9 +344,7 @@
         "source": "大分合同新聞",
         "published_at": "2026-10-13 08:52"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -355,6 +355,8 @@
     "summary": "・世界遺産に登録されている高野参詣道「黒河（くろこ）道」で2日、男性がツキノワグマに襲われけがをした和歌山県九度山町で、山間部の柿畑3カ所の柿の木の枝が折られたり、実をかじられたりしたことが町への取材。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 36,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "柿畑にクマの痕跡、複数が活動か 男性襲われた和歌山・九度山",
@@ -368,9 +370,7 @@
         "source": "au Webポータル",
         "published_at": "2026-10-13 20:17"
       }
-    ],
-    "importance_score": 36,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -381,9 +381,9 @@
     "summary": "・「ストリートファイター　ザ・ムービー」を上映する、イオンシネマ和歌山（和歌山県 和歌山市）の映画館（上映館）情報と上映スケジュールを掲載。\n・イオンシネマ和歌山の上映時間やアクセス方法、料金・割引等をチェック - 映画.com。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -394,9 +394,9 @@
     "summary": "・【NHK】串本町では、地元の中学生が病院を訪問して医療現場の仕事を体験しました。\n・「くしもと町立病院」では、医療現場の仕事を体験して、関心を持ってもらおうと見学会を開いていて、今月8日は、串本中学校の1年生。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -407,9 +407,9 @@
     "summary": "・【NHK】紀伊半島南部の固有種「キイジョウロウホトトギス」が和歌山県古座川町で見頃を迎え、かれんな黄色い花が訪れた人たちを楽しませています。\n・ユリ科の多年草「キイジョウロウホトトギス」は紀伊半島南部の固有種。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -433,9 +433,9 @@
     "summary": "・【NHK】和歌山県橋本市では、10日、秋祭りにあわせてだんじりのパレードが行われ、家族連れなど多くの人たちでにぎわいました。\n・パレードには橋本市内の各地区から、屋形船を模した和歌山県の有形民俗文化財にも指定。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -446,9 +446,9 @@
     "summary": "・【関西ぶっとび中継】～奈良・上北山村編～ 標高1150mの絶景へ！山岳キャンプ＆豪快ジビエに大興奮！",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -459,9 +459,9 @@
     "summary": "・MISIA OFFICIAL WEBSITE。\n・2026年10月13日、MISIAおよび株式会社リズメディアは、世界平和への願いを込めて、高野山・奥之院に石燈籠を奉納いたしました。\n・高野山とのご縁は、2015年に開催されたMISIAのライヴをきっかけに始まりました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -472,6 +472,8 @@
     "summary": "・和歌山県有田郡有田川町に、ドーナツ専門店「ぱくぱくドーナツ」が2026年12月5日（土）にオープンします。\n・料理人として約40年のキャリアを持つフレンチシェフが、地域と環境に配慮して手がけるお店です。\n・お店を手がけるのは、有田川町で地産地消のフランス料理店「ナチュラルガーデン」を営む、オーナーシェフの前川和宏さん。",
     "summary_type": "auto",
     "category": "経済・産業",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "フレンチ歴約40年のシェフが故郷・有田川町で挑む「地域に還元するドーナツ店‟ぱくぱくドーナツ”」12月5日オープン",
@@ -479,9 +481,7 @@
         "source": "PR TIMES",
         "published_at": "2026-10-13 09:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -512,6 +512,8 @@
     "summary": "・和歌山市の片男波(かたおなみ)海水浴場で、今月（１０月）１８日、多くの砂の像が建ち並ぶイベントが開かれます。\n・これは、和歌山青年会議所が開催する「第８回ＰＯＷＥＲ(パワー) ＯＦ(オブ) わかやま～紀州砂フェス」で、巨大な砂像のほか、遊びや謎解きなどの体験型イベントです。\n・イベントのシンボルは、「和歌山：オリジン」をテーマにした、高さ３メートル、幅１０メートルの砂の像で、国内外で活躍する愛知県のプロ・サンドアーティスト、尾張砂像(おわりさぞう)連盟が制作します。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 29,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "片男波海水浴場で「紀州砂フェス」１８日に／和歌山",
@@ -519,9 +521,7 @@
         "source": "au Webポータル",
         "published_at": "2026-10-13 17:14"
       }
-    ],
-    "importance_score": 29,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -610,6 +610,8 @@
     "summary": "・和歌山県田辺市秋津町にあるＪＡわかやまの産直店「紀菜柑」は３日、同市上秋津でバナナ園の見学ツアーを開いた。\n・参加した親子連れらが、バナナの実がなった様子に感動していた。\n・【外国人がミカン満喫 上秋津で収。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 39,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "バナナ園に感動 田辺市上秋津で見学ツアー、和歌山 (紀伊民報)",
@@ -623,9 +625,7 @@
         "source": "47NEWS",
         "published_at": "2026-10-13 14:30"
       }
-    ],
-    "importance_score": 39,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -636,6 +636,8 @@
     "summary": "・和歌山県田辺市本宮町で１０日、世界遺産である熊野本宮大社の旧社地・大斎原（おおゆのはら）へと続く御幸道などを時代行列が練り歩く第２５回「八咫（やた）の火祭り」（実行委員会主催）が開かれた。\n・大斎原では祭りに合わせて俳優・若村麻由美さん主演の音楽祝祭劇の奉納公演もあり、秋の熊野本宮が幻想的な雰囲気に包まれた。\n・【大斎原で音楽祝祭劇　若村麻由美さん主演、10月10日に和歌山県田辺の記事】　八咫の火祭りは熊野の神の使いとされる「八咫烏（やたがらす）」が神武天皇を目的地へと導いたことにちなみ、人々を幸福に導く「導きの祭り」として開いている。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 33,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "幻想的に「八咫の火祭り」 若村麻由美さんの劇奉納も、和歌山・田辺市本宮",
@@ -643,9 +645,7 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-10-13 14:30"
       }
-    ],
-    "importance_score": 33,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -669,9 +669,9 @@
     "summary": "・ベスト４決まる／梅の里社会人野球大会。\n・梅の里野球が開幕　ベスト４決まる、和歌山県みなべ。\n・ＣＲＥＡＭ優勝／みなべ　連盟杯軟式野球／やんちゃ準優勝。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -682,9 +682,9 @@
     "summary": "・天候に恵まれた１１、１２日、紀南の各地で秋祭りが営まれた。\n・【動画】ハイハイレースに笑顔　「赤ちゃんの日」で催し、白浜アドベンチャーワールド、和歌山。\n・【動画】秋の夜空彩る大パノラマ／田辺花火大会。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 20,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",
@@ -695,6 +695,8 @@
     "summary": "・太古の昔、火山大爆発で地球の生物を大量絶滅させた、熊野の山に巨石がゴロリ。\n・「黄泉の国」と古代人が畏れ、平安貴族が来世を祈り、いつしか熊野は聖地になった。\n・足を踏み入れる者は、一度死んで、そして蘇る？奥深い森の謎の聖地へ、いざ！熊野古道「中辺路」の旅路は全3回で紹介！今回は、“王子”をめぐる旅の始まり、滝尻王子から近露王子の前編をお届けする。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 45,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【歩ける世界遺産】熊野古道「中辺路」を歩く! 滝尻王子から熊野本宮大社までの長定番ルートを解説（BRAVO MOUNTAIN）",
@@ -708,9 +710,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-13 06:06"
       }
-    ],
-    "importance_score": 45,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-13",
@@ -780,9 +780,9 @@
     "summary": "・和歌山県かつらぎ町にある「山荘 天の里」は、世界遺産・高野山の麓に広がる天野の里にただずむ、全8室の小さな宿です。\n・天然温泉の貸切風呂やサウナ、和歌山の食材を生かした創作和フレンチも楽しめ、にぎやかな観光地とはひと味違う静かな時間を過ごせるのが魅力。\n・高野山や九度山を巡る旅の拠点としても利用でき、自然と食、湯をじっくり味わいたい人におすすめで、料理も高く評価されている宿です。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-13",

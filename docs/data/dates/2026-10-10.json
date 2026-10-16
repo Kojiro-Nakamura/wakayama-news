@@ -8,9 +8,16 @@
     "summary": "・和歌山県白浜町のアドベンチャーワールドでは、赤ちゃんの健やかな成長を祝う、「ハイハイレース」が開かれました。\n・「ハイハイレース」には２５人の赤ちゃんがエントリーし、５人ずつに分かれて３メートル先のゴールを目指します。\n・涙でそうです」「にこにこ笑顔が見られて、うれしかったです」「ゴールできて、成長を感じました」　赤ちゃんたちの愛らしい姿に会場には笑顔があふれ、和やかな雰囲気に包まれていました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 17,
-    "is_featured": true
+    "importance_score": 32,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "赤ちゃんの健やかな成長祝う「ハイハイレース」 和歌山・白浜町のアドベンチャーワールド",
+        "url": "https://news.yahoo.co.jp/articles/525706d6c64b81e64ecf96462c59033c80df9365",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-10 18:44"
+      }
+    ]
   },
   {
     "article_date": "2026-10-10",
@@ -21,9 +28,9 @@
     "summary": "・南部長寿大学／落語で笑って健康に／みなべ出身　橋蔵さん披露。\n・「号外」級の笑い届ける　本紙工場で落語会、和歌山県みなべ出身の橋蔵さん。\n・秋祭りの芝居稽古に熱　田辺の杵荒神社と上富田の春日神社、和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-10",
@@ -34,9 +41,9 @@
     "summary": "・植物の手仕事触れて／２０日まで田辺／蒸留やヒンメリ体験。\n・くら寿司で田辺の産品　16～25日の期間限定販売、和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-10",
@@ -47,9 +54,9 @@
     "summary": "・和歌山県内で初めて緊急銃猟制度が適用された古座川町。\n・町に取材すると、緊迫した当時の様子が明らかになった。\n・猟銃による狩猟免許を持つ町職員（射手）に銃や弾を準備するよう指示し、大屋一成町長から現場の判断で緊急銃猟ができる許可を得た。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-10",
@@ -60,9 +67,9 @@
     "summary": "・和歌山県御坊市の三浦源吾市長は9日、紀州鉄道の鉄道事業を別の事業者に譲渡する計画が白紙になったと発表した。\n・紀州鉄道と譲渡先との交渉が合意に至らなかったといい、三浦市長は「交渉がまとまらなかったのは大変残念だ」と述べた。\n・紀州鉄道はJR御坊駅と西御坊駅を結ぶ全長2・7キロの路線で、「日本一短いローカル私鉄」として知られる。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-10",
@@ -73,7 +80,9 @@
     "summary": "・現在の気圧のほか、今日・明日・10日先の予報を確認して、気圧変化による体調不良の予防を心がけましょう。\n・気圧予報は「気圧の変化の予想と、それによる体調への影響度合い」をお伝えするための予報です。\n・凡例は、矢印の向きで気圧の変化傾向を表し、色が青から赤に変化するにつれて影響度が高くなります。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-10",
@@ -84,9 +93,9 @@
     "summary": "・和歌山県御坊市の紀州鉄道で、鉄道事業の他社への譲渡交渉が、最終的な合意に至らなかったことが明らかになりました。\n・6月には事業譲渡の見通しが示されていましたが、収益改善の具体的な計画を描けないことなどから、交渉先が辞退したということです。\n・毎日新聞によると、10月1日に非公開で開かれた御坊市地域公共交通活性化再生協議会の紀州鉄道部会で、オンライン参加した紀州鉄道の中川源行社長が、交渉不成立を報告したということです。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-10",
@@ -97,6 +106,8 @@
     "summary": "・FNNプライムオンライン（FNNプライムオンライン）。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 60,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山県で最大震度2の地震 和歌山県・御坊市（TBS NEWS DIG Powered by JNN）",
@@ -122,9 +133,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-10 03:30"
       }
-    ],
-    "importance_score": 60,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-10",
@@ -135,8 +144,8 @@
     "summary": "・南紀白浜(和歌山県)のアメダスによる2026年10月09日の気温、降水量、風向・風速、日照時間、積雪深の観測情報を閲覧できます。\n・※日最高気温・日最低気温・日最大風速は、アメダス10分値です。\n・南紀白浜(ナンキシラハマ)のアメダス(2026年10月09日)2026年10月09日。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]

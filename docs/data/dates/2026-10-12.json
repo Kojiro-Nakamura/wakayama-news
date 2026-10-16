@@ -8,6 +8,8 @@
     "summary": "・（和歌山）日高川町中津川でクマ出没　１０月１２日（日本不審者情報センター）和歌山県警によると、１０月１２日午前１０時３０分頃、日高川町中津川で、クマが出没しました。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 48,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "（和歌山）九度山町中古沢でクマ出没　１０月１２日",
@@ -27,9 +29,7 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-12 20:25"
       }
-    ],
-    "importance_score": 48,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-12",
@@ -92,9 +92,9 @@
     "summary": "・特急くろしお号の利用者を対象にした「特急くろしお号ご乗車記念証」が現在、新宮市観光協会（新宮市徐福2）で配布されている。\n・三輪崎八幡神社（新宮市三輪崎）の例大祭が9月13日、同神社と三輪崎漁港（同）周辺で開催された。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -118,6 +118,8 @@
     "summary": "・和歌山県串本町の漁港では、秋の味覚「イセエビ」の漁が本格化し、イキのいい「イセエビ」が水揚げされています。\n・午前７時ごろ、串本町の下田原漁港に、前日に仕掛けられた網を引き揚げた漁船が次々と戻ってきます。\n・作業場では、漁師の家族らが総出で、水揚げされたイセエビを特製の金具を使って角や足がとれないよう１匹１匹、丁寧に網から外していきます。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 44,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "南紀の秋の味覚「イセエビ」漁が本格化　和歌山・串本町",
@@ -131,9 +133,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-12 12:27"
       }
-    ],
-    "importance_score": 44,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-12",
@@ -144,9 +144,9 @@
     "summary": "・紀伊半島の白浜といえば関西を代表するリゾート地であり、パンダが“いた”テーマパーク「アドベンチャーワールド」で有名だろう。\n・そんな白浜には、関西の名だたるレジャー施設に匹敵……いや、それらを遥かに上回。\n・建築マニアの間では“バブル期を代表する名建築”と名高い「ホテル川久」だ。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -170,9 +170,9 @@
     "summary": "・【NHK】秋の行楽シーズンに合わせ、世界遺産・熊野古道を訪れる観光客に安全な登山を呼びかける啓発活動が、和歌山県新宮市で11日行われました。\n・啓発活動は、熊野古道のルート上にある新宮市の熊野速玉大社で、和歌。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 20,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -183,9 +183,9 @@
     "summary": "・2026/10/12 06:00。\n・紀伊山地の山々に囲まれ、視界いっぱいに緑が広がる和歌山県田辺市龍神村。\n・観光客が多く訪れる龍神温泉の入り口では、空に昇るようにも見える高さ５メートルほどの木彫りの龍が出迎える。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -196,9 +196,9 @@
     "summary": "・【和歌山市】10/12 最高27℃、昼間はやや暑さを感じる場面も、朝から夜まで晴れる予想【朝版】。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",

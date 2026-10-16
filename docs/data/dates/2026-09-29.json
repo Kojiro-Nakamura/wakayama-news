@@ -8,6 +8,8 @@
     "summary": "・（９／２９）今日午前、有田川町に設置された捕獲用の檻に、ツキノワグマ１頭がかかり、薬剤を使って捕殺されました。\n・有田川町では今月２７日に男性がツキノワグマに襲われる被害が発生していて、県は、同一個体の可能性が高いとみています。\n・午後２時頃、町から委託された兵庫県の業者が麻酔銃を使ってクマを眠らせたあと、檻から引き出し、薬剤を使って捕殺したということです。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 24,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【速報】和歌山・有田川町でツキノワグマ捕殺 全長135センチ、体重57キロのオス おとといには男性が自宅近くで襲われケガ",
@@ -15,9 +17,7 @@
         "source": "日テレNEWS NNN",
         "published_at": "2026-09-29 16:00"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-09-29",
@@ -28,9 +28,9 @@
     "summary": "・海外から和歌山・有田川町での金庫窃盗を指示か、容疑で26歳男を逮捕フィリピンから帰国 (産経新聞)。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-09-29",
@@ -41,9 +41,9 @@
     "summary": "・クマ被害、現場近くに捕獲用のおり設置 和歌山県有田川町。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-09-29",
@@ -54,8 +54,8 @@
     "summary": "・フォトコンテスト2026 入賞作品。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]
