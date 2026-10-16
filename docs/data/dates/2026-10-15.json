@@ -1,6 +1,19 @@
 [
   {
     "article_date": "2026-10-15",
+    "title": "令和７年度",
+    "url": "https://www.city.hashimoto.lg.jp/guide/keizaisuisinbu/sangyousinkou/syouhinsyoukai/23545.html",
+    "source": "橋本市",
+    "published_at": "2026-10-15 23:14",
+    "summary": "・令和７年度。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-15",
     "title": "首位は蛭田みな美、高橋しずく",
     "url": "https://wakayama.keizai.biz/gpnews/1774254/",
     "source": "和歌山経済新聞",
@@ -210,6 +223,26 @@
   },
   {
     "article_date": "2026-10-15",
+    "title": "くら寿司で田辺の産品 16～25日の期間限定販売、和歌山（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/9880afb49044e4bc4c6dca619e9ee08e55017289",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-15 16:25",
+    "summary": "・大手回転ずしチェーンの「くら寿司」（本部・堺市）と堺市は１６～２５日の期間限定で、同市とその友好都市である和歌山県田辺市などの特産品をＰＲする企画を実施する。\n・【田辺の特産品ＰＲ／友好都市・堺の催しに出店の記事】　「国内友好都市ハンズ・ハンズＰＲＯＪＥＣＴ（プロジェクト）」と銘打った取り組み。\n・販売店舗は大阪府や東京都、奈良県や和歌山県内の計９１店舗。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "くら寿司で田辺の産品 16～25日の期間限定販売、和歌山",
+        "url": "https://www.agara.co.jp/article/699395",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-15 14:30"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-15",
     "title": "和歌山・湯浅醤油の新古敏朗、Forbes JAPAN「CULTURE-PRENEURS AWARD 2026」に選出",
     "url": "https://mantan-web.jp/prtimes/article/20261015prt00m200000882a.html",
     "source": "MANTANWEB",
@@ -243,19 +276,6 @@
     "summary": "・西日本高速道路株式会社は１６日から、印南サービスエリア（ＳＡ）の上下線に一般道からＳＡの施設を利用できる専用。\n・これまでも従業員の通勤や物資の搬入用に一般道からＳＡに入るための出入り口があり、高速バスの利用など限られた人もこの出入り口を使っていたが、ウェルカムゲートにすることでだれでも利用可能。\n・一般道からの利用客はＳＡと異なる専用駐車場を利用。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 11,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-15",
-    "title": "くら寿司で田辺の産品 16～25日の期間限定販売、和歌山",
-    "url": "https://www.agara.co.jp/article/699395",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-10-15 14:30",
-    "summary": "・田辺の特産品ＰＲ／友好都市・堺の催しに出店。\n・くら寿司と和歌山県がタッグ　県産メニュー販売や養殖技術の開発、食育で連携協定。",
-    "summary_type": "auto",
-    "category": "経済・産業",
     "importance_score": 11,
     "is_featured": false,
     "related_articles": []

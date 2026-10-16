@@ -80,9 +80,9 @@
     "summary": "・現在の気圧のほか、今日・明日・10日先の予報を確認して、気圧変化による体調不良の予防を心がけましょう。\n・気圧予報は「気圧の変化の予想と、それによる体調への影響度合い」をお伝えするための予報です。\n・凡例は、矢印の向きで気圧の変化傾向を表し、色が青から赤に変化するにつれて影響度が高くなります。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-10",
