@@ -8,7 +8,9 @@
     "summary": "・和歌山市の中心街で再開発計画が動き出す。\n・核となるのは、2033年度以降の完成を見込む南海和歌山市駅前とJR和歌山駅近くの複合ビル建設だ。\n・同市では市街地が拡散し、中心部の空洞化が進む。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-09-24",
@@ -19,6 +21,8 @@
     "summary": "・優勝：SC和歌山ヴィーヴォU-12まつえ。\n・準優勝：グランディールFC。\n・以上3チームはJFA 第50回 全日本U-12サッカー選手権 和歌山県大会のシード権獲得。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   }
 ]

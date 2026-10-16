@@ -15,7 +15,9 @@
         "source": "tenki.jp",
         "published_at": "2026-06-03 16:00"
       }
-    ]
+    ],
+    "importance_score": 36,
+    "is_featured": true
   },
   {
     "article_date": "2026-06-03",
@@ -33,7 +35,9 @@
         "source": "tenki.jp",
         "published_at": "2026-06-03 16:00"
       }
-    ]
+    ],
+    "importance_score": 21,
+    "is_featured": true
   },
   {
     "article_date": "2026-06-03",
@@ -44,6 +48,8 @@
     "summary": "・和歌山県古座川水系古座川レベル５氾濫特別警報。\n・【警戒レベル５相当情報［洪水］】〔警戒レベル４相当から５相当に切替〕和歌山県古座川水系古座川では、氾濫しているおそれ。\n・【警戒レベル２】相瀬基準観測所（東牟婁郡古座川町）受け持ち区間　古座川の相瀬基準観測所（東牟婁郡古座川町）では、「避難判断水位」に到達しましたが、今後、水位は上昇しない見込みです。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   }
 ]

@@ -8,7 +8,9 @@
     "summary": "・【NHK】ロケットの発射場がある串本町で、町が制作した「ロケット体操」を広めようと、職員も練習に励んでいます。\n・町では、和歌山県出身の元体操選手、田中理恵さんが振り付けを担当し、NHKの番組で「体操のお兄さ。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -44,7 +46,9 @@
         "source": "アットプレス",
         "published_at": "2026-10-14 12:00"
       }
-    ]
+    ],
+    "importance_score": 72,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-14",
@@ -52,7 +56,7 @@
     "url": "https://news.yahoo.co.jp/articles/29e0587ce322b8e7e54605e3e059f144650bcd62",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-14 19:47",
-    "summary": "・和歌山県人事委員会は14日、県職員（一般行政職）の令和8年度の月給を3.51％、期末・勤勉手当を0.05カ月分引き上げるよう宮崎泉知事に勧告した。\n・引き上げ勧告は5年連続で、3％を超えるのは平成3年（。",
+    "summary": "・和歌山県人事委員会は14日、県職員（一般行政職）の令和8年度の月給を3.51％、期末・勤勉手当を0.05カ月分引き上げるよう宮崎泉知事に勧告した。",
     "summary_type": "auto",
     "category": "政治・行政",
     "related_articles": [
@@ -62,7 +66,9 @@
         "source": "産経ニュース",
         "published_at": "2026-10-14 19:40"
       }
-    ]
+    ],
+    "importance_score": 18,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -70,7 +76,7 @@
     "url": "https://news.yahoo.co.jp/articles/cb306d96aa84a2f1d3103f4eaf77400814262806",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-14 19:42",
-    "summary": "・自治体の防災情報などを配信するサービスを手がけるアルカディア（大阪府箕面市）への不正アクセスに関連して、和歌山県内では14日までに、和歌山や海南、橋本、御坊、新宮、紀の川の計6市が登録者の個人情報が。\n・和歌山市は延べ2万3679件の個人情報が漏洩した可能性があると発表。\n・漏洩の可能性があるのは「市防災情報メール」に登録されたメールアドレス2万1493件、災害情報をFAXで受け取るための番号26件、市職員の氏名や携帯電話番号など2160件。",
+    "summary": "・和歌山市は延べ2万3679件の個人情報が漏洩した可能性があると発表。\n・漏洩の可能性があるのは「市防災情報メール」に登録されたメールアドレス2万1493件、災害情報をFAXで受け取るための番号26件、市職員の氏名や携帯電話番号など2160件。",
     "summary_type": "auto",
     "category": "社会・事件",
     "related_articles": [
@@ -80,7 +86,9 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-14 19:30"
       }
-    ]
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -91,7 +99,9 @@
     "summary": "・（和歌山）田辺市龍神村安井でクマ出没　１０月１４日（日本不審者情報センター）田辺市によると、１０月１４日午後３時３０分頃、田辺市龍神村安井で、クマが出没しました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -109,7 +119,9 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-14 16:31"
       }
-    ]
+    ],
+    "importance_score": 21,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -120,7 +132,9 @@
     "summary": "・【NHK】世界遺産の魅力を多くの人に伝えようと、和歌山市の高校生が那智勝浦町にある熊野古道や神社をめぐりながら歴史や文化を学ぶフィールドワークを行いました。\n・和歌山市にある県立向陽高校では世界遺産を次の世代。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 20,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -128,10 +142,12 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261014de59195",
     "source": "NHKニュース",
     "published_at": "2026-10-14 18:19",
-    "summary": "・防災情報メール登録の２万人分の個人情報漏えい疑い 和歌山市",
+    "summary": "・防災情報メール登録の２万人分の個人情報漏えい疑い 和歌山市。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -167,7 +183,9 @@
         "source": "日テレNEWS NNN",
         "published_at": "2026-10-14 17:33"
       }
-    ]
+    ],
+    "importance_score": 72,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-14",
@@ -185,7 +203,9 @@
         "source": "読売新聞",
         "published_at": "2026-10-14 17:29"
       }
-    ]
+    ],
+    "importance_score": 27,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -209,7 +229,9 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-14 16:33"
       }
-    ]
+    ],
+    "importance_score": 42,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-14",
@@ -220,7 +242,9 @@
     "summary": "・秋季近畿地区高校野球大会の出場校決定戦が１０日、京都府綾部市のあやべ・日東精工スタジアムであり、和歌山県３位の田辺は奈良県３位の郡山に５―１０で敗れ、近畿大会出場を逃した。\n・郡山０１０ ００３ １１４ １０１００ ０００ １３０ ５田辺【和歌山東が優勝／近畿高校野球県２次予選の記事】　〔郡〕古川、谷村―川田〔田〕岡本―楠井（三）川田、高橋、寺田（郡）（二）西山２（郡）、野田（田）。\n・【倒産】ピーク時の売上高22億円から4億円に急減　駅ナカ中心にアクセサリーショップ展開の事業会社が破産開始決定　店舗譲渡し法的措置　負債総額は約6億円【東京商工リサーチ】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -238,7 +262,9 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-10-14 14:30"
       }
-    ]
+    ],
+    "importance_score": 27,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -262,7 +288,9 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-14 16:24"
       }
-    ]
+    ],
+    "importance_score": 42,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -280,7 +308,35 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-14 16:21"
       }
-    ]
+    ],
+    "importance_score": 32,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-14",
+    "title": "ネパールの復興応援　17日わかちか広場等でイベント",
+    "url": "https://wakayamashimpo.co.jp/2026/10/20261014_139789.html",
+    "source": "わかやま新報",
+    "published_at": "2026-10-14 16:20",
+    "summary": "・ネパール水害復興支援チャリティと地域多文化共生、市民防災を呼びかけるイベント「ＣＯＣＯ　ＮＥＰＡＬ　ＦＥＳＴＩＶＡＬ　２０２６」が１７日、和歌山市美園町のＪＲ和歌山駅西口前地下の「わかちか広場」で開かれる。\n・和歌山コンピュータビジネス専門学校で留学生の指導にあたる瀬戸谷さんは、卒業生家族の地域での孤立防止などを目的にことし２月に同団体を設立し、これまでに英語での季節のイベントを行ってきた。\n・イベントの収益や寄付金は日本赤十字社を通じて被災地へ贈られる。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-14",
+    "title": "元球児の塗師・中川さんが制作　甲子園の優勝盾",
+    "url": "https://wakayamashimpo.co.jp/2026/10/20261014_139787.html",
+    "source": "わかやま新報",
+    "published_at": "2026-10-14 16:19",
+    "summary": "・激闘の果てに選手たちが誇らしげに掲げた重厚な優勝盾に美しく深い光沢をもたらしたのは、滋賀県長浜市で２２０年の伝統を受け継ぐ５代目塗師（ぬし）・中川喜裕さん（３６）の手仕事。\n・かつて自らも甲子園を目指し、白球を追いかけた元球児でもある。\n・夢の舞台へ届かなかった過去を持つ中川さんにとって、優勝盾の漆塗りを引き受けたことは「一度夢破れた聖地に職人として関わる」という特別な縁となった。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -291,7 +347,9 @@
     "summary": "・ベスト４決まる／梅の里社会人野球大会。\n・梅の里野球が開幕　ベスト４決まる、和歌山県みなべ。\n・ＣＲＥＡＭ優勝／みなべ　連盟杯軟式野球／やんちゃ準優勝。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -302,7 +360,9 @@
     "summary": "・印南町は９月３０日、同町印南の町役場で、住民福祉課の尾花仁美さん（２３）への辞令交付式をした。\n・首長日程（１０月１５日）みなべ町、印南町。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -320,7 +380,9 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-10-14 14:30"
       }
-    ]
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -331,7 +393,9 @@
     "summary": "・串本町や古座川町の神社で１０、１１日、秋祭りが営まれた。\n・好天に響くお囃子に獅子舞／紀南各地で秋祭り。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -342,7 +406,9 @@
     "summary": "・田辺市の高雄中学校吹奏学部（３３人）は１８日午後２時から、同校体育館で「第３１回プロムナードコンサート」を開く。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -350,10 +416,25 @@
     "url": "https://www.town.kamitonda.lg.jp/soshiki/soumu/gyosei/5406.html",
     "source": "上富田町",
     "published_at": "2026-10-14 13:35",
-    "summary": "・上富田町が運用している「防災行政メール配信サービス」で使用している防災情報一斉配信システム「SpeeCAN RAIDEN（スピーキャンライデン）」の運営事業者より、同社サーバーに対して第三者による不正アクセスが行われ、個人情報が漏洩した可能性があるとの報告を受けました。\n・登録いただいている皆様におかれましては、不審なメールや電話等に十分ご注意いただきますようお願い申し上げます。\n・2. 防災情報配信サービスの運用状況について。",
+    "summary": "・上富田町が運用している「防災行政メール配信サービス」で使用している防災情報一斉配信システム「SpeeCAN RAIDEN（スピーキャンライデン）」の運営事業者より、同社サーバーに対して第三者による不正アクセスが行われ、個人情報が漏洩した可能性があるとの報告を受けました。\n・登録いただいている皆様におかれましては、不審なメールや電話等に十分ご注意いただきますようお願い申し上げます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-14",
+    "title": "日本生命保険相互会社の朝日智司社長㊨と同社和歌山支社の吉谷裕介支社長",
+    "url": "https://wakayamashimpo.co.jp/2026/10/20261014_139808.html",
+    "source": "わかやま新報",
+    "published_at": "2026-10-14 13:00",
+    "summary": "・２０２３年に同社と県の包括連携協定の締結時、副社長として県庁での式典に臨みました。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -371,7 +452,9 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-14 12:25"
       }
-    ]
+    ],
+    "importance_score": 18,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -382,7 +465,9 @@
     "summary": "・【NHK】和歌山県那智勝浦町の1500万年余り前の地層から、熱帯に今も生息している二枚貝「ペガサスノツバサ」の化石が国内で初めて見つかり、世界最古級のものとして和歌山県の博物館で展示されています。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -393,7 +478,9 @@
     "summary": "・1泊2日の和歌山旅行が超お得「ONE KANSAI 和歌山2...の画像はこちら >>。\n・「ONE KANSAI 和歌山2wayパス」は、大阪市内や関西空港方面から和歌山エリアへの移動、さらに現地での周遊に活用できるお得なデジタル乗車券です。\n・南海電鉄とJR西日本の自由周遊区間に加え、和歌山バスの1日フリー乗車券がセット。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -404,7 +491,9 @@
     "summary": "・楽天グループの宿泊施設ブランド「Rakuten STAY」を運営する楽天ステイは10月15日、和歌山県白浜町富田に「Rakuten STAY TERRACE 南紀白浜」を開業する。\n・これに先立ち、「楽天トラベル」や提携する宿泊予約サイトで予約受け付けを開始した。\n・同施設は、海に面した岬に立地する3階建て、全20室の宿泊施設。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -412,10 +501,12 @@
     "url": "https://sakai-times.com/20261014-2/",
     "source": "サカイタイムズ",
     "published_at": "2026-10-14 11:03",
-    "summary": "・10月16～25日、堺市内7店舗も対象 古墳焼はグローバル旗艦店限定やで。\n・堺市とくら寿司株式会社は、10月16日（金）から25日（日）まで、堺市と国内友好都市の特産品を使った商品を販売する「国内友好都市ハンズ・ハンズPROJECT」を実施するんよ。\n・堺のくるみ餅や、堺で加工した昆布を使うバッテラ寿司のほか、和歌山県田辺市、奈良県東吉野村の食材を使った商品が登場するわ。",
+    "summary": "・堺市とくら寿司株式会社は、10月16日（金）から25日（日）まで、堺市と国内友好都市の特産品を使った商品を販売する「国内友好都市ハンズ・ハンズPROJECT」を実施するんよ。\n・堺のくるみ餅や、堺で加工した昆布を使うバッテラ寿司のほか、和歌山県田辺市、奈良県東吉野村の食材を使った商品が登場するわ。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -426,7 +517,9 @@
     "summary": "・【読売新聞】　大規模災害の発生時に上空から情報を収集する協定を県と日本測量調査技術協会（測技協、東京）が結んだ。\n・災害時は県の依頼に応じて測技協の会員企業が小型飛行機を飛ばし、上空から写真を撮影して土砂災害などの情報を集める。\n・県は早期に広範囲の状況を把握し、迅速な対応につながることを期待する。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -444,7 +537,9 @@
         "source": "株探",
         "published_at": "2026-10-14 10:09"
       }
-    ]
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -455,7 +550,9 @@
     "summary": "・ココザス株式会社は、200万円台から別荘が所有できる小口別荘投資「COCO VILLA Owners」の第55弾拠点として、プライベートヴィラ「COCO VILLA 和歌山印南」の発売を2026年9月。\n・COCO VILLA 和歌山印南は、和歌山県・日高郡印南町に位置する一棟貸しのプライベートヴィラです。\n・COCO VILLA 和歌山印南の基本情報は以下の通りです。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -466,7 +563,9 @@
     "summary": "・和歌山県田辺市秋津町にあるＪＡわかやまの産直店「紀菜柑」は３日、同市上秋津でバナナ園の見学ツアーを開いた。\n・外国人がミカン満喫　上秋津で収穫体験や試食、和歌山県田辺。\n・高い濃度　極早生ミカン　和歌山・紀南で収穫始まる。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -477,7 +576,9 @@
     "summary": "・世界遺産・熊野古道伊勢路を11日間に分けて踏破する「熊野古道伊勢路踏破シリーズ」（全9回）が11月、三重県伊勢市の伊勢神宮内宮を起点に始まる。\n・荷坂峠や瀧原宮、七里御浜などを経由し、熊野速玉大社（和歌。\n・主催するモンベル（大阪市）が高校生以上、75歳以下の参加者を募っている。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -488,7 +589,9 @@
     "summary": "・大阪梅田の地下街「ディアモール大阪」で「Diamor Autumn Festa」を開催。\n・あなたの“K-ドラマ推しシーン”をアートに！「K-ドラマ名場面アートコンテスト ～MY DRAMA, MY SCENE～」開催。\n・【活動50周年】MLB公式アーティストの立体ポップアート｜チャールズ・ファジーノ展をくずはモールで開催。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -499,7 +602,9 @@
     "summary": "・チーム対抗のマージャンプロリーグ「Mリーグ」に所属する「EX風林火山」が和歌山市を訪れ、ファンらと交流する催しが16、17の両日、和歌山市の和歌山城や北ぶらくり丁商店街で開かれる。\n・競技の裾野を広げたいチーム側に対し、運営を通じて地域活性化につなげたい和歌山市と「マージャンの聖地」としてPRしたい御。\n・一方、和歌山市の高校ではマージャンの部活動もあり、御坊市はマージャンパイや全自動卓の生産が盛んで全国大会も開かれるなど「聖地」を掲げている。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -510,6 +615,8 @@
     "summary": "・自動運転というと、無人化が可能な「レベル4」に達してこそと考えがちだ。\n・だが本州の南端部、過疎化が進む和歌山県太地町は、運転手（オペレーター）が介在する「レベル2」を生活のなかでうまく使いこなしている。\n・狭い路地に沿って民家が広がる漁師町特有のエリアを、電動カートが最高時速12キロメートルでトコトコ走る。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   }
 ]

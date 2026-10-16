@@ -8,7 +8,9 @@
     "summary": "・▶「こども特派員」の応募はこちら（応募フォームへ移行します）。\n・フルーツ王国である和歌山県のかつらぎ町で、親子農業体験！\n・普段できない体験や生産者への取材を通して、農業の魅力を学んでみよう♪。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-09-28",
@@ -16,7 +18,7 @@
     "url": "https://news.yahoo.co.jp/articles/33b8dff2e581a475889c7b96ec2a112e949f4efb/images/000",
     "source": "Yahoo!ニュース",
     "published_at": "2026-09-28 16:00",
-    "summary": "・ウメの産地・和歌山県みなべ町で クビアカツヤカミキリの被害確認 県、警戒強める (産経新聞)",
+    "summary": "・ウメの産地・和歌山県みなべ町で クビアカツヤカミキリの被害確認 県、警戒強める (産経新聞)。",
     "summary_type": "auto",
     "category": "社会・事件",
     "related_articles": [
@@ -50,7 +52,9 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-09-28 16:00"
       }
-    ]
+    ],
+    "importance_score": 75,
+    "is_featured": true
   },
   {
     "article_date": "2026-09-28",
@@ -61,7 +65,9 @@
     "summary": "・町の歳入・歳出は、家計における収入・支出とは異なるものですが、町の財政状況をわかりやすくするために、収入を年収480万円（月収40万円）に置き換えてみました。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-09-28",
@@ -72,7 +78,9 @@
     "summary": "・ウメやモモ、サクラなどの樹木を食い荒らす、特定外来生物の害虫「クビアカツヤカミキリ」が、みなべ町でも初めて確認されました。\n・和歌山県は、周辺のサクラやウメ、モモ、スモモなどの樹木に被害がないか確認するよう呼びかけています。\n・県によりますと、今月（９月）２４日、梅生産者からみなべ町役場を通じて果樹試験場うめ研究所にクビアカツヤカミキリによる被害の疑いがあると連絡があり、県が現地調査を行った結果、うめ園地内のウメの木１本でクビアカツヤカミキリによる被害を確認したということです。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": true
   },
   {
     "article_date": "2026-09-28",
@@ -83,6 +91,8 @@
     "summary": "・古くから絆のものがたりを紡ぎ、人々の結びつきを育む温かな串本町へぜひお越しください。\n・串本町では昨年に引き続き、令和8年11月8日（日）に「第2回 冬の星空撮影会in串本」を樫野埼灯台周辺で開催します。\n・写真家の照井壮平氏を講師に迎え、カメラの基本設定や星空を撮影する際のポイントなど、星空撮影の基礎から実践までを学びます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   }
 ]

@@ -5,10 +5,12 @@
     "url": "https://www.marines.co.jp/news/detail/202600898198.html",
     "source": "千葉ロッテマリーンズ",
     "published_at": "2026-08-04 19:34",
-    "summary": "・8/4(火)「日高川町ヤッホーナイター」ラッキーチャンスナンバー 当選番号発表",
+    "summary": "・8/4(火)「日高川町ヤッホーナイター」ラッキーチャンスナンバー 当選番号発表。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-08-04",
@@ -19,6 +21,8 @@
     "summary": "・和歌山県高校野球連盟は、１５日に開幕する県高校野球新人戦の組み合わせを発表した。\n・智弁和歌山が優勝　耐久破る、３年連続で甲子園、第１０８回全国高校野球選手権和歌山大会。\n・大会初！本校・分校対決　龍神が南部を打撃戦で制す　第１０８回全国高校野球選手権和歌山大会。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 23,
+    "is_featured": true
   }
 ]

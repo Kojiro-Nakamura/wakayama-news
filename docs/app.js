@@ -2,6 +2,7 @@
 
 let currentDate = null;
 let currentCategory = 'all';
+let currentSortMode = 'featured';
 let searchQuery = '';
 let availableDates = [];
 let dateArticlesCache = {};
@@ -137,6 +138,23 @@ function setupEventListeners() {
       btn.classList.add('bg-slate-900', 'text-white', 'active');
 
       currentCategory = btn.dataset.category;
+      loadArticles();
+    });
+  }
+
+  // 並び順切り替え（注目順 / 新着順）
+  const sortModeToggleEl = document.getElementById('sortModeToggle');
+  if (sortModeToggleEl) {
+    sortModeToggleEl.addEventListener('click', (e) => {
+      const btn = e.target.closest('.sort-btn');
+      if (!btn) return;
+      document.querySelectorAll('.sort-btn').forEach(b => {
+        b.classList.remove('bg-white', 'text-orange-700', 'shadow-sm', 'active');
+        b.classList.add('text-slate-600');
+      });
+      btn.classList.remove('text-slate-600');
+      btn.classList.add('bg-white', 'text-orange-700', 'shadow-sm', 'active');
+      currentSortMode = btn.dataset.sort;
       loadArticles();
     });
   }
@@ -285,7 +303,7 @@ async function loadArticles() {
     }
 
     // フィルタリング処理
-    let filtered = articles;
+    let filtered = [...articles];
 
     // カテゴリフィルター
     if (currentCategory && currentCategory !== 'all') {
@@ -300,6 +318,19 @@ async function loadArticles() {
         (a.summary && a.summary.toLowerCase().includes(q)) ||
         (a.source && a.source.toLowerCase().includes(q))
       );
+    }
+
+    // 並び替え処理（注目順 / 新着順）
+    if (currentSortMode === 'featured') {
+      filtered.sort((a, b) => {
+        const featDiff = (b.is_featured ? 1 : 0) - (a.is_featured ? 1 : 0);
+        if (featDiff !== 0) return featDiff;
+        const scoreDiff = (b.importance_score || 0) - (a.importance_score || 0);
+        if (scoreDiff !== 0) return scoreDiff;
+        return (b.published_at || '').localeCompare(a.published_at || '');
+      });
+    } else {
+      filtered.sort((a, b) => (b.published_at || '').localeCompare(a.published_at || ''));
     }
 
     // ヘッダー情報更新
@@ -416,13 +447,29 @@ function renderArticleCard(a) {
   `).join('');
 
   const isAi = a.summary_type === 'ai';
+  const isFeatured = Boolean(a.is_featured);
+  const relatedCount = Array.isArray(a.related_articles) ? a.related_articles.length : 0;
+
+  const cardBorderClass = isFeatured
+    ? 'border-orange-300 ring-1 ring-orange-200/70 bg-gradient-to-b from-orange-50/25 to-white'
+    : 'border-slate-200/80 bg-white';
 
   return `
-    <article class="bg-white rounded-2xl border border-slate-200/80 p-5 shadow-sm hover:shadow-md transition-all space-y-4">
+    <article class="${cardBorderClass} rounded-2xl border p-5 shadow-sm hover:shadow-md transition-all space-y-4">
       
       <!-- 上部メタ情報 -->
       <div class="flex flex-wrap items-center justify-between gap-2 text-xs">
-        <div class="flex items-center gap-2">
+        <div class="flex flex-wrap items-center gap-1.5">
+          ${isFeatured ? `
+            <span class="px-2.5 py-0.5 rounded-full bg-gradient-to-r from-orange-500 to-amber-500 text-white text-[11px] font-bold shadow-sm flex items-center gap-1">
+              🔥 注目ピックアップ
+            </span>
+          ` : ''}
+          ${relatedCount >= 1 ? `
+            <span class="px-2 py-0.5 rounded-full bg-amber-100 text-amber-800 border border-amber-300 text-[11px] font-bold">
+              📰 ${1 + relatedCount}社が報道
+            </span>
+          ` : ''}
           <span class="px-2.5 py-0.5 rounded-full border text-[11px] font-semibold ${catClass}">
             ${escapeHtml(a.category)}
           </span>

@@ -27,7 +27,9 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-12 20:25"
       }
-    ]
+    ],
+    "importance_score": 48,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-12",
@@ -38,7 +40,9 @@
     "summary": "・和歌山地方気象台が10月12日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・北部は「晴れ夕方からくもり」、南部は「晴れ夕方からくもり」でしょう。\n・最高気温は、和歌山27℃、潮岬25℃でしょう。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -49,7 +53,9 @@
     "summary": "・「青の煌めきあおもり国スポ 第80回国民スポーツ大会」サッカー競技少年男子2回戦が11日に行われ、八戸市南郷陸上競技場の第1試合では静岡県が和歌山県に6-1で勝利した。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -57,10 +63,12 @@
     "url": "https://article.auone.jp/ecd32406-3893-4934-b731-ccf982df3f9d",
     "source": "au Webポータル",
     "published_at": "2026-10-12 17:49",
-    "summary": "・人生の最終段階で、希望する医療やケアについて前もって話し合う「人生会議」の普及啓発イベントが、俳優の…。",
+    "summary": "・「人生会議」普及イベント和歌山市で開催。 松下由樹さんらトーク／和歌山",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -68,10 +76,12 @@
     "url": "https://trilltrill.jp/articles/5100326",
     "source": "TRILL",
     "published_at": "2026-10-12 16:09",
-    "summary": "・もぐナビニュースこんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。\n・発売中の菓子パン第一パンコッペパン安納芋＆ホイップもぐナビニュース国産…。",
+    "summary": "・もぐナビニュースこんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -82,7 +92,9 @@
     "summary": "・特急くろしお号の利用者を対象にした「特急くろしお号ご乗車記念証」が現在、新宮市観光協会（新宮市徐福2）で配布されている。\n・三輪崎八幡神社（新宮市三輪崎）の例大祭が9月13日、同神社と三輪崎漁港（同）周辺で開催された。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -90,10 +102,12 @@
     "url": "https://news.yahoo.co.jp/articles/fc4c2a33cc3b0fc74175c6fab2b2dc7c3a65f610",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-12 14:14",
-    "summary": "・茨城の方言で豪快にツッコミを入れる漫才で人気のお笑いコンビ「カミナリ」の石田たくみさんが、YouTubeチャンネルのロケで訪れた和歌山市の友ヶ島(ともがしま)をイメージした楽曲を作り、10月11日、。",
+    "summary": "・お笑いコンビ“カミナリ”のたくみさん・和歌山市友ヶ島イメージの新曲配信（WBS和歌山放送ニュース）",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -117,7 +131,9 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-12 12:27"
       }
-    ]
+    ],
+    "importance_score": 44,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-12",
@@ -128,7 +144,9 @@
     "summary": "・紀伊半島の白浜といえば関西を代表するリゾート地であり、パンダが“いた”テーマパーク「アドベンチャーワールド」で有名だろう。\n・そんな白浜には、関西の名だたるレジャー施設に匹敵……いや、それらを遥かに上回。\n・建築マニアの間では“バブル期を代表する名建築”と名高い「ホテル川久」だ。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -136,10 +154,12 @@
     "url": "https://www.asahi.com/articles/ASVBC46VNVBCPXLB00CM.html",
     "source": "朝日新聞",
     "published_at": "2026-10-12 10:45",
-    "summary": "・和歌山市西浜の認定こども園「ようすい子ども園」で8日、園児たちがマグロ解体を見学。\n・食の大切さや感謝の気持ちを育んだ。\n・勝浦漁港で水揚げされた体重約46キロのキハダマグロが園内の遊戯室に運ばれると、1…。",
+    "summary": "・和歌山市西浜の認定こども園「ようすい子ども園」で8日、園児たちがマグロ解体を見学。\n・食の大切さや感謝の気持ちを育んだ。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -150,7 +170,9 @@
     "summary": "・【NHK】秋の行楽シーズンに合わせ、世界遺産・熊野古道を訪れる観光客に安全な登山を呼びかける啓発活動が、和歌山県新宮市で11日行われました。\n・啓発活動は、熊野古道のルート上にある新宮市の熊野速玉大社で、和歌。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 20,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-12",
@@ -161,7 +183,9 @@
     "summary": "・2026/10/12 06:00。\n・紀伊山地の山々に囲まれ、視界いっぱいに緑が広がる和歌山県田辺市龍神村。\n・観光客が多く訪れる龍神温泉の入り口では、空に昇るようにも見える高さ５メートルほどの木彫りの龍が出迎える。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -169,10 +193,12 @@
     "url": "https://news.yahoo.co.jp/articles/9459fff673fc1ec557f946124098802a8197581b",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-12 05:10",
-    "summary": "・【和歌山市】10/12 最高27℃、昼間はやや暑さを感じる場面も、朝から夜まで晴れる予想【朝版】",
+    "summary": "・【和歌山市】10/12 最高27℃、昼間はやや暑さを感じる場面も、朝から夜まで晴れる予想【朝版】。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -183,6 +209,8 @@
     "summary": "・県産業資源循環協会は8日、10月が県の定める「ごみの散乱防止強化月間」であることにちなみ、和歌山市内で不法投棄防止巡回パトロールを実施した。\n・2005年から続ける活動で、県の「わかやまごみゼロ活動」にも認定されている。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
   }
 ]

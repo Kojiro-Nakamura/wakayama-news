@@ -171,21 +171,36 @@ def is_noise_text(line: str) -> bool:
         return True
     return False
 
+def is_incomplete_sentence(s: str) -> bool:
+    """助詞や読点で途切れている不完全な文（例: '警察や' '対策を' 等）を検知"""
+    t = s.strip().rstrip('。！？!?')
+    if not t:
+        return True
+    if t.endswith(('…', '...', '..', '、', '，', '・', '「', '『', '（', '(')):
+        return True
+    # 末尾が助詞・接続表現で突然終わっている場合
+    if re.search(r'(?:から|など|ため|ほか|ついて|よると|対し|向け|伴い|おける|として|による|および|または|ともに|ついては|関して|[やとのをにへでがはも])$', t):
+        # ただし「〜だ」「〜た」「〜る」「〜い」「〜す」「〜ん」等の通常の文末は除外しない（上の正規表現は助詞のみ）
+        # 「〜には」「〜では」等も引っかかるので確実に不完全
+        return True
+    return False
+
 def rescue_meta_desc(raw_desc: str) -> str:
     """末尾が…で切れているメタディスクリプションから、完全な文（「。」で終わる文）を救出"""
     if not raw_desc or is_garbled_text(raw_desc):
         return ''
     raw_desc = raw_desc.strip()
-    if not (raw_desc.endswith('…') or raw_desc.endswith('...') or raw_desc.endswith('..')):
-        return raw_desc
-    # 句点「。」で分割して完全な文だけを救出
+    # 句点「。」で分割して完全な文だけを検証・救出
     parts = re.split(r'。', raw_desc)
     valid_parts = []
-    for p in parts:
+    for idx, p in enumerate(parts):
         p = p.strip()
         if not p or p.endswith(('…', '...', '..')):
             continue
-        if len(p) >= 15 and not is_noise_text(p) and not is_garbled_text(p):
+        # 最後のパーツで、元テキストが句点で終わっていない場合は切れている可能性が高い
+        if idx == len(parts) - 1 and not raw_desc.endswith(('。', '！', '!', '？', '?')):
+            continue
+        if len(p) >= 15 and not is_noise_text(p) and not is_garbled_text(p) and not is_incomplete_sentence(p):
             valid_parts.append(p + '。')
     if valid_parts:
         return ''.join(valid_parts)
@@ -269,7 +284,7 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
             if len(text) > 20 and not is_noise_text(text) and not is_garbled_text(text):
                 if text not in paragraphs:
                     paragraphs.append(text)
-            if len(paragraphs) >= 6:
+            if len(paragraphs) >= 8:
                 break
 
         if len(paragraphs) < 3:
@@ -280,10 +295,10 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
                 line_norm = clean_for_dedup(line)
                 if not any(SequenceMatcher(None, clean_for_dedup(p), line_norm).ratio() > 0.65 for p in paragraphs):
                     paragraphs.append(line)
-                if len(paragraphs) >= 8:
+                if len(paragraphs) >= 10:
                     break
                 
-        body_text = "\n".join(paragraphs[:6])
+        body_text = "\n".join(paragraphs[:8])
         return desc, body_text
     except Exception:
         return "", ""
@@ -291,11 +306,11 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
 def classify_category(title: str, text: str) -> str:
     combined = (title + " " + text).lower()
     categories = [
-        ("観光・文化", ["観光", "世界遺産", "高野山", "熊野", "熊野古道", "白浜", "パンダ", "アドベンチャーワールド", "温泉", "祭り", "寺", "神社", "博物館", "那智", "太地"]),
-        ("社会・事件", ["事故", "火災", "警察", "逮捕", "容疑", "遭難", "救助", "裁判", "捜査", "盗難", "死亡", "負傷", "転倒", "交通", "被害"]),
-        ("政治・行政", ["知事", "県政", "県議会", "市議会", "市長", "町長", "和歌山市", "庁舎", "選挙", "予算", "条例", "政策", "補助金", "公約"]),
-        ("スポーツ", ["野球", "サッカー", "国スポ", "アルテリーヴォ", "高校野球", "国体", "大会", "陸上", "優勝", "選手", "バスケ", "勝利", "プロ野球"]),
-        ("経済・産業", ["企業", "新商品", "オープン", "開店", "特産", "みかん", "梅干し", "有田みかん", "紀州", "漁業", "農業", "商工", "開発", "物産", "就職", "振興"])
+        ("観光・文化", ["観光", "世界遺産", "高野山", "熊野", "熊野古道", "白浜", "パンダ", "アドベンチャーワールド", "温泉", "祭り", "寺", "神社", "博物館", "那智", "太地", "串本", "潮岬", "文化財", "体験"]),
+        ("社会・事件", ["事故", "火災", "警察", "逮捕", "容疑", "遭難", "救助", "裁判", "捜査", "盗難", "死亡", "負傷", "転倒", "交通", "被害", "クマ", "訓練", "防災", "詐欺"]),
+        ("政治・行政", ["知事", "県政", "県議会", "市議会", "町議会", "市長", "町長", "村長", "和歌山市", "庁舎", "役場", "選挙", "予算", "条例", "政策", "補助金", "公約", "県庁"]),
+        ("スポーツ", ["野球", "サッカー", "国スポ", "アルテリーヴォ", "高校野球", "国体", "大会", "陸上", "優勝", "選手", "バスケ", "バレー", "勝利", "プロ野球", "マラソン"]),
+        ("経済・産業", ["企業", "新商品", "オープン", "開店", "特産", "みかん", "梅干し", "南高梅", "有田みかん", "紀州", "漁業", "農業", "商工", "開発", "物産", "就職", "振興", "販売"])
     ]
     for cat_name, keywords in categories:
         for kw in keywords:
@@ -328,9 +343,46 @@ def generate_summary_with_gemini(title: str, body: str, api_key: str) -> Optiona
         print(f"Gemini API Error: {e}")
     return None
 
+def score_sentence_importance(title: str, sentence: str, index: int) -> float:
+    """文の重要度スコアを算出（キーワード密度・数値ファクト・結論表現・位置ボーナス）"""
+    score = 0.0
+    t_tokens = extract_meaningful_tokens(title)
+    s_tokens = extract_meaningful_tokens(sentence)
+    overlap = len(t_tokens.intersection(s_tokens))
+    score += overlap * 3.0
+
+    # 数値データ・日付・単位（5W1Hの具体性）
+    facts = re.findall(r'\d+(?:年|月|日|時|分|人|名|件|円|万円|億円|%|％|歳|本|棟|km|m|ha|トン|t|倍|回|校|社|店|頭|匹)', sentence)
+    score += min(len(facts) * 2.5, 7.5)
+
+    # ニュースの核心アクション動詞
+    if re.search(r'(?:発表|決定|開始|開催|判明|逮捕|完成|発売|開発|公開|策定|受賞|合意|オープン|開幕|設置|導入|再開|確認|贈呈|寄贈|寄付|選出|優勝|実施|開通)', sentence):
+        score += 3.5
+
+    # リード文（第1〜2文）ボーナス
+    if index == 0:
+        score += 4.0
+    elif index == 1:
+        score += 2.5
+    elif index == 2:
+        score += 1.0
+
+    # 適切な文字数ボーナス
+    if 25 <= len(sentence) <= 115:
+        score += 2.0
+    elif len(sentence) > 150:
+        score -= 2.0
+
+    # 挨拶・ブログ風定型文の減点
+    if re.search(r'(?:こんにちは|こんばんは|おはようございます|いかがでしたか|ご紹介します|お伝えします|今回は|お天気サポート)', sentence):
+        score -= 8.0
+
+    return score
+
 def create_auto_summary(title: str, desc: str, body: str) -> str:
-    """自動要約生成（重複文・タイトル重複を徹底排除）"""
-    base_text = (desc + "\n" + body).strip() if (desc and body) else (desc if desc else body)
+    """重要度スコアリング搭載の自動要約エンジン（不完全文・重複・タイトル反復を徹底排除）"""
+    # bodyを先に、descを補助にすることで途中で切れたdescよりも完全な本文段落を優先
+    base_text = (body + "\n" + desc).strip() if (body and desc) else (body if body else desc)
     if not base_text or is_garbled_text(base_text):
         return f"・{title}"
     clean = re.sub(r'【写真を見る】.*', '', base_text)
@@ -339,33 +391,38 @@ def create_auto_summary(title: str, desc: str, body: str) -> str:
     clean = clean.strip()
 
     title_norm = clean_for_dedup(title)
-    raw_sentences = [s.strip() for s in re.split(r'。|\n', clean) if len(s.strip()) > 10 and not is_garbled_text(s)]
+    raw_sentences = [s.strip() for s in re.split(r'。|\n', clean) if len(s.strip()) > 12 and not is_garbled_text(s)]
 
-    unique_sentences: List[str] = []
-    for s in raw_sentences:
-        # ノイズ文（日付、会員誘導、おすすめ記事、広告など）はスキップ
+    candidates: List[Tuple[int, float, str]] = []
+    accepted_norms: List[str] = []
+
+    for idx, s in enumerate(raw_sentences):
         if is_noise_text(s):
             continue
-        # タイトルとの関連性が全くない文（無関係な別記事や広告リンク）はスキップ
+        if is_incomplete_sentence(s):
+            continue
         if not is_relevant_to_title(title, s):
             continue
-        # 末尾が … や ... で切れている不完全な文はスキップ
-        if s.endswith('…') or s.endswith('...') or s.endswith('..'):
-            continue
         s_norm = clean_for_dedup(s)
-        if len(s_norm) < 10:
+        if len(s_norm) < 12:
             continue
-        # タイトルと類似（70%以上一致、またはタイトルの包含）する文をスキップ
+        # タイトルと類似（70%以上一致、または包含）する文をスキップ
         if SequenceMatcher(None, title_norm, s_norm).ratio() > 0.70:
             continue
         if s_norm in title_norm or (len(s_norm) < 60 and title_norm in s_norm):
             continue
-        # 既に選んだ要約文と類似（60%以上一致）する文をスキップ
-        if any(SequenceMatcher(None, clean_for_dedup(u), s_norm).ratio() > 0.60 for u in unique_sentences):
+        # 既に候補に入れた文と類似（58%以上一致）する文をスキップ
+        if any(SequenceMatcher(None, u_norm, s_norm).ratio() > 0.58 for u_norm in accepted_norms):
             continue
-        unique_sentences.append(s)
-        if len(unique_sentences) >= 3:
-            break
+
+        sc = score_sentence_importance(title, s, idx)
+        candidates.append((idx, sc, s))
+        accepted_norms.append(s_norm)
+
+    # スコア上位3文を選び、元の文章の登場順（idx順）に並べることで自然な文脈を維持
+    top_candidates = sorted(candidates, key=lambda x: x[1], reverse=True)[:3]
+    top_candidates.sort(key=lambda x: x[0])
+    selected_sentences = [x[2] for x in top_candidates]
 
     def finish_sentence(text: str) -> str:
         t = text.strip()
@@ -373,12 +430,59 @@ def create_auto_summary(title: str, desc: str, body: str) -> str:
             return t + '。'
         return t
 
-    if len(unique_sentences) >= 2:
-        return "\n".join(f"・{finish_sentence(s)}" for s in unique_sentences[:3])
-    elif len(unique_sentences) == 1:
-        return f"・{finish_sentence(unique_sentences[0])}"
+    if len(selected_sentences) >= 2:
+        return "\n".join(f"・{finish_sentence(s)}" for s in selected_sentences[:3])
+    elif len(selected_sentences) == 1:
+        return f"・{finish_sentence(selected_sentences[0])}"
     else:
         return f"・{title}"
+
+def sanitize_existing_summary(title: str, summary: str) -> str:
+    """既存データの要約に不完全な文（例: '警察や。'）が含まれていればクリーンアップ"""
+    if not summary:
+        return f"・{title}"
+    lines = [l.strip() for l in summary.splitlines() if l.strip()]
+    valid_lines = []
+    for l in lines:
+        core = l.lstrip('・• ').strip()
+        if is_incomplete_sentence(core):
+            continue
+        valid_lines.append(f"・{core if core.endswith(('。', '！', '!', '？', '?')) else core + '。'}")
+    if valid_lines:
+        return "\n".join(valid_lines)
+    return f"・{title}"
+
+def process_article_item(real_url: str, title: str, source: str, article_date: str, published_str: str, gemini_key: str, require_relevance_check: bool = True) -> Optional[Dict[str, Any]]:
+    """単一記事URLの本文取得・要約・カテゴリ分類を実行"""
+    desc, body = fetch_article_content(real_url)
+    
+    if require_relevance_check and not is_wakayama_relevant(title, desc + " " + body):
+        return None
+        
+    category = classify_category(title, desc + " " + body)
+    
+    summary_type = 'auto'
+    summary_text = ""
+    if gemini_key:
+        ai_sum = generate_summary_with_gemini(title, desc + "\n" + body, gemini_key)
+        if ai_sum:
+            summary_text = ai_sum
+            summary_type = 'ai'
+            
+    if not summary_text:
+        summary_text = create_auto_summary(title, desc, body)
+        summary_type = 'auto'
+        
+    return {
+        "article_date": article_date,
+        "title": title,
+        "url": real_url,
+        "source": source,
+        "published_at": published_str,
+        "summary": summary_text,
+        "summary_type": summary_type,
+        "category": category
+    }
 
 def process_single_entry(entry: Any, gemini_key: str) -> Optional[Dict[str, Any]]:
     google_url = entry.get('link', '')
@@ -399,35 +503,186 @@ def process_single_entry(entry: Any, gemini_key: str) -> Optional[Dict[str, Any]
     clean_title = re.sub(r' - [^-]+$', '', raw_title)
     
     real_url = decode_google_news_url(google_url)
-    desc, body = fetch_article_content(real_url)
-    
-    if not is_wakayama_relevant(clean_title, desc + " " + body):
-        return None
-        
-    category = classify_category(clean_title, desc + " " + body)
-    
-    summary_type = 'auto'
-    summary_text = ""
-    if gemini_key:
-        ai_sum = generate_summary_with_gemini(clean_title, desc + "\n" + body, gemini_key)
-        if ai_sum:
-            summary_text = ai_sum
-            summary_type = 'ai'
-            
-    if not summary_text:
-        summary_text = create_auto_summary(clean_title, desc, body)
-        summary_type = 'auto'
-        
-    return {
-        "article_date": article_date,
-        "title": clean_title,
-        "url": real_url,
-        "source": source,
-        "published_at": published_str,
-        "summary": summary_text,
-        "summary_type": summary_type,
-        "category": category
-    }
+    return process_article_item(real_url, clean_title, source, article_date, published_str, gemini_key, require_relevance_check=True)
+
+def fetch_agara_items() -> List[Dict[str, Any]]:
+    """紀伊民報（AGARA: https://www.agara.co.jp/）から最新記事を取得"""
+    url = "https://www.agara.co.jp/"
+    headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    print(f"紀伊民報 (AGARA) から記事取得中: {url}")
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+        r.encoding = r.apparent_encoding or 'utf-8'
+        soup = BeautifulSoup(r.text, 'html.parser')
+        items = []
+        seen = set()
+        now_str = datetime.now(JST).strftime('%Y-%m-%d')
+        now_pub = datetime.now(JST).strftime('%Y-%m-%d %H:%M')
+        for a in soup.find_all('a', href=re.compile(r'^/article/\d+')):
+            href = "https://www.agara.co.jp" + a['href']
+            if href in seen:
+                continue
+            title = re.sub(r'\s+', ' ', a.get_text()).strip()
+            # 日付・時刻表記がタイトル末尾等に入っている場合は整形
+            title = re.sub(r'\s*\d{4}年\d{1,2}月\d{1,2}日.*$', '', title).strip()
+            if len(title) < 10 or 'あがらの日記' in title:
+                continue
+            seen.add(href)
+            items.append({
+                'title': title,
+                'url': href,
+                'source': '紀伊民報',
+                'article_date': now_str,
+                'published_at': now_pub
+            })
+            if len(items) >= 20:
+                break
+        print(f"紀伊民報 から {len(items)} 件を取得しました。")
+        return items
+    except Exception as e:
+        print(f"AGARA fetch error: {e}")
+        return []
+
+def fetch_wbs_items() -> List[Dict[str, Any]]:
+    """WBS和歌山放送ニュース（https://news.wbs.co.jp/）から最新記事を取得"""
+    url = "https://news.wbs.co.jp/"
+    headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    print(f"WBS和歌山放送ニュース から記事取得中: {url}")
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+        r.encoding = r.apparent_encoding or 'utf-8'
+        soup = BeautifulSoup(r.text, 'html.parser')
+        items = []
+        seen = set()
+        now_str = datetime.now(JST).strftime('%Y-%m-%d')
+        now_pub = datetime.now(JST).strftime('%Y-%m-%d %H:%M')
+        for a in soup.find_all('a', href=re.compile(r'https://news\.wbs\.co\.jp/\d+')):
+            href = a['href']
+            if href in seen:
+                continue
+            title = re.sub(r'\s+', ' ', a.get_text()).strip()
+            if len(title) < 8:
+                continue
+            seen.add(href)
+            items.append({
+                'title': title,
+                'url': href,
+                'source': 'WBS和歌山放送ニュース',
+                'article_date': now_str,
+                'published_at': now_pub
+            })
+            if len(items) >= 15:
+                break
+        print(f"WBS和歌山放送ニュース から {len(items)} 件を取得しました。")
+        return items
+    except Exception as e:
+        print(f"WBS fetch error: {e}")
+        return []
+
+def fetch_wakayama_shimpo_items() -> List[Dict[str, Any]]:
+    """わかやま新報（https://www.wakayamashimpo.co.jp/feed/）から最新記事を取得"""
+    feed_url = "https://www.wakayamashimpo.co.jp/feed/"
+    print(f"わかやま新報 からフィード取得中: {feed_url}")
+    try:
+        f = feedparser.parse(feed_url)
+        items = []
+        for e in f.entries[:15]:
+            href = e.link
+            title = e.title.strip()
+            if hasattr(e, 'published_parsed') and e.published_parsed:
+                dt_utc = datetime(*e.published_parsed[:6], tzinfo=timezone.utc)
+                dt_jst = dt_utc.astimezone(JST)
+                entry_date = dt_jst.strftime('%Y-%m-%d')
+                pub_str = dt_jst.strftime('%Y-%m-%d %H:%M')
+            else:
+                entry_date = datetime.now(JST).strftime('%Y-%m-%d')
+                pub_str = f"{entry_date} 09:00"
+            items.append({
+                'title': title,
+                'url': href,
+                'source': 'わかやま新報',
+                'article_date': entry_date,
+                'published_at': pub_str
+            })
+        print(f"わかやま新報 から {len(items)} 件を取得しました。")
+        return items
+    except Exception as e:
+        print(f"Wakayama Shimpo fetch error: {e}")
+        return []
+
+def fetch_hidaka_shimpo_items() -> List[Dict[str, Any]]:
+    """日高新報（https://hidakashimpo.co.jp/）から最新記事を取得"""
+    url = "https://hidakashimpo.co.jp/"
+    headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    print(f"日高新報 から記事取得中: {url}")
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+        r.encoding = r.apparent_encoding or 'utf-8'
+        soup = BeautifulSoup(r.text, 'html.parser')
+        items = []
+        seen = set()
+        now_str = datetime.now(JST).strftime('%Y-%m-%d')
+        now_pub = datetime.now(JST).strftime('%Y-%m-%d %H:%M')
+        for a in soup.find_all('a', href=re.compile(r'https://hidakashimpo\.co\.jp/\?p=\d+')):
+            href = a['href']
+            if href in seen:
+                continue
+            title = re.sub(r'\s+', ' ', a.get_text()).strip()
+            if len(title) < 8 or '続きを読む' in title:
+                continue
+            seen.add(href)
+            items.append({
+                'title': title,
+                'url': href,
+                'source': '日高新報',
+                'article_date': now_str,
+                'published_at': now_pub
+            })
+            if len(items) >= 15:
+                break
+        print(f"日高新報 から {len(items)} 件を取得しました。")
+        return items
+    except Exception as e:
+        print(f"Hidaka Shimpo fetch error: {e}")
+        return []
+
+def fetch_wakayama_pref_items() -> List[Dict[str, Any]]:
+    """和歌山県庁 県政ニュース（http://wave.pref.wakayama.lg.jp/news/kensei/）から報道発表を取得"""
+    url = "http://wave.pref.wakayama.lg.jp/news/kensei/"
+    headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    print(f"和歌山県庁 県政ニュース から取得中: {url}")
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+        r.encoding = r.apparent_encoding or 'utf-8'
+        soup = BeautifulSoup(r.text, 'html.parser')
+        items = []
+        seen = set()
+        now_str = datetime.now(JST).strftime('%Y-%m-%d')
+        now_pub = datetime.now(JST).strftime('%Y-%m-%d 10:00')
+        for a in soup.find_all('a', href=re.compile(r'shiryo\.php\?sid=\d+')):
+            href = "http://wave.pref.wakayama.lg.jp/news/kensei/" + a['href'].lstrip('/')
+            if href in seen:
+                continue
+            raw_t = re.sub(r'\s+', ' ', a.get_text()).strip()
+            # 末尾の担当課表記 ( 〇〇課 ) を整理
+            title = re.sub(r'\(\s*[^)]+\)$', '', raw_t).strip()
+            if len(title) < 8 or any(skip in title for skip in ['知事日程', '予定表', '行事予定']):
+                continue
+            seen.add(href)
+            items.append({
+                'title': title,
+                'url': href,
+                'source': '和歌山県政ニュース',
+                'article_date': now_str,
+                'published_at': now_pub
+            })
+            if len(items) >= 12:
+                break
+        print(f"和歌山県政ニュース から {len(items)} 件を取得しました。")
+        return items
+    except Exception as e:
+        print(f"Wakayama Pref fetch error: {e}")
+        return []
 
 def clean_title_for_clustering(title: str) -> str:
     """タイトルの記号やメディア表記を除去して比較用文字列を作成"""
@@ -471,11 +726,43 @@ def are_articles_same_topic(a1: dict, a2: dict) -> bool:
             
     return False
 
+def compute_article_importance(item: Dict[str, Any]) -> int:
+    """記事の注目度・重要度スコアを算出（複数社報道・一次情報源・重要キーワード・要約充実度）"""
+    score = 0
+    related_cnt = len(item.get("related_articles", []))
+    score += related_cnt * 15
+
+    source = item.get("source", "")
+    if any(s in source for s in ["紀伊民報", "WBS", "和歌山放送", "わかやま新報", "日高新報", "和歌山県政", "NHK", "毎日", "読売", "朝日", "産経"]):
+        score += 5
+
+    title = item.get("title", "")
+    summary = item.get("summary", "")
+    combined = title + " " + summary
+
+    # 注目度の高いキーワード
+    high_impact_kws = [
+        "全国", "初", "決定", "発表", "逮捕", "警報", "クマ", "熊", "白浜", "パンダ",
+        "高野山", "熊野", "世界遺産", "知事", "予算", "開通", "開業", "優勝", "新宮",
+        "田辺", "和歌山市", "ロケット", "カイロス", "串本", "アドベンチャーワールド", "育樹祭"
+    ]
+    matched_impact = sum(1 for kw in high_impact_kws if kw in combined)
+    score += min(matched_impact * 3, 15)
+
+    # 要約の行数（3行揃っている記事を優遇）
+    bullet_cnt = len([l for l in summary.splitlines() if l.strip().startswith('・')])
+    if bullet_cnt >= 3:
+        score += 6
+    elif bullet_cnt == 2:
+        score += 3
+
+    return score
+
 def cluster_articles(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """同じトピックの記事を1つの代表記事にまとめ、他を related_articles に格納"""
+    """同じトピックの記事を1つの代表記事にまとめ、重要度スコアと注目フラグを付与"""
     clusters: List[Dict[str, Any]] = []
     for item in articles:
-        # すでに別記事の related_articles に入っているものは展開
+        item["summary"] = sanitize_existing_summary(item.get("title", ""), item.get("summary", ""))
         existing_related = item.pop("related_articles", [])
         candidates = [item] + existing_related
         
@@ -496,7 +783,21 @@ def cluster_articles(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
             if not matched:
                 cand["related_articles"] = []
                 clusters.append(cand)
-                
+
+    # 各クラスタの重要度スコアを算出し、上位記事に注目フラグ (is_featured) を付与
+    for c in clusters:
+        c["importance_score"] = compute_article_importance(c)
+        c["is_featured"] = False
+
+    if clusters:
+        ranked = sorted(clusters, key=lambda x: (x.get("importance_score", 0), x.get("published_at", "")), reverse=True)
+        featured_limit = 3 if len(clusters) >= 6 else (2 if len(clusters) >= 3 else 1)
+        featured_count = 0
+        for r in ranked:
+            if r.get("importance_score", 0) >= 12 and featured_count < featured_limit:
+                r["is_featured"] = True
+                featured_count += 1
+
     return clusters
 
 def import_sqlite_data():
@@ -539,6 +840,7 @@ def build_static_site():
     
     # 既存のJSONアーカイブを読み込み
     articles_by_date = import_sqlite_data()
+    known_urls = set()
     
     # 既存のdocs/data/dates/*.jsonがあればそれもロード
     for fn in os.listdir(DATES_DIR):
@@ -550,16 +852,21 @@ def build_static_site():
                     existing = json.load(f)
                     if date_str not in articles_by_date:
                         articles_by_date[date_str] = []
-                    # URLでユニーク判定
                     seen_urls = {a["url"] for a in articles_by_date[date_str]}
                     for item in existing:
-                        if item["url"] not in seen_urls:
+                        u = item.get("url")
+                        if u:
+                            known_urls.add(u)
+                        for rel in item.get("related_articles", []):
+                            if rel.get("url"):
+                                known_urls.add(rel.get("url"))
+                        if u and u not in seen_urls:
                             articles_by_date[date_str].append(item)
-                            seen_urls.add(item["url"])
+                            seen_urls.add(u)
             except Exception as e:
                 print(f"Error loading {fn}: {e}")
 
-    # 和歌山県全30市町村・6郡を網羅するGoogle News収集クエリ
+    # 1. 和歌山県全30市町村・6郡を網羅するGoogle News収集クエリ
     queries = [
         "和歌山県",
         "和歌山市",
@@ -585,11 +892,35 @@ def build_static_site():
                 seen_links.add(link)
                 raw_entries.append(e)
 
-    print(f"Google Newsから {len(raw_entries)} 件の候補を取得。並列処理中...")
+    # 2. 地元有力メディア・県庁から直接取得（紀伊民報・WBS和歌山放送・わかやま新報・日高新報・和歌山県政ニュース）
+    local_media_items = []
+    local_media_items.extend(fetch_agara_items())
+    local_media_items.extend(fetch_wbs_items())
+    local_media_items.extend(fetch_wakayama_shimpo_items())
+    local_media_items.extend(fetch_hidaka_shimpo_items())
+    local_media_items.extend(fetch_wakayama_pref_items())
+
+    new_local_items = [it for it in local_media_items if it.get('url') not in known_urls]
+
+    print(f"情報ソース取得完了: Google News {len(raw_entries)} 件, 地元専門メディア/県政 {len(new_local_items)} 件（新規）")
+    print("並列解析および高度要約生成を開始...")
     
     new_articles = []
-    with ThreadPoolExecutor(max_workers=6) as executor:
-        futures = [executor.submit(process_single_entry, entry, gemini_key) for entry in raw_entries]
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        futures = []
+        for entry in raw_entries:
+            futures.append(executor.submit(process_single_entry, entry, gemini_key))
+        for item in new_local_items:
+            futures.append(executor.submit(
+                process_article_item,
+                item['url'],
+                item['title'],
+                item['source'],
+                item['article_date'],
+                item['published_at'],
+                gemini_key,
+                False  # 地元専門メディアは和歌山確定のため無条件採用
+            ))
         for f in as_completed(futures):
             try:
                 res = f.result()

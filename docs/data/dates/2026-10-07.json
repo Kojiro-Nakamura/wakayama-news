@@ -5,10 +5,12 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261007de56064",
     "source": "NHKニュース",
     "published_at": "2026-10-07 20:10",
-    "summary": "・和歌山 みなべ町 梅農家の負担軽減へ ドローン専用の肥料開発",
+    "summary": "・和歌山 みなべ町 梅農家の負担軽減へ ドローン専用の肥料開発。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-07",
@@ -19,7 +21,29 @@
     "summary": "・クリーンセンターに持ち込まれた粗大ごみの中には、まだ使えるものがあります。\n・リユース事業では、ごみの減量化・資源化のための取組（4R）の一環として、再使用が可能な粗大ごみを市民の皆さまに提供します。\n・注意：クリーンセンターでリユース品の運搬は行いません。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-07",
+    "title": "上富田町で県立熊野高校看護科の宣誓式、厳かに 24人が決意新たに [和歌山県]",
+    "url": "https://www.asahi.com/articles/ASVB63WB5VB6PXLB00SM.html",
+    "source": "朝日新聞",
+    "published_at": "2026-10-07 16:00",
+    "summary": "・和歌山県上富田町の上富田文化会館で9月30日、県立熊野高校看護科の宣誓式があった。\n・専門的な病院実習が12月に始まるのを前に、専攻科の1年生24人が決意を新たにした。\n・看護科は、高校課程3年と専攻科課程2年の5年一貫教育で、国家資格取得を目指している。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "上富田町で県立熊野高校看護科の宣誓式、厳かに 24人が決意新たに [和歌山県]",
+        "url": "https://www.asahi.com/sp/articles/photo/AS20261006003861.html",
+        "source": "朝日新聞",
+        "published_at": "2026-10-07 10:45"
+      }
+    ],
+    "importance_score": 32,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-07",
@@ -30,18 +54,9 @@
     "summary": "・梅の産地・みなべ町では、小学生が地域特産の南高梅について学ぶ体験授業が行われています。\n・みなべ町立岩代小学校では、２０年前から、児童らが年間を通して梅の収穫やしそ漬けの梅干しをつくる体験学習を行っています。\n・梅についての学習は、ＪＡわかやま紀州地域本部やＪＡ共済連和歌山の協力で、保護者らの園地を借りて取り組んでいるもので、この日は全校児童３３人が梅干づくりの工程の天日干しを体験しました。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-07",
-    "title": "上富田町で県立熊野高校看護科の宣誓式、厳かに 24人が決意新たに [和歌山県]",
-    "url": "https://www.asahi.com/sp/articles/photo/AS20261006003861.html",
-    "source": "朝日新聞",
-    "published_at": "2026-10-07 10:45",
-    "summary": "・和歌山県上富田町の上富田文化会館で9月30日、県立熊野高校看護科の宣誓式があった。\n・専門的な病院実習が12月に始まるのを前に、専攻科の1年生24人が決意を新たにした。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-07",
@@ -49,9 +64,11 @@
     "url": "https://www.asahi.com/articles/ASVB63W5TVB6PXLB00CM.html",
     "source": "朝日新聞",
     "published_at": "2026-10-07 10:45",
-    "summary": "・新宮市の熊野速玉大社 来年の干支「未」の大絵馬、早くも完成 [和歌山県]",
+    "summary": "・新宮市の熊野速玉大社 来年の干支「未」の大絵馬、早くも完成 [和歌山県]。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": true
   }
 ]

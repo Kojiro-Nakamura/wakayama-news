@@ -15,7 +15,9 @@
         "source": "日テレNEWS NNN",
         "published_at": "2026-09-29 16:00"
       }
-    ]
+    ],
+    "importance_score": 24,
+    "is_featured": true
   },
   {
     "article_date": "2026-09-29",
@@ -23,10 +25,12 @@
     "url": "https://news.yahoo.co.jp/articles/77d8b522467ec65bffac61526d46c9040fad83b2/images/000",
     "source": "Yahoo!ニュース",
     "published_at": "2026-09-29 16:00",
-    "summary": "・海外から和歌山・有田川町での金庫窃盗を指示か、容疑で26歳男を逮捕フィリピンから帰国 (産経新聞)",
+    "summary": "・海外から和歌山・有田川町での金庫窃盗を指示か、容疑で26歳男を逮捕フィリピンから帰国 (産経新聞)。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-09-29",
@@ -34,10 +38,12 @@
     "url": "https://www.asahi.com/articles/ASV9X3VSQV9XPXLB002M.html",
     "source": "朝日新聞",
     "published_at": "2026-09-29 16:00",
-    "summary": "・クマ被害、現場近くに捕獲用のおり設置 和歌山県有田川町",
+    "summary": "・クマ被害、現場近くに捕獲用のおり設置 和歌山県有田川町。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
   },
   {
     "article_date": "2026-09-29",
@@ -45,9 +51,11 @@
     "url": "https://www.town.kushimoto.wakayama.jp/kanko/photocontest/photo_contest_2026.html",
     "source": "town.kushimoto.wakayama.jp",
     "published_at": "2026-09-29 11:52",
-    "summary": "・フォトコンテスト2026 入賞作品",
+    "summary": "・フォトコンテスト2026 入賞作品。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   }
 ]

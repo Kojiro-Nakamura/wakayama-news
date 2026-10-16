@@ -8,7 +8,9 @@
     "summary": "・株式会社ブランジスタメディアは、和歌山県 紀美野町（きみのちょう）と提携し、旅好きの好奇心をくすぐるローカルにフォーカスする電子雑誌「旅色FOCAL」和歌山県紀美野町特集を9月25日（金）に公開いたしました。\n・電子雑誌・動画のナビゲーターを務めるのは、柏木由紀さんです。\n・電子雑誌「旅色」は、和歌山県 紀美野町と提携し、「旅色FOCAL」和歌山県 紀美野町特集を公開いたしました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-09-25",
@@ -19,6 +21,8 @@
     "summary": "・2026年9月25日 トーヨーカネツ[6369]の開示資料「和歌山県有田市初島における新工場建設用地取得に関するお知らせ」 が閲覧できます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   }
 ]

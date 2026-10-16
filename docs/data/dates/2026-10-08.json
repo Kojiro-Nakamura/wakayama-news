@@ -8,7 +8,9 @@
     "summary": "・【NHK】高齢化が進む有田川町の山あいの地域で新たな防災の担い手を育てようと学習会が開かれ、地元の中学生と高校生が専門家の指導を受けながら避難路の確認を行いました。\n・有田川町の山あいの清水地区にある有田中央。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-08",
@@ -16,7 +18,7 @@
     "url": "https://news.yahoo.co.jp/articles/e4f687b27308696da610604a12ed44f8b138ed27/images/000",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-08 16:25",
-    "summary": "・湯川選手（朝来小）優勝 和歌山県かつらぎ町空手道大会 (紀伊民報)",
+    "summary": "・湯川選手（朝来小）優勝 和歌山県かつらぎ町空手道大会 (紀伊民報)。",
     "summary_type": "auto",
     "category": "スポーツ",
     "related_articles": [
@@ -32,7 +34,9 @@
         "source": "47NEWS",
         "published_at": "2026-10-08 14:30"
       }
-    ]
+    ],
+    "importance_score": 33,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-08",
@@ -43,7 +47,9 @@
     "summary": "・高校野球の速報、日程・結果、動画、ニュース、写真など掲載。\n・全国高校野球選手権大会（夏の甲子園）、秋の国体、明治神宮大会は無料ライブ中継を配信。\n・※秋季大会の速報を実施しない地域もあります。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-08",
@@ -51,10 +57,12 @@
     "url": "https://www.city.hashimoto.lg.jp/guide/kenko_fukushibu/kateikyouikusiensitsu/kateikyouikushien/kyouikusienteam/23546.html",
     "source": "橋本市",
     "published_at": "2026-10-08 15:23",
-    "summary": "・講座を通じてのお友達づくり、学びの場を目的に、子育てに関心のある方どなたでも参加していただけます。\n・・場所：保健福祉センター　1F　中庭　※雨天時　3F　多目的ホール。\n・ヘスティア インスタグラムには、ほかにも魅力的な情報が配信されています。",
+    "summary": "・講座を通じてのお友達づくり、学びの場を目的に、子育てに関心のある方どなたでも参加していただけます。\n・場所：保健福祉センター　1F　中庭　※雨天時　3F　多目的ホール。\n・ヘスティア インスタグラムには、ほかにも魅力的な情報が配信されています。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-08",
@@ -65,6 +73,8 @@
     "summary": "・「地域一丸で防除を」　和歌山・みなべでクビアカ被害調査。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
   }
 ]
