@@ -8,9 +8,9 @@
     "summary": "・「ダートコーヒー」（和歌山市野崎）が10月6日、コーヒー豆の擬人化企画「異世界喫茶COFFEE STARS（コーヒースターズ）」のボイスドラマ第3弾出演声優を発表した。\n・ネパール洪水復興支援チャリティーイベントがJR和歌山駅前「わかちか広場」と県民交流プラザ「和歌山ビッグ愛」（和歌山市手平2）で10月17日、開催される。\n・コーヒーキャンディー「ガツンとロブスタコーヒー飴（あめ）」の販売が10月1日、コーヒー豆の卸売りを行う「ダートコーヒー」（和歌山市野崎）本社や直営カフェ「とびだす焙煎（ばいせん）所」（黒田）などで始まった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-16",
@@ -21,9 +21,9 @@
     "summary": "・「ダートコーヒー」（和歌山市野崎）が10月6日、コーヒー豆の擬人化企画「異世界喫茶COFFEE STARS（コーヒースターズ）」のボイスドラマ第3弾出演声優を発表した。\n・（和歌山経済新聞）【写真】（左から）遊佐浩二さんが声を務める「コロンビア エクセルソ」、小西克幸さんが声を務める「グアテマラ SHB」　第3弾発表の声優は、「グアテマラ SHB」役の小西克幸さん、「コロンビア エクセルソ」役の遊佐浩二さん。\n・これまでに諏訪部順一さん、安元洋貴さん、平川大輔さん、竹内良太さんを起用し、今回の発表でメインキャラクター6人の声優がそろった。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-16",
@@ -73,6 +73,8 @@
     "summary": "・和歌山地方気象台が10月16日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・最高気温は、和歌山26℃、潮岬26℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【和歌山県】10/16の天気予報",
@@ -80,9 +82,7 @@
         "source": "FNNプライムオンライン",
         "published_at": "2026-10-16 05:10"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-16",
@@ -647,6 +647,8 @@
     "summary": "・ネパール洪水復興支援チャリティーイベントがJR和歌山駅前「わかちか広場」と県民交流プラザ「和歌山ビッグ愛」（和歌山市手平2）で10月17日、開催される。\n・「ダートコーヒー」（和歌山市野崎）が10月6日、コーヒー豆の擬人化企画「異世界喫茶COFFEE STARS（コーヒースターズ）」のボイスドラマ第3弾出演声優を発表した。\n・三輪崎八幡神社（新宮市三輪崎）の例大祭が9月13日、同神社と三輪崎漁港（同）周辺で開催された。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 63,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "プレスリリース：［APAMAN］「白浜・台湾フェスタ2026」開催協力！～夏の花火大会に続き、和歌山県白浜町の地方創生・地域活性化を継続支援～（PR TIMES）",
@@ -666,9 +668,7 @@
         "source": "PR TIMES",
         "published_at": "2026-10-16 16:30"
       }
-    ],
-    "importance_score": 63,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-16",
@@ -874,6 +874,19 @@
   },
   {
     "article_date": "2026-10-16",
+    "title": "県立21校でも個人情報漏えいか　ＩＴ会社不正アクセス問題、和歌山",
+    "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow699991?fm=latestnews",
+    "source": "ｄメニューニュース",
+    "published_at": "2026-10-16 14:30",
+    "summary": "・自治体の情報配信サービスを手がけるＩＴ関連会社「アルカディア」（大阪府箕面市）が不正アクセスを受けた問題を巡り、和歌山県教育委員会は１５日、県立２１校（１７高校、４中学校）でも、生徒や保護者向け連絡メールの登録者約１万６千人の個人情報が漏えいした恐れがあると発表した。\n・同社から１３日に各該当校に情報漏えいの可能性の報告があり、学校から連絡を受けた県教委と県高校校長会が１４日、各校に生徒や保護者への注意喚起を依頼。\n・同社は、不正アクセスの侵入経路となったサーバーのサービスを停止し、安全性が確認されたサーバーでの配信サービスは再開したという。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-16",
     "title": "罰則付きのカスハラ条例成立",
     "url": "https://wakayama.keizai.biz/gpnews/1774619/",
     "source": "和歌山経済新聞",
@@ -920,6 +933,8 @@
     "summary": "・【紀州材の山長商店】構造計算でき、環境情報を可視化した「無垢材」・強度を誇る「構造材」を提案！「Japan Home Show & Building Show 2026」に出展。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【紀州材の山長商店】構造計算でき、環境情報を可視化した「無垢材」・強度を誇る「構造材」を提案！「Japan Home Show & Building Show 2026」に出展",
@@ -927,9 +942,7 @@
         "source": "PR TIMES",
         "published_at": "2026-10-16 09:32"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-16",
@@ -1129,16 +1142,23 @@
   },
   {
     "article_date": "2026-10-16",
-    "title": "ＪＲ阪和線で人身事故、和歌山―和泉砂川駅間で一時運転見合わせ…運休や遅れが発生",
-    "url": "https://www.yomiuri.co.jp/local/kansai/news/20261016-GYO1T00012/",
-    "source": "読売新聞",
-    "published_at": "2026-10-16 09:11",
+    "title": "ＪＲ阪和線で人身事故、和歌山―和泉砂川駅間で一時運転見合わせ…運休や遅れが発生（読売新聞オンライン）",
+    "url": "https://news.yahoo.co.jp/articles/b783feca6f788525305138e4967930740b8f3372",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-16 09:12",
     "summary": "・１６日午前８時１５分頃、ＪＲ阪和線の六十谷駅（和歌山市）駅構内で、通過中の上り特急電車「くろしお８号」（乗客約２００人）が人と接触した。\n・ＪＲ西日本によると、ホームから人が線路内に立ち入り、運転士が非常ブレーキをかけたが間に合わず接触したという。\n・この影響で、阪和線は和歌山―和泉砂川駅間で一時運転を見合わせた。",
     "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 14,
-    "is_featured": false,
-    "related_articles": []
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "ＪＲ阪和線で人身事故、和歌山―和泉砂川駅間で一時運転見合わせ…運休や遅れが発生",
+        "url": "https://www.yomiuri.co.jp/local/kansai/news/20261016-GYO1T00012/",
+        "source": "読売新聞",
+        "published_at": "2026-10-16 09:11"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-16",

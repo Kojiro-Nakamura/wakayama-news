@@ -622,8 +622,8 @@
     "summary": "・和歌山県田辺市秋津町にあるＪＡわかやまの産直店「紀菜柑」は３日、同市上秋津でバナナ園の見学ツアーを開いた。\n・参加した親子連れらが、バナナの実がなった様子に感動していた。\n・【外国人がミカン満喫 上秋津で収。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 39,
-    "is_featured": false,
+    "importance_score": 54,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "バナナ園に感動 田辺市上秋津で見学ツアー、和歌山 (紀伊民報)",
@@ -636,6 +636,12 @@
         "url": "https://www.47news.jp/15074967.html",
         "source": "47NEWS",
         "published_at": "2026-10-13 14:30"
+      },
+      {
+        "title": "バナナ園に感動 田辺市上秋津で見学ツアー、和歌山",
+        "url": "https://www.agara.co.jp/article/697477",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-13 16:00"
       }
     ]
   },
@@ -708,7 +714,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 45,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【歩ける世界遺産】熊野古道「中辺路」を歩く! 滝尻王子から熊野本宮大社までの長定番ルートを解説（BRAVO MOUNTAIN）",
