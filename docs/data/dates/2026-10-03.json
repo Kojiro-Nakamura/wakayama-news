@@ -1,6 +1,26 @@
 [
   {
     "article_date": "2026-10-03",
+    "title": "気象支援資料 ( 奈良県 上北山村 )",
+    "url": "https://www.data.jma.go.jp/yoho/data/jishin/met/kishoushien_Nara_Kamikitayama-mura.html?",
+    "source": "気象庁",
+    "published_at": "2026-10-03 17:00",
+    "summary": "・最新の気象警報・注意報の発表状況もご確認ください。\n・この資料は、１日３回（５時頃、１１時頃、１７時頃）作成しています。\n・災害の被災地に対し、市町村毎の気象予測資料を提供するページです。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "気象支援資料 ( 和歌山県 古座川町 )",
+        "url": "https://www.data.jma.go.jp/yoho/data/jishin/met/kishoushien_Wakayama_Kozagawa-cho.html?",
+        "source": "気象庁",
+        "published_at": "2026-10-03 11:00"
+      }
+    ],
+    "importance_score": 27,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-03",
     "title": "岩出市の一乗閣に茶席「一期一会」オープン／和歌山",
     "url": "https://news.wbs.co.jp/220564",
     "source": "WBS和歌山放送ニュース",
@@ -10,19 +30,6 @@
     "category": "政治・行政",
     "importance_score": 11,
     "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-03",
-    "title": "気象支援資料 ( 和歌山県 古座川町 )",
-    "url": "https://www.data.jma.go.jp/yoho/data/jishin/met/kishoushien_Wakayama_Kozagawa-cho.html?",
-    "source": "気象庁",
-    "published_at": "2026-10-03 11:00",
-    "summary": "・災害の被災地に対し、市町村毎の気象予測資料を提供するページです。\n・最新の気象警報・注意報の発表状況もご確認ください。\n・この資料は、１日３回（５時頃、１１時頃、１７時頃）作成しています。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 12,
-    "is_featured": true,
     "related_articles": []
   }
 ]
