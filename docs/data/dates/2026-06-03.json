@@ -29,7 +29,7 @@
     "summary_type": "auto",
     "category": "地域・一般",
     "importance_score": 21,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【速報】台風6号　和歌山県南部に上陸しました　過去4番目に早い上陸(気象予報士 日直主任 2026年06月03日)",
@@ -48,9 +48,22 @@
     "summary": "・和歌山県古座川水系古座川レベル５氾濫特別警報。\n・【警戒レベル５相当情報［洪水］】〔警戒レベル４相当から５相当に切替〕和歌山県古座川水系古座川では、氾濫しているおそれ。\n・【警戒レベル２】相瀬基準観測所（東牟婁郡古座川町）受け持ち区間　古座川の相瀬基準観測所（東牟婁郡古座川町）では、「避難判断水位」に到達しましたが、今後、水位は上昇しない見込みです。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "importance_score": 15,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 45,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "指定河川洪水予報＝和歌山県東牟婁振興局串本建設部 和歌山地方気象台 共同発表",
+        "url": "https://www.kyoto-np.co.jp/articles/-/1725558",
+        "source": "京都新聞デジタル",
+        "published_at": "2026-06-03 16:00"
+      },
+      {
+        "title": "指定河川洪水予報＝和歌山県東牟婁振興局串本建設部 和歌山地方気象台 共同発表",
+        "url": "https://news.at-s.com/article/1984803",
+        "source": "静岡新聞DIGITAL",
+        "published_at": "2026-06-03 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-06-03",

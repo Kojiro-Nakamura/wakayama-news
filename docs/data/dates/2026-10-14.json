@@ -8,6 +8,8 @@
     "summary": "・リーグ戦表より情報ありがとうございます！\n・昨年度の出場チームおよび判明分の出場チームを元に暫定リーグ表を作成しました。\n・今年度のリーグ編成情報の提供お待ちしています。",
     "summary_type": "auto",
     "category": "スポーツ",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "西日本最大級のグルメイベント「全肉祭」 和歌山県和歌山市にて10/24～10/25に第18回開催決定！ (2026年10月14日掲載)",
@@ -15,9 +17,7 @@
         "source": "ライブドアニュース",
         "published_at": "2026-10-14 12:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-14",
@@ -282,6 +282,26 @@
   },
   {
     "article_date": "2026-10-14",
+    "title": "やんちゃ初優勝 梅の里社会人野球、和歌山・みなべ（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/d24339840692bda58b91ec14c257a67b06a274a1",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-14 16:25",
+    "summary": "・第３７回梅の里社会人野球大会（和歌山県みなべ町、和歌山放送、紀伊民報主催）は１１日、みなべ町清川の清川球場で準決勝と決勝があり、決勝でやんちゃ（みなべ町）がＳＰ（同）に４―３で勝ち、初優勝した。\n・【ベスト４決まる／梅の里社会人野球大会の記事】　大会は田辺・西牟婁とみなべ町の計１２チームが出場し、トーナメントで優勝を争った。\n・準決勝、決勝の２試合を投げ切り、決勝では本塁打も放って最優秀選手賞に選ばれたやんちゃの小山倖生選手は「大変だったけれど初優勝してうれしい。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [
+      {
+        "title": "やんちゃ初優勝 梅の里社会人野球、和歌山・みなべ",
+        "url": "https://www.agara.co.jp/article/698193",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-14 16:00"
+      }
+    ],
+    "importance_score": 30,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-14",
     "title": "和歌山市 市民のメールアドレスなど個人情報が漏洩した可能性 災害情報通信サービス 提供会社に不正アクセス（テレビ和歌山）",
     "url": "https://news.yahoo.co.jp/articles/f5824c49345af76618ca3f44863e10aa86a65826",
     "source": "Yahoo!ニュース",
@@ -355,19 +375,6 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 14,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-14",
-    "title": "やんちゃ初優勝 梅の里社会人野球、和歌山・みなべ",
-    "url": "https://www.agara.co.jp/article/698193",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-10-14 16:00",
-    "summary": "・ベスト４決まる／梅の里社会人野球大会。\n・梅の里野球が開幕　ベスト４決まる、和歌山県みなべ。\n・ＣＲＥＡＭ優勝／みなべ　連盟杯軟式野球／やんちゃ準優勝。",
-    "summary_type": "auto",
-    "category": "スポーツ",
-    "importance_score": 17,
     "is_featured": false,
     "related_articles": []
   },

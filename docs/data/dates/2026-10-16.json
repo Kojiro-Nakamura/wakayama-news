@@ -698,6 +698,26 @@
   },
   {
     "article_date": "2026-10-16",
+    "title": "潮汐・海面水位のデータ 潮位表 串本（KUSHIMOTO）",
+    "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=KS&ys=2026&ms=04&ds=30&ye=2026&me=05&de=14&S_HILO=on&GRAPH=on&LV=DL",
+    "source": "気象庁",
+    "published_at": "2026-10-16 16:35",
+    "summary": "・2026年の潮位表（毎時潮位、満潮・干潮の時刻と潮位）は、PDF版、テキストデータ版でもご利用いただけます。\n・潮位表ダウンロード（潮位表基準面上の値）　　PDF版（満潮・干潮のみ　約70KB）　　PDF版（毎時潮位含む　約300KB）　　テキストデータ版（50KB）。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "潮汐・海面水位のデータ 潮位表 串本（KUSHIMOTO）",
+        "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=KS&ys=2026&ms=05&ds=15&ye=2026&me=05&de=29&S_HILO=on&GRAPH=on&LV=DL",
+        "source": "気象庁",
+        "published_at": "2026-10-16 16:01"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-16",
     "title": "災害時に簡易住宅を ベンチャー企業と協定、和歌山・田辺（紀伊民報）",
     "url": "https://news.yahoo.co.jp/articles/fa38ddfa9e9d0ca926fd9a77c3b8eb1ce16432e2",
     "source": "Yahoo!ニュース",
@@ -797,19 +817,6 @@
     "summary_type": "auto",
     "category": "政治・行政",
     "importance_score": 17,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-16",
-    "title": "潮汐・海面水位のデータ 潮位表 串本（KUSHIMOTO）",
-    "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=KS&ys=2026&ms=05&ds=15&ye=2026&me=05&de=29&S_HILO=on&GRAPH=on&LV=DL",
-    "source": "気象庁",
-    "published_at": "2026-10-16 16:01",
-    "summary": "・2026年の潮位表（毎時潮位、満潮・干潮の時刻と潮位）は、PDF版、テキストデータ版でもご利用いただけます。\n・潮位表ダウンロード（潮位表基準面上の値）　　PDF版（満潮・干潮のみ　約70KB）　　PDF版（毎時潮位含む　約300KB）　　テキストデータ版（50KB）。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 6,
     "is_featured": false,
     "related_articles": []
   },
