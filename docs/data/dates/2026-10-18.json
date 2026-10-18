@@ -1,6 +1,65 @@
 [
   {
     "article_date": "2026-10-18",
+    "title": "和歌山：湯浅町長選 横矢氏が初当選：地域ニュース",
+    "url": "https://www.yomiuri.co.jp/local/wakayama/news/20261018-GYTNT00104/",
+    "source": "読売新聞",
+    "published_at": "2026-10-18 21:17",
+    "summary": "・和歌山：湯浅町長選 横矢氏が初当選：地域ニュース。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "潮汐・海面水位のデータ 潮位表 串本（KUSHIMOTO）",
+    "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=KS&ys=2026&ms=03&ds=31&ye=2026&me=04&de=14&S_HILO=on&GRAPH=on&LV=DL",
+    "source": "気象庁",
+    "published_at": "2026-10-18 19:54",
+    "summary": "・2026年の潮位表（毎時潮位、満潮・干潮の時刻と潮位）は、PDF版、テキストデータ版でもご利用いただけます。\n・潮位表ダウンロード（潮位表基準面上の値）　　PDF版（満潮・干潮のみ　約70KB）　　PDF版（毎時潮位含む　約300KB）　　テキストデータ版（50KB）。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "潮汐・海面水位のデータ 潮位表 串本（KUSHIMOTO）",
+        "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=KS&ys=2027&ms=07&ds=16&ye=2027&me=07&de=30&S_HILO=on&GRAPH=on&LV=DL",
+        "source": "気象庁",
+        "published_at": "2026-10-18 03:15"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "南高梅を世界へ、次世代へ。「紀州高田果園」高田智史さん／和歌山県日高郡みなべ町",
+    "url": "https://nihonmono.jp/article/55418/",
+    "source": "NIHONMONO",
+    "published_at": "2026-10-18 19:12",
+    "summary": "・和歌山県みなべ町で、明治35年（1902年）から梅を育て続ける「紀州高田果園」。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "競うのは魚の珍しさ「珍魚釣り選手権」 最も珍しかったのは40代男性が釣った「ウイゴンベ」水族館で展示へ 和歌山・串本町",
+    "url": "https://news.yahoo.co.jp/articles/76bceb91a7952db14fb0c33795f8ba9382737cfa",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-18 18:02",
+    "summary": "・和歌山県串本町では、釣った魚の「珍しさ」を競うユニークな魚釣り大会が開催されました。\n・今日開かれたのは釣った魚の大きさや数ではなく、珍しさや串本らしさを競う「珍魚釣り選手権」です。\n・【参加者】「釣ったぞー」「めっちゃうれしいです」きょう最も珍しかったのは40代の男性が釣った「ウイゴンべ」で、串本海中公園水族館で展示されるということです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-18",
     "title": "【高校野球】秋の近畿大会、智辯和歌山８強へ",
     "url": "https://news.wbs.co.jp/221016",
     "source": "WBS和歌山放送ニュース",
@@ -8,9 +67,9 @@
     "summary": "・来年（２０２７年）春の選抜高校野球・出場校選考の重要な参考資料となる秋の近畿高校野球大会２日目はきょう（１８日）、京都市のわかさスタジアム京都で、１回戦３試合が行われ、このうち、和歌山２位校の智辯和歌山は、奈良１位校の奈良大附属を１０対２で下し、ベスト８に勝ち上がりました。\n・智辯和歌山の準々決勝は、今月（１０月）２５日、午前１１時半開始予定の第２試合で、京都１位校の京都国際と対戦します。\n・なお、和歌山１位校の和歌山東は、きのう（１７日）の１回戦で、兵庫２位校の明石商業に敗退しています。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -21,6 +80,8 @@
     "summary": "・子どもたちに「ものづくり」を通して、地域の未来を考えてもらおうという催しが、来月（１１月）３日に、有田市内で開かれます。\n・これは、有田市が主催する「未来をつくる！わくわくのものづくりフェス」で、参加者を募集しています。\n・イベントは、１１月３日の文化の日の午前１０時から午後４時まで、有田市のオークワ箕島店で開かれ、１８歳以下の子どもが対象で、小学３年生以下の児童は保護者同伴での参加となります。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 26,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "子どもたちの「ものづくりフェス」１１月３日／和歌山・有田市",
@@ -28,9 +89,7 @@
         "source": "au Webポータル",
         "published_at": "2026-10-18 13:44"
       }
-    ],
-    "importance_score": 26,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-18",
@@ -41,9 +100,9 @@
     "summary": "・たま駅長ら、ネコの駅長で人気の和歌山電鐵では、来年（２０２７年）のカレンダーを販売しています。\n・また、カレンダーの発売イベントでは、駅長候補生のネコのろくたまがＰＲに一役買い、カレンダーの前で愛嬌をふりまきました。\n・詳しくは、和歌山電鐵のホームページに掲載されています。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -54,6 +113,8 @@
     "summary": "・阪和自動車道の印南インターチェンジから南紀田辺インターチェンジでの上下線が、あす（１９日）から今月（１０月）２３日までの毎日、午後８時から翌朝６時まで夜間通行止めになります。\n・道路保全作業や４車線化工事などのための通行止めで、迂回路は国道４２号などとなります。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 26,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "阪和道、印南～南紀田辺、夜間通行止め、１９日から／和歌山",
@@ -61,9 +122,7 @@
         "source": "au Webポータル",
         "published_at": "2026-10-18 11:50"
       }
-    ],
-    "importance_score": 26,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-18",
@@ -74,9 +133,9 @@
     "summary": "・九度山町の文化観光大使で、今年（２０２６年）７月２日に１００歳で亡くなった平山美知子(ひらやま・みちこ)さんを偲んで、町では今月（１０月）２５日まで記帳台を開設しています。\n・平山美知子さんは、九度山町出身で、元衆議院議員で実業家として、大正、昭和期に活躍した松山常次郎(まつやま・つねじろう)さんの長女で、２００９年に７９歳で亡くなった日本画家、平山郁夫(ひらやま・いくお)さんの夫人です。\n・２００７年に、九度山町の松山常次郎さんの生まれた家を記念館としてオープンした際に、町は、平山美知子さんに文化・観光大使を委嘱していました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -87,9 +146,9 @@
     "summary": "・和歌山市は、物価高騰対策として実施するプレミアム付き商品券の販売を今月（１０月）２０日からスタートします。\n・今回のプレミアム付き商品券は、プレミアム率が３３％で、４０００円分が３０００円で購入できます。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -100,9 +159,16 @@
     "summary": "・去年（２０２５年）１０月１日時点の和歌山県の人口は８６万３７５７人で、５年前より、６・３８％、およそ６万人減少しました。\n・国勢調査は５年ごとに実施され、県人口は、昭和時代の終わり頃まで増加を続け、ピークは、１９８５年の１０８万７千人でした。\n・人口が最も減少したのは、和歌山市で、１万５０００人ほど減って、３４万１７１６人となりました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 14,
-    "is_featured": false
+    "importance_score": 29,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "２０２５年の県人口は８６万人余、５年前より６万人減／和歌山",
+        "url": "https://article.auone.jp/39d9c7fc-8ce0-4be8-9067-f04657377f7f",
+        "source": "au Webポータル",
+        "published_at": "2026-10-18 12:10"
+      }
+    ]
   },
   {
     "article_date": "2026-10-18",
@@ -113,9 +179,9 @@
     "summary": "・秋の近畿高校軟式野球、和歌山県予選の決勝がきのう（１７日）、御坊総合運動公園野球場で行われ、耐久が優勝しました。\n・決勝戦は、桐蔭・向陽連合と耐久の対戦で行われ、３対０で耐久が勝ち、４年連続１３回目の優勝を果たしました。\n・耐久は、来月（１１月）７日から、奈良県橿原市(かしはらし)のさとやくスタジアムで行われる近畿大会に、和歌山県代表として出場します。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -126,9 +192,9 @@
     "summary": "・前町長の辞職に伴う湯浅町長選挙の投票が、きょう（１８日）午前７時から一斉に始まりました。\n・湯浅町長選挙に立候補しているのは、届出順に、元町議会議長の横矢政明(よこや・まさあき)候補７７歳と、元町議会議員の権貴大(ごん・たかひろ)候補３９歳のいずれも無所属・新人の２人で、一騎打ちの選挙戦となっています。\n・今回の町長選挙は、上山章善(うえやま・あきよし)前町長が、任期途中の先月（９月）１日、病気療養を理由に、辞職したことに伴って行われているものです。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -139,9 +205,9 @@
     "summary": "・秋晴れに恵まれたきょう（１８日）、第４３回生協まつりが、和歌山市の和歌山城公園・砂の丸広場と西の丸広場で開かれ、およそ３万人が訪れ、買い物やステージイベントなどを楽しみました。\n・これは、県生活協同組合連合会が、「かがやけ和歌山　広げよう平和、くらし、健康の“和”」をテーマに、和歌山放送などの後援で、毎年この時期に開催しているものです。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -152,8 +218,21 @@
     "summary": "・大地震や水害など来るべき大災害に備え、被災者の支援に取り組むNPO法人「大阪災害ボランティア（大阪市西成区）」が18日、和歌山県白浜町の白良浜で炊き出しなどの防災訓練を行った。\n・大阪災害ボランティアは、令和5年に発足。\n・今月5日には大阪市と防災協定を締結、災害時には市の要請を受けて炊き出しなどの食事支援を行う。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "2026 河根 だんじり(河根丹生神社) 和歌山県九度山町 [10/18(日)]",
+    "url": "https://youtu.be/P1AdQOUxjbs?si=GZoLuhuyduIXHfh0",
+    "source": "YouTube",
+    "published_at": "2026-10-18 13:09",
+    "summary": "・2026 河根 だんじり(河根丹生神社) 和歌山県九度山町 [10/18(日)]。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 0,
     "is_featured": false
   },
   {
@@ -165,9 +244,9 @@
     "summary": "・和歌山県田辺市の海水浴場で、恐竜の着ぐるみを着て走る速さを競う「ティラノサウルスレース」が開かれました。\n・田辺市の扇ヶ浜海水浴場では18日、市内で初めてとなるティラノサウルスレースが行われました。\n・レースには2歳から80代までの103人が参加。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -178,6 +257,8 @@
     "summary": "・【大仁田厚】「力強いキックだなぁ！」 10.18紀州白浜町初のビーチプロレスを前に地元格闘技教室の少女から痛烈な一撃。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 36,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【大仁田厚】「力強いキックだなぁ！」 10.18紀州白浜町初のビーチプロレスを前に地元格闘技教室の少女から痛烈な一撃",
@@ -191,9 +272,7 @@
         "source": "週刊ファイト",
         "published_at": "2026-10-18 03:46"
       }
-    ],
-    "importance_score": 36,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-18",
@@ -204,8 +283,21 @@
     "summary": "・スッキリ晴れ 10/18朝7時の風伝峠 #熊野古道。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "【和歌山県】10/18の天気予報",
+    "url": "https://www.fnn.jp/articles/-/1134850",
+    "source": "FNNプライムオンライン",
+    "published_at": "2026-10-18 05:10",
+    "summary": "・和歌山地方気象台が10月18日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山28℃、潮岬25℃でしょう。\n・各地の天気予報は以下の通りです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
     "is_featured": false
   },
   {
@@ -269,9 +361,9 @@
     "summary": "・和歌山市の南側に隣接する海南市はバス、キッチン、トイレ、ランドリーなど水回りの家庭用品の大産地だ。\n・海南特産家庭用品協同組合には約80社が加盟しており、毎年秋の合同商談会の際はホームセンターやドラッグストアのバイヤーが続々と海南入りする。\n・逸品オススメ　和歌山県　「有田みかん」　自然活用　世界に誇る畑。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
