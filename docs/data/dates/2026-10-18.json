@@ -1,27 +1,39 @@
 [
   {
     "article_date": "2026-10-18",
-    "title": "和歌山：湯浅町長選 横矢氏が初当選：地域ニュース",
-    "url": "https://www.yomiuri.co.jp/local/wakayama/news/20261018-GYTNT00104/",
-    "source": "読売新聞",
-    "published_at": "2026-10-18 21:17",
-    "summary": "・和歌山：湯浅町長選 横矢氏が初当選：地域ニュース。",
+    "title": "（和歌山）田辺市龍神村柳瀬でクマ出没　１０月１８日",
+    "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1484553100642747200",
+    "source": "ｄメニューニュース",
+    "published_at": "2026-10-18 22:57",
+    "summary": "・和歌山県警によると、１０月１８日午後６時頃、田辺市龍神村柳瀬で、クマが出没しました。",
     "summary_type": "auto",
-    "category": "政治・行政",
+    "category": "社会・事件",
     "related_articles": [],
-    "importance_score": 8,
+    "importance_score": 6,
     "is_featured": false
   },
   {
     "article_date": "2026-10-18",
     "title": "潮汐・海面水位のデータ 潮位表 串本（KUSHIMOTO）",
-    "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=KS&ys=2026&ms=03&ds=31&ye=2026&me=04&de=14&S_HILO=on&GRAPH=on&LV=DL",
+    "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=KS&ys=2027&ms=09&ds=14&ye=2027&me=09&de=28&S_HILO=on&GRAPH=on&LV=DL",
     "source": "気象庁",
-    "published_at": "2026-10-18 19:54",
-    "summary": "・2026年の潮位表（毎時潮位、満潮・干潮の時刻と潮位）は、PDF版、テキストデータ版でもご利用いただけます。\n・潮位表ダウンロード（潮位表基準面上の値）　　PDF版（満潮・干潮のみ　約70KB）　　PDF版（毎時潮位含む　約300KB）　　テキストデータ版（50KB）。",
+    "published_at": "2026-10-18 21:43",
+    "summary": "・2027年の潮位表（毎時潮位、満潮・干潮の時刻と潮位）は、PDF版、テキストデータ版でもご利用いただけます。\n・潮位表ダウンロード（潮位表基準面上の値）　　PDF版（満潮・干潮のみ　約70KB）　　PDF版（毎時潮位含む　約300KB）　　テキストデータ版（50KB）。",
     "summary_type": "auto",
     "category": "観光・文化",
     "related_articles": [
+      {
+        "title": "潮汐・海面水位のデータ 潮位表 串本（KUSHIMOTO）",
+        "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=KS&ys=2026&ms=03&ds=01&ye=2026&me=03&de=15&S_HILO=on&GRAPH=on&LV=DL",
+        "source": "気象庁",
+        "published_at": "2026-10-18 21:37"
+      },
+      {
+        "title": "潮汐・海面水位のデータ 潮位表 串本（KUSHIMOTO）",
+        "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=KS&ys=2026&ms=03&ds=31&ye=2026&me=04&de=14&S_HILO=on&GRAPH=on&LV=DL",
+        "source": "気象庁",
+        "published_at": "2026-10-18 19:54"
+      },
       {
         "title": "潮汐・海面水位のデータ 潮位表 串本（KUSHIMOTO）",
         "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=KS&ys=2027&ms=07&ds=16&ye=2027&me=07&de=30&S_HILO=on&GRAPH=on&LV=DL",
@@ -29,8 +41,21 @@
         "published_at": "2026-10-18 03:15"
       }
     ],
-    "importance_score": 21,
-    "is_featured": false
+    "importance_score": 51,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "和歌山：湯浅町長選 横矢氏が初当選：地域ニュース",
+    "url": "https://www.yomiuri.co.jp/local/wakayama/news/20261018-GYTNT00104/",
+    "source": "読売新聞",
+    "published_at": "2026-10-18 21:17",
+    "summary": "・和歌山：湯浅町長選 横矢氏が初当選：地域ニュース。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "importance_score": 8,
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -41,21 +66,41 @@
     "summary": "・和歌山県みなべ町で、明治35年（1902年）から梅を育て続ける「紀州高田果園」。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 0,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "モンローウォークがＧＩ初制覇",
+    "url": "https://wakayama.keizai.biz/gpnews/1775445/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-18 18:19",
+    "summary": "・戸崎圭太が騎乗し、断然の単勝１番人気に支持されたモンローウォークがレースレコードの１分５６秒１で優勝し、ＧＩ初制覇＝１８日、京都競馬場　【時事通信社】。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
     "is_featured": false
   },
   {
     "article_date": "2026-10-18",
     "title": "競うのは魚の珍しさ「珍魚釣り選手権」 最も珍しかったのは40代男性が釣った「ウイゴンベ」水族館で展示へ 和歌山・串本町",
-    "url": "https://news.yahoo.co.jp/articles/76bceb91a7952db14fb0c33795f8ba9382737cfa",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-18 18:02",
-    "summary": "・和歌山県串本町では、釣った魚の「珍しさ」を競うユニークな魚釣り大会が開催されました。\n・今日開かれたのは釣った魚の大きさや数ではなく、珍しさや串本らしさを競う「珍魚釣り選手権」です。\n・【参加者】「釣ったぞー」「めっちゃうれしいです」きょう最も珍しかったのは40代の男性が釣った「ウイゴンべ」で、串本海中公園水族館で展示されるということです。",
+    "url": "https://www.ktv.jp/news/articles/?id=30361",
+    "source": "ktv.jp",
+    "published_at": "2026-10-18 18:06",
+    "summary": "・和歌山県串本町では、釣った魚の「珍しさ」を競うユニークな魚釣り大会が開催されました。\n・今日開かれたのは釣った魚の大きさや数ではなく、珍しさや串本らしさを競う「珍魚釣り選手権」です。\n・きょう最も珍しかったのは40代の男性が釣った「ウイゴンべ」で、串本海中公園水族館で展示されるということです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 9,
+    "related_articles": [
+      {
+        "title": "競うのは魚の珍しさ「珍魚釣り選手権」 最も珍しかったのは40代男性が釣った「ウイゴンベ」水族館で展示へ 和歌山・串本町",
+        "url": "https://news.yahoo.co.jp/articles/76bceb91a7952db14fb0c33795f8ba9382737cfa",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-18 18:02"
+      }
+    ],
+    "importance_score": 24,
     "is_featured": false
   },
   {
@@ -81,7 +126,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 26,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "子どもたちの「ものづくりフェス」１１月３日／和歌山・有田市",
@@ -205,9 +250,16 @@
     "summary": "・秋晴れに恵まれたきょう（１８日）、第４３回生協まつりが、和歌山市の和歌山城公園・砂の丸広場と西の丸広場で開かれ、およそ３万人が訪れ、買い物やステージイベントなどを楽しみました。\n・これは、県生活協同組合連合会が、「かがやけ和歌山　広げよう平和、くらし、健康の“和”」をテーマに、和歌山放送などの後援で、毎年この時期に開催しているものです。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "importance_score": 11,
+    "importance_score": 26,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "第４３回生協まつり、３万人でにぎわう／和歌山",
+        "url": "https://article.auone.jp/8709b97d-1497-4c03-865a-c54bcc8a68f9",
+        "source": "au Webポータル",
+        "published_at": "2026-10-18 16:28"
+      }
+    ]
   },
   {
     "article_date": "2026-10-18",
@@ -231,9 +283,9 @@
     "summary": "・2026 河根 だんじり(河根丹生神社) 和歌山県九度山町 [10/18(日)]。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -296,9 +348,9 @@
     "summary": "・和歌山地方気象台が10月18日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山28℃、潮岬25℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -377,5 +429,18 @@
     "importance_score": 15,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "和歌山県の雨雲レーダー(実況)",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-10-18 00:52",
+    "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・和歌山県の落雷地点・雷予報をチェック！\n・2026年10月の和歌山県の雨雲レーダーを見る。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   }
 ]
