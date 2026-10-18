@@ -225,7 +225,7 @@
     "source": "TBS NEWS DIG",
     "published_at": "2026-10-13 20:52",
     "summary": "・震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 山形のニュース│TUYテレビユー山形。",
-    "importance_score": 270,
+    "importance_score": 285,
     "is_featured": true,
     "related_articles": [
       {
@@ -333,6 +333,12 @@
       {
         "title": "震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 静岡のニュース | SBSNEWS | 静岡放送",
         "url": "https://newsdig.tbs.co.jp/list/sbs/bousai/earthquake/detail?event=20261013204422",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-13 20:44"
+      },
+      {
+        "title": "震度2 紀伊水道 2026年10月13日20:44ごろ 地震詳細 | 新潟のニュース・天気｜BSN NEWS｜BSN新潟放送",
+        "url": "https://newsdig.tbs.co.jp/list/bsn/bousai/earthquake/detail?event=20261013204422",
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-13 20:44"
       }

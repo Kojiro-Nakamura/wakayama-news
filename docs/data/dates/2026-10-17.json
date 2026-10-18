@@ -8,8 +8,21 @@
     "summary": "・防災推進国民大会に出席された天皇、皇后両陛下の長女愛子さま＝１７日午後、鳥取県倉吉市（代表撮影）　【時事通信社】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-17",
+    "title": "山之内すずさんが防犯啓発",
+    "url": "https://wakayama.keizai.biz/gpnews/1775118/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-17 21:52",
+    "summary": "・警視庁は１７日、タレントの山之内すずさんを招き、東京都調布市の味の素スタジアムでＪリーグの観客らに防犯啓発を実施。\n・山之内さんは「スマホがお守り代わりになる」と防犯アプリ「デジポリス」の利用を呼び掛けた　【時事通信社】。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 3,
     "is_featured": false
   },
   {
@@ -21,7 +34,7 @@
     "summary": "・各地の震度は海南市、有田市、湯浅町でそれぞれ震度１を観測しました。\n・気象庁によりますと震源は紀伊水道で、震源の深さは１０キロで地震の規模を示すマグニチュードは２・６と推定されます。\n・また午後５時４２分頃に和歌山県北部を震源とする地震があり御坊市で震度１を観測しています。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 236,
+    "importance_score": 251,
     "is_featured": true,
     "related_articles": [
       {
@@ -113,6 +126,12 @@
         "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3019311",
         "source": "ｄメニューニュース",
         "published_at": "2026-10-17 11:56"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震 和歌山県・御坊市",
+        "url": "https://www.fnn.jp/articles/-/1134711",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-10-17 17:44"
       }
     ]
   },
@@ -176,6 +195,8 @@
     "summary": "・【阪和道/湯浅御坊道路】和歌山県紀中で路上障害物 一部通行止め解除（17日20:05現在）。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【国道24号】和歌山バイパス 岩出市内で事故 一部通行止め解除（17日08:40現在）",
@@ -183,9 +204,7 @@
         "source": "千葉テレビ放送株式会社",
         "published_at": "2026-10-17 09:29"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-17",
@@ -241,9 +260,9 @@
     "summary": "・17日午後5時42分ごろ、和歌山県で最大震度1を観測する地震がありました。\n・最大震度1を観測したのは、和歌山県の御坊市です。\n・【各地の震度詳細】■震度1  □和歌山県  御坊市気象庁の発表に基づき、地域ごとに震度情報をお伝えしています。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -579,6 +598,19 @@
   },
   {
     "article_date": "2026-10-17",
+    "title": "和歌山県の雨雲レーダー(実況)",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-10-17 14:16",
+    "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・和歌山県の落雷地点・雷予報をチェック！\n・2026年10月の和歌山県の雨雲レーダーを見る。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-17",
     "title": "８００年の歴史を持つ「なれずし」",
     "url": "https://wakayamashimpo.co.jp/2026/10/20261017_139818.html",
     "source": "わかやま新報",
@@ -599,9 +631,9 @@
     "summary": "・今後は、優先交渉権者と契約の交渉を行います。\n・令和8年10月13日実施の白浜町公共施設照明LED化業務事業者選定委員会による書類審査・プレゼンテーション・ヒアリングによる審査を行い、その審査結果をもとに決定しました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -815,8 +847,15 @@
     "summary": "・16日午後、和歌山市内の寺の本堂に侵入し現金の入ったさい銭箱を盗んだとして、近くに住む無職の男が緊急逮捕されました。\n・窃盗の疑いで逮捕されたのは、和歌山市に住む無職の堂脇紀明容疑者（27）で、16日午後6時すぎ、和歌山市井辺にある寺のさい銭箱を盗んだ疑いが持たれています。\n・警察が職務質問をしたところ、「さい銭箱をひっくり返してお金を取ろうとしたが、返しの部分でひっかかってお金が出てこなかった」という趣旨の話をしたということで、午後6時50分ごろに緊急逮捕しました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 12,
+    "importance_score": 27,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【速報】寺に侵入しさい銭箱を盗んだ疑いで27歳の無職の男を緊急逮捕 近隣では複数の被害 和歌山市",
+        "url": "https://news.ntv.co.jp/n/ytv/category/society/yt2b8b4c8a07cf4e918df51d701ed39c47",
+        "source": "日テレNEWS NNN",
+        "published_at": "2026-10-17 02:28"
+      }
+    ]
   }
 ]
