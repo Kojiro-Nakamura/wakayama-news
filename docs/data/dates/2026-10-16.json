@@ -829,6 +829,8 @@
     "summary": "・思い込めた梅ジャムいかが　中芳養中生徒が21・22日に販売、和歌山・田辺。\n・県立21校でも個人情報漏えいか　ＩＴ会社不正アクセス問題、和歌山。\n・和歌山県白浜町の森岡花華さん（６６）が、障害児を育てる母親に口紅を贈る「赤い口紅運動」を２０年以上続けている。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 32,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「赤い口紅運動」続ける／白浜の森岡さん",
@@ -836,9 +838,7 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-10-16 14:30"
       }
-    ],
-    "importance_score": 32,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-16",

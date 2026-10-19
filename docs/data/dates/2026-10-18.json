@@ -8,8 +8,21 @@
     "summary": "・和歌山県警によると、１０月１８日午後６時頃、田辺市龍神村柳瀬で、クマが出没しました。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 6,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "横浜市長に原沢氏初当選",
+    "url": "https://wakayama.keizai.biz/gpnews/1775492/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-18 22:33",
+    "summary": "・前市長の辞職に伴う横浜市長選が１８日投開票され、無所属新人で弁護士の原沢敦美氏（５９）が、無所属で前職の山中竹春氏（５４）と新人５人の計６人を破り、初当選を確実にした。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 3,
     "is_featured": false
   },
   {
@@ -21,6 +34,8 @@
     "summary": "・2027年の潮位表（毎時潮位、満潮・干潮の時刻と潮位）は、PDF版、テキストデータ版でもご利用いただけます。\n・潮位表ダウンロード（潮位表基準面上の値）　　PDF版（満潮・干潮のみ　約70KB）　　PDF版（毎時潮位含む　約300KB）　　テキストデータ版（50KB）。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 51,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "潮汐・海面水位のデータ 潮位表 串本（KUSHIMOTO）",
@@ -40,9 +55,7 @@
         "source": "気象庁",
         "published_at": "2026-10-18 03:15"
       }
-    ],
-    "importance_score": 51,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-18",
@@ -79,9 +92,9 @@
     "summary": "・戸崎圭太が騎乗し、断然の単勝１番人気に支持されたモンローウォークがレースレコードの１分５６秒１で優勝し、ＧＩ初制覇＝１８日、京都競馬場　【時事通信社】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -92,6 +105,8 @@
     "summary": "・和歌山県串本町では、釣った魚の「珍しさ」を競うユニークな魚釣り大会が開催されました。\n・今日開かれたのは釣った魚の大きさや数ではなく、珍しさや串本らしさを競う「珍魚釣り選手権」です。\n・きょう最も珍しかったのは40代の男性が釣った「ウイゴンべ」で、串本海中公園水族館で展示されるということです。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "競うのは魚の珍しさ「珍魚釣り選手権」 最も珍しかったのは40代男性が釣った「ウイゴンベ」水族館で展示へ 和歌山・串本町",
@@ -99,9 +114,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-18 18:02"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-18",
@@ -276,6 +289,19 @@
   },
   {
     "article_date": "2026-10-18",
+    "title": "【カツめし】創業80年！湯浅しょう油×しらす丼 和歌山・湯浅町「かどや食堂」（2026年6月22日） Mothers Day Gifts (9LkDOuW2Ia)",
+    "url": "https://media.unisba.ac.id/d09bd641/bba8784eKwgsEylrNyUIEFI/?share=telegram&nb=1",
+    "source": "Unisba Media",
+    "published_at": "2026-10-18 14:00",
+    "summary": "・【カツめし】創業80年！湯浅しょう油×しらす丼 和歌山・湯浅町「かどや食堂」（2026年6月22日） Mothers Day Gifts (9LkDOuW2Ia)。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-18",
     "title": "2026 河根 だんじり(河根丹生神社) 和歌山県九度山町 [10/18(日)]",
     "url": "https://youtu.be/P1AdQOUxjbs?si=GZoLuhuyduIXHfh0",
     "source": "YouTube",
@@ -351,6 +377,19 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "女鬼峠道と石仏庵の歴史や特徴を紹介 尾鷲市・三重県立熊野古道センターで展示",
+    "url": "https://www.chunichi.co.jp/article/1327141?rct=mie",
+    "source": "中日新聞Web",
+    "published_at": "2026-10-18 05:05",
+    "summary": "・女鬼峠道と石仏庵の歴史や特徴を紹介 尾鷲市・三重県立熊野古道センターで展示。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-18",
@@ -439,8 +478,8 @@
     "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・和歌山県の落雷地点・雷予報をチェック！\n・2026年10月の和歌山県の雨雲レーダーを見る。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]
