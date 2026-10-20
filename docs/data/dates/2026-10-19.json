@@ -470,6 +470,26 @@
   },
   {
     "article_date": "2026-10-19",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-10-19 15:53",
+    "summary": "・和歌山県の雨雲レーダー(実況)20日17:05発表。\n・2026年10月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山県の雨雲レーダー(予報)",
+        "url": "https://tenki.jp/radar/6/33/rainmesh.html",
+        "source": "tenki.jp",
+        "published_at": "2026-10-19 10:00"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-19",
     "title": "（和歌山）かつらぎ町花園梁瀬中越でクマ出没痕跡　１０月１９日",
     "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1484798718879171178",
     "source": "ｄメニューニュース",
@@ -647,7 +667,7 @@
     "summary": "・南紀白浜空港（和歌山県白浜町）と羽田空港（東京）を１日３往復している航空便の一部で、日本航空は２５日から機材を小型化する。\n・燃油費の高騰などが背景にあり、２７年度の計画は未定。\n・２４年度の内訳は、整備費が３８８２億円（１８年度比で６９％増）、燃油費が７９３１億円（同３６％増）だった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 39,
+    "importance_score": 54,
     "is_featured": false,
     "related_articles": [
       {
@@ -659,6 +679,12 @@
       {
         "title": "航路利用は好調、なのに南紀白浜―羽田で機材小型化へ「大変な逆風・悲壮感」…整備や燃油費の高騰受け",
         "url": "https://news.yahoo.co.jp/articles/f3395173c4cfc3be316ccec30e7fe50c3d3526dd/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-19 11:15"
+      },
+      {
+        "title": "航路利用は好調、なのに南紀白浜―羽田で機材小型化へ「大変な逆風・悲壮感」…整備や燃油費の高騰受け",
+        "url": "https://news.yahoo.co.jp/articles/f3395173c4cfc3be316ccec30e7fe50c3d3526dd?page=2",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-19 11:15"
       }
