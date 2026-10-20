@@ -113,8 +113,8 @@
     "summary": "・大阪管区気象台は19日夕、落雷と突風に関する気象情報や早期注意情報を発表し、近畿地方は20日夕方にかけて、急な強い雷雨や竜巻などの激しい突風の恐れがあるとして、注意を呼び掛けた。\n・雨脚が予想より強まった場合、大阪府と兵庫県南部、和歌山県は19日夜にレベル3大雨警報が発表される可能性がある。\n・【地図画像】10月19日夜遅く、近畿地方の雨の強さ分布　気象台によると、前線が日本海を南下し、20日にかけて西日本に停滞する見通し。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 42,
-    "is_featured": false,
+    "importance_score": 57,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【注意】１９日午後から２０日夕方にかけて大阪・兵庫南部・和歌山で警報級大雨の可能性　気象台が警戒呼びかけ",
@@ -126,6 +126,12 @@
         "title": "【注意】１９日午後から２０日夕方にかけて大阪・兵庫南部・和歌山で警報級大雨の可能性　気象台が警戒呼びかけ",
         "url": "https://news.infoseek.co.jp/article/abcnews_63122/",
         "source": "Infoseek",
+        "published_at": "2026-10-19 13:52"
+      },
+      {
+        "title": "【注意】１９日午後から２０日夕方にかけて大阪・兵庫南部・和歌山で警報級大雨の可能性 気象台が警戒呼びかけ",
+        "url": "https://news.yahoo.co.jp/articles/d10ab137a541b7b222d1342370cb8a7933186a76",
+        "source": "Yahoo!ニュース",
         "published_at": "2026-10-19 13:52"
       }
     ]
@@ -394,7 +400,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 57,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "世界にファン増やそう 21日に高野山で梅ＰＲ、和歌山・田辺の上芳養中",
@@ -425,6 +431,8 @@
     "summary": "・和歌山県白浜町の白良浜で１８日、グラップリング（組み技格闘技）とプロレスのイベント「紀州ビーチファイト＆ランズエンドプロレスリング白良浜大会」があった。\n・砂浜の特設リングで選手が熱戦を繰り広げ、多くの観覧客が見入った。\n・【プロレスに観客熱狂　ジャイアンさん勝利、和歌山県古座川の記事と動画】　白浜町の総合格闘技ジム「修斗ジムＡＳＨ（アッシュ）」（南紀州代表）と、大阪府などを拠点とする「ランズエンドプロレスリング」（崔領二代表）の共催。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 39,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "砂浜のリングで熱戦　格闘技とプロレス大会　和歌山・白浜",
@@ -438,9 +446,7 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-10-19 14:30"
       }
-    ],
-    "importance_score": 39,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-19",

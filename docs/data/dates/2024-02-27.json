@@ -8,6 +8,8 @@
     "summary": "・毎時更新【ウェザーニュース】和歌山県紀美野町の1時間毎・今日明日・週間(10日間)の天気予報、いまの空模様。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 15,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山県九度山町付近の天気",
@@ -15,8 +17,6 @@
         "source": "ウェザーニュース",
         "published_at": "2024-02-27 16:09"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": true
+    ]
   }
 ]

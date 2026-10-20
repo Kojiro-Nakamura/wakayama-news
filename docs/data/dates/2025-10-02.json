@@ -8,6 +8,8 @@
     "summary": "・【有田川町の風レーダー｜ウェザーニュース】有田川町の風の予報(予測)ならウェザーニュースのサイトをチェック。\n・雨雲レーダーや週間天気、台風情報もあわせてご確認ください。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 18,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山県九度山町の風の予報（風レーダー）",
@@ -15,8 +17,6 @@
         "source": "ウェザーニュース",
         "published_at": "2025-10-02 18:05"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": true
+    ]
   }
 ]

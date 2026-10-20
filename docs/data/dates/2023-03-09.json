@@ -8,8 +8,8 @@
     "summary": "・北部に現在発表されている早期注意情報はありません。\n・※ 警報は、警報級の現象が予想される時間帯の最大6時間前に発表します。\n・有田川町の警報・注意報の最新状況。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   }
 ]
