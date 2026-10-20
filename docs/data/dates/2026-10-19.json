@@ -418,6 +418,32 @@
   },
   {
     "article_date": "2026-10-19",
+    "title": "砂浜のリングで熱戦 格闘技とプロレス大会 和歌山・白浜（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/600120766f820d26694e1e6b0715f257437a3b02",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-19 16:25",
+    "summary": "・和歌山県白浜町の白良浜で１８日、グラップリング（組み技格闘技）とプロレスのイベント「紀州ビーチファイト＆ランズエンドプロレスリング白良浜大会」があった。\n・砂浜の特設リングで選手が熱戦を繰り広げ、多くの観覧客が見入った。\n・【プロレスに観客熱狂　ジャイアンさん勝利、和歌山県古座川の記事と動画】　白浜町の総合格闘技ジム「修斗ジムＡＳＨ（アッシュ）」（南紀州代表）と、大阪府などを拠点とする「ランズエンドプロレスリング」（崔領二代表）の共催。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "砂浜のリングで熱戦　格闘技とプロレス大会　和歌山・白浜",
+        "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow700824?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch4",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-19 14:30"
+      },
+      {
+        "title": "砂浜のリングで熱戦 格闘技とプロレス大会 和歌山・白浜",
+        "url": "https://www.agara.co.jp/article/700824",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-19 14:30"
+      }
+    ],
+    "importance_score": 39,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-19",
     "title": "ＤＮＡ損傷修復障害の新マウス　県立医大が作製成功",
     "url": "https://wakayamashimpo.co.jp/2026/10/20261019_139839.html",
     "source": "わかやま新報",
@@ -477,6 +503,8 @@
     "summary": "・和歌山県の雨雲レーダー(実況)20日17:05発表。\n・2026年10月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の雨雲レーダー(予報)",
@@ -484,9 +512,7 @@
         "source": "tenki.jp",
         "published_at": "2026-10-19 10:00"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-19",
@@ -546,26 +572,6 @@
     "importance_score": 11,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-19",
-    "title": "砂浜のリングで熱戦　格闘技とプロレス大会　和歌山・白浜",
-    "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow700824?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch4",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-19 14:30",
-    "summary": "・和歌山県白浜町の白良浜で１８日、グラップリング（組み技格闘技）とプロレスのイベント「紀州ビーチファイト＆ランズエンドプロレスリング白良浜大会」があった。\n・砂浜の特設リングで選手が熱戦を繰り広げ、多くの観覧客が見入った。\n・砂浜に６メートル四方のリングを設け、観戦を無料として開催した。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 24,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "砂浜のリングで熱戦 格闘技とプロレス大会 和歌山・白浜",
-        "url": "https://www.agara.co.jp/article/700824",
-        "source": "AGARA 紀伊民報",
-        "published_at": "2026-10-19 14:30"
-      }
-    ]
   },
   {
     "article_date": "2026-10-19",
@@ -971,7 +977,7 @@
     "summary": "・10月19日4時15分、和歌山県北部の深さ0キロメートルを震源とするマグニチュード2.2の地震があり、和歌山県和歌山市で最大震度1の地震が観測されました。\n・この地震による津波の心配はありません。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 141,
+    "importance_score": 156,
     "is_featured": true,
     "related_articles": [
       {
@@ -1027,6 +1033,12 @@
         "url": "https://news.yahoo.co.jp/articles/8ffb4666c48982b3bd4c0c8c3a397cdec7426b25",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-19 04:20"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震　和歌山県・和歌山市",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3020502",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-19 04:18"
       }
     ]
   },
