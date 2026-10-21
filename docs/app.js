@@ -485,7 +485,7 @@ function renderArticleCard(a) {
       </div>
 
       <!-- 記事タイトル -->
-      <a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer" class="block group/title">
+      <a href="${safeUrl(a.url)}" target="_blank" rel="noopener noreferrer" class="block group/title">
         <h3 class="text-base sm:text-lg font-bold leading-snug group-hover/title:text-orange-600 hover:underline decoration-orange-400 underline-offset-4 transition-colors">
           ${escapeHtml(a.title)}
         </h3>
@@ -533,7 +533,7 @@ function renderArticleCard(a) {
           <div class="related-articles-list hidden space-y-2 mt-2.5 pt-1 px-1">
             ${a.related_articles.map(r => `
               <a 
-                href="${escapeHtml(r.url)}" 
+                href="${safeUrl(r.url)}" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 class="flex items-center justify-between p-2.5 rounded-xl bg-slate-50 hover:bg-orange-50 border border-slate-200/60 hover:border-orange-200 transition-all text-xs group/item"
@@ -562,7 +562,7 @@ function renderArticleCard(a) {
           公式メディアで全文・写真を確認
         </div>
         <a 
-          href="${escapeHtml(a.url)}" 
+          href="${safeUrl(a.url)}" 
           target="_blank" 
           rel="noopener noreferrer" 
           class="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-semibold bg-slate-900 hover:bg-orange-600 active:scale-95 text-white transition-all shadow-sm hover:shadow"
@@ -609,6 +609,20 @@ function isTodayDate(dateStr) {
   const m = String(today.getMonth() + 1).padStart(2, '0');
   const d = String(today.getDate()).padStart(2, '0');
   return dateStr === `${y}-${m}-${d}`;
+}
+
+function safeUrl(url) {
+  if (!url || typeof url !== 'string') return '#';
+  const trimmed = url.trim();
+  try {
+    const parsed = new URL(trimmed);
+    if (parsed.protocol === 'http:' || parsed.protocol === 'https:') {
+      return escapeHtml(trimmed);
+    }
+  } catch (e) {
+    // 不正なURL形式は拒否
+  }
+  return '#';
 }
 
 function escapeHtml(str) {

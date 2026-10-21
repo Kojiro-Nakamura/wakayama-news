@@ -758,6 +758,16 @@ def compute_article_importance(item: Dict[str, Any]) -> int:
 
     return score
 
+def is_safe_http_url(url: str) -> bool:
+    if not url or not isinstance(url, str):
+        return False
+    u = url.strip()
+    try:
+        parsed = urllib.parse.urlparse(u)
+        return parsed.scheme in ('http', 'https') and bool(parsed.netloc)
+    except Exception:
+        return False
+
 def cluster_articles(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """同じトピックの記事を1つの代表記事にまとめ、重要度スコアと注目フラグを付与"""
     clusters: List[Dict[str, Any]] = []
@@ -767,6 +777,8 @@ def cluster_articles(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         candidates = [item] + existing_related
         
         for cand in candidates:
+            if not is_safe_http_url(cand.get("url", "")):
+                continue
             matched = False
             for group in clusters:
                 if are_articles_same_topic(group, cand):
