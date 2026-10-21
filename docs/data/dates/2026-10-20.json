@@ -857,6 +857,8 @@
     "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・予報21日23:30～22日13:00。\n・和歌山県の落雷地点・雷予報をチェック！",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 36,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
@@ -870,9 +872,7 @@
         "source": "tenki.jp",
         "published_at": "2026-10-20 00:22"
       }
-    ],
-    "importance_score": 36,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-20",

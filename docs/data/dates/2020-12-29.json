@@ -8,8 +8,8 @@
     "summary": "・{{cityname}}の詳しい天気はこちら。\n・よく当たる1時間毎のピンポイント天気、現在の気温や湿度、雨雲レーダー、週間天気が確認できます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]

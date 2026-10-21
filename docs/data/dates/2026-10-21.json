@@ -8,9 +8,9 @@
     "summary": "・社会奉仕団体「和歌山キワニスクラブ」が、和歌山大学の留学生に対してドライヤーなどを贈ることになり、きょう（２１日）午後、和歌山市栄谷の和歌山大学キャンパスで寄贈式が開かれました。\n・これは、留学生が和歌山での生活になじみ、学業に励んでもらおうと、和歌山キワニスクラブが毎年、家電製品を寄贈しているものです。\n・１９回目の今年はドライヤー８台とヘアアレンジ用のアイロン４台を贈ることになり、和歌山キワニスクラブの小池康之(こいけ・やすゆき)会長から、和歌山大学理事で国際交流を担当する野村孝徳(のむら・たかのり)副学長に目録を贈呈しました。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -21,9 +21,9 @@
     "summary": "・ＮＴＴ西日本やグループ企業が手掛ける、ＩＣＴやＡＩなどを活用したビジネスシステムの展示会「ＩＴ ＳＯＬＵＴＩＯＮ ＤＡＹＳ」が、きょう（１０月２１日）和歌山市美園町(みそのちょう)の和歌山県ＪＡビルで開かれました。\n・会場には、ＬＡＮシステムを活用した社内ビジネス電話ネットワークシステムや、車載カメラの映像をリアルタイムで解析して、道路や標識などの傷み具合を検知する装置など、ＮＴＴ西日本とグループ企業が、実際に管内の企業に導入したり、セールスを手掛けているビジネスシステムが実演展示されていました。\n・ＮＴＴ西日本和歌山支店の岩元豊明(いわもと・とよあき)支店長は「ＩＣＴやＡＩを活用したＤＸで、人手不足などの和歌山の課題解決に貢献したい。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -34,6 +34,8 @@
     "summary": "・きょう（２１日）の和歌山県は晴れて、日本海の低気圧や前線に向かって南から温かい空気が流れ混んだ影響で気温が上昇し、最高気温が新宮市で３１・４度、かつらぎ町で３１度ちょうど、和歌山市で最高気温が３０度ちょうどに達するなど、この時季には珍しく真夏日となったところがみられ、とくに和歌山市では１０月下旬の最高気温の記録を更新する暑さとなりました。\n・和歌山地方気象台では「１０月上旬に最高気温が３０度を超えるケースは過去まあまああったが、下旬で真夏日になるのは、過去に例がない。\n・一方、あす（２２日）は前線が南下し北風に変わるため気温が下がる見込みで、和歌山の予想最高気温は、きょうより６度も低い２４度とされています。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 47,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山市最高気温３０度・１０月最遅記録更新",
@@ -47,9 +49,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-21 16:14"
       }
-    ],
-    "importance_score": 47,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-21",
@@ -60,9 +60,9 @@
     "summary": "・世界農業遺産に登録され、和歌山県や地元の自治体、ＪＡわかやまなどが発信に力を入れている「有田(ありだ)・下津(しもつ)地域の石積み階段園みかんシステム」がデザインされた近畿宝くじが、きょう（１０月２１日）から近畿２府４県の宝くじ売り場と、宝くじ公式サイトで販売されています。\n・有田市や海南市下津町では、４００年以上前から壮大な石積み階段園が築かれ、特産のみかん栽培を行っていて、収穫されたみかんを土蔵に貯蔵して熟成し、甘みを増した「蔵出しみかん」として北日本や首都圏などを中心に出荷するなど、世界的にも珍しい農業システムを構築し、去年（２０２５年）８月、世界農業遺産に認定されました。\n・これを近畿の市民にＰＲしようと、石積みみかん園をデザインした宝くじが２１日から販売されていて、和歌山をはじめ近畿２府４県の宝くじ売り場と、宝くじ公式サイトで販売されています。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -73,9 +73,9 @@
     "summary": "・蓮の花びらに見立てられることもある、1,000ｍ級の山々に抱かれた山上の聖地・世界遺産高野山。\n・今回、青年僧侶からなる高野山真言宗青年教師会の結成50周年記念として、東京で高野山の文化や祈りに触れるイベント「寺×活 in高野山東京別院 ～つながる高野山～」が、2026年11月6日（金）から11月8日（日）の3日間、高野山東京別院（東京都港区）で開催される。\n・高野山東京別院の本堂特別拝観。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -86,9 +86,9 @@
     "summary": "・和歌山市で統計開始以来最も遅い真夏日 各地で季節外れの暑さ。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -99,6 +99,8 @@
     "summary": "・東京の学生が太地町を舞台に演劇を制作 来年3月上演予定。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 20,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "東京の学生が和歌山 太地町を舞台に演劇制作 来年3月上演予定",
@@ -106,9 +108,7 @@
         "source": "NHKニュース",
         "published_at": "2026-10-21 19:13"
       }
-    ],
-    "importance_score": 20,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-21",
@@ -119,9 +119,9 @@
     "summary": "・クジラやイルカのレトルト食品を開発 太地町漁協。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -132,9 +132,9 @@
     "summary": "・元兵庫県明石市長の泉房穂参院議員（右）と「２ちゃんねる」創設者の「ひろゆき」こと西村博之氏は２１日、国会内で記者会見し、来春の統一地方選で実施される知事選や市区町村長選の候補を公募すると発表した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -145,6 +145,8 @@
     "summary": "・160万球のLEDで街路樹500本がきらめく！ギネス世界記録に挑む和歌山の光の道。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "けやきライトパレード、160万球のLEDでギネス世界記録™に挑戦！",
@@ -152,9 +154,7 @@
         "source": "PR TIMES",
         "published_at": "2026-10-21 12:00"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-21",
@@ -165,9 +165,9 @@
     "summary": "・ルミエールは2026年10月16日、総務省・経済産業省「令和3年経済センサス-活動調査」などをもとに、ホームセンターを含む小売店の数を都道府県別に集計した調査結果を公開した。\n・最少は神奈川県の2.67か所で、和歌山県は神奈川県の約2.6倍だった。\n・一方、下位には千葉県、埼玉県、神奈川県と首都圏の3県が並んだ。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -178,9 +178,9 @@
     "summary": "・和歌山県田辺市は20日、真砂充敏市長（69）が腰の骨折のため、同日から11月6日まで療養すると発表した。\n・決裁などの職務は可能として、職務代理者は置かずに対応する。\n・市によると、真砂市長は19日、公務外での活動で骨折し、治療を受けたという。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -191,6 +191,8 @@
     "summary": "・吉野熊野国立公園が、国立公園に指定されてから今年で９０周年を迎えたのを記念して、きょう（２１日）午後、新宮市の文化複合施設「丹鶴(たんかく)ホール」で記念式典が開かれました。\n・吉野熊野国立公園指定１００周年に向けた地域と国立公園の未来像を語る」と題したパネルディスカッションも行われ、吉野熊野国立公園管理事務所の岸秀蔵(きし・ひでぞう)所長を進行役に、北山村の担当者や熊野川体感塾塾長、大台ヶ原の登録ガイドら５人が登壇し、１０年後の指定１００周年に向けた地域と国立公園の未来像について活発な意見交換が行われました。\n・吉野熊野国立公園は、１９３６年・昭和１１年２月１日に指定され、和歌山、三重、奈良の３県にまたがる山、川、海の豊かな景観と歴史・文化が融合した国立公園として親しまれています。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 35,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "吉野熊野国立公園指定９０周年記念式典 新宮市で開催／和歌山",
@@ -198,9 +200,7 @@
         "source": "au Webポータル",
         "published_at": "2026-10-21 17:56"
       }
-    ],
-    "importance_score": 35,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-21",
@@ -211,6 +211,8 @@
     "summary": "・和歌山市は、市内に住む匿名希望の人物から金塊5キロ（約1億円相当）の寄付を受けたと発表した。\n・和歌山城公園内の維持管理に役立ててほしいとのメッセージが添えられていたという。\n・市和歌山城整備企画課によると、今月1日に寄付の連絡があり、市役所を訪れた代理人から金のインゴットを受け取ったという。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 42,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山市に1億円相当金塊寄付　和歌山城公園維持管理に役立ててほしいとメッセージ",
@@ -224,9 +226,7 @@
         "source": "産経ニュース",
         "published_at": "2026-10-21 17:40"
       }
-    ],
-    "importance_score": 42,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-21",
@@ -237,9 +237,9 @@
     "summary": "・2026年10月31日（土）から2027年2月14日（日）まで、冬を彩る光のフェスティバル「フェスタ・ルーチェ」が、和歌山マリーナシティで開催されます。\n・和歌山マリーナシティで開催される「フェスタ・ルーチェ」は、2017年にスタートした光のフェスティバル。\n・10周年を記念して、来場者の「10年想い出メッセージ」をFeStA LuCe公式SNSにて募集中。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -250,6 +250,8 @@
     "summary": "・特急くろしおで巡る「南紀熊野ジオパーク学びキャンペーン」２４日から／和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 56,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "特急くろしおで巡る「南紀熊野ジオパーク学びキャンペーン」２４日から／和歌山",
@@ -269,9 +271,20 @@
         "source": "PR TIMES",
         "published_at": "2026-10-21 09:00"
       }
-    ],
-    "importance_score": 56,
-    "is_featured": true
+    ]
+  },
+  {
+    "article_date": "2026-10-21",
+    "title": "全県市町村長会議",
+    "url": "https://www.tv-wakayama.co.jp/news/detail.php?id=88895",
+    "source": "テレビ和歌山",
+    "published_at": "2026-10-21 17:25",
+    "summary": "・会議では、宮崎知事が挨拶したあと、来年度の県の重点施策について６つの政策の柱に沿って説明しました。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-21",
@@ -283,7 +296,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 47,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "東陽中が２位金賞 関西合唱コンクール、和歌山県田辺（紀伊民報）",
@@ -308,8 +321,8 @@
     "summary": "・アサギマダラ祭り　25日に音楽ライブなど、和歌山・上富田。\n・カメムシ注意報　8月は平年の8倍発生、うめ研究所調査、和歌山県みなべ。\n・和歌山県田辺市上芳養で、人の顔のような模様がある大きなガが見つかった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 44,
-    "is_featured": false,
+    "importance_score": 59,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "人面模様の「ガ」 和歌山県田辺市上芳養で発見（紀伊民報）",
@@ -322,6 +335,12 @@
         "url": "https://www.47news.jp/15115653.html",
         "source": "47NEWS",
         "published_at": "2026-10-21 14:30"
+      },
+      {
+        "title": "人面模様の「ガ」 和歌山県田辺市上芳養で発見 (紀伊民報)",
+        "url": "https://news.yahoo.co.jp/articles/f9dc339d5964b5ac09959133af9835526526316d/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-21 16:25"
       }
     ]
   },
@@ -528,13 +547,40 @@
     ]
   },
   {
+    "article_date": "2026-10-21",
+    "title": "デラックスケーキが１位 おみやげグランプリ、和歌山・田辺（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/f6fdc5b43ac7a371bb6f3bbdee188386e96b0ade",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-21 16:25",
+    "summary": "・和歌山県紀南地方では地元や全国各地の「おいしい」を楽しめる食の話題がめじろ押し。\n・【グランプリに「紀州梅真鯛梅」、和歌山県の一番星アワードの記事】　田辺市地域ブランド推進協議会は、地元の人々による投票で定番土産を選ぶ「田辺市おみやげグランプリ２０２６」の結果を発表した。\n・投票は９月の１カ月間、田辺市やその周辺に住む人を対象に実施。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "デラックスケーキが１位 おみやげグランプリ、和歌山・田辺",
+        "url": "https://www.agara.co.jp/article/701963",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-21 14:36"
+      },
+      {
+        "title": "デラックスケーキが１位 おみやげグランプリ、和歌山・田辺",
+        "url": "https://www.47news.jp/15115651.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-21 14:30"
+      }
+    ],
+    "importance_score": 45,
+    "is_featured": false
+  },
+  {
     "title": "和歌山市でNTT西日本「IT SOLUTION DAYS」開催（WBS和歌山放送ニュース）",
     "url": "https://news.yahoo.co.jp/articles/da6ecd21ba25b0e8cce182cd9d11c569bbfb5c5c",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-21 16:10",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "summary": "・和歌山市でNTT西日本「IT SOLUTION DAYS」開催（WBS和歌山放送ニュース）",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -600,26 +646,6 @@
     "importance_score": 0,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-21",
-    "title": "デラックスケーキが１位 おみやげグランプリ、和歌山・田辺",
-    "url": "https://www.47news.jp/15115651.html",
-    "source": "47NEWS",
-    "published_at": "2026-10-21 14:30",
-    "summary": "・和歌山県紀南地方では地元や全国各地の「おいしい」を楽しめる食の話題がめじろ押し。\n・和歌山県南部のニュースをお届けします。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 24,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "デラックスケーキが１位 おみやげグランプリ、和歌山・田辺",
-        "url": "https://www.agara.co.jp/article/701963",
-        "source": "AGARA 紀伊民報",
-        "published_at": "2026-10-21 14:30"
-      }
-    ]
   },
   {
     "article_date": "2026-10-21",
@@ -891,15 +917,22 @@
   {
     "article_date": "2026-10-21",
     "title": "ウメ産地の生産者ら「クビアカ」通報に最大３万円の「懸賞金」創設…隣接の町で被害確認の和歌山県田辺市",
-    "url": "https://www.yomiuri.co.jp/national/20261020-GYT1T00341/",
-    "source": "読売新聞",
-    "published_at": "2026-10-21 08:30",
-    "summary": "・と木くずの混合物「フラス」を市内で発見し、協議会に通報すると交付される。\n・金額は、市内の農家が自身の園地でウメなどの果樹から見つけた場合は３万円、市民が園地以外の庭木や街路樹などで発見した場合は１万円。\n・１世帯１回限りで、予算の１０万円に達し次第終了する。",
+    "url": "https://news.yahoo.co.jp/articles/249772888eea990431dd8e83c2a860ebdbbf2907",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-21 08:35",
+    "summary": "・金額は、市内の農家が自身の園地でウメなどの果樹から見つけた場合は３万円、市民が園地以外の庭木や街路樹などで発見した場合は１万円。\n・１世帯１回限りで、予算の１０万円に達し次第終了する。\n・【台風情報】急カーブで九州・本州方面コースか…大型で猛烈な「台風30号（チャンパー）」最大瞬間風速80m/s・中心気圧905hPa...東日本と西日本では警報級大雨のおそれ【気象庁22日03時45分発表】。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 17,
-    "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "ウメ産地の生産者ら「クビアカ」通報に最大３万円の「懸賞金」創設…隣接の町で被害確認の和歌山県田辺市",
+        "url": "https://www.yomiuri.co.jp/national/20261020-GYT1T00341/",
+        "source": "読売新聞",
+        "published_at": "2026-10-21 08:30"
+      }
+    ],
+    "importance_score": 33,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-21",
@@ -989,9 +1022,9 @@
     "summary": "・有田川町の予報計算に使用された技術データは本日23:21に更新されました。\n・天気予報は、決定論的予報とアンサンブル予報を含むECMWF IFSプロダクトに基づいています。\n・気温、降雨、風、湿度、紫外線指数、空気質、15日間の天気予報を表示。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -1051,6 +1084,19 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-21",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-10-21 04:11",
+    "summary": "・和歌山県の雨雲レーダー(実況)22日08:45発表。\n・2026年10月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-21",

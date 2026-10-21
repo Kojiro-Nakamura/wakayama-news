@@ -8,6 +8,8 @@
     "summary": "・和歌山県ホームページ Wakayama Prefecture Web Site。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 15,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山県ホームページ Wakayama Prefecture Web Site",
@@ -15,9 +17,7 @@
         "source": "www.pref.wakayama.lg.jp",
         "published_at": "2018-03-24 11:45"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2018-03-24",
@@ -28,9 +28,9 @@
     "summary": "・「都市計画区域の整備、開発保全の方針」（都市計画区域マスタープラン）は、都市計画法第6条の2に基づき、都道府県が広域的な見地から概ね20年後の将来を見据えながら、道路、公園や市街地の整備等の概ね10年後の大きな方向性を示しています。\n・和歌山県では、平成16年5月に圏域別、都市計画区域別にマスタープランをそれぞれ策定していましたが、広域調整の役割をより一層充実させるため、各都市計画区域内の方針を含む5圏域別のマスタープランを策定し、都市計画法第6条の2に定められた「都市計画区域の整備、開発及び保全の方針」として、平成27年5月に都市計画決定しました。\n・なお、本県における都市計画は、本都市計画区域マスタープランの内容に即した形で定められることとなります。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2018-03-24",
@@ -41,8 +41,8 @@
     "summary": "・なお、洪水浸水想定区域図は、対象河川の洪水に伴う氾濫を想定していますが、平成23年の紀伊半島大水害で発生したような土石流や流木に起因する河道閉塞による氾濫はその不確実性が高く、予測が困難であることから考慮していませんので、ご留意ください。\n・この浸水想定区域図を基に、避難するために必要な浸水情報、避難情報などの各種情報を分かりやすく図面などに表示した洪水ハザードマップを市町村が主体となって作成しています。\n・また、下記リンク先の「地点別浸水シミュレーション検索システム」（浸水ナビ）では、全国の浸水想定区域図を電子地図上に表示することができます。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]
