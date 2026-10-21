@@ -241,7 +241,7 @@
     "summary": "・震度1　和歌山県北部　17:42ごろ。\n・和歌山県で最大震度1の地震　和歌山県・御坊市、17日午後5時42分ごろ、和歌山県で最大震度1を観測する地震がありました。\n・気象庁によりますと、震源地は和歌山県北部で、震源の深さはおよそ10km、地震の規模を示すマグニチュードは2.8と推定されます。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 51,
+    "importance_score": 66,
     "is_featured": false,
     "related_articles": [
       {
@@ -261,6 +261,12 @@
         "url": "https://newsdig.tbs.co.jp/list/mbs/bousai/earthquake/detail?event=20261017174203",
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-17 17:42"
+      },
+      {
+        "title": "2026年10月17日放送 和歌山・有田市 ～手作りの器でもてなす 笑顔カフェ～｜人生の楽園",
+        "url": "https://www.tv-asahi.co.jp/rakuen_2023/backnumber/0182",
+        "source": "テレビ朝日",
+        "published_at": "2026-10-17 16:00"
       }
     ]
   },
