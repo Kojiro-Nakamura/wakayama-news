@@ -2,7 +2,7 @@
   "dates": [
     {
       "article_date": "2026-10-21",
-      "count": 56
+      "count": 71
     },
     {
       "article_date": "2026-10-20",
@@ -74,7 +74,7 @@
     },
     {
       "article_date": "2026-10-03",
-      "count": 2
+      "count": 3
     },
     {
       "article_date": "2026-10-02",
@@ -90,7 +90,7 @@
     },
     {
       "article_date": "2026-09-29",
-      "count": 5
+      "count": 6
     },
     {
       "article_date": "2026-09-28",
@@ -167,6 +167,10 @@
     {
       "article_date": "2026-08-24",
       "count": 2
+    },
+    {
+      "article_date": "2026-08-23",
+      "count": 1
     },
     {
       "article_date": "2026-08-19",
@@ -333,6 +337,10 @@
       "count": 1
     },
     {
+      "article_date": "2025-12-25",
+      "count": 1
+    },
+    {
       "article_date": "2025-12-23",
       "count": 1
     },
@@ -349,17 +357,61 @@
       "count": 1
     },
     {
+      "article_date": "2024-03-29",
+      "count": 1
+    },
+    {
       "article_date": "2024-02-27",
       "count": 1
     },
     {
       "article_date": "2023-03-09",
       "count": 1
+    },
+    {
+      "article_date": "2021-04-23",
+      "count": 1
+    },
+    {
+      "article_date": "2020-12-29",
+      "count": 1
+    },
+    {
+      "article_date": "2019-08-03",
+      "count": 1
+    },
+    {
+      "article_date": "2019-08-02",
+      "count": 1
+    },
+    {
+      "article_date": "2018-04-12",
+      "count": 1
+    },
+    {
+      "article_date": "2018-03-30",
+      "count": 1
+    },
+    {
+      "article_date": "2018-03-26",
+      "count": 1
+    },
+    {
+      "article_date": "2018-03-25",
+      "count": 1
+    },
+    {
+      "article_date": "2018-03-24",
+      "count": 3
+    },
+    {
+      "article_date": "2016-10-01",
+      "count": 1
     }
   ],
   "stats": {
-    "total_articles": 973,
-    "total_days": 89,
-    "last_updated": "2026-10-21T17:17:34.386805+09:00"
+    "total_articles": 1025,
+    "total_days": 102,
+    "last_updated": "2026-10-21T23:22:03.674570+09:00"
   }
 }

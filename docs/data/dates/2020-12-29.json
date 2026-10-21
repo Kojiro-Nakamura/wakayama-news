@@ -1,0 +1,15 @@
+[
+  {
+    "article_date": "2020-12-29",
+    "title": "和歌山の天気予報",
+    "url": "https://weathernews.jp/onebox/tenki/wakayama/",
+    "source": "ウェザーニュース",
+    "published_at": "2020-12-29 07:38",
+    "summary": "・{{cityname}}の詳しい天気はこちら。\n・よく当たる1時間毎のピンポイント天気、現在の気温や湿度、雨雲レーダー、週間天気が確認できます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  }
+]

@@ -152,7 +152,7 @@
     "summary": "・紀の川市消防団（打田・粉河・近大） 合同訓練 実施！",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 15,
+    "importance_score": 30,
     "is_featured": false,
     "related_articles": [
       {
@@ -160,6 +160,12 @@
         "url": "https://www.jiji.com/jc/article?k=000000079.000173667&g=prt",
         "source": "時事ドットコム",
         "published_at": "2026-10-20 15:16"
+      },
+      {
+        "title": "紀の川市消防団（打田・粉河・近大） 合同訓練 実施！",
+        "url": "https://prtimes.jp/main/html/rd/p/000000079.000173667.html",
+        "source": "PR TIMES",
+        "published_at": "2026-10-20 13:00"
       }
     ]
   },
@@ -192,9 +198,9 @@
     "summary": "・経団連の筒井義信会長は２０日の記者会見で、高市政権が目指す飲食料品の消費税減税で逆風を受けると想定される外食産業への支援策について「食の基本的な部分」に対象を限るべきだとの考えを示した＝東京都千代田区　【時事通信社】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -264,7 +270,7 @@
     "summary": "・前線を伴う低気圧の影響で日本列島は２０日、大気の状態が非常に不安定となり、和歌山県古座川町で１時間に５０ミリ超の非常に激しい雨を観測するなど、各地で大雨が降った。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 75,
+    "importance_score": 90,
     "is_featured": true,
     "related_articles": [
       {
@@ -295,6 +301,12 @@
         "title": "和歌山で非常に激しい雨",
         "url": "https://www.shimotsuke.co.jp/articles/-/1444074",
         "source": "下野新聞社",
+        "published_at": "2026-10-20 19:00"
+      },
+      {
+        "title": "和歌山で非常に激しい雨",
+        "url": "https://www.fukuishimbun.co.jp/articles/-/2726967",
+        "source": "福井新聞社",
         "published_at": "2026-10-20 19:00"
       }
     ]
@@ -838,6 +850,32 @@
   },
   {
     "article_date": "2026-10-20",
+    "title": "和歌山県の雨雲レーダー(予報)",
+    "url": "https://tenki.jp/radar/6/33/rainmesh.html",
+    "source": "tenki.jp",
+    "published_at": "2026-10-20 14:23",
+    "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・予報21日23:30～22日13:00。\n・和歌山県の落雷地点・雷予報をチェック！",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+        "url": "https://tenki.jp/radar/6/33/",
+        "source": "tenki.jp",
+        "published_at": "2026-10-20 09:36"
+      },
+      {
+        "title": "和歌山県の過去の雨雲レーダー(2026年10月19日)",
+        "url": "https://tenki.jp/past/2026/10/19/radar/6/33/",
+        "source": "tenki.jp",
+        "published_at": "2026-10-20 00:22"
+      }
+    ],
+    "importance_score": 36,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-20",
     "title": "近大附属和歌山高中が保護者と自転車組合の協力により、「自転車の整備点検と安全な通学見守り」を実施",
     "url": "https://www.atpress.ne.jp/news/642712",
     "source": "アットプレス",
@@ -1088,32 +1126,6 @@
     "importance_score": 8,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-20",
-    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
-    "url": "https://tenki.jp/radar/6/33/",
-    "source": "tenki.jp",
-    "published_at": "2026-10-20 09:36",
-    "summary": "・和歌山県の雨雲レーダー(実況)21日17:10発表。\n・2026年10月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "related_articles": [
-      {
-        "title": "和歌山県の雨雲レーダー(予報)",
-        "url": "https://tenki.jp/radar/6/33/rainmesh.html",
-        "source": "tenki.jp",
-        "published_at": "2026-10-20 06:34"
-      },
-      {
-        "title": "和歌山県の過去の雨雲レーダー(2026年10月19日)",
-        "url": "https://tenki.jp/past/2026/10/19/radar/6/33/",
-        "source": "tenki.jp",
-        "published_at": "2026-10-20 00:22"
-      }
-    ],
-    "importance_score": 39,
-    "is_featured": false
   },
   {
     "article_date": "2026-10-20",

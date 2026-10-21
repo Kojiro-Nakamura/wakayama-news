@@ -28,9 +28,16 @@
     "summary": "・海外から和歌山・有田川町での金庫窃盗を指示か、容疑で26歳男を逮捕フィリピンから帰国 (産経新聞)。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 18,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "海外から和歌山・有田川町での金庫窃盗を指示か、容疑で26歳男を逮捕フィリピンから帰国",
+        "url": "https://www.sankei.com/article/20260929-6RGFLNOFPZP7PL4BTUUOUNF2ZU/",
+        "source": "産経ニュース",
+        "published_at": "2026-09-29 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-09-29",
@@ -57,6 +64,19 @@
     "importance_score": 8,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-09-29",
+    "title": "外来カミキリ被害 日本一の梅産地みなべ町で初確認",
+    "url": "https://hidakashimpo.co.jp/?p=108764",
+    "source": "日高新報",
+    "published_at": "2026-09-29 16:00",
+    "summary": "・県は２８日、ウメやサクラなどの樹木の内部を食い荒らす特定外来生物のクビアカツヤカミキリの被害が、みなべ町の梅園で初めて確認されたと発表した。\n・日本一の梅の産地で見つかったことに農家らは不安を募らせており、県や町では早期の対応のため他にも被害が出ていないか確認を呼びかけている。\n・日本一の産地を守っていくため、できる対策をしていきたい」と危機感を募らせた。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": true
   },
   {
     "article_date": "2026-09-29",
