@@ -86,9 +86,9 @@
     "summary": "・〇声の広報は、記事の内容により読み上げが困難な場合は一部を省略しています。\n・〇ご希望の方に、「声の広報（CD）」をお送りします。\n・〇「声の広報」は最新号のみの公開となります。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-01",

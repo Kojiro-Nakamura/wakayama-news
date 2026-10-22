@@ -589,10 +589,17 @@
     "url": "https://news.yahoo.co.jp/articles/da6ecd21ba25b0e8cce182cd9d11c569bbfb5c5c",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-21 16:10",
-    "importance_score": 3,
+    "importance_score": 18,
     "is_featured": false,
     "summary": "・和歌山市でNTT西日本「IT SOLUTION DAYS」開催（WBS和歌山放送ニュース）。",
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "和歌山市でNTT西日本「IT SOLUTION DAYS」開催 (WBS和歌山放送ニュース)",
+        "url": "https://news.yahoo.co.jp/articles/da6ecd21ba25b0e8cce182cd9d11c569bbfb5c5c/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-21 16:10"
+      }
+    ]
   },
   {
     "article_date": "2026-10-21",
@@ -655,9 +662,29 @@
     "summary": "・【教員採用】和歌山県「秋選考」に22人出願…特別支援10人Reseed10/21 15:2010/21(水) 15:20 配信Reseed出典元: Reseed【教員採用】和歌山県「秋選考」実施要項を公表…9/24から出願受付【教員採用】和歌山県、最終合格273人…倍率3.5倍【教員採用】和歌山県の1次選考、953名受験…合格倍率1.9倍東大の次期総長選考の検証依頼、判断の合理性説明を…文科相10/20会見山口県、4高校に「未来デザイン科」2028年度から順次改編。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 0,
+    "importance_score": 15,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【教員採用】和歌山県「秋選考」に22人出願…特別支援10人",
+        "url": "https://reseed.resemom.jp/article/2026/10/21/14403.html",
+        "source": "リセマム",
+        "published_at": "2026-10-21 14:45"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-10-21",
+    "title": "【教員採用】和歌山県、2028年度から共通問題活用・大学推薦新設",
+    "url": "https://reseed.resemom.jp/article/2026/10/21/14404.html",
+    "source": "リセマム",
+    "published_at": "2026-10-21 15:15",
+    "summary": "・和歌山県教育委員会は、2028年度採用（2027年度実施）の公立学校教員採用候補者選考試験について、おもな変更点と第1次選考の共同実施に関する情報を公表した。\n・筆答試験で共通問題を活用するほか、大学4年生等を対象とした大学推薦選考や「大学3年生チャレンジ受験」を新設。\n・2028年度採用試験より、第1次選考の筆答試験は、「教員採用選考に係る第一次選考の共同実施に関する自治体協議会」が作成した共通問題を活用する。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-21",

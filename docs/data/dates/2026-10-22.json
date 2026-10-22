@@ -1,6 +1,32 @@
 [
   {
     "article_date": "2026-10-22",
+    "title": "（和歌山）高野町高野山鶯谷でクマ出没　１０月２２日",
+    "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1486011209162178638",
+    "source": "ｄメニューニュース",
+    "published_at": "2026-10-22 23:31",
+    "summary": "・和歌山県警によると、１０月２２日午後２時１０分頃、高野町高野山鶯谷で、クマが出没しました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "（和歌山）高野町高野山鶯谷でクマ出没　１０月２２日",
+        "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1486011209162178638?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-22 23:31"
+      },
+      {
+        "title": "（和歌山）広川町上津木でクマ出没　１０月２２日",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/fushinsha_joho/region/fushinsha_joho-1485864240779510714",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-22 13:47"
+      }
+    ],
+    "importance_score": 36,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-22",
     "title": "智弁和歌山・青学の渡部は、楽天が交渉権",
     "url": "https://news.wbs.co.jp/221114",
     "source": "WBS和歌山放送ニュース",
@@ -8,9 +34,9 @@
     "summary": "・プロ野球のドラフト会議がきょう（２２日）、東京都内のホテルで開かれ、智弁和歌山ＯＢで、青山学院大学のキャッチャー、渡部海(わたべ・かい)選手は、楽天が２球団の１位指名で競合の末、交渉権を獲得しました。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -21,9 +47,9 @@
     "summary": "・体操の世界選手権は２１日、オランダで女子団体総合決勝が行われ、日本が４種目合計得点で、銅メダルを獲得し、２０２８年のロサンゼルス・オリンピック出場枠を獲得しました。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -34,9 +60,9 @@
     "summary": "・世界初の全身麻酔による乳がん摘出手術に成功した医聖・華岡青洲(はなおか・せいしゅう)を称える「青洲まつり」が、２５日、紀の川市の道の駅などで開かれます。\n・ハイライトは、青洲の妻「加恵(かえ)」の嫁入りシーンを再現で、旧名手宿本陣(なてじゅくほんじん)から、本格的なメイクと衣装の４１人が、時代行列を繰り広げます。\n・青洲まつりは、２５日、午前９時半から、紀の川市の道の駅「青洲の里」などで開かれます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -47,6 +73,8 @@
     "summary": "・クビアカツヤカミキリは、ウメやスモモ、モモ、サクラなどバラ科の植物に寄生し、幼虫が、木の内部を食い荒らし、樹木を枯死(こし)させる特定外来生物で、被害の広がりが社会問題化しています。\n・和歌山県でも、当初、紀北地方を中心に被害が広がっていましたが、先月（９月）下旬、みなべ町で、「フラス」と呼ばれる木くずと虫の排せつ物が混ざったものが見つかり、周辺にも注意が呼びかけられています。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 29,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "クビアカツヤカミキリに懸賞金／和歌山・田辺市",
@@ -54,9 +82,7 @@
         "source": "au Webポータル",
         "published_at": "2026-10-22 18:20"
       }
-    ],
-    "importance_score": 29,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-22",
@@ -67,9 +93,9 @@
     "summary": "・那智勝浦町の世界遺産、熊野那智大社に伝わる国の重要無形民俗文化財「那智の田楽(でんがく)」の公演会が、２５日、町内の体育文化会館で開催されます。\n・これは、指定５０周年を記念し、大社と保存会が開くものです。\n・「那智の田楽」記念公演会は、２５日・午後２時から、那智勝浦町天満(てんま)の体育文化会館で開かれます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 20,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -80,9 +106,9 @@
     "summary": "・受験生のお守りとして、半世紀以上にわたり親しまれている南海高野線・学文路(かむろ)駅の入場券セットの販売が、今シーズンも始まっていますが、２５日には、学文路駅での特別販売会が行われます。\n・入場券セットは、学文路が「学文（問）(がくもん)の路(みち)に入る」と読めることや「５枚入り」「入場券」「学文路」の頭文字で「ご入学」という縁起の良い語呂合わせになることから、毎年販売されている人気のお守りです。\n・入場券セットは、１部９００円で、南海電鉄の主要駅とオンラインショップで販売されていますが、普段は無人駅のため、販売されていない学文路駅で、２５日の午前１０時から正午まで、特別販売会が行われます。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -93,9 +119,9 @@
     "summary": "・「第４４回紀文(きぶん)まつり」が、２４日・２５日の両日、有田市の市役所周辺や有田川河川敷で開催されます。\n・「紀文まつり」は、例年、有田市の夏まつりとして８月に開催されていますが、今年（２０２６年）は、特産のみかんの栽培システムが世界農業遺産に認定されたことや、市制施行７０周年という節目にあたることから、みかんが実る季節に２日間にわたって盛大に開催されます。\n・２日目の２５日は、箕島駅前でマルシェが行われるほか、世界農業遺産体験ツアーに、飲食店や露店、ステージイベントなどがあり、午後８時からは、有田川河川敷で、ドローンショーと、３千発の打ち上げ花火がフィナーレを飾ります。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -106,20 +132,26 @@
     "summary": "・踏切施設４か所の不具合のため、西御坊・紀伊御坊間で運転を見合わせていた御坊市の紀州鉄道は、故障か所の部品交換と点検が終わったとして、きょう（１０月２２日）午前１１時１３分・西御坊発の上り列車から通常ダイヤでの運転を再開しました。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
-    "title": "市和歌山・丹羽涼介、SB育成1位 最速151キロの17歳右腕",
-    "url": "https://mainichi.jp/articles/20261022/k00/00m/310/308000c",
-    "source": "毎日新聞",
-    "published_at": "2026-10-22 22:57",
-    "summary": "・22日にあったプロ野球のドラフト会議で、市和歌山の丹羽涼介投手（17）がパ・リーグ、福岡ソフトバンクホークスから育成1位指名を受けた。\n・同校で会見した丹羽投手は「育成で呼ばれてほっとした」と笑顔をのぞかせた。\n・丹羽投手は最速151キロの速球とスライダー、フォークが持ち味の右腕。",
+    "title": "市和歌山・丹羽涼介、SB育成1位 最速151キロの17歳右腕（毎日新聞）",
+    "url": "https://news.yahoo.co.jp/articles/708f24d101f7210b9199c5e65c4a8ddec80100b3",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-22 22:58",
+    "summary": "・22日にあったプロ野球のドラフト会議で、市和歌山の丹羽涼介投手（17）がパ・リーグ、福岡ソフトバンクホークスから育成1位指名を受けた。\n・同校で会見した丹羽投手は「育成で呼ばれてほっとした」と笑顔をのぞかせた。\n・【写真で見る】今日のドラフト会議、選手たちの表情は　丹羽投手は最速151キロの速球とスライダー、フォークが持ち味の右腕。",
     "summary_type": "auto",
     "category": "スポーツ",
     "related_articles": [
+      {
+        "title": "市和歌山・丹羽涼介、SB育成1位 最速151キロの17歳右腕",
+        "url": "https://mainichi.jp/articles/20261022/k00/00m/310/308000c",
+        "source": "毎日新聞",
+        "published_at": "2026-10-22 22:57"
+      },
       {
         "title": "市和歌山・丹羽涼介、SB育成1位 最速151キロの17歳右腕",
         "url": "https://article.auone.jp/bc3f5b4d-bfbc-4423-a49e-22591962c321",
@@ -131,10 +163,16 @@
         "url": "https://news.yahoo.co.jp/articles/01c94324e20e52784ff780fe773c17de1e9a0d8a",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-22 19:44"
+      },
+      {
+        "title": "【ドラフト会議】美容師志望だった市和歌山・丹羽涼介 ソフトバンク育成1位指名 最速151キロ右腕（スポニチアネックス）",
+        "url": "https://news.yahoo.co.jp/articles/9d351c2178af0371edbb979d07b6432953c9def2",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-22 20:22"
       }
     ],
-    "importance_score": 41,
-    "is_featured": false
+    "importance_score": 66,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-22",
@@ -145,6 +183,8 @@
     "summary": "・居酒屋「巻ト酒マキチヨ」（和歌山市吉田、TEL 073-498-6108）がJR和歌山駅近くにオープンして10月18日で2カ月がたった。\n・（和歌山経済新聞）【写真】野菜の豚巻き串（写真は左がナス巻き、中央と右がレタス巻き）　同店では、アスパラやナスなどさまざまな具材を宮崎県産「きなこ豚」の薄切り肉で巻いて串に刺し焼いた巻き串料理を中心に提供する。\n・森下さんは和歌山市出身で、幼少期に知人宅で食べたオムライスの味に感動したことがきっかけで料理人を志したという。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 54,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山駅近くの居酒屋「巻ト酒マキチヨ」で提供されるきのこバターポン酢",
@@ -157,10 +197,14 @@
         "url": "https://wakayama.keizai.biz/photoflash/7983/",
         "source": "和歌山経済新聞",
         "published_at": "2026-10-22 22:00"
+      },
+      {
+        "title": "和歌山駅近くの居酒屋「巻ト酒マキチヨ」で提供するだし巻き",
+        "url": "https://wakayama.keizai.biz/photoflash/7985/",
+        "source": "和歌山経済新聞",
+        "published_at": "2026-10-22 22:00"
       }
-    ],
-    "importance_score": 39,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-22",
@@ -171,9 +215,9 @@
     "summary": "・愛知・名古屋アジアパラ大会第５日は２２日、車いすテニス男子の小田凱人（左）はシングルスで２３日の決勝に進出。\n・荒井大輔（右）と組んだダブルスで金メダルに輝いた＝名古屋市東山公園テニスセンター　【時事通信社】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -184,9 +228,16 @@
     "summary": "・和歌山県は22日、わかやま移住定住支援センターのメールマガジン「わかやま移住PRマガジン」の利用者3050人の氏名とメールアドレスが漏洩（ろうえい）した可能性があると発表した。\n・メール配信を運営している「ラクスライトクラウド」（東京都）が不正アクセスを受け、情報が漏洩した可能性があるという。\n・被災地域支援の活動に寄付のご協力をお願いいたします。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
+    "importance_score": 24,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "移住定住支援センターメールマガジン登録者3050人の氏名など漏洩の恐れ 和歌山県",
+        "url": "https://www.sankei.com/article/20261022-HKEHDS5ISRO2VOLVCCSVRCW3T4/",
+        "source": "産経ニュース",
+        "published_at": "2026-10-22 20:57"
+      }
+    ]
   },
   {
     "article_date": "2026-10-22",
@@ -197,9 +248,9 @@
     "summary": "・鯨の海を望む展望台 和歌山 太地町。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -210,9 +261,9 @@
     "summary": "・新幹線の開通に伴いＪＲから経営分離された並行在来線の運行維持に向け、財源確保策の検討を要請した＝２２日午後、総務省　【時事通信社】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -223,6 +274,8 @@
     "summary": "・22日、2026年プロ野球ドラフト会議が行われ、ソフトバンクが育成1位で市和歌山高・丹羽涼介を指名し交渉権を獲得した。\n・【選手データ】丹羽涼介 プロフィール・寸評■プロフィール名前:丹羽涼介(にわ・りょうすけ)ポジション:投手生年月日:2009年2月10日身長・体重:185cm77kg投打:右投右打所属:市和歌山高経歴:名草小(名草少年野球団) - 明和中(紀州ボーイズ) - [甲]市和歌山高　市和歌山高では1年春からベンチ入りし、2年春のセンバツでは横浜高との1回戦で3回途中から救援登板。\n・3年夏は和歌山大会準々決勝で智弁和歌山高に敗れ、甲子園出場はならなかった。",
     "summary_type": "auto",
     "category": "スポーツ",
+    "importance_score": 69,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【速報】広島が立命・西野（和歌山県出身）を２位指名 プロ野球ドラフト",
@@ -241,10 +294,14 @@
         "url": "https://topics.smt.docomo.ne.jp/amp/article/agara/region/agara-ow702724",
         "source": "ｄメニューニュース",
         "published_at": "2026-10-22 17:16"
+      },
+      {
+        "title": "【速報】広島が立命・西野（和歌山県出身）を２位指名 プロ野球ドラフト",
+        "url": "https://www.47news.jp/15122242.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-22 17:16"
       }
-    ],
-    "importance_score": 54,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-22",
@@ -255,6 +312,19 @@
     "summary": "・和歌山 太地町の小学校でNHK出前授業 映像表現を学ぶ。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 5,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-22",
+    "title": "「PHP」ぜい弱性発覚 和歌山県内でも対応に追われる",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63715",
+    "source": "NHKニュース",
+    "published_at": "2026-10-22 19:27",
+    "summary": "・「PHP」ぜい弱性発覚 和歌山県内でも対応に追われる。",
+    "summary_type": "auto",
+    "category": "地域・一般",
     "related_articles": [],
     "importance_score": 5,
     "is_featured": false
@@ -268,9 +338,9 @@
     "summary": "・和歌山県の雨雲レーダー(実況)22日23:15発表。\n・和歌山県の落雷地点・雷予報をチェック！\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -281,8 +351,21 @@
     "summary": "・山梨県上野原市に位置する「ミューの森」は、日頃より当施設を支えてくださっている地元・上野原市をはじめ、山梨県民の皆さまへ感謝の気持ちを込め、「山梨県民割」企画の準備を進めておりました。\n・対象の県民：山梨県民、茨城県民、埼玉県民、和歌山県、愛知県民。\n・割引内容：対象の県民は、2026年11月1日～11月30日チェックインの間、割引価格で宿泊可。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 6,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-22",
+    "title": "人面模様の「ガ」 和歌山県田辺市上芳養で発見（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/f9dc339d5964b5ac09959133af9835526526316d",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-22 17:36",
+    "summary": "・和歌山県田辺市上芳養で、人の顔のような模様がある大きなガが見つかった。\n・【珍鳥ホシムクドリ飛来／紀南で越冬かの記事】　クロメンガタスズメは、胸部に人の顔やドクロを思わせる模様がある大型のスズメガの仲間。\n・南紀生物同好会の後藤森香さん（田辺市）は「クロメンガタスズメで間違いないと思う。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 9,
     "is_featured": false
   },
   {
@@ -315,7 +398,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 47,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "31日に野球の体験や交流会 子どもや初心者も歓迎、和歌山・田辺（紀伊民報）",
@@ -340,7 +423,7 @@
     "summary": "・弁慶市40周年で盛況　低迷から回復しファン獲得、和歌山・田辺。\n・「南方熊楠が贈る日々の言葉、三六六」　大竹さん（田辺）の短編エッセー集、和歌山。\n・片山哲の功績、未来へ　東京で「顕彰する会」、和歌山県田辺出身の首相。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 47,
+    "importance_score": 62,
     "is_featured": true,
     "related_articles": [
       {
@@ -354,6 +437,12 @@
         "url": "https://www.47news.jp/15121249.html",
         "source": "47NEWS",
         "published_at": "2026-10-22 14:30"
+      },
+      {
+        "title": "特別大賞に長嶋さん エッセイコンテスト、和歌山県田辺（紀伊民報）",
+        "url": "https://news.yahoo.co.jp/articles/9848534a6264f1124bb1caf8e1d6394a84c18080",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-22 16:25"
       }
     ]
   },
@@ -718,6 +807,19 @@
   },
   {
     "article_date": "2026-10-22",
+    "title": "学校で働きませんか／２４日、講師登録説明会",
+    "url": "https://www.agara.co.jp/article/702560",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-10-22 14:30",
+    "summary": "・県教育委員会は２４日午前９時半～正午、田辺市など県内４会場で講師登録の説明会を開く。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-22",
     "title": "不正アクセスによる「ふるさとチョイス」における個人情報の流出について",
     "url": "http://www.town.kamitonda.lg.jp/soshiki/shinkou/kifukin/5433.html",
     "source": "上富田町",
@@ -726,19 +828,6 @@
     "summary_type": "auto",
     "category": "地域・一般",
     "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "（和歌山）広川町上津木でクマ出没　１０月２２日",
-    "url": "https://topics.smt.docomo.ne.jp/amp/article/fushinsha_joho/region/fushinsha_joho-1485864240779510714",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-22 13:47",
-    "summary": "・和歌山県警によると、１０月２２日午前１０時頃、広川町上津木で、クマが出没しました。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 3,
     "is_featured": false,
     "related_articles": []
   },
@@ -777,7 +866,7 @@
     "summary": "・【尾鷲】護摩木をたいて無病息災を祈る「三宝大荒神護摩供」が25日正午から、世界遺産・熊野古道の八鬼山荒神堂（三重県尾鷲市南浦）で営まれる。\n・同市の尾鷲観光物産協会は同日、八鬼山を登って儀礼を見学する「参拝ツアー」を開催。\n・市内の有志らでつくる「八鬼山荒神堂保存会」が主催し、年に１回実施している。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 30,
+    "importance_score": 45,
     "is_featured": false,
     "related_articles": [
       {
@@ -785,6 +874,12 @@
         "url": "https://www.47news.jp/15119089.html",
         "source": "47NEWS",
         "published_at": "2026-10-22 11:00"
+      },
+      {
+        "title": "25日に「三宝大荒神護摩供」 尾鷲・熊野古道の八鬼山荒神堂、「参拝ツアー」参加募る",
+        "url": "https://www.isenp.co.jp/2026/10/22/154996/25%E6%97%A5%E3%81%AB%E3%80%8C%E4%B8%89%E5%AE%9D%E5%A4%A7%E8%8D%92%E7%A5%9E%E8%AD%B7%E6%91%A9%E4%BE%9B%E3%80%8D%E3%80%80%E5%B0%BE%E9%B7%B2%E3%83%BB%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93%E3%81%AE%E5%85%AB/",
+        "source": "伊勢新聞",
+        "published_at": "2026-10-22 10:04"
       }
     ]
   },
@@ -862,9 +957,16 @@
     "summary": "・【JUST!シン日本遺産】シーズン３ # 13をちら見せ 和歌山県広川町のシン日本遺産を探す！しずげんが海上釣堀で豪華飯を賭けて釣り対決！ 続きはTELASAで",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
-    "importance_score": 0,
-    "is_featured": false
+    "importance_score": 15,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "【JUST!シン日本遺産】シーズン３ # 13をちら見せ 和歌山県広川町のシン日本遺産を探す！しずげんが海上釣堀で豪華飯を賭けて釣り対決！ 続きはTELASAで",
+        "url": "https://youtu.be/IyYPPPAsLOY?si=_Aej5DS9nryzgqd-",
+        "source": "YouTube",
+        "published_at": "2026-10-22 08:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-22",
@@ -875,9 +977,16 @@
     "summary": "・おはようございます！和歌山市専用のお天気サポートAIです！■きょうのざっくり天気■【気温の目安】昨日と比べて、最低気温は17℃で3℃低くなりそうです。\n・最高気温は24℃で6℃低く、過ごしやすく感じられそうです。\n・【風と空気】昼間の風速は4〜5m/sで、やや風がある予想です。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 9,
+    "importance_score": 24,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【和歌山市】10/22 最高24℃、ひんやりする場面も、昼間は晴れる予想【朝版】",
+        "url": "https://news.yahoo.co.jp/articles/446e792bea47620363b93322f6db69bd250ca179/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-22 05:10"
+      }
+    ]
   },
   {
     "article_date": "2026-10-22",
