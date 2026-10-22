@@ -282,9 +282,9 @@
     "summary": "・会議では、宮崎知事が挨拶したあと、来年度の県の重点施策について６つの政策の柱に沿って説明しました。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -555,6 +555,8 @@
     "summary": "・和歌山県紀南地方では地元や全国各地の「おいしい」を楽しめる食の話題がめじろ押し。\n・【グランプリに「紀州梅真鯛梅」、和歌山県の一番星アワードの記事】　田辺市地域ブランド推進協議会は、地元の人々による投票で定番土産を選ぶ「田辺市おみやげグランプリ２０２６」の結果を発表した。\n・投票は９月の１カ月間、田辺市やその周辺に住む人を対象に実施。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 45,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "デラックスケーキが１位 おみやげグランプリ、和歌山・田辺",
@@ -568,9 +570,7 @@
         "source": "47NEWS",
         "published_at": "2026-10-21 14:30"
       }
-    ],
-    "importance_score": 45,
-    "is_featured": false
+    ]
   },
   {
     "title": "和歌山市でNTT西日本「IT SOLUTION DAYS」開催（WBS和歌山放送ニュース）",
@@ -579,7 +579,7 @@
     "published_at": "2026-10-21 16:10",
     "importance_score": 3,
     "is_featured": false,
-    "summary": "・和歌山市でNTT西日本「IT SOLUTION DAYS」開催（WBS和歌山放送ニュース）",
+    "summary": "・和歌山市でNTT西日本「IT SOLUTION DAYS」開催（WBS和歌山放送ニュース）。",
     "related_articles": []
   },
   {
@@ -747,9 +747,16 @@
     "summary": "・本記事ではそんな「宿坊 不動院」と、同施設が上位となった楽天トラベル「和歌山県の食事の評価が高い宿」ランキングを紹介していきます（2026年10月7日更新）。\n・精進料理も見た目も、お味も大満足でした」「今回初めて宿坊に宿泊しましたが、高級旅館に泊まっているのと変わらないサービスを受けることができて大変満足しています」「宿坊というより高級旅館です！」「料理は、三の膳で豪華。\n・入手困難な日本酒もあって、お酒のジャンルと品数もすごいのでお酒好きな方におススメです」といった声が寄せられています。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 9,
+    "importance_score": 24,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "「一生分のぜいたく」 和歌山県の“食事の評価が高い宿”に「高級旅館のよう」「見た目も味も大満足」「入手困難な日本酒も」",
+        "url": "https://news.yahoo.co.jp/articles/dcb098451ebc09bd1782e340a11f64b44ee7ebba/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-21 11:10"
+      }
+    ]
   },
   {
     "article_date": "2026-10-21",
@@ -923,6 +930,8 @@
     "summary": "・金額は、市内の農家が自身の園地でウメなどの果樹から見つけた場合は３万円、市民が園地以外の庭木や街路樹などで発見した場合は１万円。\n・１世帯１回限りで、予算の１０万円に達し次第終了する。\n・【台風情報】急カーブで九州・本州方面コースか…大型で猛烈な「台風30号（チャンパー）」最大瞬間風速80m/s・中心気圧905hPa...東日本と西日本では警報級大雨のおそれ【気象庁22日03時45分発表】。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 33,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "ウメ産地の生産者ら「クビアカ」通報に最大３万円の「懸賞金」創設…隣接の町で被害確認の和歌山県田辺市",
@@ -930,9 +939,7 @@
         "source": "読売新聞",
         "published_at": "2026-10-21 08:30"
       }
-    ],
-    "importance_score": 33,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-21",
@@ -1094,9 +1101,9 @@
     "summary": "・和歌山県の雨雲レーダー(実況)22日08:45発表。\n・2026年10月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
