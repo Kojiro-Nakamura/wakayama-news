@@ -34,7 +34,7 @@
     "summary": "・きょう（２１日）の和歌山県は晴れて、日本海の低気圧や前線に向かって南から温かい空気が流れ混んだ影響で気温が上昇し、最高気温が新宮市で３１・４度、かつらぎ町で３１度ちょうど、和歌山市で最高気温が３０度ちょうどに達するなど、この時季には珍しく真夏日となったところがみられ、とくに和歌山市では１０月下旬の最高気温の記録を更新する暑さとなりました。\n・和歌山地方気象台では「１０月上旬に最高気温が３０度を超えるケースは過去まあまああったが、下旬で真夏日になるのは、過去に例がない。\n・一方、あす（２２日）は前線が南下し北風に変わるため気温が下がる見込みで、和歌山の予想最高気温は、きょうより６度も低い２４度とされています。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "importance_score": 47,
+    "importance_score": 62,
     "is_featured": true,
     "related_articles": [
       {
@@ -46,6 +46,12 @@
       {
         "title": "和歌山市最高気温30度・10月の最遅記録更新（WBS和歌山放送ニュース）",
         "url": "https://news.yahoo.co.jp/articles/9d3bb676067a9ebf0ef01fcde8636b84bcdcf57a",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-21 16:14"
+      },
+      {
+        "title": "和歌山市最高気温30度・10月の最遅記録更新 (WBS和歌山放送ニュース)",
+        "url": "https://news.yahoo.co.jp/articles/9d3bb676067a9ebf0ef01fcde8636b84bcdcf57a/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-21 16:14"
       }
@@ -211,8 +217,8 @@
     "summary": "・和歌山市は、市内に住む匿名希望の人物から金塊5キロ（約1億円相当）の寄付を受けたと発表した。\n・和歌山城公園内の維持管理に役立ててほしいとのメッセージが添えられていたという。\n・市和歌山城整備企画課によると、今月1日に寄付の連絡があり、市役所を訪れた代理人から金のインゴットを受け取ったという。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 42,
-    "is_featured": false,
+    "importance_score": 57,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山市に1億円相当金塊寄付　和歌山城公園維持管理に役立ててほしいとメッセージ",
@@ -225,6 +231,12 @@
         "url": "https://www.sankei.com/article/20261021-D5QZR54F45MYLICCXUEAV7SSVM/",
         "source": "産経ニュース",
         "published_at": "2026-10-21 17:40"
+      },
+      {
+        "title": "和歌山市に1億円相当金塊寄付 和歌山城公園維持管理に役立ててほしいとメッセージ (産経新聞)",
+        "url": "https://news.yahoo.co.jp/articles/9f7ee3053bd13ca79489cb3ee65fd3284a73c41d/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-21 17:50"
       }
     ]
   },
@@ -251,7 +263,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 56,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "特急くろしおで巡る「南紀熊野ジオパーク学びキャンペーン」２４日から／和歌山",
@@ -1088,9 +1100,16 @@
     "summary": "・最高気温は30℃で1℃高く、暑さを感じる場面がありそうです。\n・【雨と風】夕方の降水確率は50%で、夜の降水確率は20〜50%とされています。\n・＜傘＞夕方から夜にかけては傘を使う場面がありそうです。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 9,
+    "importance_score": 24,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【和歌山市】10/21 最高30℃、暑さを感じる場面も、やや風がある、夕方から夜は雨の予想【朝版】",
+        "url": "https://news.yahoo.co.jp/articles/c732d4429c6fb4680fd831aacf3ca5c111522737/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-21 05:10"
+      }
+    ]
   },
   {
     "article_date": "2026-10-21",
