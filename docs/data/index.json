@@ -1,8 +1,12 @@
 {
   "dates": [
     {
+      "article_date": "2026-10-24",
+      "count": 2
+    },
+    {
       "article_date": "2026-10-23",
-      "count": 52
+      "count": 53
     },
     {
       "article_date": "2026-10-22",
@@ -10,7 +14,7 @@
     },
     {
       "article_date": "2026-10-21",
-      "count": 74
+      "count": 75
     },
     {
       "article_date": "2026-10-20",
@@ -361,6 +365,10 @@
       "count": 1
     },
     {
+      "article_date": "2026-02-15",
+      "count": 1
+    },
+    {
       "article_date": "2026-01-27",
       "count": 1
     },
@@ -442,8 +450,8 @@
     }
   ],
   "stats": {
-    "total_articles": 1238,
-    "total_days": 110,
-    "last_updated": "2026-10-23T23:05:12.030447+09:00"
+    "total_articles": 1256,
+    "total_days": 112,
+    "last_updated": "2026-10-24T08:46:01.788412+09:00"
   }
 }

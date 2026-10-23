@@ -8,9 +8,9 @@
     "summary": "・小学校高学年の子どもと保護者を対象に、大学教授や専門家が優しく専門領域について教える「子ども大学」が、今月（１０月）３１日、和歌山市栄谷の和歌山大学で開かれます。\n・「子ども大学」はドイツではじまり、埼玉県川越市に伝わり全国に広がった活動で、子どもたちの知的好奇心を高め親子での学び合いを深めようという目的で、和歌山県では和歌山大学で２０１７年から開かれていて、１１回目を迎えます。\n・第１１回「親子で学ぶ 子ども大学 わかやま」は、１０月３１日・土曜日、和歌山大学・東１号館のＥ１―１０１教室で、午後１時開場、午後２時開講、途中１０分間の休憩を挟んで行われます。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -21,6 +21,8 @@
     "summary": "・東京都内のホテルで開かれたきのう（２２日）のプロ野球ドラフト会議で、きょう（２３日）までに確認できたところでは、和歌山県ゆかりの選手５人が指名されています。\n・智辯和歌山高校から青山学院大学に進んだ渡部海(わたべ・かい)捕手は、中日と楽天の２球団が１位指名で競合の末、楽天が交渉権を獲得しました。\n・社会人野球クラブチームのマツゲン箕島硬式野球部の松田陸斗（まつだ・りくと）選手は、巨人から育成４位で指名されました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 26,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "プロ野球ドラフト／西野選手（立命館大）広島２位／みなべ出身、大学日本代表 （14:30）",
@@ -28,8 +30,26 @@
         "source": "紀伊民報",
         "published_at": "2026-10-23 17:15"
       }
+    ]
+  },
+  {
+    "article_date": "2026-10-23",
+    "title": "和歌山市内7か所の寺社で御朱印巡り企画 「まり札」配布も",
+    "url": "https://wakayama.keizai.biz/headline/3163/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-23 23:00",
+    "summary": "・第2回紀州神仏霊場「あさも和（わ）」御朱印巡りが11月1日、和歌山市内7カ所にある寺院と神社で始まる。\n・2025年、和歌山市に点在する御朱印授与所を観光資源として結ぼうと恵運寺（和歌山市吹上3）、和歌山縣護國神社（一番丁）、刺田比古神社（片岡町）、多賀神社（十番丁）、了法寺（坂田）の5寺社で活動を始め、同年11月に第1回御朱印巡りを行った。\n・同団体代表で恵運寺住職の山本寿法さんは「県外から御朱印を目的に訪れ、南紀白浜や熊野からの帰りに和歌山市内の寺社を訪れる参拝者が多い。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "和歌山市内7か所の寺社で御朱印巡り企画 「まり札」配布も（みんなの経済新聞ネットワーク）",
+        "url": "https://news.yahoo.co.jp/articles/ab413fb18932608876ec55c570fe90df0b7a8a69",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-23 23:00"
+      }
     ],
-    "importance_score": 26,
+    "importance_score": 33,
     "is_featured": false
   },
   {
@@ -41,9 +61,9 @@
     "summary": "・５市町にポケモンマンホール。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -54,9 +74,9 @@
     "summary": "・北海道由仁町の庭園「ゆにガーデン」でコキアの紅葉がピークを迎え、真っ赤に染まった約３万２０００株が訪れた人の目を楽しませている＝２３日　【時事通信社】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -67,6 +87,8 @@
     "summary": "・サクラやウメ、モモなどに被害を及ぼす特定外来生物クビアカツヤカミキリの被害が拡大していることを受け、和歌山県は２３日、緊急対策を実施すると発表しました。\n・和歌山県では今年９月末時点で、計１万３１６８本の被害が出ています。\n・今回の緊急対策では、市町村の産卵防止ネットの設置について、和歌山県が事業費を支援するなどし、被害拡大を防ぎたいということです。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "クビアカツヤカミキリ 県が緊急対策実施へ",
@@ -74,9 +96,7 @@
         "source": "わかやま新報",
         "published_at": "2026-10-23 16:02"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -87,6 +107,8 @@
     "summary": "・和歌山県教育委員会は23日、令和9年度の県立高校の募集定員を発表した。\n・現行の入試制度になった平成21年度以来、募集定員は昨年度に続き過去最少。\n・県立高校で募集する学級の定員は40人だが、紀北農芸の3学級、和歌山東の5学級、有田中央の3学級、南部の5学級は35人とした。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "令和9年度の和歌山県立高校の募集定員、全日制は6200人で昨年度に続き過去最少",
@@ -94,9 +116,7 @@
         "source": "Infoseek",
         "published_at": "2026-10-23 20:28"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -107,9 +127,9 @@
     "summary": "・くじら祭に向けて「鯨踊り」の稽古 和歌山 太地町。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -120,9 +140,9 @@
     "summary": "・和歌山 北山村が「国際筏協会」に加盟。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -133,9 +153,9 @@
     "summary": "・音頭やかるたで北山村の文化を伝え楽しむ 和歌山。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -146,9 +166,16 @@
     "summary": "・新たに導入される「産卵防止ネット」（和歌山県提供）。\n・和歌山県は23日、ウメやモモ、スモモなどの樹木を枯死させる特定外来生物「クビアカツヤカミキリ」に対する緊急対策を発表した。\n・市町村が産卵防止ネットの設置▽被害を受けた樹木の伐採▽成虫の飛散を防ぐネットの設置▽薬剤散布−を行った場合、県が事業費の4分の3を補助。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
+    "importance_score": 24,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "果樹大国・和歌山県がクビアカツヤカミキリ対策を前倒し実施 「産卵防止ネット」を導入",
+        "url": "https://www.sankei.com/article/20261023-LVDF4UCWNVOINNXU3ZTCK2A5DQ/",
+        "source": "産経ニュース",
+        "published_at": "2026-10-23 20:02"
+      }
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -159,9 +186,22 @@
     "summary": "・２３日夕方、和歌山県御坊市にある野島漁港の沖合で水難事故があり、６０代の男性が死亡しました。\n・消防によりますと、午後４時４２分、御坊市の野島漁港で「サーフィンでおぼれている人がいる」と通報がありました。\n・男性は、御坊市に住む６０代の男性で、警察が現場に到着した際、心肺停止の状態で、病院に搬送されましたが、その後、死亡が確認されました。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 6,
-    "is_featured": false
+    "importance_score": 36,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "【速報】漁港沖合で水難事故 男性死亡 近くに浮いたサーフボード 和歌山・御坊市",
+        "url": "https://news.yahoo.co.jp/articles/eb733673ff2a118fcbc7c47f495a5522d67fd9d4",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-23 19:41"
+      },
+      {
+        "title": "【速報】漁港沖合で水難事故 男性死亡 近くに浮いたサーフボード 和歌山・御坊市",
+        "url": "https://newsdig.tbs.co.jp/articles/mbs/3035210",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-23 19:41"
+      }
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -172,9 +212,9 @@
     "summary": "・株式会社セキュリテ（本社：東京都千代田区、代表取締役：中園浩輝）は、事業投資型クラウドファンディングとYouTubeを組み合わせた事業応援エンターテインメント番組『投資村』を2026年10月23日（金）19：00より配信開始いたします。\n・また、番組の配信開始に合わせて、第1号案件となる「石川涼 南紀白浜 円月島カフェファンド」の一般募集も開始いたします。\n・『投資村』は、事業投資型クラウドファンディング「セキュリテ」を利用する事業者の中から、選考を通過した『チャレンジャー』が、事業の背景や魅力、実績、今後のビジョンをプレゼンテーションする番組です。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -185,9 +225,16 @@
     "summary": "・これは、施設を運営する社会福祉法人・和歌山県社会福祉事業団が主催するイベントで、去年（２０２５年）に続いて、２回目の開催です。\n・１１時４５分からは、施設の職員らによるバンドの音楽演奏会が行われるほか、午後１時からは、今回初参戦となる「紀州ぶんだらプロレス」の特別興行が行われ、和歌山ゆかりの男女レスラーや外国人選手も加わってのバトルが、リング上で繰り広げられます。\n・第２回「和福祭」は、１１月１５日・日曜日の午前１１時から午後３時半まで、串本町上田原の社会福祉施設「古座あさかぜ園」で開かれます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 17,
-    "is_featured": false
+    "importance_score": 32,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "串本町「古座あさかぜ園」で第２回「和福祭」１１月１５日開催・プロレスも初参戦",
+        "url": "https://article.auone.jp/fb93a2d5-4edf-4be6-ae88-4fd65f066caf",
+        "source": "au Webポータル",
+        "published_at": "2026-10-23 17:22"
+      }
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -361,6 +408,8 @@
     "summary": "・和歌山県の逸品が全国から買える通販サイト「和歌山一番星 Selection」10月20日オープン。",
     "summary_type": "auto",
     "category": "経済・産業",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の逸品が全国から買える通販サイト「和歌山一番星 Selection」10月20日オープン",
@@ -368,9 +417,7 @@
         "source": "PR TIMES",
         "published_at": "2026-10-23 16:14"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -440,7 +487,7 @@
     "summary": "・和歌山県田辺市内の産品直売所にマツタケが並び、秋の味覚を楽しみにする人たちが買い求めている。\n・【マツタケ初競り／田辺の市場に秋の味覚の記事】　同市上秋津の「きてら」には、採取権を落札した人たちが地元の山で収穫し、出荷している。\n・和歌山市の男性（７５）は「今年初めてのマツタケ。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 45,
+    "importance_score": 60,
     "is_featured": true,
     "related_articles": [
       {
@@ -454,6 +501,12 @@
         "url": "https://www.agara.co.jp/article/703089",
         "source": "AGARA 紀伊民報",
         "published_at": "2026-10-23 14:30"
+      },
+      {
+        "title": "秋の味覚マツタケ並ぶ 和歌山県田辺市上秋津の直売所 (紀伊民報)",
+        "url": "https://news.yahoo.co.jp/articles/670dbb1bc9092ab8b983a97dfb95b40f2fb5d99b/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-23 16:25"
       }
     ]
   },
@@ -531,9 +584,9 @@
     "summary": "・南海電気鉄道株式会社（社長：梶谷 知志）は、11月1日（日）と7日（土）に、観光列車 「GRAN 天空（グラン テンクウ）」の車内で九度山町（町長：岡本 章）と連携したPRイベントを実施します。\n・対象列車： GRAN 天空1号、2号、3号、4号。\n・GRAN 天空1号： 9時55分頃～10時30分頃。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -544,13 +597,19 @@
     "summary": "・和歌山市は、匿名の市民から金塊５キログラムの寄贈を受けたと明らかにした。\n・【写真】昔の和歌山城　市によると、金塊は時価約１億円相当。\n・１日にこの市民から寄付の申し込みがあったが匿名の意向が強く、代理者が同日、「和歌山城の整備に充ててほしい」との趣旨が記された手紙とともに市役所へ持参したという。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": false,
     "related_articles": [
       {
         "title": "匿名の市民、金塊1億円分を和歌山市に寄贈 「城の整備に」",
         "url": "https://mainichi.jp/articles/20261023/k00/00m/310/146000c",
         "source": "毎日新聞",
+        "published_at": "2026-10-23 14:34"
+      },
+      {
+        "title": "匿名の市民、金塊1億円分を和歌山市に寄贈 「城の整備に」 (毎日新聞)",
+        "url": "https://news.yahoo.co.jp/articles/fb63890e3ace6dc0848c0dfe65019d47add5cb62/images/000",
+        "source": "Yahoo!ニュース",
         "published_at": "2026-10-23 14:34"
       }
     ]
@@ -590,6 +649,8 @@
     "summary": "・廃校となった小学校舎など遊休施設の有効活用に向け、和歌山県と田辺市はドローン（小型無人機）で撮影して作成した3Dモデルの映像をホームページ上で公開している。\n・施設利用に関心のある事業者が現地を訪れる負担を軽減し、売却や活用の促進を図る。\n・対象となったのは、今年3月に廃止された野外活動施設「旧熊野の郷　古道ヶ丘」（田辺市中辺路町）▽平成27年に廃校となった「旧三川小学校」（同市合川）▽同30年に廃校となった「旧富里小学校」（同市下川下）－の計3施設。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 30,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "遊休施設を3Dモデル化、映像で確認が可能に　和歌山県と田辺市、売却・活用を促進",
@@ -597,9 +658,7 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-23 14:00"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -623,7 +682,7 @@
     "summary": "・視聴者から寄せられた奇想天外な頼み事や、心配事の相談を「探偵」たちが体当たりで解決する人気バラエティー番組「探偵！ナイトスクープ」（ABCテレビ、金曜午後11時17分）。\n・10月23日は、石田靖探偵が「高野山でモルモット大運動会！？」を調査した。\n・【写真特集】今週は「高野山でモルモット大運動会！？」「マジンガーZはなぜあの形になったのか？」「『おは朝』のおき太くんが怖すぎる！」の3本立て。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": false,
     "related_articles": [
       {
@@ -631,6 +690,12 @@
         "url": "https://abc-magazine.asahi.co.jp/post-91468/",
         "source": "ABCマガジン",
         "published_at": "2026-10-23 11:17"
+      },
+      {
+        "title": "探偵！ナイトスクープ＞高野山の寺でモルモットの大運動会やりたい米国人僧侶 子どもの頃の思い出忘れられず 住職「ペット禁止です」 (MANTANWEB)",
+        "url": "https://news.yahoo.co.jp/articles/32eefb47b94b9dfb1636cd248d5749009339d4bb/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-23 13:33"
       }
     ]
   },
@@ -689,6 +754,8 @@
     "summary": "・奈良・和歌山のイオンモールで開催されるおすすめハロウィンイベント3選[2026年10月24日・25日開催分]（ウォーカープラス）。",
     "summary_type": "auto",
     "category": "経済・産業",
+    "importance_score": 30,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【和歌山】2026年10月24日・25日週末開催の無料イベント8選 秋祭り＆グルメも満喫！",
@@ -702,9 +769,7 @@
         "source": "Green Card ニュース",
         "published_at": "2026-10-23 01:20"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -773,16 +838,23 @@
   },
   {
     "article_date": "2026-10-23",
-    "title": "和歌山県の過去の雨雲レーダー(2026年10月22日)",
-    "url": "https://tenki.jp/past/2026/10/22/radar/6/33/",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
     "source": "tenki.jp",
-    "published_at": "2026-10-23 00:22",
-    "summary": "・和歌山県 近隣の雨雲レーダー(実況)。",
+    "published_at": "2026-10-23 00:35",
+    "summary": "・和歌山県の雨雲レーダー(実況)24日08:40発表。\n・和歌山県の落雷地点・雷予報をチェック！\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "和歌山県の過去の雨雲レーダー(2026年10月22日)",
+        "url": "https://tenki.jp/past/2026/10/22/radar/6/33/",
+        "source": "tenki.jp",
+        "published_at": "2026-10-23 00:22"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-23",
