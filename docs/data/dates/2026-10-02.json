@@ -67,12 +67,18 @@
     "summary": "・2025年に海南市で開催された「クラフトマン」の様子。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 15,
+    "importance_score": 30,
     "is_featured": true,
     "related_articles": [
       {
         "title": "海南市で開催されたクラフトマンの様子（2025年撮影）",
         "url": "https://wakayama.keizai.biz/photoflash/7947/",
+        "source": "和歌山経済新聞",
+        "published_at": "2026-10-02 16:00"
+      },
+      {
+        "title": "海南市で開催された「CRAFT MAN」の昨年の様子",
+        "url": "https://wakayama.keizai.biz/photoflash/7945/",
         "source": "和歌山経済新聞",
         "published_at": "2026-10-02 16:00"
       }

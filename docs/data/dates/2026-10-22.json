@@ -8,6 +8,8 @@
     "summary": "・和歌山県警によると、１０月２２日午後２時１０分頃、高野町高野山鶯谷で、クマが出没しました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 36,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "（和歌山）高野町高野山鶯谷でクマ出没　１０月２２日",
@@ -21,9 +23,7 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-22 13:47"
       }
-    ],
-    "importance_score": 36,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-22",
@@ -145,6 +145,8 @@
     "summary": "・22日にあったプロ野球のドラフト会議で、市和歌山の丹羽涼介投手（17）がパ・リーグ、福岡ソフトバンクホークスから育成1位指名を受けた。\n・同校で会見した丹羽投手は「育成で呼ばれてほっとした」と笑顔をのぞかせた。\n・【写真で見る】今日のドラフト会議、選手たちの表情は　丹羽投手は最速151キロの速球とスライダー、フォークが持ち味の右腕。",
     "summary_type": "auto",
     "category": "スポーツ",
+    "importance_score": 81,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "市和歌山・丹羽涼介、SB育成1位 最速151キロの17歳右腕",
@@ -169,10 +171,14 @@
         "url": "https://news.yahoo.co.jp/articles/9d351c2178af0371edbb979d07b6432953c9def2",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-22 20:22"
+      },
+      {
+        "title": "市和歌山・丹羽涼介、SB育成1位 最速151キロの17歳右腕 (毎日新聞)",
+        "url": "https://news.yahoo.co.jp/articles/708f24d101f7210b9199c5e65c4a8ddec80100b3/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-22 22:58"
       }
-    ],
-    "importance_score": 66,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-22",
@@ -183,8 +189,8 @@
     "summary": "・居酒屋「巻ト酒マキチヨ」（和歌山市吉田、TEL 073-498-6108）がJR和歌山駅近くにオープンして10月18日で2カ月がたった。\n・（和歌山経済新聞）【写真】野菜の豚巻き串（写真は左がナス巻き、中央と右がレタス巻き）　同店では、アスパラやナスなどさまざまな具材を宮崎県産「きなこ豚」の薄切り肉で巻いて串に刺し焼いた巻き串料理を中心に提供する。\n・森下さんは和歌山市出身で、幼少期に知人宅で食べたオムライスの味に感動したことがきっかけで料理人を志したという。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 54,
-    "is_featured": false,
+    "importance_score": 69,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山駅近くの居酒屋「巻ト酒マキチヨ」で提供されるきのこバターポン酢",
@@ -201,6 +207,12 @@
       {
         "title": "和歌山駅近くの居酒屋「巻ト酒マキチヨ」で提供するだし巻き",
         "url": "https://wakayama.keizai.biz/photoflash/7985/",
+        "source": "和歌山経済新聞",
+        "published_at": "2026-10-22 22:00"
+      },
+      {
+        "title": "和歌山駅近くの居酒屋「巻ト酒マキチヨ」の店内に飾られている森下さん厳選の酒",
+        "url": "https://wakayama.keizai.biz/photoflash/7984/",
         "source": "和歌山経済新聞",
         "published_at": "2026-10-22 22:00"
       }
@@ -325,9 +337,9 @@
     "summary": "・「PHP」ぜい弱性発覚 和歌山県内でも対応に追われる。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -364,9 +376,9 @@
     "summary": "・和歌山県田辺市上芳養で、人の顔のような模様がある大きなガが見つかった。\n・【珍鳥ホシムクドリ飛来／紀南で越冬かの記事】　クロメンガタスズメは、胸部に人の顔やドクロを思わせる模様がある大型のスズメガの仲間。\n・南紀生物同好会の後藤森香さん（田辺市）は「クロメンガタスズメで間違いないと思う。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -424,7 +436,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 62,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "特別大賞に長嶋さん　エッセイコンテスト、和歌山県田辺",
@@ -611,6 +623,19 @@
   },
   {
     "article_date": "2026-10-22",
+    "title": "【ふるさと納税】和歌山県有田川町の旬のフルーツ3選！有田みかん・デコポン・青梅をターゲット別に紹介「甘さと酸味のバランスが絶妙で手が止まらず」の声 (LIMO)",
+    "url": "https://news.yahoo.co.jp/articles/6ccbdae3f9385fda2bf260141ee7052eebae2d8d/images/000",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-22 17:15",
+    "summary": "・出所：ふるさとチョイス（Copyright LIMO [リーモ] | くらしとお金の経済メディア All rights reserved.）。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-22",
     "title": "地元高出身の２選手優勝 国スポ・カヌー競技、和歌山県田辺（紀伊民報）",
     "url": "https://news.yahoo.co.jp/articles/8834c9e763ebe9baf31e22581b3562f3f64387f4",
     "source": "Yahoo!ニュース",
@@ -641,6 +666,19 @@
         "published_at": "2026-10-22 14:30"
       }
     ]
+  },
+  {
+    "article_date": "2026-10-22",
+    "title": "2026度 第105回全国高校サッカー選手権 和歌山県大会 開幕！10/23,24,25結果速報",
+    "url": "https://www.juniorsoccer-news.com/post-1959258",
+    "source": "Green Card ニュース",
+    "published_at": "2026-10-22 16:18",
+    "summary": "・◆この大会、各チームはどう戦う？どう戦った？\n・10/23　和歌山高専　-　向陽。\n・2026年度 第105回全国高校サッカー選手権大会。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-22",
@@ -755,13 +793,19 @@
     "summary": "・【10月26日は柿の日】和歌山県橋本市の大好評企画！特産品の柿を“勝手におすそ分け”で地域のファンを創出。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "importance_score": 15,
+    "importance_score": 30,
     "is_featured": false,
     "related_articles": [
       {
         "title": "【10月26日は柿の日】和歌山県橋本市の大好評企画！ 特産品の柿を“勝手におすそ分け”で地域のファンを創出 | 橋本市役所",
         "url": "https://www.atpress.ne.jp/news/642867",
         "source": "アットプレス",
+        "published_at": "2026-10-22 14:45"
+      },
+      {
+        "title": "【10月26日は柿の日】和歌山県橋本市の大好評企画！特産品の柿を“勝手におすそ分け”で地域のファンを創出",
+        "url": "http://www.excite.co.jp/news/article/Atpress_642867/",
+        "source": "Excite エキサイト",
         "published_at": "2026-10-22 14:45"
       }
     ]
@@ -814,9 +858,9 @@
     "summary": "・県教育委員会は２４日午前９時半～正午、田辺市など県内４会場で講師登録の説明会を開く。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
