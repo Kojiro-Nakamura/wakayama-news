@@ -189,7 +189,7 @@
     "summary": "・居酒屋「巻ト酒マキチヨ」（和歌山市吉田、TEL 073-498-6108）がJR和歌山駅近くにオープンして10月18日で2カ月がたった。\n・（和歌山経済新聞）【写真】野菜の豚巻き串（写真は左がナス巻き、中央と右がレタス巻き）　同店では、アスパラやナスなどさまざまな具材を宮崎県産「きなこ豚」の薄切り肉で巻いて串に刺し焼いた巻き串料理を中心に提供する。\n・森下さんは和歌山市出身で、幼少期に知人宅で食べたオムライスの味に感動したことがきっかけで料理人を志したという。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 69,
+    "importance_score": 99,
     "is_featured": true,
     "related_articles": [
       {
@@ -213,6 +213,18 @@
       {
         "title": "和歌山駅近くの居酒屋「巻ト酒マキチヨ」の店内に飾られている森下さん厳選の酒",
         "url": "https://wakayama.keizai.biz/photoflash/7984/",
+        "source": "和歌山経済新聞",
+        "published_at": "2026-10-22 22:00"
+      },
+      {
+        "title": "和歌山駅近くの居酒屋「巻ト酒マキチヨ」で提供する野菜の豚巻き串",
+        "url": "https://wakayama.keizai.biz/photoflash/7981/",
+        "source": "和歌山経済新聞",
+        "published_at": "2026-10-22 22:00"
+      },
+      {
+        "title": "和歌山駅近くの居酒屋「巻ト酒マキチヨ」店舗外観",
+        "url": "https://wakayama.keizai.biz/photoflash/7982/",
         "source": "和歌山経済新聞",
         "published_at": "2026-10-22 22:00"
       }
@@ -630,9 +642,9 @@
     "summary": "・出所：ふるさとチョイス（Copyright LIMO [リーモ] | くらしとお金の経済メディア All rights reserved.）。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -676,9 +688,9 @@
     "summary": "・◆この大会、各チームはどう戦う？どう戦った？\n・10/23　和歌山高専　-　向陽。\n・2026年度 第105回全国高校サッカー選手権大会。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",

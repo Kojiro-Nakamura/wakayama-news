@@ -205,7 +205,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 45,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "男女４人が全国へ 小６年以下卓球大会で入賞、和歌山",
@@ -240,6 +240,70 @@
         "published_at": "2026-10-15 14:30"
       }
     ]
+  },
+  {
+    "article_date": "2026-10-15",
+    "title": "【ドラフト2026】奥川恭伸と並ぶ逸材だった「紀州の剛腕」の今 ３年間の空白を乗り越え、25歳で最速157キロの衝撃",
+    "url": "https://news.yahoo.co.jp/articles/b844debf7faf966847ec3f1a217e5ba08702e79d",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-15 16:00",
+    "summary": "・私服・ユニフォーム姿の厳選カット集（19枚）　落合はかつて「紀州の剛腕」と呼ばれ、高校時代には同世代の奥川恭伸（ヤクルト）と匹敵する逸材と評された右腕だ。\n・【３年の空白が変えた野球への思い】「わざわざ来てくれたんですか？」　久しぶりに再会した落合は、うれしそうな顔で迎えてくれた。\n・阪神がドラフト翌日に戦力外発表「ついにか」　10年戦士に通告…ファン複雑「まじか」。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "【ドラフト2026】奥川恭伸と並ぶ逸材だった「紀州の剛腕」の今 ３年間の空白を乗り越え、25歳で最速157キロの衝撃",
+        "url": "https://news.yahoo.co.jp/articles/b844debf7faf966847ec3f1a217e5ba08702e79d/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-15 07:14"
+      },
+      {
+        "title": "【ドラフト2026】奥川恭伸と並ぶ逸材だった「紀州の剛腕」の今 ３年間の空白を乗り越え、25歳で最速157キロの衝撃",
+        "url": "https://news.yahoo.co.jp/articles/b844debf7faf966847ec3f1a217e5ba08702e79d?page=4",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-15 07:14"
+      },
+      {
+        "title": "【ドラフト2026】奥川恭伸と並ぶ逸材だった「紀州の剛腕」の今 ３年間の空白を乗り越え、25歳で最速157キロの衝撃",
+        "url": "https://sportiva.shueisha.co.jp/clm/baseball/hs_other/2026/10/15/2026_25157/",
+        "source": "webスポルティーバ",
+        "published_at": "2026-10-15 06:50"
+      }
+    ],
+    "importance_score": 54,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-15",
+    "title": "「紀州のドン・ファン」遺産13億円を田辺市に寄付する遺言は有効と確定…それでも遺産“全額”が田辺市のものになるとは限らない理由【弁護士が解説】（THE GOLD ONLINE（ゴールドオンライン））",
+    "url": "https://news.yahoo.co.jp/articles/e61bd131e5dbd182dd0a53b136ce3d7e1eaedf04",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-15 16:00",
+    "summary": "・「紀州のドン・ファン」の遺産13億円を田辺市に寄付する遺言は有効とする民事裁判が確定しました。\n・これにより、「全財産を田辺市に寄付する」という内容の遺言書を有効とした一審（和歌山地裁）・二審（大阪高裁）の判断が確定しました※。\n・遺言書が有効なものと確定したため、このままいけば遺産は遺言書にしたがって全財産が田辺市へと寄付されることになる可能性が高いでしょう。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "「紀州のドン・ファン」遺産13億円を田辺市に寄付する遺言は有効と確定…それでも遺産“全額”が田辺市のものになるとは限らない理由【弁護士が解説】 (THE GOLD ONLINE（ゴールドオンライン）)",
+        "url": "https://news.yahoo.co.jp/articles/e61bd131e5dbd182dd0a53b136ce3d7e1eaedf04/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-15 08:46"
+      },
+      {
+        "title": "「紀州のドン・ファン」遺産13億円を田辺市に寄付する遺言は有効と確定…それでも遺産“全額”が田辺市のものになるとは限らない理由【弁護士が解説】｜Infoseekニュース",
+        "url": "https://news.infoseek.co.jp/article/goldonline_82473/",
+        "source": "Infoseek",
+        "published_at": "2026-10-15 08:05"
+      },
+      {
+        "title": "「紀州のドン・ファン」遺産13億円を田辺市に寄付する遺言は有効と確定…それでも遺産“全額”が田辺市のものになるとは限らない理由【弁護士が解説】",
+        "url": "https://gentosha-go.com/articles/-/82473",
+        "source": "ゴールドオンライン",
+        "published_at": "2026-10-15 05:00"
+      }
+    ],
+    "importance_score": 54,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-15",
@@ -444,38 +508,6 @@
   },
   {
     "article_date": "2026-10-15",
-    "title": "「紀州のドン・ファン」遺産13億円を田辺市に寄付する遺言は有効と確定…それでも遺産“全額”が田辺市のものになるとは限らない理由【弁護士が解説】 (THE GOLD ONLINE（ゴールドオンライン）)",
-    "url": "https://news.yahoo.co.jp/articles/e61bd131e5dbd182dd0a53b136ce3d7e1eaedf04/images/000",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-15 08:46",
-    "summary": "・※画像はイメージです／PIXTA（ゴールドオンライン）。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 48,
-    "is_featured": true,
-    "related_articles": [
-      {
-        "title": "「紀州のドン・ファン」遺産13億円を田辺市に寄付する遺言は有効と確定…それでも遺産“全額”が田辺市のものになるとは限らない理由【弁護士が解説】｜Infoseekニュース",
-        "url": "https://news.infoseek.co.jp/article/goldonline_82473/",
-        "source": "Infoseek",
-        "published_at": "2026-10-15 08:05"
-      },
-      {
-        "title": "「紀州のドン・ファン」遺産13億円を田辺市に寄付する遺言は有効と確定…それでも遺産“全額”が田辺市のものになるとは限らない理由【弁護士が解説】（THE GOLD ONLINE（ゴールドオンライン））",
-        "url": "https://news.yahoo.co.jp/articles/e61bd131e5dbd182dd0a53b136ce3d7e1eaedf04",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-15 07:50"
-      },
-      {
-        "title": "「紀州のドン・ファン」遺産13億円を田辺市に寄付する遺言は有効と確定…それでも遺産“全額”が田辺市のものになるとは限らない理由【弁護士が解説】",
-        "url": "https://gentosha-go.com/articles/-/82473",
-        "source": "ゴールドオンライン",
-        "published_at": "2026-10-15 05:00"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-15",
     "title": "命名権売却の動きが加速 紀三井寺公園、交通公園で募集 和歌山県 背景に厳しい財政状況（産経新聞）",
     "url": "https://news.yahoo.co.jp/articles/d47738878dd3e52cf59208b86028ac40812b6a40",
     "source": "Yahoo!ニュース",
@@ -497,32 +529,6 @@
         "url": "https://www.sankei.com/article/20261015-A25TURW3D5KTHLW53WB64HTE6Y/",
         "source": "産経ニュース",
         "published_at": "2026-10-15 07:50"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-15",
-    "title": "【ドラフト2026】奥川恭伸と並ぶ逸材だった「紀州の剛腕」の今 ３年間の空白を乗り越え、25歳で最速157キロの衝撃",
-    "url": "https://news.yahoo.co.jp/articles/b844debf7faf966847ec3f1a217e5ba08702e79d/images/000",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-15 07:14",
-    "summary": "・８月の試合で自己最速となる157キロをマークした落合秀市　photo by Takahiro Kikuchi。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 30,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "【ドラフト2026】奥川恭伸と並ぶ逸材だった「紀州の剛腕」の今 ３年間の空白を乗り越え、25歳で最速157キロの衝撃",
-        "url": "https://news.yahoo.co.jp/articles/b844debf7faf966847ec3f1a217e5ba08702e79d?page=4",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-15 07:14"
-      },
-      {
-        "title": "【ドラフト2026】奥川恭伸と並ぶ逸材だった「紀州の剛腕」の今 ３年間の空白を乗り越え、25歳で最速157キロの衝撃",
-        "url": "https://sportiva.shueisha.co.jp/clm/baseball/hs_other/2026/10/15/2026_25157/",
-        "source": "webスポルティーバ",
-        "published_at": "2026-10-15 06:50"
       }
     ]
   },
