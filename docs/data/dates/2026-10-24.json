@@ -1,6 +1,19 @@
 [
   {
     "article_date": "2026-10-24",
+    "title": "アジアパラ大会が閉幕",
+    "url": "https://wakayama.keizai.biz/gpnews/1777527/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-24 22:21",
+    "summary": "・日本で初開催となったアジアのパラスポーツの祭典、愛知・名古屋アジアパラ競技大会は２４日夜、名古屋市のパロマ瑞穂スタジアムで閉会式が行われ、閉幕した。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-24",
     "title": "川添小児童、熊野古道で看板拭き のぼり旗の交換も 三重・大台（夕刊三重）",
     "url": "https://news.yahoo.co.jp/articles/2618427575f19a17166cc768971e9582cf388c87",
     "source": "Yahoo!ニュース",
@@ -8,9 +21,9 @@
     "summary": "・多気郡大台町上楠の町立川添小学校（逵井香世校長、31人）の3、4年生（全7人）は23日午前9時から、地元の「熊野参詣伊勢路を守るボランティア体験」として、同町神瀬（かみぜ）の古道の清掃活動などを行った。\n・このボランティア体験は、地元の小学生が地域の人と一緒に熊野古道を守る活動を体験する事業として、町子どもプロジェクト推進協議会（細渕栄子代表）が主催。\n・児童らは眼鏡橋の由来が書かれている説明看板を磨いたり、「世界遺産 熊野古道伊勢路」と書かれたのぼり旗を新しいものに取り換えるなど手分けして取り組んだ。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -21,6 +34,8 @@
     "summary": "・和歌山・広川「稲むらの火祭り」　防災意識、たいまつで継承。\n・「稲むらの火祭り」で、たいまつを手に歩く町民ら=24日夜、和歌山県広川町。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 138,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山・広川「稲むらの火祭り」",
@@ -51,22 +66,51 @@
         "url": "https://www.chunichi.co.jp/article/1329844",
         "source": "中日新聞Web",
         "published_at": "2026-10-24 19:10"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」",
+        "url": "https://www.daily.co.jp/society/human_interest/2026/10/24/0020963510.shtml",
+        "source": "デイリースポーツ",
+        "published_at": "2026-10-24 19:23"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」",
+        "url": "https://www.shimotsuke.co.jp/articles/-/1446732",
+        "source": "下野新聞社",
+        "published_at": "2026-10-24 19:18"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承",
+        "url": "https://news.jp/i/1486670810595180585",
+        "source": "NEWSjp",
+        "published_at": "2026-10-24 19:18"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」",
+        "url": "https://smart.shimotsuke.co.jp/articles/-/1446723",
+        "source": "下野新聞社",
+        "published_at": "2026-10-24 19:18"
       }
-    ],
-    "importance_score": 78,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-24",
     "title": "【この道のプロ】Vol.020 ワーニング（和歌山市）",
-    "url": "https://www.goonews.jp/news_detail.php?view=auto&id=14600",
+    "url": "https://www.goonews.jp/news_img.php?category=auto&id=14600",
     "source": "グーネット自動車流通",
-    "published_at": "2026-10-24 19:03",
+    "published_at": "2026-10-24 19:06",
     "summary": "・【この道のプロ】Vol.020 ワーニング（和歌山市）。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
-    "importance_score": 3,
+    "related_articles": [
+      {
+        "title": "【この道のプロ】Vol.020 ワーニング（和歌山市）",
+        "url": "https://www.goonews.jp/news_detail.php?view=auto&id=14600",
+        "source": "グーネット自動車流通",
+        "published_at": "2026-10-24 19:03"
+      }
+    ],
+    "importance_score": 18,
     "is_featured": false
   },
   {
@@ -78,14 +122,26 @@
     "summary": "・４校６学科で１倍超　御坊・日高以南、熊野総合は１・06倍、高校入試本出願、和歌山県。\n・半数で教職員以外が運転　県立学校部活動の移動、マイクロバス、和歌山県教委。\n・和歌山県教育委員会は２３日、県立高校の２０２７年度募集定員を発表した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 35,
-    "is_featured": false,
+    "importance_score": 65,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "3年ぶり増減なし 27年度、和歌山県立高校募集定員（紀伊民報）",
         "url": "https://news.yahoo.co.jp/articles/c8936a04f52211fa78f76a67162f8d728635b4e0",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-24 16:25"
+      },
+      {
+        "title": "3年ぶり増減なし 27年度、和歌山県立高校募集定員 (紀伊民報)",
+        "url": "https://news.yahoo.co.jp/articles/c8936a04f52211fa78f76a67162f8d728635b4e0/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-24 16:25"
+      },
+      {
+        "title": "3年ぶり増減なし 27年度、和歌山県立高校募集定員",
+        "url": "https://www.47news.jp/15131689.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-24 14:30"
       }
     ]
   },
@@ -241,9 +297,16 @@
     "summary": "・和歌山県田辺市スポーツ推進委員協議会に所属する湯川富雄さん（７８）＝田辺市江川＝が、本年度のスポーツ推進委員功労者として県内で唯一、文部科学大臣から表彰を受ける。\n・【地元高出身の２選手優勝　国スポ・カヌー競技、和歌山県田辺の記事】　湯川さんは１９８０年に市体育指導委員（現在の市スポーツ推進委員）に就任し、現在まで長年、スポーツの普及や地域のスポーツ振興に取り組んできた。\n・スポーツ推進委員は１人ではできない。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 12,
+    "importance_score": 27,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "湯川さん（田辺）文科省表彰 スポーツ推進委員功労、和歌山",
+        "url": "https://www.agara.co.jp/article/703086",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-24 15:49"
+      }
+    ]
   },
   {
     "article_date": "2026-10-24",
@@ -275,7 +338,7 @@
     "summary_type": "auto",
     "category": "社会・事件",
     "importance_score": 39,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "梅をフランス菓子に 関係人口講座きっかけに、新たな価値提案、和歌山県田辺市",
@@ -332,6 +395,19 @@
   },
   {
     "article_date": "2026-10-24",
+    "title": "世界最古級の二枚貝の化石「ペガサスノツバサ」和歌山県立自然博物館で11月まで展示（産経新聞）",
+    "url": "https://news.yahoo.co.jp/articles/a89a9a12f7a90aa7a8e5bcfed6f5c16e1b3d0a33",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-24 14:10",
+    "summary": "・和歌山県海南市船尾の県立自然博物館の玄関ホールで、那智勝浦町小麦の約1600万～1500万年前の地層で発見された二枚貝の一種「ペガサスノツバサ」の化石が展示されている。\n・同種の化石としては世界最古級の標本とされる。\n・同博物館によると、ペガサスノツバサは現在、東南アジアに生息しているが日本近海では確認されていない。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-24",
     "title": "和歌山県有田地域 観光経済新聞社関西支局を訪問 スタンプラリーなどPR",
     "url": "https://www.kankokeizai.com/2610241400kks/",
     "source": "観光経済新聞",
@@ -365,9 +441,9 @@
     "summary": "・10月24日放送「住人十色」の「夫婦関係も崖っぷち！？　困難に挑んだ絶景崖地ハウス」の一場面（C）MBS。\n・タレントの三船美佳さんと俳優の駿河太郎さんがMCを務める番組「住人十色～家の数だけある 家族のカタチ～」（MBS、土曜午後5時、関西ローカルほか）。\n・10月24日放送回は、神戸市の人気エリア、岡本にある、家を建てるには超絶困難な崖地を克服した絶景を望む家を紹介する。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -455,8 +531,15 @@
     "summary": "・※日最高気温・日最低気温・日最大風速は、アメダス10分値です。\n・南紀白浜(ナンキシラハマ)のアメダス(2026年10月23日)2026年10月23日。\n・南紀白浜(和歌山県)のアメダスによる2026年10月23日の気温、降水量、風向・風速、日照時間、積雪深の観測情報を閲覧できます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 9,
+    "importance_score": 24,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "高野山(和歌山県)の過去のアメダス(2026年10月23日)",
+        "url": "https://tenki.jp/past/2026/10/23/amedas/6/33/65061.html",
+        "source": "tenki.jp",
+        "published_at": "2026-10-24 00:30"
+      }
+    ]
   }
 ]

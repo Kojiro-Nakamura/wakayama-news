@@ -1,8 +1,12 @@
 {
   "dates": [
     {
+      "article_date": "2026-10-25",
+      "count": 4
+    },
+    {
       "article_date": "2026-10-24",
-      "count": 29
+      "count": 31
     },
     {
       "article_date": "2026-10-23",
@@ -14,7 +18,7 @@
     },
     {
       "article_date": "2026-10-21",
-      "count": 75
+      "count": 76
     },
     {
       "article_date": "2026-10-20",
@@ -30,7 +34,7 @@
     },
     {
       "article_date": "2026-10-17",
-      "count": 51
+      "count": 52
     },
     {
       "article_date": "2026-10-16",
@@ -42,7 +46,7 @@
     },
     {
       "article_date": "2026-10-14",
-      "count": 39
+      "count": 40
     },
     {
       "article_date": "2026-10-13",
@@ -70,7 +74,7 @@
     },
     {
       "article_date": "2026-10-07",
-      "count": 7
+      "count": 8
     },
     {
       "article_date": "2026-10-06",
@@ -166,7 +170,7 @@
     },
     {
       "article_date": "2026-09-03",
-      "count": 4
+      "count": 5
     },
     {
       "article_date": "2026-09-02",
@@ -357,6 +361,10 @@
       "count": 1
     },
     {
+      "article_date": "2026-03-19",
+      "count": 1
+    },
+    {
       "article_date": "2026-03-04",
       "count": 1
     },
@@ -385,7 +393,19 @@
       "count": 1
     },
     {
+      "article_date": "2025-11-22",
+      "count": 1
+    },
+    {
+      "article_date": "2025-11-06",
+      "count": 1
+    },
+    {
       "article_date": "2025-10-02",
+      "count": 1
+    },
+    {
+      "article_date": "2025-10-01",
       "count": 1
     },
     {
@@ -397,6 +417,18 @@
       "count": 1
     },
     {
+      "article_date": "2024-11-24",
+      "count": 1
+    },
+    {
+      "article_date": "2024-10-11",
+      "count": 1
+    },
+    {
+      "article_date": "2024-08-06",
+      "count": 1
+    },
+    {
       "article_date": "2024-03-29",
       "count": 1
     },
@@ -405,7 +437,19 @@
       "count": 1
     },
     {
+      "article_date": "2024-01-19",
+      "count": 1
+    },
+    {
+      "article_date": "2023-05-19",
+      "count": 1
+    },
+    {
       "article_date": "2023-03-09",
+      "count": 1
+    },
+    {
+      "article_date": "2022-02-18",
       "count": 1
     },
     {
@@ -414,6 +458,30 @@
     },
     {
       "article_date": "2020-12-29",
+      "count": 1
+    },
+    {
+      "article_date": "2020-08-30",
+      "count": 1
+    },
+    {
+      "article_date": "2020-08-29",
+      "count": 1
+    },
+    {
+      "article_date": "2020-06-09",
+      "count": 1
+    },
+    {
+      "article_date": "2019-08-10",
+      "count": 1
+    },
+    {
+      "article_date": "2019-08-08",
+      "count": 1
+    },
+    {
+      "article_date": "2019-08-06",
       "count": 1
     },
     {
@@ -445,13 +513,21 @@
       "count": 3
     },
     {
+      "article_date": "2017-07-07",
+      "count": 1
+    },
+    {
+      "article_date": "2017-04-13",
+      "count": 1
+    },
+    {
       "article_date": "2016-10-01",
       "count": 1
     }
   ],
   "stats": {
-    "total_articles": 1303,
-    "total_days": 112,
-    "last_updated": "2026-10-24T22:07:48.717973+09:00"
+    "total_articles": 1353,
+    "total_days": 131,
+    "last_updated": "2026-10-25T07:54:25.465490+09:00"
   }
 }

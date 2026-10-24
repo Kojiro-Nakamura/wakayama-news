@@ -8,7 +8,7 @@
     "summary": "・【有田川町の風レーダー｜ウェザーニュース】有田川町の風の予報(予測)ならウェザーニュースのサイトをチェック。\n・雨雲レーダーや週間天気、台風情報もあわせてご確認ください。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 18,
+    "importance_score": 33,
     "is_featured": true,
     "related_articles": [
       {
@@ -16,6 +16,12 @@
         "url": "https://weathernews.jp/onebox/wind/kinki/wakayama/30343/",
         "source": "ウェザーニュース",
         "published_at": "2025-10-02 18:05"
+      },
+      {
+        "title": "和歌山県広川町の風の予報（風レーダー）",
+        "url": "https://weathernews.jp/onebox/wind/kinki/wakayama/30362/",
+        "source": "ウェザーニュース",
+        "published_at": "2025-10-02 18:07"
       }
     ]
   }
