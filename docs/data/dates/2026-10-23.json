@@ -1,6 +1,32 @@
 [
   {
     "article_date": "2026-10-23",
+    "title": "和歌山県に進出したIT企業9社が参加！学生・UIターン希望者向け企業研究セミナーを12月16日(水)に開催｜Infoseekニュース",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000112_000182609/",
+    "source": "Infoseek",
+    "published_at": "2026-10-23 23:10",
+    "summary": "・和歌山県に進出したIT企業9社が参加！学生・UIターン希望者向け企業研究セミナーを12月16日(水)に開催｜Infoseekニュース。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [
+      {
+        "title": "和歌山県に進出したIT企業9社が参加！学生・UIターン希望者向け企業研究セミナーを12月16日(水)に開催",
+        "url": "https://www.jiji.com/jc/article?k=000000112.000182609&g=prt",
+        "source": "時事ドットコム",
+        "published_at": "2026-10-23 12:16"
+      },
+      {
+        "title": "和歌山県に進出したIT企業9社が参加！学生・UIターン希望者向け企業研究セミナーを12月16日(水)に開催",
+        "url": "https://prtimes.jp/main/html/rd/p/000000112.000182609.html",
+        "source": "PR TIMES",
+        "published_at": "2026-10-23 11:00"
+      }
+    ],
+    "importance_score": 30,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-23",
     "title": "第１１回「子ども大学 わかやま・賢いお金の使い方」１０月３１日に和歌山大学で開催",
     "url": "https://news.wbs.co.jp/221131",
     "source": "WBS和歌山放送ニュース",
@@ -41,6 +67,8 @@
     "summary": "・第2回紀州神仏霊場「あさも和（わ）」御朱印巡りが11月1日、和歌山市内7カ所にある寺院と神社で始まる。\n・2025年、和歌山市に点在する御朱印授与所を観光資源として結ぼうと恵運寺（和歌山市吹上3）、和歌山縣護國神社（一番丁）、刺田比古神社（片岡町）、多賀神社（十番丁）、了法寺（坂田）の5寺社で活動を始め、同年11月に第1回御朱印巡りを行った。\n・同団体代表で恵運寺住職の山本寿法さんは「県外から御朱印を目的に訪れ、南紀白浜や熊野からの帰りに和歌山市内の寺社を訪れる参拝者が多い。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 33,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山市内7か所の寺社で御朱印巡り企画 「まり札」配布も（みんなの経済新聞ネットワーク）",
@@ -48,9 +76,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-23 23:00"
       }
-    ],
-    "importance_score": 33,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -87,14 +113,20 @@
     "summary": "・サクラやウメ、モモなどに被害を及ぼす特定外来生物クビアカツヤカミキリの被害が拡大していることを受け、和歌山県は２３日、緊急対策を実施すると発表しました。\n・和歌山県では今年９月末時点で、計１万３１６８本の被害が出ています。\n・今回の緊急対策では、市町村の産卵防止ネットの設置について、和歌山県が事業費を支援するなどし、被害拡大を防ぎたいということです。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 24,
-    "is_featured": false,
+    "importance_score": 39,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "クビアカツヤカミキリ 県が緊急対策実施へ",
         "url": "https://wakayamashimpo.co.jp/2026/10/20261023_139883.html",
         "source": "わかやま新報",
         "published_at": "2026-10-23 16:02"
+      },
+      {
+        "title": "クビアカツヤカミキリの被害拡大　和歌山県が緊急対策　",
+        "url": "https://news.infoseek.co.jp/article/abcnews_63228/",
+        "source": "Infoseek",
+        "published_at": "2026-10-23 21:05"
       }
     ]
   },
@@ -159,23 +191,29 @@
   },
   {
     "article_date": "2026-10-23",
-    "title": "果樹大国・和歌山県がクビアカツヤカミキリ対策を前倒し実施　「産卵防止ネット」を導入",
-    "url": "https://topics.smt.docomo.ne.jp/article/sankei/politics/sankei-_politics_local_LVDF4UCWNVOINNXU3ZTCK2A5DQ",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-23 20:02",
-    "summary": "・新たに導入される「産卵防止ネット」（和歌山県提供）。\n・和歌山県は23日、ウメやモモ、スモモなどの樹木を枯死させる特定外来生物「クビアカツヤカミキリ」に対する緊急対策を発表した。\n・市町村が産卵防止ネットの設置▽被害を受けた樹木の伐採▽成虫の飛散を防ぐネットの設置▽薬剤散布−を行った場合、県が事業費の4分の3を補助。",
+    "title": "果樹大国・和歌山県がクビアカツヤカミキリ対策を前倒し実施 「産卵防止ネット」を導入 (産経新聞)",
+    "url": "https://news.yahoo.co.jp/articles/0761740f873047ca9815e8d35185196a5cf6adb8/images/000",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-23 20:05",
+    "summary": "・新たに導入される「産卵防止ネット」（和歌山県提供）（株式会社 産経デジタル）。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 24,
-    "is_featured": false,
     "related_articles": [
+      {
+        "title": "果樹大国・和歌山県がクビアカツヤカミキリ対策を前倒し実施　「産卵防止ネット」を導入",
+        "url": "https://topics.smt.docomo.ne.jp/article/sankei/politics/sankei-_politics_local_LVDF4UCWNVOINNXU3ZTCK2A5DQ",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-23 20:02"
+      },
       {
         "title": "果樹大国・和歌山県がクビアカツヤカミキリ対策を前倒し実施 「産卵防止ネット」を導入",
         "url": "https://www.sankei.com/article/20261023-LVDF4UCWNVOINNXU3ZTCK2A5DQ/",
         "source": "産経ニュース",
         "published_at": "2026-10-23 20:02"
       }
-    ]
+    ],
+    "importance_score": 30,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-23",
@@ -520,7 +558,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 39,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "千年先へ漆の美と技をつなぐ、人間国宝・室瀬和美さんが高野山に漆箱「光輪」奉納",
@@ -623,9 +661,16 @@
     "summary": "・地域の未来を考えながら、今年も秋祭りを楽しみたいと思います。\n・あがらの日記㉔　未来のためにできること　更井亮介（AGARA 紀伊民報）　今日はレストランのことではなく、和歌山県田辺市上芳養地域のことを書きます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 6,
+    "importance_score": 21,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "あがらの日記㉔ 未来のためにできること 更井亮介",
+        "url": "https://www.agara.co.jp/article/703088",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-23 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -711,26 +756,6 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-23",
-    "title": "和歌山県に進出したIT企業9社が参加！学生・UIターン希望者向け企業研究セミナーを12月16日(水)に開催",
-    "url": "https://www.jiji.com/jc/article?k=000000112.000182609&g=prt",
-    "source": "時事ドットコム",
-    "published_at": "2026-10-23 12:16",
-    "summary": "・TVアニメ『アオのハコ』初の展示会「TVアニメ『アオのハコ』展～開けるたび、好きになる～ 」開催決定！\n・［和歌山県公式］～全国からオンラインで参加可能・参加無料／申込期限は12月10日（木）まで～県内外の学生やUIターンによる就職・転職を考えている方を対象に、和歌山に進出したIT企業が自社を紹介する「令和８年度和歌山県誘致IT企業研究セミナー」を開催します。\n・参加無料！・オンラインなので聞いているだけでも大丈夫！・気軽にチャットで質問も可能！・入退室自由！開催の背景・目的和歌山県ではIT企業の誘致に力を入れ、東京や大阪などに本社を置くIT企業の集積を進めています。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 30,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "和歌山県に進出したIT企業9社が参加！学生・UIターン希望者向け企業研究セミナーを12月16日(水)に開催",
-        "url": "https://prtimes.jp/main/html/rd/p/000000112.000182609.html",
-        "source": "PR TIMES",
-        "published_at": "2026-10-23 11:00"
-      }
-    ]
   },
   {
     "article_date": "2026-10-23",
@@ -845,6 +870,8 @@
     "summary": "・和歌山県の雨雲レーダー(実況)24日08:40発表。\n・和歌山県の落雷地点・雷予報をチェック！\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の過去の雨雲レーダー(2026年10月22日)",
@@ -852,9 +879,7 @@
         "source": "tenki.jp",
         "published_at": "2026-10-23 00:22"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-23",

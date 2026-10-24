@@ -34,7 +34,7 @@
     "summary": "・各地の震度は海南市、有田市、湯浅町でそれぞれ震度１を観測しました。\n・気象庁によりますと震源は紀伊水道で、震源の深さは１０キロで地震の規模を示すマグニチュードは２・６と推定されます。\n・また午後５時４２分頃に和歌山県北部を震源とする地震があり御坊市で震度１を観測しています。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 266,
+    "importance_score": 281,
     "is_featured": true,
     "related_articles": [
       {
@@ -138,6 +138,12 @@
         "url": "https://news.yahoo.co.jp/articles/47d7647e8a3fbda41d7603da583731254cbb4506/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-17 17:45"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市、湯浅町",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3019311",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-17 11:56"
       }
     ]
   },
