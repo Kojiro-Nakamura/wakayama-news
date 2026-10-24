@@ -1,6 +1,76 @@
 [
   {
     "article_date": "2026-10-24",
+    "title": "川添小児童、熊野古道で看板拭き のぼり旗の交換も 三重・大台（夕刊三重）",
+    "url": "https://news.yahoo.co.jp/articles/2618427575f19a17166cc768971e9582cf388c87",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-24 19:47",
+    "summary": "・多気郡大台町上楠の町立川添小学校（逵井香世校長、31人）の3、4年生（全7人）は23日午前9時から、地元の「熊野参詣伊勢路を守るボランティア体験」として、同町神瀬（かみぜ）の古道の清掃活動などを行った。\n・このボランティア体験は、地元の小学生が地域の人と一緒に熊野古道を守る活動を体験する事業として、町子どもプロジェクト推進協議会（細渕栄子代表）が主催。\n・児童らは眼鏡橋の由来が書かれている説明看板を磨いたり、「世界遺産 熊野古道伊勢路」と書かれたのぼり旗を新しいものに取り換えるなど手分けして取り組んだ。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-24",
+    "title": "和歌山・広川「稲むらの火祭り」 和歌山「稲むらの火祭り」",
+    "url": "https://www.hokkaido-np.co.jp/article/1396037/",
+    "source": "北海道新聞デジタル",
+    "published_at": "2026-10-24 19:24",
+    "summary": "・和歌山・広川「稲むらの火祭り」　防災意識、たいまつで継承。\n・「稲むらの火祭り」で、たいまつを手に歩く町民ら=24日夜、和歌山県広川町。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "和歌山・広川「稲むらの火祭り」",
+        "url": "https://www.saga-s.co.jp/articles/-/1816921",
+        "source": "佐賀新聞",
+        "published_at": "2026-10-24 19:18"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」",
+        "url": "https://www.chugoku-np.co.jp/articles/-/914463",
+        "source": "中国新聞デジタル",
+        "published_at": "2026-10-24 19:18"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承",
+        "url": "https://www.chunichi.co.jp/article/1329844?rct=national",
+        "source": "中日新聞Web",
+        "published_at": "2026-10-24 19:18"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」",
+        "url": "https://www.nnn.co.jp/articles/-/819251",
+        "source": "日本海新聞",
+        "published_at": "2026-10-24 19:18"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承",
+        "url": "https://www.chunichi.co.jp/article/1329844",
+        "source": "中日新聞Web",
+        "published_at": "2026-10-24 19:10"
+      }
+    ],
+    "importance_score": 78,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-24",
+    "title": "【この道のプロ】Vol.020 ワーニング（和歌山市）",
+    "url": "https://www.goonews.jp/news_detail.php?view=auto&id=14600",
+    "source": "グーネット自動車流通",
+    "published_at": "2026-10-24 19:03",
+    "summary": "・【この道のプロ】Vol.020 ワーニング（和歌山市）。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-24",
     "title": "3年ぶり増減なし 27年度、和歌山県立高校募集定員",
     "url": "https://www.agara.co.jp/article/703489",
     "source": "紀伊民報",
@@ -8,6 +78,8 @@
     "summary": "・４校６学科で１倍超　御坊・日高以南、熊野総合は１・06倍、高校入試本出願、和歌山県。\n・半数で教職員以外が運転　県立学校部活動の移動、マイクロバス、和歌山県教委。\n・和歌山県教育委員会は２３日、県立高校の２０２７年度募集定員を発表した。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 35,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "3年ぶり増減なし 27年度、和歌山県立高校募集定員（紀伊民報）",
@@ -15,9 +87,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-24 16:25"
       }
-    ],
-    "importance_score": 35,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-24",
@@ -28,9 +98,9 @@
     "summary": "・大型の台風３０号は２４日、沖縄の先島諸島に接近した。\n・日本入国時に２０時間足止め／香港民主派「審査改善を」。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -41,9 +111,9 @@
     "summary": "・村上龍さん死去／作家「限りなく透明に―」 （14:30）。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -54,9 +124,9 @@
     "summary": "・台風３０号、東シナ海を北上／週明けに西日本接近。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -67,9 +137,9 @@
     "summary": "・ＰＨＰ影響、企業停止続く／政府 ハッカー対抗を組織 （14:30）。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -80,9 +150,9 @@
     "summary": "・病院の仕事体験して／ビッグ・ユーで１１月１日／南和歌山けんこうフェスタ。\n・梅をフランス菓子に　関係人口講座きっかけに、新たな価値提案、和歌山県田辺市。\n・湯川さん（田辺）文科省表彰　スポーツ推進委員功労、和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -93,9 +163,9 @@
     "summary": "・ノーベル賞硤合氏文化勲章／「マリオ」宮本氏も （14:30）。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -106,9 +176,9 @@
     "summary": "・盆踊りや猿まわし、縁日などで、秋の一日を楽しんでもらおうと、きょう（１０月２４日）に、和歌山市の本町公園で イベントが開かれました。\n・和歌山トヨタでは、各営業店が様々な取り組みを行っていて、このうち美園店では、伝統芸能や祭りを再現したイベントを開きました。\n・イベントは「美園座」と名づけられ、きょう（１０月２４日）午前１１時から、本町公園で行われました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -119,9 +189,9 @@
     "summary": "・大雨のため一部区間で運転を見合わせていたＪＲ紀勢線は午前１１時過ぎに全線で運転を再開しました。\n・ＪＲ西日本によりますと午前１１時２５分現在、　　　紀勢線で列車の遅れや運転の取りやめが出ています。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -132,9 +202,9 @@
     "summary": "・県とＪＡわかやまが県産の農産物のブランドイメージを高めようと、今月21日から東京の銀座三越店で、「和歌山フェア」を開いています。\n・この販売活動は、銀座三越のほか、ＪＲ名古屋タカシマヤと東京の日本橋三越本店の３カ所で行われます。\n・銀座三越の「和歌山フェア」は、今月（１０月）27日まで開かれています。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -145,9 +215,9 @@
     "summary": "・前線の北上や南からの湿った空気が上空に流れ込んだ影響で和歌山県内でもきのう（２３日）夜からきょう（２４日）午前中にかけ南部を中心に大雨になりました。\n・ＪＲ西日本によりますと紀勢線は午前１１時すぎに全線で運転を再開しましたが一部の列車に遅れや運転の取りやめました。\n・気象台によりますと県内ではきょう（２４日）未明から午前１１時過ぎまでの間に那智勝浦町色川で１３９、５ミリ、新宮で１１５、５ミリ、湯浅町で９９、５ミリ、和歌山市でも７４、５ミリの雨を観測しています。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -158,9 +228,9 @@
     "summary": "・きのう（２３日）午後５時頃、御坊市沖の海でサーフボードとその近くに男性が浮いていたのをサーフィンに来た別のグループの人がが見つけ消防に通報しました。\n・警察の調べによりますと亡くなったのは和歌山市内に住む６０代の男性です。\n・現場は御坊市名田町野島の沖およそ３００メートルのところで当時は波が高かったということです。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -171,9 +241,9 @@
     "summary": "・和歌山県田辺市スポーツ推進委員協議会に所属する湯川富雄さん（７８）＝田辺市江川＝が、本年度のスポーツ推進委員功労者として県内で唯一、文部科学大臣から表彰を受ける。\n・【地元高出身の２選手優勝　国スポ・カヌー競技、和歌山県田辺の記事】　湯川さんは１９８０年に市体育指導委員（現在の市スポーツ推進委員）に就任し、現在まで長年、スポーツの普及や地域のスポーツ振興に取り組んできた。\n・スポーツ推進委員は１人ではできない。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -184,6 +254,8 @@
     "summary": "・若い女性に多い「子宮頸（けい）がん」と、その原因となるヒトパピローマウイルス（ＨＰＶ）の感染を防ぐワクチンに関する「予防接種啓発講座」が、和歌山県白浜町の白浜中学校で開かれた。\n・【通信社の仕事学ぶ　オンラインで職場体験、和歌山県白浜中の記事】　講師は、田辺市たきない町の「赤ちゃんとこどものクリニック『ビィ』」の院長で、田辺市医師会長の番浩さんが務めた。\n・県内でも接種率の低いＨＰＶワクチンに関して、接種適齢の中学１年生に正しい知識を知ってもらいたいと番さんから講座の提案を受けたのがきっかけ。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "がん予防について学ぶ 白浜中で啓発講座、和歌山",
@@ -191,9 +263,7 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-10-24 14:30"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-24",
@@ -204,6 +274,8 @@
     "summary": "・和歌山県田辺市の梅とフランスの伝統的な焼き菓子「ガトーブルトン」を組み合わせたスイーツの開発プロジェクトが進んでいる。\n・田辺市の関係人口講座をきっかけにした企画。\n・小坂さんは２０２５年度に市の関係人口講座「タナビーズ」に参加したことをきっかけに、市をたびたび訪れるようになった。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 39,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "梅をフランス菓子に 関係人口講座きっかけに、新たな価値提案、和歌山県田辺市",
@@ -217,9 +289,7 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-10-24 14:30"
       }
-    ],
-    "importance_score": 39,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-24",
@@ -230,9 +300,9 @@
     "summary": "・夕食は館内のレストランで会席料理をいただきました。\n・今は11月までの北海道と和歌山の食材が出会う秋の和会席が提供されており紀州本クエや豊西牛など、それぞれの土地を代表する食材が並びます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -243,9 +313,9 @@
     "summary": "・由良町(ゆらちょう)の福祉施設「由良あかつき園」で、きょう(10月24日)音楽ステージや飲食物の販売などで地元の人々と触れあう「つれもていこら 地域と共に 中紀フェスティバル」が開かれ、多くの家族連れが施設の利用者と交流を深めました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -256,9 +326,9 @@
     "summary": "・四季彩々（２１１３）／秋色を感じて。\n・四季彩々２１１０／ひとときの出合い。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -269,9 +339,9 @@
     "summary": "・和歌山県有田振興局のキャラバン隊が8日、大阪市北区の観光経済新聞社関西支局に来社した＝写真。\n・来社したのは、和歌山県有田振興局地域づくり部地域づくり課の濱田哲之課長、同課産業振興グループの北野秀幸主査、柏木春乃主事の3人。\n・有田地域は、和歌山県中部の有田市、湯浅町、広川町、有田川町の1市3町で構成。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -282,8 +352,21 @@
     "summary": "・現代でも発展を遂げる「早なれずし」。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-24",
+    "title": "住人十色：神戸の人気エリアだが41坪で1800万円 困難な崖地を克服 和歌山まで望む絶景を手に入れた家",
+    "url": "https://mainichikirei.jp/article/20261023dog00m100024000a.html",
+    "source": "毎日キレイ",
+    "published_at": "2026-10-24 12:20",
+    "summary": "・10月24日放送「住人十色」の「夫婦関係も崖っぷち！？　困難に挑んだ絶景崖地ハウス」の一場面（C）MBS。\n・タレントの三船美佳さんと俳優の駿河太郎さんがMCを務める番組「住人十色～家の数だけある 家族のカタチ～」（MBS、土曜午後5時、関西ローカルほか）。\n・10月24日放送回は、神戸市の人気エリア、岡本にある、家を建てるには超絶困難な崖地を克服した絶景を望む家を紹介する。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 11,
     "is_featured": false
   },
   {
@@ -295,9 +378,9 @@
     "summary": "・クビアカツヤカミキリ、県が対策 防止ネット設置など支援 [和歌山県]。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -308,9 +391,9 @@
     "summary": "・ガソリン価格やガソリンスタンドのサービス情報などを共有するクチコミサイト「gogo.gs」では、都道府県ごとのガソリン（レギュラー／ハイオク）や軽油・灯油などの平均価格を公開しています。\n・2026年10月22日時点の平均価格は162.2円で、先週比では+0.4円上昇、全国平均比では-4.7円となりました。\n・なお、経済産業省資源エネルギー庁が週次でまとめている「石油製品価格調査」では、2026年10月19日の全国の平均価格は170.2円、和歌山県は167.4円です。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -321,9 +404,9 @@
     "summary": "・「ジャイアントストア和歌山」9/25オープン。\n・（ニュース和歌山PLUS139号／2026年10月24日更新）。\n・Copyright (C) ニュース和歌山 All Rights Reserved.。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -334,7 +417,7 @@
     "summary": "・気象台は、24日午前5時20分に、レベル3大雨警報を御坊市、美浜町に発表しました。\n・【大雨警報（発表中）】■和歌山市●レベル2大雨注意報■海南市●レベル2大雨注意報■有田市●レベル2大雨注意報■御坊市●レベル3大雨警報【発表】■新宮市●レベル2大雨注意報■紀の川市●レベル2大雨注意報■岩出市●レベル2大雨注意報■湯浅町●レベル2大雨注意報■広川町●レベル2大雨注意報【発表】■有田川町吉備金屋●レベル2大雨注意報【発表】■美浜町●レベル3大雨警報【発表】■日高町●レベル2大雨注意報【発表】■由良町●レベル2大雨注意報■日高川町川辺●レベル2大雨注意報【発表】■那智勝浦町●レベル2大雨注意報。\n・強い台風30号は月曜日に九州上陸へ　土曜日と日曜日は九州～関東で警報級の大雨。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 63,
+    "importance_score": 78,
     "is_featured": true,
     "related_articles": [
       {
@@ -354,6 +437,12 @@
         "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3035391",
         "source": "ｄメニューニュース",
         "published_at": "2026-10-24 05:20"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・御坊市、美浜町に発表 05:20時点 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/7b6577c13b067cae6f13a1b0d018504d1590645d/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-24 05:22"
       }
     ]
   },
