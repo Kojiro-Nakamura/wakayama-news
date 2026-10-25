@@ -34,7 +34,7 @@
     "summary": "・「稲むらの火祭り」で、たいまつを手に歩く町民ら＝24日夜、和歌山県広川町｜西日本新聞meは、九州のニュースを中心に最新情報を伝えるニュースサイトです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 210,
+    "importance_score": 225,
     "is_featured": true,
     "related_articles": [
       {
@@ -119,6 +119,12 @@
         "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承 (共同通信)",
         "url": "https://news.yahoo.co.jp/articles/99c18d141f98f13a06b730a54064a772689705ec/images/000",
         "source": "Yahoo!ニュース",
+        "published_at": "2026-10-24 19:18"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承",
+        "url": "https://www.niigata-nippo.co.jp/articles/-/930504",
+        "source": "新潟日報",
         "published_at": "2026-10-24 19:18"
       }
     ]
@@ -419,9 +425,9 @@
     "summary": "・全国の人気店が集う「紀州ラーメンフェスタ」が３１日、１１月１日に和歌山県白浜町堅田の「とれとれ市場」駐車場で開催される。\n・【売店で地産軽食提供 和歌山県白浜の温泉宿泊施設「リヴァージュ・スパひきがわ」の記事】　関西を中心にイベント業に携わるメンバーでつくる実行委員会が、紀南で初めて企画した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
