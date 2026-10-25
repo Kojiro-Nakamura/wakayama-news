@@ -21,9 +21,9 @@
     "summary": "・1回戦・2回戦：2026年10月23日（金）、24日（土）、25日（日）。\n・3回戦・準々決勝：10月29日（木）、30日（金）、31日（土）。\n・2026年度 第105回全国高校サッカー選手権大会。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -34,6 +34,8 @@
     "summary": "・「稲むらの火祭り」で、たいまつを手に歩く町民ら＝24日夜、和歌山県広川町｜西日本新聞meは、九州のニュースを中心に最新情報を伝えるニュースサイトです。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 210,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承",
@@ -119,9 +121,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-24 19:18"
       }
-    ],
-    "importance_score": 210,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-24",
@@ -412,6 +412,19 @@
   },
   {
     "article_date": "2026-10-24",
+    "title": "31日・11月１日にラーメンフェス 全国の人気６店食べ比べ、和歌山・白浜（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/0359dc118b541b37cfdea4076f50d7c918413cc2",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-24 16:08",
+    "summary": "・全国の人気店が集う「紀州ラーメンフェスタ」が３１日、１１月１日に和歌山県白浜町堅田の「とれとれ市場」駐車場で開催される。\n・【売店で地産軽食提供 和歌山県白浜の温泉宿泊施設「リヴァージュ・スパひきがわ」の記事】　関西を中心にイベント業に携わるメンバーでつくる実行委員会が、紀南で初めて企画した。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-24",
     "title": "タラバ蟹や高級魚クエを味わう秋の和会席が楽しめる！秋冬の旅行にもおすすめな温泉リゾート（しおり） - エキスパート",
     "url": "https://news.yahoo.co.jp/expert/articles/b8a43ac5527af70fa5bc6be0b9e768c3e0e15514",
     "source": "Yahoo!ニュース",
@@ -497,9 +510,9 @@
     "summary": "・和歌山県の雨雲レーダー(実況)25日17:00発表。\n・2026年10月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",

@@ -68,7 +68,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 48,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山市内7か所の寺社で御朱印巡り企画 「まり札」配布も（みんなの経済新聞ネットワーク）",
@@ -141,6 +141,38 @@
         "published_at": "2026-10-23 21:05"
       }
     ]
+  },
+  {
+    "article_date": "2026-10-23",
+    "title": "第10回 和歌山県 WFA U-13サッカーリーグ2026（11人制/8人制）10/25結果速報！ 未判明分の情報募集",
+    "url": "https://www.juniorsoccer-news.com/post-1927976",
+    "source": "Green Card ニュース",
+    "published_at": "2026-10-23 21:00",
+    "summary": "・昨年度の出場チームおよび判明分の出場チームを元に暫定リーグ表を作成しました。\n・今年度のリーグ編成情報の提供お待ちしています。\n・リーグ戦表より情報ありがとうございます！",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [
+      {
+        "title": "奈良・和歌山のイオンモールで開催されるおすすめハロウィンイベント3選[2026年10月24日・25日開催分]（ウォーカープラス）",
+        "url": "https://news.yahoo.co.jp/articles/fe18bcd5c9172c2c527f84cfc48bee6afb22c78a",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-23 09:05"
+      },
+      {
+        "title": "【和歌山】2026年10月24日・25日週末開催の無料イベント8選 秋祭り＆グルメも満喫！",
+        "url": "https://report.iko-yo.net/articles/34826",
+        "source": "いこーよニュース",
+        "published_at": "2026-10-23 07:44"
+      },
+      {
+        "title": "2026度 第105回全国高校サッカー選手権 和歌山県大会 開幕！10/23,24,25結果速報",
+        "url": "https://www.juniorsoccer-news.com/post-1959258",
+        "source": "Green Card ニュース",
+        "published_at": "2026-10-23 01:20"
+      }
+    ],
+    "importance_score": 51,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-23",
@@ -790,9 +822,9 @@
     "summary": "・［株式会社LOCUS BRiDGE］企業向けオンラインサロン「企業公民連携 LAB」 の一環として、和歌山県白浜町の東京事務所長をゲストに、企業と自治体が組むまでのプロセスや、自治体が企業に求めることをインタビュー形式で伺います。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -806,32 +838,6 @@
     "importance_score": 15,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-23",
-    "title": "奈良・和歌山のイオンモールで開催されるおすすめハロウィンイベント3選[2026年10月24日・25日開催分]（ウォーカープラス）",
-    "url": "https://news.yahoo.co.jp/articles/fe18bcd5c9172c2c527f84cfc48bee6afb22c78a",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-23 09:05",
-    "summary": "・奈良・和歌山のイオンモールで開催されるおすすめハロウィンイベント3選[2026年10月24日・25日開催分]（ウォーカープラス）。",
-    "summary_type": "auto",
-    "category": "経済・産業",
-    "importance_score": 30,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "【和歌山】2026年10月24日・25日週末開催の無料イベント8選 秋祭り＆グルメも満喫！",
-        "url": "https://report.iko-yo.net/articles/34826",
-        "source": "いこーよニュース",
-        "published_at": "2026-10-23 07:44"
-      },
-      {
-        "title": "2026度 第105回全国高校サッカー選手権 和歌山県大会 開幕！10/23,24,25結果速報",
-        "url": "https://www.juniorsoccer-news.com/post-1959258",
-        "source": "Green Card ニュース",
-        "published_at": "2026-10-23 01:20"
-      }
-    ]
   },
   {
     "article_date": "2026-10-23",
