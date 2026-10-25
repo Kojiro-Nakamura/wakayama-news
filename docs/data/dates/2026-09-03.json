@@ -60,8 +60,8 @@
     "summary": "・関東・北陸・東北と東日本で大雨被害が相次ぐ中、西日本では雨の少ない状態が続いています。\n・和歌山県では広川ダムで貯水率が3％を切るなど、ダムの貯水率が大幅に低下しています。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]

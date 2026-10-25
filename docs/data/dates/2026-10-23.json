@@ -268,6 +268,8 @@
     "summary": "・第2回紀州神仏霊場「あさも和（わ）」御朱印巡りが11月1日、和歌山市内7カ所にある寺院と神社で始まる。\n・居酒屋「巻ト酒マキチヨ」（和歌山市吉田、TEL 073-498-6108）がJR和歌山駅近くにオープンして10月18日で2カ月がたった。\n・コーヒーキャンディー「ガツンとロブスタコーヒー飴（あめ）」の販売が10月1日、コーヒー豆の卸売りを行う「ダートコーヒー」（和歌山市野崎）本社や直営カフェ「とびだす焙煎（ばいせん）所」（黒田）などで始まった。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 42,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の逸品が全国から買える通販サイト「和歌山一番星 Selection」10月20日オープン",
@@ -281,9 +283,7 @@
         "source": "PR TIMES",
         "published_at": "2026-10-23 16:14"
       }
-    ],
-    "importance_score": 42,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -780,6 +780,19 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-23",
+    "title": "LOCUS BRiDGE、企業公民連携LABにてオンラインイベント「白浜町に学ぶ、公民連携の進め方」を11月9日（月）に無料開催",
+    "url": "https://www.jiji.com/jc/article?k=000000061.000159606&g=prt",
+    "source": "時事ドットコム",
+    "published_at": "2026-10-23 11:16",
+    "summary": "・［株式会社LOCUS BRiDGE］企業向けオンラインサロン「企業公民連携 LAB」 の一環として、和歌山県白浜町の東京事務所長をゲストに、企業と自治体が組むまでのプロセスや、自治体が企業に求めることをインタビュー形式で伺います。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-23",

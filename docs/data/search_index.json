@@ -1,6 +1,606 @@
 [
   {
     "article_date": "2026-10-25",
+    "title": "和歌山県北部で大雨、一時、警報や避難指示など（午後３時まとめ）",
+    "url": "https://news.wbs.co.jp/221179",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-25 17:07",
+    "summary": "・和歌山県北部では、前線の南下に伴って、きょう（２５日）の朝から、大雨となり、列車が運休したり、道路が冠水したり、イベントが中止になるなど、影響が出ました。\n・県北部には、午前中から、レベル４・土砂災害危険警報やレベル３・大雨警報が発表され、午後２時前には、大雨や河川の氾濫の危険が高まったとして、由良町全域の２５１６世帯４７５２人と広川町津木(つぎ)地区の３３２世帯７２４人に、避難指示が発令されました。\n・そして、午後２時２２分、土砂災害危険警報は、すべて解除され、午後３時までに、避難指示や大雨警報もすべて解除となりました。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "第二阪和国道、夜間通行止め、２６日～３０日",
+    "url": "https://news.wbs.co.jp/221177",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-25 17:07",
+    "summary": "・国道２６号・第二阪和国道が、道路施設の補修・点検のため、あす（２６日）から今月（１０月）３０日まで夜間通行止めになります。\n・道路を管理する国土交通省・大阪国道事務所では、現場付近では、交通誘導員の指示に従って安全に通行するよう、理解と協力を呼びかけています。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "和歌山県に線状降水帯直前予測、２５日／気象庁",
+    "url": "https://news.wbs.co.jp/221172",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-25 17:07",
+    "summary": "・和歌山県北部で、今後３時間以内に線状降水帯が発生し、非常に激しい雨が同じ場所で降り続く可能性が高まっているとして、気象庁はきょう（２５日）午前１０時５８分、線状降水帯の直前予測を発表しました。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山県北部に線状降水帯直前予測 気象庁が注意呼びかけ（朝日新聞）",
+        "url": "https://news.yahoo.co.jp/articles/10fbf649d9221354a07dc6725a68bf514e470b9c",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:47"
+      },
+      {
+        "title": "和歌山県北部に線状降水帯直前予測 気象庁が注意呼びかけ (朝日新聞)",
+        "url": "https://news.yahoo.co.jp/articles/10fbf649d9221354a07dc6725a68bf514e470b9c/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:47"
+      },
+      {
+        "title": "和歌山県北部に線状降水帯直前予測 気象庁が注意呼びかけ",
+        "url": "https://mainichi.jp/articles/20261025/k00/00m/040/059000c",
+        "source": "毎日新聞",
+        "published_at": "2026-10-25 11:31"
+      },
+      {
+        "title": "和歌山県に線状降水帯直前予測 今後3時間以内に発生のおそれ",
+        "url": "https://news.tv-asahi.co.jp/news_society/articles/000542742.html",
+        "source": "テレ朝NEWS",
+        "published_at": "2026-10-25 11:11"
+      },
+      {
+        "title": "和歌山県に線状降水帯直前予測 今後3時間以内に発生のおそれ（テレビ朝日系（ANN））",
+        "url": "https://news.yahoo.co.jp/articles/c248fcecfc02e0073b969c60ea911ad1fbc635c5",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:11"
+      },
+      {
+        "title": "和歌山県北部に「線状降水帯直前予測」",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261025de65051",
+        "source": "NHKニュース",
+        "published_at": "2026-10-25 11:09"
+      },
+      {
+        "title": "和歌山県北部に「線状降水帯」発生の恐れ（10時58分時点）（FNNプライムオンライン（フジテレビ系））",
+        "url": "https://news.yahoo.co.jp/articles/11a0209c17a9aefdd5554a9c45a805288292c23a",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 10:59"
+      },
+      {
+        "title": "和歌山県北部に「線状降水帯」発生の恐れ（10時58分時点） (FNNプライムオンライン（フジテレビ系）)",
+        "url": "https://news.yahoo.co.jp/articles/11a0209c17a9aefdd5554a9c45a805288292c23a/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 10:59"
+      }
+    ],
+    "importance_score": 128,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "防災意識、たいまつで継承、広川町「稲むらの火祭り」／和歌山",
+    "url": "https://news.wbs.co.jp/221174",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-25 17:07",
+    "summary": "・広川町できのう（２４日）、江戸時代の大地震で闇夜の中、稲わらに灯した火を目印に津波から逃れたという出来事を今に伝える「稲むらの火祭り」が行われました。\n・広川町には、１８５４年に起きた安政南海地震で、地元の実業家の浜口梧陵(はまぐち・ごりょう)が、「稲いなむら」と呼ばれる稲の束に火を灯して村人を高台に導き、津波から救ったという言い伝えが残されています。\n・祭りは、防災意識の継承が目的で、きのうは町民らおよそ３７０人が参加し、火を灯したたいまつを手に高台の神社までおよそ２キロを練り歩き、避難路の把握や早期避難の重要性を確認しました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "和歌山市で非常に激しい雨、県北部に大雨警報",
+    "url": "https://news.wbs.co.jp/221170",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-25 17:07",
+    "summary": "・和歌山県北部に、レベル３・大雨警報が発表されています。\n・和歌山市など県北部では、けさ（２５日）から非常に激しい雨となっているところがあります。\n・アメダスの観測で、和歌山市では、きょう午前１０時過ぎまでの１時間に、１０月の１時間雨量を更新する、６８ミリの非常に激しい雨が降りました。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 20,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "和歌山・紀美野町などに「レベル4土砂災害危険警報」自治体からの避難情報の確認を",
+    "url": "https://abema.tv/video/episode/89-42_s0_p542755",
+    "source": "ABEMA",
+    "published_at": "2026-10-25 15:15",
+    "summary": "・和歌山・紀美野町などに「レベル4土砂災害危険警報」自治体からの避難情報の確認を",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山 紀美野町にレベル3高齢者等避難の情報",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261025de65140",
+        "source": "NHKニュース",
+        "published_at": "2026-10-25 13:51"
+      },
+      {
+        "title": "和歌山県にレベル4土砂災害危険警報が出ています（更新）",
+        "url": "https://yasashii.asahi.com/articles/article_0016129.html",
+        "source": "やさしい朝日新聞",
+        "published_at": "2026-10-25 13:50"
+      },
+      {
+        "title": "和歌山県にレベル4土砂災害危険警報が出ています（更新）",
+        "url": "https://yasashii.asahi.com/articles/article_0016147.html",
+        "source": "やさしい朝日新聞",
+        "published_at": "2026-10-25 13:30"
+      },
+      {
+        "title": "和歌山・紀美野町などに「レベル4土砂災害危険警報」自治体からの避難情報の確認を",
+        "url": "https://www.kab.co.jp/news/article/16992466",
+        "source": "KAB熊本朝日放送",
+        "published_at": "2026-10-25 11:44"
+      },
+      {
+        "title": "和歌山・紀美野町などに「レベル4土砂災害危険警報」自治体からの避難情報の確認を",
+        "url": "https://news.tv-asahi.co.jp/news_society/articles/000542755.html",
+        "source": "テレ朝NEWS",
+        "published_at": "2026-10-25 11:31"
+      },
+      {
+        "title": "和歌山・紀美野町などに「レベル4土砂災害危険警報」自治体からの避難情報の確認を｜Quebee キュエビー",
+        "url": "https://www.qab.co.jp/quebee/video/000542755/",
+        "source": "QAB 琉球朝日放送",
+        "published_at": "2026-10-25 11:31"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036295?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 11:06"
+      }
+    ],
+    "importance_score": 108,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "和歌山 由良町と広川町の避難指示 解除",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261025de65174",
+    "source": "NHKニュース",
+    "published_at": "2026-10-25 15:05",
+    "summary": "・和歌山 由良町と広川町の避難指示 解除。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山 由良町全域と広川町の一部に避難指示",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261025de65148",
+        "source": "NHKニュース",
+        "published_at": "2026-10-25 14:14"
+      }
+    ],
+    "importance_score": 20,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "東京の美術ファン魅了した長沢芦雪「龍図」、再び間近で…円山応挙らの作品収蔵庫が改修完了",
+    "url": "https://www.yomiuri.co.jp/local/kansai/news/20261025-GYO1T00038/",
+    "source": "読売新聞",
+    "published_at": "2026-10-25 15:00",
+    "summary": "・（蘆雪、１７５４～９９年）や、師の円山応挙らの障壁画などを鑑賞できる無量寺（串本町）の美術館「串本応挙芦雪館」収蔵庫の改修工事が完了し、２４日から公開が再開された。\n・収蔵庫は１９９０年に完成した鉄筋コンクリート造り。\n・改修に合わせ、芦雪の襖絵などは県立博物館（和歌山市）や東京都の府中市美術館で展示された。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "熊の出没情報について（10月25日）",
+    "url": "https://www.city.kainan.lg.jp/important/8650.html",
+    "source": "海南市",
+    "published_at": "2026-10-25 13:35",
+    "summary": "・九品寺地区の山中で、蜂の巣箱が荒らされ周囲の状況から熊の出没が確認されました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "【2026】「第44回紀文まつり花火大会」は悪天候で開催中止（和歌山県有田市）",
+    "url": "https://yakei-fan.com/magazine/fireworks/wakayama/kibun-hanabi2026cancel.html",
+    "source": "夜景FAN",
+    "published_at": "2026-10-25 12:47",
+    "summary": "・和歌山県有田市で本日、2026年10月25日（日）に開催予定だった「第44回紀文まつり」は、悪天候のため開催が取りやめとなりました。\n・例年は8月に開催されていますが、今年は有田みかんの収穫期に合わせて10月に開催日程が変更されました。\n・有田川河川敷では20時から500機によるドローンショー、20時20分から約3,000発の花火が予定されていました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "【レベル4土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点（TBS NEWS DIG Powered by JNN）",
+    "url": "https://news.yahoo.co.jp/articles/579fc4ddefaac55b590e39648d2700f8366e3bc6",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-25 12:35",
+    "summary": "・気象台は、25日午後0時33分に、レベル4土砂災害危険警報を広川町、由良町に発表しました。\n・【現在地の防災情報を確認】北部では、土砂災害に厳重に警戒してください。\n・【土砂災害警報（発表中）】■和歌山市●レベル2土砂災害注意報■海南市●レベル2土砂災害注意報■橋本市●レベル2土砂災害注意報■有田市●レベル4土砂災害危険警報■御坊市●レベル2土砂災害注意報■田辺市龍神●レベル2土砂災害注意報■紀の川市●レベル2土砂災害注意報■岩出市●レベル2土砂災害注意報■紀美野町●レベル4土砂災害危険警報■かつらぎ町かつらぎ●レベル2土砂災害注意報■かつらぎ町花園●レベル2土砂災害注意報■九度山町●レベル2土砂災害注意報■高野町●レベル2土砂災害注意報■湯浅町●レベル4土砂災害危険警報■広川町●レベル4土砂災害危険警報【発表】■有田川町吉備金屋●レベル4土砂災害危険警報■有田川町清水●レベル4土砂災害危険警報■日高町●レベル2土砂災害注意報■由良町●レベル4土砂災害危険警報【発表】■日高川町川辺●レベル2土砂災害注意報■日高川町中津●レベル2土砂災害注意報■日高川町美山●レベル2土砂災害注意報。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/579fc4ddefaac55b590e39648d2700f8366e3bc6/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:35"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点） (FNNプライムオンライン（フジテレビ系）)",
+        "url": "https://news.yahoo.co.jp/articles/aec8dad9657b0896f56dfab55f9d995c7af49698/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:35"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点）（FNNプライムオンライン（フジテレビ系））",
+        "url": "https://news.yahoo.co.jp/articles/aec8dad9657b0896f56dfab55f9d995c7af49698",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:35"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036399",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 12:33"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036399",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 12:33"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・広川町に発表 12:02時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/7fce37ce746c871f17740f261d0a4317431f6739",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:03"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・広川町に発表 12:02時点",
+        "url": "https://article.auone.jp/7bb7eca8-7230-4d48-b49d-2a30b9ae2c7c",
+        "source": "au Webポータル",
+        "published_at": "2026-10-25 12:02"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・広川町に発表 12:02時点",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036359",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 12:02"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/66e7c4d9a40445791360b86c5189115923bf08fd",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:34"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県有田市、湯浅町に発表（11時32分時点）",
+        "url": "https://www.fnn.jp/articles/-/1139406",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-10-25 11:32"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036343",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 11:32"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036343",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 11:32"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036343",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 11:32"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
+        "url": "https://news.yahoo.co.jp/articles/848a9d12752dfd41981b352ef3205b8023e22ce1",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:08"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点｜Infoseekニュース",
+        "url": "https://news.infoseek.co.jp/article/tbs_3036293/",
+        "source": "Infoseek",
+        "published_at": "2026-10-25 11:06"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県紀美野町、有田川町吉備金屋、有田川町清水に発表（11時06分時点）",
+        "url": "https://www.fnn.jp/articles/-/1139391",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-10-25 11:06"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036293",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 11:06"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・有田市に発表 10:33時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/0b17f308063cde3ef17d799c78a39ef718b9ecda",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 10:35"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・海南市、橋本市に発表 10:23時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/1ce2f435a02338438eee1bbbbf5b8dcd07f42138",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 10:25"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・紀の川市、岩出市に発表 10:00時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/3b733605f52ed19d8738c2e777b4b63463932f53",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 10:02"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・紀の川市、岩出市に発表 10:00時点 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/3b733605f52ed19d8738c2e777b4b63463932f53/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 10:02"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・和歌山市に発表 09:42時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/d984f998125bc3b20e6f447ce0e52de270800e5d",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 09:43"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・和歌山市に発表 09:42時点 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/d984f998125bc3b20e6f447ce0e52de270800e5d/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 09:43"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・和歌山市に発表 09:42時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036215",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 09:42"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・和歌山市に発表 09:42時点",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036215",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 09:42"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・和歌山市に発表 09:42時点｜Infoseekニュース",
+        "url": "https://news.infoseek.co.jp/article/tbs_3036215/",
+        "source": "Infoseek",
+        "published_at": "2026-10-25 09:42"
+      }
+    ],
+    "importance_score": 408,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "岡、種目別つり輪で４位 世界体操",
+    "url": "https://wakayama.keizai.biz/gpnews/1777688/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-25 12:21",
+    "summary": "・体操の世界選手権第８日は２４日、オランダのロッテルダムで種目別決勝が行われ、男子のつり輪で岡慎之助が１４．１３３点で４位に入った。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "【台風情報】和歌山県で線状降水帯直前予測発表 今後、線状降水帯が発生して大雨災害発生の危険度が急激に高まる可能性 近畿中部では２５日昼過ぎにかけて低い土地の浸水、河川の増水や氾濫、土砂災害に厳重に警戒【雨と風のシミュレーション】 | 富山のニュース｜天気・",
+    "url": "https://newsdig.tbs.co.jp/articles/tut/3036372",
+    "source": "TBS NEWS DIG",
+    "published_at": "2026-10-25 12:16",
+    "summary": "・近畿中部では、２５日昼過ぎにかけて、低い土地の浸水、河川の増水や氾濫、土砂災害に厳重に警戒してください。\n・【台風情報】ダブル台風に　３１号が発生　マーシャル諸島をゆっくりと北北西へ【雨と風のシミュレーション】。\n・【台風情報】　大型の台風30号（チャンパー）今後の進路予想は…26日（月）午前9時に五島市南で温帯低気圧に変わる見込み　広大な強風域と最大瞬間風速25m超に警戒【雨と風のシミュレーション】。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "【台風情報】和歌山県で線状降水帯直前予測発表 今後、線状降水帯が発生して大雨災害発生の危険度が急激に高まる可能性 近畿中部では２５日昼過ぎにかけて低い土地の浸水、河川の増水や氾濫、土砂災害に厳重に警戒【雨と風のシミュレーション】 | 富山のニュース｜天気・",
+        "url": "https://newsdig.tbs.co.jp/articles/tut/3036372?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 12:16"
+      },
+      {
+        "title": "【台風情報】和歌山県で線状降水帯直前予測 大型の台風30号 26日には温帯低気圧に 前線活発化で警報級の大雨 ※雨と風のシミュレーション（気象庁）（RCC中国放送）",
+        "url": "https://news.yahoo.co.jp/articles/0291dba540704c93086e6c47cd175981fe0b33ed",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:08"
+      },
+      {
+        "title": "【台風情報】和歌山県で線状降水帯直前予測 大型の台風30号 26日には温帯低気圧に 前線活発化で警報級の大雨 ※雨と風のシミュレーション（気象庁） (RCC中国放送)",
+        "url": "https://news.yahoo.co.jp/articles/0291dba540704c93086e6c47cd175981fe0b33ed/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:08"
+      }
+    ],
+    "importance_score": 54,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "台風と秋雨前線で大雨に 和歌山県 線状降水帯の恐れ",
+    "url": "https://news.tv-asahi.co.jp/news_society/articles/000542751.html",
+    "source": "テレ朝NEWS",
+    "published_at": "2026-10-25 12:09",
+    "summary": "・台風と秋雨前線で大雨に 和歌山県 線状降水帯の恐れ。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "和歌山県北部に「線状降水帯直前予測」非常に激しい雨が降り続くおそれ高まる 和歌山市の1時間雨量は10月の観測史上最大を記録 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+    "url": "https://newsdig.tbs.co.jp/articles/mbs/3036368?display=1",
+    "source": "TBS NEWS DIG",
+    "published_at": "2026-10-25 12:09",
+    "summary": "・和歌山県北部では「線状降水帯直前予測」の情報が出ていて、災害発生の危険度が急激に高まる恐れがあるため厳重な警戒が必要です。\n・和歌山市では午前10時3分までの1時間の雨量が68ミリを観測し、10月の観測史上最大を記録しています。\n・和歌山県北部では今後3時間以内に線状降水帯が発生し、非常に激しい雨が降り続くおそれが高まっています（午前10時58分発表）。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [
+      {
+        "title": "和歌山県北部に「線状降水帯直前予測」非常に激しい雨が降り続くおそれ高まる 和歌山市の1時間雨量は10月の観測史上最大を記録",
+        "url": "https://news.yahoo.co.jp/articles/09d6c26aa09e8cc6001d2a7b3859506382e453a3",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:07"
+      },
+      {
+        "title": "【速報】和歌山県北部に「線状降水帯直前予測」 遅くとも3時間以内に発生、非常に激しい大雨のおそれ",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036340",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 11:31"
+      },
+      {
+        "title": "和歌山県北部に「線状降水帯直前予測」 3時間以内に災害もたらす大雨のおそれ（2026年10月24日掲載）｜日テレNEWS NNN",
+        "url": "https://news.ntv.co.jp/category/weather/bf9f3c5836a64f3fb477935b2ffc0d32",
+        "source": "日テレNEWS NNN",
+        "published_at": "2026-10-25 11:05"
+      }
+    ],
+    "importance_score": 57,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "近畿で非常に激しい雨 和歌山県は線状降水帯発生のおそれも 26日まで雨のピーク(気象予報士 藤川 徹)",
+    "url": "https://tenki.jp/forecaster/t_fujikawa/2026/10/25/41086.html",
+    "source": "tenki.jp",
+    "published_at": "2026-10-25 11:59",
+    "summary": "・台風30号周辺の暖かく湿った空気の影響で、四国地方から近畿地方には線状に連なる雨雲がかかっています。\n・和歌山市では1時間に68.0ミリの非常に激しい雨が降り、10月の観測史上1位を更新しました。\n・和歌山県北部では、25日(日)の昼過ぎにかけて、線状降水帯が発生するおそれがあります。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [
+      {
+        "title": "近畿で非常に激しい雨 和歌山県は線状降水帯発生のおそれも 26日まで雨のピーク",
+        "url": "https://article.auone.jp/79a78489-c032-458d-b450-b3318fac39a1",
+        "source": "au Webポータル",
+        "published_at": "2026-10-25 11:59"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "レベル4土砂災害危険警報 和歌山県（ABEMA TIMES）",
+    "url": "https://news.yahoo.co.jp/articles/9d0ba49a14c2aa5ee71e4bb07b458fcdbdd42471",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-25 11:57",
+    "summary": "・気象庁は午前11時過ぎに、和歌山県の紀美野町などに「レベル4土砂災害危険警報」を発表しました。\n・【映像】和歌山県でレベル4の危険警報　命に危険を及ぼす土砂災害の恐れが高まっています。\n・レベル4の危険警報は、自治体が避難指示を発令する目安となる情報です。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "体験型イベント楽しくまな防災【開催中止のお知らせ】",
+    "url": "https://www.city.kainan.lg.jp/kakubusho/soumubu/kikikanrika/oshirase/8610.html",
+    "source": "海南市",
+    "published_at": "2026-10-25 11:39",
+    "summary": "・本日、10月25日（日曜日）開催の体験型イベント「楽しく まな防災」は、レベル3大雨警報の発表により中止いたします。\n・なお、警報が解除された場合につきましても、イベントの再開はいたしません。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "【映像】和歌山市で道路が川のように カラーコーンも流される",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261025de65066",
+    "source": "NHKニュース",
+    "published_at": "2026-10-25 11:33",
+    "summary": "・【映像】和歌山市で道路が川のように カラーコーンも流される。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "【速報】和歌山県北部は今後3時間以内に線状降水帯発生のおそれ 25日11時頃発表(気象予報士 日直主任)",
+    "url": "https://tenki.jp/forecaster/deskpart/2026/10/25/41085.html",
+    "source": "tenki.jp",
+    "published_at": "2026-10-25 11:12",
+    "summary": "・和歌山県北部では、今後3時間以内に線状降水帯が発生して、命に危険が及ぶ災害発生の危険度が急激に高まる可能性があります。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "第71回海南市下津総合文化祭の中止について",
+    "url": "https://www.city.kainan.lg.jp/kakubusho/kyoikuiinkai/shogaigakusyuka/event/bunka_event/8648.html",
+    "source": "海南市",
+    "published_at": "2026-10-25 11:04",
+    "summary": "・本日開催中の海南市下津総合文化祭は、大雨警報が発表されたため、市民交流センターにおける舞台発表や模擬店、拝待体育館における作品展示など、すべての催しを中止いたします。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "和歌山県新宮市上田市長らが気仙沼訪問",
+    "url": "https://sanrikushimpo.co.jp/2026/10/25/20079/",
+    "source": "株式会社 三陸新報社",
+    "published_at": "2026-10-25 09:03",
+    "summary": "・和歌山県新宮市上田市長らが気仙沼訪問。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "津波の逸話伝える「稲むらの火祭り」 和歌山 広川町",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261025de65024",
+    "source": "NHKニュース",
+    "published_at": "2026-10-25 07:52",
+    "summary": "・津波の逸話伝える「稲むらの火祭り」 和歌山 広川町。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
     "title": "和歌山市役所前【シロマエベース】 10月31日 発進！",
     "url": "https://www.nwn.jp/feature/261023machikado_shiromae_base/",
     "source": "ニュース和歌山",
@@ -8,9 +608,9 @@
     "summary": "・10月31日㊏、城前ひろばは3店舗一体型の「シロマエベース」として発進します。\n・（ニュース和歌山PLUS139号／2026年10月25日更新）。\n・「シロマエベース」10月31日㊏始動！   　城前ひろばで出会い、共に挑戦を重ねてきた5つのお店。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-25",
@@ -21,9 +621,9 @@
     "summary": "・（那賀振興局 地域づくり部 地域づくり課）。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-25",
@@ -34,16 +634,22 @@
     "summary": "・◆【写真】「和歌山市内で見つけた道路標識」を見る当ポストは執筆時点で26万5000件を超えて表示されており、「めっちゃ気になる」「ここの標識好きなんだよな」といったコメントが寄せられています。\n・そこに写っていたのは、和歌山市内の道路に設置された標識でした。\n・高速道路の出入り口に近く、大型車の通行も多い場所で、実際に車両が衝突する事故も起きていたことから、こうした標識が設置されたといいます。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 39,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山市内の道路に掲げられた「大破します！」 高さ制限を知らせる強烈な標識に反響",
         "url": "https://limo.media/articles/-/143146",
         "source": "LIMO | くらしとお金の経済メディア",
         "published_at": "2026-10-25 06:04"
+      },
+      {
+        "title": "「あ！」「大破します！」和歌山市内の道路に掲げられたインパクト大の標識に注目集まる (LIMO)",
+        "url": "https://news.yahoo.co.jp/articles/77236bf1b84fa6c36a7f9e1edbf7cfc6ba8a209f/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 06:05"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-25",
@@ -54,8 +660,21 @@
     "summary": "・和歌山地方気象台が10月25日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山28℃、潮岬27℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "和歌山・広川「稲むらの火祭り」",
+    "url": "https://www.oita-press.co.jp/1002000000/2026/10/24/NP2026102401001004",
+    "source": "大分合同新聞",
+    "published_at": "2026-10-25 00:15",
+    "summary": "・和歌山・広川「稲むらの火祭り」。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 0,
     "is_featured": false
   },
   {
@@ -67,35 +686,45 @@
     "summary": "・日本で初開催となったアジアのパラスポーツの祭典、愛知・名古屋アジアパラ競技大会は２４日夜、名古屋市のパロマ瑞穂スタジアムで閉会式が行われ、閉幕した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-10-24",
-    "title": "川添小児童、熊野古道で看板拭き のぼり旗の交換も 三重・大台（夕刊三重）",
-    "url": "https://news.yahoo.co.jp/articles/2618427575f19a17166cc768971e9582cf388c87",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-24 19:47",
-    "summary": "・多気郡大台町上楠の町立川添小学校（逵井香世校長、31人）の3、4年生（全7人）は23日午前9時から、地元の「熊野参詣伊勢路を守るボランティア体験」として、同町神瀬（かみぜ）の古道の清掃活動などを行った。\n・このボランティア体験は、地元の小学生が地域の人と一緒に熊野古道を守る活動を体験する事業として、町子どもプロジェクト推進協議会（細渕栄子代表）が主催。\n・児童らは眼鏡橋の由来が書かれている説明看板を磨いたり、「世界遺産 熊野古道伊勢路」と書かれたのぼり旗を新しいものに取り換えるなど手分けして取り組んだ。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 15,
     "is_featured": false,
     "related_articles": []
   },
   {
     "article_date": "2026-10-24",
-    "title": "和歌山・広川「稲むらの火祭り」 和歌山「稲むらの火祭り」",
-    "url": "https://www.hokkaido-np.co.jp/article/1396037/",
-    "source": "北海道新聞デジタル",
-    "published_at": "2026-10-24 19:24",
-    "summary": "・和歌山・広川「稲むらの火祭り」　防災意識、たいまつで継承。\n・「稲むらの火祭り」で、たいまつを手に歩く町民ら=24日夜、和歌山県広川町。",
+    "title": "2026度 第105回全国高校サッカー選手権 和歌山県大会 2回戦10/24結果掲載！10/25結果速報",
+    "url": "https://www.juniorsoccer-news.com/post-1959258",
+    "source": "Green Card ニュース",
+    "published_at": "2026-10-24 20:48",
+    "summary": "・1回戦・2回戦：2026年10月23日（金）、24日（土）、25日（日）。\n・3回戦・準々決勝：10月29日（木）、30日（金）、31日（土）。\n・2026年度 第105回全国高校サッカー選手権大会。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 138,
-    "is_featured": true,
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-24",
+    "title": "「稲むらの火祭り」で、たいまつを手に歩く町民ら＝24日夜、和歌山県広川町 - 和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承 - 写真・画像(1/1)",
+    "url": "https://www.nishinippon.co.jp/image/1095828/",
+    "source": "西日本新聞me",
+    "published_at": "2026-10-24 20:48",
+    "summary": "・「稲むらの火祭り」で、たいまつを手に歩く町民ら＝24日夜、和歌山県広川町｜西日本新聞meは、九州のニュースを中心に最新情報を伝えるニュースサイトです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
     "related_articles": [
+      {
+        "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承",
+        "url": "https://www.chiba-tv.com/plus/detail/2026102153674",
+        "source": "千葉テレビ放送株式会社",
+        "published_at": "2026-10-24 19:41"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」／防災意識、たいまつで継承",
+        "url": "https://www.shikoku-np.co.jp/bl/news/national/life-topic-detail.aspx?kid=20261024000560",
+        "source": "四国新聞",
+        "published_at": "2026-10-24 19:40"
+      },
       {
         "title": "和歌山・広川「稲むらの火祭り」",
         "url": "https://www.saga-s.co.jp/articles/-/1816921",
@@ -149,8 +778,54 @@
         "url": "https://smart.shimotsuke.co.jp/articles/-/1446723",
         "source": "下野新聞社",
         "published_at": "2026-10-24 19:18"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」／防災意識、たいまつで継承",
+        "url": "https://www.shikoku-np.co.jp/national/life_topic/photo.aspx?id=20261024000561&no=1",
+        "source": "四国新聞",
+        "published_at": "2026-10-24 19:18"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承｜全国のニュース｜Web東奥",
+        "url": "https://www.toonippo.co.jp/articles/-/2389742",
+        "source": "東奥日報社",
+        "published_at": "2026-10-24 19:18"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承 (共同通信)",
+        "url": "https://news.yahoo.co.jp/articles/99c18d141f98f13a06b730a54064a772689705ec/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-24 19:18"
       }
-    ]
+    ],
+    "importance_score": 210,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-24",
+    "title": "川添小児童、熊野古道で看板拭き のぼり旗の交換も 三重・大台（夕刊三重）",
+    "url": "https://news.yahoo.co.jp/articles/2618427575f19a17166cc768971e9582cf388c87",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-24 19:47",
+    "summary": "・多気郡大台町上楠の町立川添小学校（逵井香世校長、31人）の3、4年生（全7人）は23日午前9時から、地元の「熊野参詣伊勢路を守るボランティア体験」として、同町神瀬（かみぜ）の古道の清掃活動などを行った。\n・このボランティア体験は、地元の小学生が地域の人と一緒に熊野古道を守る活動を体験する事業として、町子どもプロジェクト推進協議会（細渕栄子代表）が主催。\n・児童らは眼鏡橋の由来が書かれている説明看板を磨いたり、「世界遺産 熊野古道伊勢路」と書かれたのぼり旗を新しいものに取り換えるなど手分けして取り組んだ。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "importance_score": 15,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-24",
+    "title": "和歌山・広川「稲むらの火祭り」 和歌山「稲むらの火祭り」",
+    "url": "https://www.hokkaido-np.co.jp/article/1396037/",
+    "source": "北海道新聞デジタル",
+    "published_at": "2026-10-24 19:24",
+    "summary": "・和歌山・広川「稲むらの火祭り」　防災意識、たいまつで継承。\n・「稲むらの火祭り」で、たいまつを手に歩く町民ら=24日夜、和歌山県広川町。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "importance_score": 3,
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -161,6 +836,8 @@
     "summary": "・【この道のプロ】Vol.020 ワーニング（和歌山市）。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【この道のプロ】Vol.020 ワーニング（和歌山市）",
@@ -168,9 +845,7 @@
         "source": "グーネット自動車流通",
         "published_at": "2026-10-24 19:03"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-24",
@@ -461,9 +1136,9 @@
     "summary": "・和歌山県海南市船尾の県立自然博物館の玄関ホールで、那智勝浦町小麦の約1600万～1500万年前の地層で発見された二枚貝の一種「ペガサスノツバサ」の化石が展示されている。\n・同種の化石としては世界最古級の標本とされる。\n・同博物館によると、ペガサスノツバサは現在、東南アジアに生息しているが日本近海では確認されていない。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -490,6 +1165,19 @@
     "importance_score": 5,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-24",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-10-24 13:03",
+    "summary": "・和歌山県の雨雲レーダー(実況)25日17:00発表。\n・2026年10月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-24",
@@ -870,6 +1558,8 @@
     "summary": "・第2回紀州神仏霊場「あさも和（わ）」御朱印巡りが11月1日、和歌山市内7カ所にある寺院と神社で始まる。\n・居酒屋「巻ト酒マキチヨ」（和歌山市吉田、TEL 073-498-6108）がJR和歌山駅近くにオープンして10月18日で2カ月がたった。\n・コーヒーキャンディー「ガツンとロブスタコーヒー飴（あめ）」の販売が10月1日、コーヒー豆の卸売りを行う「ダートコーヒー」（和歌山市野崎）本社や直営カフェ「とびだす焙煎（ばいせん）所」（黒田）などで始まった。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 42,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の逸品が全国から買える通販サイト「和歌山一番星 Selection」10月20日オープン",
@@ -883,9 +1573,7 @@
         "source": "PR TIMES",
         "published_at": "2026-10-23 16:14"
       }
-    ],
-    "importance_score": 42,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -1382,6 +2070,19 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-23",
+    "title": "LOCUS BRiDGE、企業公民連携LABにてオンラインイベント「白浜町に学ぶ、公民連携の進め方」を11月9日（月）に無料開催",
+    "url": "https://www.jiji.com/jc/article?k=000000061.000159606&g=prt",
+    "source": "時事ドットコム",
+    "published_at": "2026-10-23 11:16",
+    "summary": "・［株式会社LOCUS BRiDGE］企業向けオンラインサロン「企業公民連携 LAB」 の一環として、和歌山県白浜町の東京事務所長をゲストに、企業と自治体が組むまでのプロセスや、自治体が企業に求めることをインタビュー形式で伺います。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-23",
@@ -2134,428 +2835,5 @@
     "importance_score": 14,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "みなべのウミガメ上陸、産卵が過去最少",
-    "url": "https://hidakashimpo.co.jp/?p=109009",
-    "source": "日高新報",
-    "published_at": "2026-10-22 17:18",
-    "summary": "・上陸３９回、産卵は１４回で、１９８１年の統計開始以来過去最少を更新した。\n・近年の産卵回数をみると、２０１２年は２９３回、翌１３年も２９１回と多かったが、１４年は１３９回と半減、１５年には８２回と２けたになった。\n・２０年以降は５０回以下が続き、２４年に２１回と過去最少を記録。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 11,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "日ノ御崎沖でマダイ、イサキ ヒラバエでイシダイ、ヒラスズキ",
-    "url": "https://hidakashimpo.co.jp/?p=109020",
-    "source": "日高新報",
-    "published_at": "2026-10-22 17:18",
-    "summary": "・グレ２５～３１㌢が８匹、イサキ２６～２７㌢が２匹（フカセ、オキアミ）。\n・ヒラバエでイシダイ４７㌢が１匹（イシダイ仕掛け、ウニ）、ヒラスズキ５０㌢が１匹（ルアー、ミノー）。\n・【日高町】　共栄丸℡０７３８―６４―２３１８▽日ノ御崎沖でイサキ２７～３６㌢が５３匹。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 11,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "【ふるさと納税】和歌山県有田川町の旬のフルーツ3選！有田みかん・デコポン・青梅をターゲット別に紹介「甘さと酸味のバランスが絶妙で手が止まらず」の声 (LIMO)",
-    "url": "https://news.yahoo.co.jp/articles/6ccbdae3f9385fda2bf260141ee7052eebae2d8d/images/000",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-22 17:15",
-    "summary": "・出所：ふるさとチョイス（Copyright LIMO [リーモ] | くらしとお金の経済メディア All rights reserved.）。",
-    "summary_type": "auto",
-    "category": "経済・産業",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "地元高出身の２選手優勝 国スポ・カヌー競技、和歌山県田辺（紀伊民報）",
-    "url": "https://news.yahoo.co.jp/articles/8834c9e763ebe9baf31e22581b3562f3f64387f4",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-22 16:25",
-    "summary": "・第８０回国民スポーツ大会（国スポ）のカヌースプリント競技が１５～１８日に青森県であり、和歌山県田辺市の高校出身で自衛隊体育学校所属の２選手が活躍した。\n・田辺工業高出身の冨塚晴之選手（２４）は、成年男子カヤックシングル（Ｋ―１）の２００メートルと５００メートルで優勝。\n・【国スポへ最後の調整　田辺・西牟婁の高校生、和歌山の記事】　国スポのカヌー競技は、青森県西目屋村の津軽白神湖特設カヌー競技場であった。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "ボスニアの市長らすさみへ 姉妹都市で友好深める、和歌山（紀伊民報）",
-    "url": "https://news.yahoo.co.jp/articles/00f45f7bc7e5ee25bfde2267e64b38f0c3cdf07a",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-22 16:25",
-    "summary": "・和歌山県すさみ町の姉妹都市となっている東欧ボスニア・ヘルツェゴビナのイェゼロ市から、スネジャナ・ルジチッチ市長らが町を訪問した。\n・２０２２年６月の姉妹都市提携後、イェゼロ市長が来日して町を訪れるのは初めて。\n・【イェゼロ市と姉妹都市に　すさみ町、オンラインで締結式の記事】　イェゼロ市は林業や釣りなどのレジャーが盛んな自然豊かな自治体で、人口は約１２００人。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 24,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "ボスニアの市長らすさみへ 姉妹都市で友好深める、和歌山",
-        "url": "https://www.agara.co.jp/article/702542",
-        "source": "AGARA 紀伊民報",
-        "published_at": "2026-10-22 14:30"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "2026度 第105回全国高校サッカー選手権 和歌山県大会 開幕！10/23,24,25結果速報",
-    "url": "https://www.juniorsoccer-news.com/post-1959258",
-    "source": "Green Card ニュース",
-    "published_at": "2026-10-22 16:18",
-    "summary": "・◆この大会、各チームはどう戦う？どう戦った？\n・10/23　和歌山高専　-　向陽。\n・2026年度 第105回全国高校サッカー選手権大会。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "第２０回紀の川市文化祭",
-    "url": "http://www.excite.co.jp/news/article/Prtimes_2026-10-22-173667-82/",
-    "source": "Excite エキサイト",
-    "published_at": "2026-10-22 16:15",
-    "summary": "・第２０回紀の川市文化祭。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 30,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "プレスリリース：第20回紀の川市文化祭（PR TIMES）",
-        "url": "https://mainichi.jp/articles/20261022/pr2/00m/020/540000c",
-        "source": "毎日新聞",
-        "published_at": "2026-10-22 13:23"
-      },
-      {
-        "title": "第２０回紀の川市文化祭",
-        "url": "https://prtimes.jp/main/html/rd/p/000000082.000173667.html",
-        "source": "PR TIMES",
-        "published_at": "2026-10-22 13:00"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "広川町に新会社設立へ　タカショーデジテック",
-    "url": "https://wakayamashimpo.co.jp/2026/10/20261022_139869.html",
-    "source": "わかやま新報",
-    "published_at": "2026-10-22 16:12",
-    "summary": "・屋外照明専門メーカーの㈱タカショーデジテック（古澤良祐代表取締役）は、１６日開催の取締役会で、和歌山県内の活性化や観光振興を目的とした新会社（同社子会社）「㈱ＢＡＬＬＷＫＹＭ（ビーオールワカヤマ）」を１２月１８日付で広川町に設立することを決議した。\n・資本金は１億円で、大株主と持株比率はタカショーデジテック６８％。\n・新会社の具体的な取り組みや今後の事業展開については、決定次第順次公表される。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 14,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "戦火の人々の遺留品発見　県医大参加の沖縄戦遺骨収集",
-    "url": "https://wakayamashimpo.co.jp/2026/10/20261022_139867.html",
-    "source": "わかやま新報",
-    "published_at": "2026-10-22 16:12",
-    "summary": "・和歌山県立医科大学医学部法医学講座の学生と教員が、太平洋戦争末期の沖縄戦で犠牲になった戦没者の遺骨収集事業に参加している。\n・９回目となったことしは、昨年発見された、ほぼ全身が残る非常に珍しい埋葬骨と周辺の調査を継続して行い、年齢推定につながる新たな骨片や銃火器の一部など、戦火を生きた人々の生々しい痕跡が見つかった。\n・同講座の近藤稔和教授が理事長を務める日本法医病理学会は、沖縄戦の遺骨収集を行う地元ボランティア団体「ガマフヤー」の依頼を受け、２０１８年から遺骨収集事業に参加。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 11,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "家族と語り、意思表示を　中山さんが臓器移植の講演",
-    "url": "https://wakayamashimpo.co.jp/2026/10/20261022_139871.html",
-    "source": "わかやま新報",
-    "published_at": "2026-10-22 16:11",
-    "summary": "・１０月の「臓器移植普及推進月間」に合わせ、紀州葵ライオンズクラブ（加志勉会長）は２０日、和歌山市内での例会で臓器移植に関する講演会を開いた。\n・公益財団法人わかやま移植医療推進協会の臓器移植コーディネーター、中山恭伸さんが講師を務め、移植医療の仕組みや現状を説明し、臓器提供の意思表示や家族との事前の話し合いの重要性などを訴えた。\n・臓器提供は家族にとっても大きな出来事であり、本人の意思表示がなされていれば、９０・９％の人が尊重するとしている一方、本人の意思表示がない場合、臓器提供の決断を家族がすることに負担を感じると答えた人は８５・６％にも上っている。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 14,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "朱色を塗ってお祝い",
-    "url": "https://wakayama.keizai.biz/gpnews/1776722/",
-    "source": "和歌山経済新聞",
-    "published_at": "2026-10-22 16:00",
-    "summary": "・２１日、インド・ニューデリーで、朱色の化粧品をお互いの顔に塗り合う女性たち。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "ホームページの一部機能の停止（利用再開）",
-    "url": "https://www.town.kamitonda.lg.jp/soshiki/soumu/gyosei/5438.html",
-    "source": "上富田町",
-    "published_at": "2026-10-22 15:00",
-    "summary": "・なお、再開時期がわかり次第、本ページにてお知らせします。\n・停止期間中は、皆様に多大なるご不便とご迷惑をおかけしましたことを深くお詫び申し上げます。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "みて かんじて つながる劇体験 ～優良児童劇等公演事業～ 令和8年11月28日（土）和歌山県新宮市にて開催",
-    "url": "https://www.agara.co.jp/article/701123/",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-10-22 14:55",
-    "summary": "・アートホテル大阪ベイタワー SARAS ART GALLERY アーティスト・上山孝明氏の作品展を開催。\n・【10/29・30開催】業者間売買で取りこぼしを防いで成約を伸ばす 業販仲介の手法 | いえらぶGROUP。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 11,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "【10月26日は柿の日】和歌山県橋本市の大好評企画！特産品の柿を“勝手におすそ分け”で地域のファンを創出",
-    "url": "https://news.infoseek.co.jp/article/atpress_642867/",
-    "source": "Infoseek",
-    "published_at": "2026-10-22 14:45",
-    "summary": "・【10月26日は柿の日】和歌山県橋本市の大好評企画！特産品の柿を“勝手におすそ分け”で地域のファンを創出。",
-    "summary_type": "auto",
-    "category": "経済・産業",
-    "importance_score": 30,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "【10月26日は柿の日】和歌山県橋本市の大好評企画！ 特産品の柿を“勝手におすそ分け”で地域のファンを創出 | 橋本市役所",
-        "url": "https://www.atpress.ne.jp/news/642867",
-        "source": "アットプレス",
-        "published_at": "2026-10-22 14:45"
-      },
-      {
-        "title": "【10月26日は柿の日】和歌山県橋本市の大好評企画！特産品の柿を“勝手におすそ分け”で地域のファンを創出",
-        "url": "http://www.excite.co.jp/news/article/Atpress_642867/",
-        "source": "Excite エキサイト",
-        "published_at": "2026-10-22 14:45"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "新しい鳥居完成／真砂地区の春日神社／田辺市中辺路町",
-    "url": "https://www.agara.co.jp/article/702501",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-10-22 14:30",
-    "summary": "・レシピ部門最優秀に２人／うめぇ料理コンテスト／田辺うめ振興協。\n・医療の仕事　知って／紀南病院でフェスタ／１１月７日、田辺。\n・31日に野球の体験や交流会　子どもや初心者も歓迎、和歌山・田辺。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 17,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "音楽や工作楽しむ／田辺の子育て支援拠点／ハロウィーンで催し",
-    "url": "https://www.agara.co.jp/article/702502?rct=society",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-10-22 14:30",
-    "summary": "・白浜空港／防げバードストライク／田辺高生が対策考える。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 11,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "レシピ部門最優秀に２人／うめぇ料理コンテスト／田辺うめ振興協",
-    "url": "https://www.agara.co.jp/article/702557?rct=economy",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-10-22 14:30",
-    "summary": "・白浜空港／防げバードストライク／田辺高生が対策考える。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 11,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "学校で働きませんか／２４日、講師登録説明会",
-    "url": "https://www.agara.co.jp/article/702560",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-10-22 14:30",
-    "summary": "・県教育委員会は２４日午前９時半～正午、田辺市など県内４会場で講師登録の説明会を開く。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 8,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "不正アクセスによる「ふるさとチョイス」における個人情報の流出について",
-    "url": "http://www.town.kamitonda.lg.jp/soshiki/shinkou/kifukin/5433.html",
-    "source": "上富田町",
-    "published_at": "2026-10-22 14:10",
-    "summary": "・なお現在、「ふるさとチョイス」関連のサービスは停止しております。\n・※上記の情報は、現時点で確認できている外部に流出した個人情報の件数及び内容であり、今後の調査により変動する可能性があるとのことです。\n・身に覚えのないメールやSMSに記載されたURLや添付ファイルは開かず、不審なWebサイトに個人情報やパスワード等を入力しないようにしてください。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "高野山から始まる、地域の未来を担う人材育成",
-    "url": "https://news.nicovideo.jp/watch/nw19905429?news_ref=20_20",
-    "source": "ニコニコニュース",
-    "published_at": "2026-10-22 12:21",
-    "summary": "・高野山から始まる、地域の未来を担う人材育成。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "朝の陽射しで開き、日が落ちるころには閉じる リンドウの花 和歌山・那智勝浦町のお寺で見ごろ迎える（関西テレビ）",
-    "url": "https://news.yahoo.co.jp/articles/9680715d005bf315f9b6b47eb2ca4d24e1b96cf5",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-22 12:09",
-    "summary": "・和歌山県那智勝浦町の阿弥陀寺の境内に咲くリンドウです。\n・リンドウの花は釣鐘状で、朝の日差しを受けて開き、日が落ちる夕方には花を閉じます。\n・リンドウの花は今月末まで楽しめるということです。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "25日に「三宝大荒神護摩供」　尾鷲・熊野古道の八鬼山荒神堂、「参拝ツアー」参加募る",
-    "url": "https://topics.smt.docomo.ne.jp/article/ise/region/ise-20261022110006?fm=latestnews",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-22 11:00",
-    "summary": "・【尾鷲】護摩木をたいて無病息災を祈る「三宝大荒神護摩供」が25日正午から、世界遺産・熊野古道の八鬼山荒神堂（三重県尾鷲市南浦）で営まれる。\n・同市の尾鷲観光物産協会は同日、八鬼山を登って儀礼を見学する「参拝ツアー」を開催。\n・市内の有志らでつくる「八鬼山荒神堂保存会」が主催し、年に１回実施している。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 45,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "25日に「三宝大荒神護摩供」 尾鷲・熊野古道の八鬼山荒神堂、「参拝ツアー」参加募る",
-        "url": "https://www.47news.jp/15119089.html",
-        "source": "47NEWS",
-        "published_at": "2026-10-22 11:00"
-      },
-      {
-        "title": "25日に「三宝大荒神護摩供」 尾鷲・熊野古道の八鬼山荒神堂、「参拝ツアー」参加募る",
-        "url": "https://www.isenp.co.jp/2026/10/22/154996/25%E6%97%A5%E3%81%AB%E3%80%8C%E4%B8%89%E5%AE%9D%E5%A4%A7%E8%8D%92%E7%A5%9E%E8%AD%B7%E6%91%A9%E4%BE%9B%E3%80%8D%E3%80%80%E5%B0%BE%E9%B7%B2%E3%83%BB%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93%E3%81%AE%E5%85%AB/",
-        "source": "伊勢新聞",
-        "published_at": "2026-10-22 10:04"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "乳がん、家族で考える啓発イベント 和歌山で25日に開催（朝日新聞）",
-    "url": "https://news.yahoo.co.jp/articles/2a663e9e128b5c02f3e453a075b4393e66deec2b",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-22 10:45",
-    "summary": "・乳がん、家族で考える啓発イベント 和歌山で25日に開催（朝日新聞）。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "KEYAKI Light Parade by FeStA LuCe",
-    "url": "https://topics.smt.docomo.ne.jp/article/eventbank/region/eventbank-10647655?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch6",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-22 10:00",
-    "summary": "・KEYAKI Light Parade by FeStA LuCe。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "10/25は親子でウミガメの甲羅みがき！串本海中公園で予約不要・無料のふれあい体験",
-    "url": "https://report.iko-yo.net/articles/34942",
-    "source": "いこーよニュース",
-    "published_at": "2026-10-22 09:03",
-    "summary": "・和歌山県串本町の「串本海中公園」で、2026年10月25日（日）にウミガメの甲羅みがき体験が開催されます。\n・「串本海中公園」はウミガメの人工繁殖に毎年成功している水族館。\n・春と秋に開催されているのには、何かワケがあるの？ ウミガメにも季節のお手入れがあるの？ そんな素朴な疑問を、串本海中公園の飼育員さんに聞いてみました！",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "高野山・金剛峯寺 持仏本尊の弘法大師坐像など公開 24日から秋の特別拝観",
-    "url": "https://www.sankei.com/article/20261022-3KERBUYYCNIMTAPEIQLZOELEWA/",
-    "source": "産経ニュース",
-    "published_at": "2026-10-22 08:30",
-    "summary": "・高野山真言宗総本山・金剛峯寺（和歌山県高野町）は24日から、秋の特別拝観として通常非公開の「奥殿」と「持仏本尊　弘法大師坐像」を公開する。\n・弘法大師坐像は、金剛峯寺持仏の本尊の秘仏。\n・金剛峯寺の拝観料に加え、奥殿はさらに拝観料500円が必要。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 14,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "森のキャビア出荷始まる 和歌山で収穫 プチプチ食感、フィンガーライム注目 露地栽培で豊かな香りに 3千袋見込む",
-    "url": "https://news.yahoo.co.jp/articles/c94101daaaab95cf84f567d26fd85f10337df417",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-22 08:02",
-    "summary": "・和歌山県のJAわかやまありだ地域本部の金屋営農センターは8日、フィンガーライムを集荷した。\n・品質、生産量ともに平年並みで、露地栽培ならではの香り豊かな果実に仕上がっている。\n・11月に最盛期を迎え、約3000パックの出荷を見込む。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "【JUST!シン日本遺産】シーズン３ # 13をちら見せ 和歌山県広川町のシン日本遺産を探す！しずげんが海上釣堀で豪華飯を賭けて釣り対決！ 続きはTELASAで",
-    "url": "https://youtu.be/IyYPPPAsLOY?si=",
-    "source": "YouTube",
-    "published_at": "2026-10-22 08:00",
-    "summary": "・【JUST!シン日本遺産】シーズン３ # 13をちら見せ 和歌山県広川町のシン日本遺産を探す！しずげんが海上釣堀で豪華飯を賭けて釣り対決！ 続きはTELASAで",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 30,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "【JUST!シン日本遺産】シーズン３ # 13をちら見せ 和歌山県広川町のシン日本遺産を探す！しずげんが海上釣堀で豪華飯を賭けて釣り対決！ 続きはTELASAで",
-        "url": "https://youtu.be/IyYPPPAsLOY?si=_Aej5DS9nryzgqd-",
-        "source": "YouTube",
-        "published_at": "2026-10-22 08:00"
-      },
-      {
-        "title": "【JUST!シン日本遺産】シーズン３ # 13をちら見せ 和歌山県広川町のシン日本遺産を探す！しずげんが海上釣堀で豪華飯を賭けて釣り対決！ 続きはTELASAで",
-        "url": "https://youtu.be/IyYPPPAsLOY?si=RJQIXIvCIqPJVpt0",
-        "source": "YouTube",
-        "published_at": "2026-10-22 08:00"
-      }
-    ]
   }
 ]
