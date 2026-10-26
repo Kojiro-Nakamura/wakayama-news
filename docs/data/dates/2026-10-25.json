@@ -104,6 +104,26 @@
   },
   {
     "article_date": "2026-10-25",
+    "title": "【和歌山県】10/26の天気予報",
+    "url": "https://www.fnn.jp/articles/-/1139500",
+    "source": "FNNプライムオンライン",
+    "published_at": "2026-10-25 19:30",
+    "summary": "・和歌山地方気象台が10月25日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・最高気温は、和歌山23℃、潮岬23℃でしょう。\n・各地の天気予報は以下の通りです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "【和歌山県】10/25の天気予報",
+        "url": "https://www.fnn.jp/articles/-/1139348",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-10-25 05:10"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
     "title": "和歌山で大雨「土砂災害危険警報」一時発表 土砂崩れで通行止めの道路も JR和歌山線などで運転見合わせ",
     "url": "https://news.livedoor.com/article/detail/32653135/",
     "source": "ライブドアニュース",
@@ -157,9 +177,16 @@
     "summary": "・和歌山県内のＪＲきのくに線 和歌山～御坊駅間で倒竹発生で運転再開のめど立たず。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
-    "importance_score": 5,
-    "is_featured": false
+    "importance_score": 20,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "和歌山県内のＪＲきのくに線　和歌山〜御坊駅間で倒竹発生で運転再開のめど立たず",
+        "url": "https://topics.smt.docomo.ne.jp/article/abcnews/region/abcnews-63244",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 15:54"
+      }
+    ]
   },
   {
     "article_date": "2026-10-25",
@@ -170,6 +197,8 @@
     "summary": "・２５日午前１０時すぎの和歌山市内。\n・南から暖かく湿った空気が流れ込んだ影響で、和歌山市では午前１０時ごろまでの１時間に６８ミリの雨を観測し、１０月の１時間あたりに降った雨量の１位を更新するなど、県内の各地で非常に激しい雨が降りました。\n・和歌山県内のＪＲ各路線で運転見合わせ相次ぐ　大雨の影響。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 44,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県で北部中心に激しい雨 和歌山市では１時間に６８ミリの雨 １０月の観測史上１位を更新",
@@ -183,9 +212,7 @@
         "source": "Infoseek",
         "published_at": "2026-10-25 18:07"
       }
-    ],
-    "importance_score": 44,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-25",
@@ -222,6 +249,8 @@
     "summary": "・和歌山で“10月観測史上最大”の雨 台風と前線“非常に激しい雨”も",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 45,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "台風30号などの影響で近畿に大雨 和歌山市・湯浅町で10月の観測史上最大雨量を記録 あす夜遅くにかけ雷を伴う非常に激しい雨の見込み",
@@ -241,43 +270,7 @@
         "source": "ktv.jp",
         "published_at": "2026-10-25 18:09"
       }
-    ],
-    "importance_score": 45,
-    "is_featured": false
-  },
-  {
-    "title": "【台風情報】和歌山県で線状降水帯直前予測 大型の台風30号 26日には温帯低気圧に 前線活発化で警報級の大雨 ※雨と風のシミュレーション（気象庁）（RCC中国放送）",
-    "url": "https://news.yahoo.co.jp/articles/0291dba540704c93086e6c47cd175981fe0b33ed",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-25 11:08",
-    "related_articles": [
-      {
-        "title": "【台風情報】和歌山県で線状降水帯直前予測 大型の台風30号 26日には温帯低気圧に 前線活発化で警報級の大雨 ※雨と風のシミュレーション（気象庁） (RCC中国放送)",
-        "url": "https://news.yahoo.co.jp/articles/0291dba540704c93086e6c47cd175981fe0b33ed/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 11:08"
-      },
-      {
-        "title": "台風30号北上で前線活発 和歌山県北部に「線状降水帯直前予測」 西、東日本はあさってにかけ大雨のおそれ",
-        "url": "https://news.ntv.co.jp/category/weather/14a7bf89da23411e89cb9ec8886496ee",
-        "source": "日テレNEWS NNN",
-        "published_at": "2026-10-25 11:21"
-      },
-      {
-        "title": "【台風情報】和歌山県で線状降水帯直前予測発表 今後、線状降水帯が発生して大雨災害発生の危険度が急激に高まる可能性 近畿中部では２５日昼過ぎにかけて低い土地の浸水、河川の増水や氾濫、土砂災害に厳重に警戒【雨と風のシミュレーション】 | 富山のニュース｜天気・",
-        "url": "https://newsdig.tbs.co.jp/articles/tut/3036372",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 12:16"
-      },
-      {
-        "title": "【台風情報】和歌山県で線状降水帯直前予測発表 今後、線状降水帯が発生して大雨災害発生の危険度が急激に高まる可能性 近畿中部では２５日昼過ぎにかけて低い土地の浸水、河川の増水や氾濫、土砂災害に厳重に警戒【雨と風のシミュレーション】 | 富山のニュース｜天気・",
-        "url": "https://newsdig.tbs.co.jp/articles/tut/3036372?display=1",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 12:16"
-      }
-    ],
-    "importance_score": 63,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-25",
@@ -288,7 +281,7 @@
     "summary": "・台風30号と秋雨前線の影響で、和歌山県では断続的に激しい雨が降り、一時、レベル4の土砂災害危険警報が発表されました。\n・気象台は一時、和歌山県有田市や紀美野町などにレベル4の土砂災害危険警報を発表していましたが、現在は解除しています。\n・本州付近には前線が停滞していて、今後も大雨になるおそれがあり、土砂災害や低い土地への浸水などに十分注意が必要です。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "importance_score": 57,
+    "importance_score": 87,
     "is_featured": false,
     "related_articles": [
       {
@@ -308,6 +301,18 @@
         "url": "https://news.yahoo.co.jp/articles/2e28b67e5867340948c4797f2315296e710a5a55",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-25 17:40"
+      },
+      {
+        "title": "【台風情報】和歌山県で線状降水帯直前予測発表 今後、線状降水帯が発生して大雨災害発生の危険度が急激に高まる可能性 近畿中部では２５日昼過ぎにかけて低い土地の浸水、河川の増水や氾濫、土砂災害に厳重に警戒【雨と風のシミュレーション】 | 富山のニュース｜天気・",
+        "url": "https://newsdig.tbs.co.jp/articles/tut/3036372",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 12:16"
+      },
+      {
+        "title": "【台風情報】和歌山県で線状降水帯直前予測発表 今後、線状降水帯が発生して大雨災害発生の危険度が急激に高まる可能性 近畿中部では２５日昼過ぎにかけて低い土地の浸水、河川の増水や氾濫、土砂災害に厳重に警戒【雨と風のシミュレーション】 | 富山のニュース｜天気・",
+        "url": "https://newsdig.tbs.co.jp/articles/tut/3036372?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 12:16"
       }
     ]
   },
@@ -333,7 +338,7 @@
     "summary": "・和歌山県北部で、今後３時間以内に線状降水帯が発生し、非常に激しい雨が同じ場所で降り続く可能性が高まっているとして、気象庁はきょう（２５日）午前１０時５８分、線状降水帯の直前予測を発表しました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 143,
+    "importance_score": 158,
     "is_featured": false,
     "related_articles": [
       {
@@ -389,6 +394,12 @@
         "url": "https://www.asahi.com/articles/ASVBT14L7VBTPTIL002M.html",
         "source": "朝日新聞",
         "published_at": "2026-10-25 12:47"
+      },
+      {
+        "title": "台風30号で和歌山県北部に線状降水帯直前予測",
+        "url": "https://www.smartnews.com/news/article/5004924075403904266-%E5%8F%B0%E9%A2%A830%E5%8F%B7%E3%81%A7%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E5%8C%97%E9%83%A8%E3%81%AB%E7%B7%9A%E7%8A%B6%E9%99%8D%E6%B0%B4%E5%B8%AF%E7%9B%B4%E5%89%8D%E4%BA%88%E6%B8%AC",
+        "source": "SmartNews",
+        "published_at": "2026-10-25 13:28"
       }
     ]
   },
@@ -481,6 +492,50 @@
   },
   {
     "article_date": "2026-10-25",
+    "title": "【速報】和歌山県に「線状降水帯直前予測」 今後３時間以内に線状降水帯発生のおそれ",
+    "url": "https://www.asahi.co.jp/webnews/pages/abc_63241.html",
+    "source": "朝日放送",
+    "published_at": "2026-10-25 15:48",
+    "summary": "・気象庁は、和歌山県に線状降水帯直前予測に関する気象防災速報を発表しました。\n・和歌山県北部では今後３時間以内に線状降水帯が発生し、土砂災害や氾濫などで周囲の状況が一変して避難が困難になる恐れがあります。\n・また気象庁は、午前１１時すぎに和歌山県の紀美野町などに「レベル４土砂災害危険警報」を発表しました。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "和歌山県北部に線状降水帯直前予測、非常に激しい雨が降るおそれがあります",
+        "url": "https://yasashii.asahi.com/articles/article_0016150.html",
+        "source": "やさしい朝日新聞",
+        "published_at": "2026-10-25 14:10"
+      },
+      {
+        "title": "【速報】和歌山県北部に「線状降水帯直前予測」 遅くとも3時間以内に発生、非常に激しい大雨のおそれ",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036340",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 11:31"
+      },
+      {
+        "title": "和歌山県北部に「線状降水帯直前予測」 3時間以内に災害もたらす大雨のおそれ（2026年10月24日掲載）｜日テレNEWS NNN",
+        "url": "https://news.ntv.co.jp/category/weather/bf9f3c5836a64f3fb477935b2ffc0d32",
+        "source": "日テレNEWS NNN",
+        "published_at": "2026-10-25 11:05"
+      },
+      {
+        "title": "和歌山県で線状降水帯が発生のおそれ 大雨に厳重警戒",
+        "url": "https://weathernews.jp/news/202610/250121/",
+        "source": "ウェザーニュース",
+        "published_at": "2026-10-25 11:00"
+      },
+      {
+        "title": "【速報】和歌山県北部は今後3時間以内に線状降水帯発生のおそれ 25日11時頃発表(気象予報士 日直主任)",
+        "url": "https://tenki.jp/forecaster/deskpart/2026/10/25/41085.html",
+        "source": "tenki.jp",
+        "published_at": "2026-10-25 11:12"
+      }
+    ],
+    "importance_score": 92,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
     "title": "和歌山 由良町と広川町の避難指示 解除",
     "url": "https://news.web.nhk/newsweb/na/nd-20261025de65174",
     "source": "NHKニュース",
@@ -519,45 +574,13 @@
     "related_articles": []
   },
   {
-    "article_date": "2026-10-25",
-    "title": "和歌山県北部に線状降水帯直前予測、非常に激しい雨が降るおそれがあります",
-    "url": "https://yasashii.asahi.com/articles/article_0016150.html",
-    "source": "やさしい朝日新聞",
-    "published_at": "2026-10-25 14:10",
-    "summary": "・10月25日（日曜日）午前10時58分、 気象庁 は、 和歌山県 北部で「線状降水帯」が発生する可能性が高くなっていると発表しました。\n・線状降水帯は、雨を降らせる雲が次々とできて、同じ場所に非常に激しい雨が長い時間降り続く現象です。\n・気象庁は、発表から3時間以内に線状降水帯が発生する可能性が高いとして、注意を呼びかけました。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "related_articles": [
-      {
-        "title": "【速報】和歌山県北部に「線状降水帯直前予測」 遅くとも3時間以内に発生、非常に激しい大雨のおそれ",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3036340",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 11:31"
-      },
-      {
-        "title": "和歌山県北部に「線状降水帯直前予測」 3時間以内に災害もたらす大雨のおそれ（2026年10月24日掲載）｜日テレNEWS NNN",
-        "url": "https://news.ntv.co.jp/category/weather/bf9f3c5836a64f3fb477935b2ffc0d32",
-        "source": "日テレNEWS NNN",
-        "published_at": "2026-10-25 11:05"
-      },
-      {
-        "title": "【速報】和歌山県に「線状降水帯直前予測」 今後３時間以内に線状降水帯発生のおそれ",
-        "url": "https://www.asahi.co.jp/webnews/pages/abc_63241.html",
-        "source": "朝日放送",
-        "published_at": "2026-10-25 11:38"
-      }
-    ],
-    "importance_score": 59,
-    "is_featured": false
-  },
-  {
     "title": "和歌山 紀美野町にレベル3高齢者等避難の情報",
     "url": "https://news.web.nhk/newsweb/na/nd-20261025de65140",
     "source": "NHKニュース",
     "published_at": "2026-10-25 13:51",
     "importance_score": 5,
     "is_featured": false,
-    "summary": "・和歌山 紀美野町にレベル3高齢者等避難の情報",
+    "summary": "・和歌山 紀美野町にレベル3高齢者等避難の情報。",
     "related_articles": []
   },
   {
@@ -569,9 +592,16 @@
     "summary": "・九品寺地区の山中で、蜂の巣箱が荒らされ周囲の状況から熊の出没が確認されました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 3,
+    "importance_score": 18,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "熊の出没情報について（10月25日）",
+        "url": "https://www.city.kainan.lg.jp/kakubusho/machizukuribu/norinsuisangakari/oshirase/8649.html",
+        "source": "海南市",
+        "published_at": "2026-10-25 13:35"
+      }
+    ]
   },
   {
     "article_date": "2026-10-25",
@@ -582,6 +612,8 @@
     "summary": "・気象庁は25日12時33分、和歌山県広川町、由良町にレベル4土砂災害危険警報を発表しました。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 411,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【レベル4土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点（TBS NEWS DIG Powered by JNN）",
@@ -732,10 +764,20 @@
         "url": "https://news.yahoo.co.jp/articles/58f055308e3ff42f60a5eec30b9029ce84ca576a/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-25 11:08"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
+        "url": "https://news.yahoo.co.jp/articles/5e7cc1970d255a28c3fce63157a7a3db68bdbd53",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:08"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・有田市に発表 10:33時点",
+        "url": "https://article.auone.jp/6ef38074-9a67-4f62-bc1e-fb86dc6bb768",
+        "source": "au Webポータル",
+        "published_at": "2026-10-25 10:33"
       }
-    ],
-    "importance_score": 381,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-25",
@@ -751,10 +793,127 @@
     "related_articles": []
   },
   {
+    "article_date": "2026-10-25",
+    "title": "岡、種目別つり輪で４位 世界体操",
+    "url": "https://wakayama.keizai.biz/gpnews/1777688/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-25 12:21",
+    "summary": "・体操の世界選手権第８日は２４日、オランダのロッテルダムで種目別決勝が行われ、男子のつり輪で岡慎之助が１４．１３３点で４位に入った。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "importance_score": 0,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "台風と秋雨前線で大雨に 和歌山県 線状降水帯の恐れ",
+    "url": "https://news.tv-asahi.co.jp/news_society/articles/000542751.html",
+    "source": "テレ朝NEWS",
+    "published_at": "2026-10-25 12:09",
+    "summary": "・台風と秋雨前線で大雨に 和歌山県 線状降水帯の恐れ。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "importance_score": 0,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "近畿で非常に激しい雨 和歌山県は線状降水帯発生のおそれも 26日まで雨のピーク(気象予報士 藤川 徹)",
+    "url": "https://tenki.jp/forecaster/t_fujikawa/2026/10/25/41086.html",
+    "source": "tenki.jp",
+    "published_at": "2026-10-25 11:59",
+    "summary": "・台風30号周辺の暖かく湿った空気の影響で、四国地方から近畿地方には線状に連なる雨雲がかかっています。\n・和歌山市では1時間に68.0ミリの非常に激しい雨が降り、10月の観測史上1位を更新しました。\n・和歌山県北部では、25日(日)の昼過ぎにかけて、線状降水帯が発生するおそれがあります。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "importance_score": 39,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "近畿で非常に激しい雨 和歌山県は線状降水帯発生のおそれも 26日まで雨のピーク",
+        "url": "https://article.auone.jp/79a78489-c032-458d-b450-b3318fac39a1",
+        "source": "au Webポータル",
+        "published_at": "2026-10-25 11:59"
+      },
+      {
+        "title": "近畿で非常に激しい雨 和歌山県は線状降水帯発生のおそれも 26日まで雨のピーク（tenki.jp）",
+        "url": "https://news.yahoo.co.jp/articles/b851582cfe21c692f1d4df170b767776c051c88a",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:59"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "体験型イベント楽しくまな防災【開催中止のお知らせ】",
+    "url": "https://www.city.kainan.lg.jp/kakubusho/soumubu/kikikanrika/oshirase/8610.html",
+    "source": "海南市",
+    "published_at": "2026-10-25 11:39",
+    "summary": "・本日、10月25日（日曜日）開催の体験型イベント「楽しく まな防災」は、レベル3大雨警報の発表により中止いたします。\n・なお、警報が解除された場合につきましても、イベントの再開はいたしません。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "importance_score": 9,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "【映像】和歌山市で道路が川のように カラーコーンも流される",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261025de65066",
+    "source": "NHKニュース",
+    "published_at": "2026-10-25 11:33",
+    "summary": "・【映像】和歌山市で道路が川のように カラーコーンも流される。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "importance_score": 8,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "title": "和歌山・紀美野町などに「レベル4土砂災害危険警報」自治体からの避難情報の確認を｜Quebee キュエビー",
+    "url": "https://www.qab.co.jp/quebee/video/000542755/",
+    "source": "QAB 琉球朝日放送",
+    "published_at": "2026-10-25 11:31",
+    "importance_score": 8,
+    "is_featured": false,
+    "summary": "・和歌山・紀美野町などに「レベル4土砂災害危険警報」自治体からの避難情報の確認を｜Quebee キュエビー。",
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "台風30号北上で前線活発 和歌山県北部に「線状降水帯直前予測」 西、東日本はあさってにかけ大雨のおそれ",
+    "url": "https://news.ntv.co.jp/category/weather/14a7bf89da23411e89cb9ec8886496ee",
+    "source": "日テレNEWS NNN",
+    "published_at": "2026-10-25 11:21",
+    "summary": "・台風30号の北上に伴い、前線の活動が活発になっています。\n・先ほど和歌山県北部には、線状降水帯直前予測が発表され、災害発生の危険度が急激に高まっています。\n・先ほど、和歌山県北部に今後3時間以内に線状降水帯が発生し、非常に激しい雨が同じ場所で降り続く可能性が高まっているとして、線状降水帯直前予測が発表されました。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "【台風情報】和歌山県で線状降水帯直前予測 大型の台風30号 26日には温帯低気圧に 前線活発化で警報級の大雨 ※雨と風のシミュレーション（気象庁）（RCC中国放送）",
+        "url": "https://news.yahoo.co.jp/articles/0291dba540704c93086e6c47cd175981fe0b33ed",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:08"
+      },
+      {
+        "title": "【台風情報】和歌山県で線状降水帯直前予測 大型の台風30号 26日には温帯低気圧に 前線活発化で警報級の大雨 ※雨と風のシミュレーション（気象庁） (RCC中国放送)",
+        "url": "https://news.yahoo.co.jp/articles/0291dba540704c93086e6c47cd175981fe0b33ed/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:08"
+      }
+    ],
+    "importance_score": 39,
+    "is_featured": false
+  },
+  {
     "title": "【レベル3大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
     "url": "https://news.yahoo.co.jp/articles/848a9d12752dfd41981b352ef3205b8023e22ce1",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-25 11:08",
+    "importance_score": 201,
+    "is_featured": true,
+    "summary": "・【レベル3大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
     "related_articles": [
       {
         "title": "【レベル３大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点｜Infoseekニュース",
@@ -827,117 +986,14 @@
         "url": "https://news.yahoo.co.jp/articles/1ce2f435a02338438eee1bbbbf5b8dcd07f42138/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-25 10:25"
-      }
-    ],
-    "importance_score": 186,
-    "is_featured": true
-  },
-  {
-    "article_date": "2026-10-25",
-    "title": "岡、種目別つり輪で４位 世界体操",
-    "url": "https://wakayama.keizai.biz/gpnews/1777688/",
-    "source": "和歌山経済新聞",
-    "published_at": "2026-10-25 12:21",
-    "summary": "・体操の世界選手権第８日は２４日、オランダのロッテルダムで種目別決勝が行われ、男子のつり輪で岡慎之助が１４．１３３点で４位に入った。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-25",
-    "title": "台風と秋雨前線で大雨に 和歌山県 線状降水帯の恐れ",
-    "url": "https://news.tv-asahi.co.jp/news_society/articles/000542751.html",
-    "source": "テレ朝NEWS",
-    "published_at": "2026-10-25 12:09",
-    "summary": "・台風と秋雨前線で大雨に 和歌山県 線状降水帯の恐れ。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-25",
-    "title": "近畿で非常に激しい雨 和歌山県は線状降水帯発生のおそれも 26日まで雨のピーク(気象予報士 藤川 徹)",
-    "url": "https://tenki.jp/forecaster/t_fujikawa/2026/10/25/41086.html",
-    "source": "tenki.jp",
-    "published_at": "2026-10-25 11:59",
-    "summary": "・台風30号周辺の暖かく湿った空気の影響で、四国地方から近畿地方には線状に連なる雨雲がかかっています。\n・和歌山市では1時間に68.0ミリの非常に激しい雨が降り、10月の観測史上1位を更新しました。\n・和歌山県北部では、25日(日)の昼過ぎにかけて、線状降水帯が発生するおそれがあります。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 54,
-    "is_featured": false,
-    "related_articles": [
+      },
       {
-        "title": "近畿で非常に激しい雨 和歌山県は線状降水帯発生のおそれも 26日まで雨のピーク",
-        "url": "https://article.auone.jp/79a78489-c032-458d-b450-b3318fac39a1",
+        "title": "【レベル３大雨警報】和歌山県・海南市、橋本市に発表 10:23時点",
+        "url": "https://article.auone.jp/7f8a074a-1385-44cd-9bd6-d4efe862622d",
         "source": "au Webポータル",
-        "published_at": "2026-10-25 11:59"
-      },
-      {
-        "title": "近畿で非常に激しい雨 和歌山県は線状降水帯発生のおそれも 26日まで雨のピーク（tenki.jp）",
-        "url": "https://news.yahoo.co.jp/articles/b851582cfe21c692f1d4df170b767776c051c88a",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 11:59"
-      },
-      {
-        "title": "和歌山県で線状降水帯が発生のおそれ 大雨に厳重警戒",
-        "url": "https://weathernews.jp/news/202610/250121/",
-        "source": "ウェザーニュース",
-        "published_at": "2026-10-25 11:00"
+        "published_at": "2026-10-25 10:23"
       }
     ]
-  },
-  {
-    "article_date": "2026-10-25",
-    "title": "体験型イベント楽しくまな防災【開催中止のお知らせ】",
-    "url": "https://www.city.kainan.lg.jp/kakubusho/soumubu/kikikanrika/oshirase/8610.html",
-    "source": "海南市",
-    "published_at": "2026-10-25 11:39",
-    "summary": "・本日、10月25日（日曜日）開催の体験型イベント「楽しく まな防災」は、レベル3大雨警報の発表により中止いたします。\n・なお、警報が解除された場合につきましても、イベントの再開はいたしません。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-25",
-    "title": "【映像】和歌山市で道路が川のように カラーコーンも流される",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261025de65066",
-    "source": "NHKニュース",
-    "published_at": "2026-10-25 11:33",
-    "summary": "・【映像】和歌山市で道路が川のように カラーコーンも流される。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 8,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "title": "和歌山・紀美野町などに「レベル4土砂災害危険警報」自治体からの避難情報の確認を｜Quebee キュエビー",
-    "url": "https://www.qab.co.jp/quebee/video/000542755/",
-    "source": "QAB 琉球朝日放送",
-    "published_at": "2026-10-25 11:31",
-    "importance_score": 8,
-    "is_featured": false,
-    "summary": "・和歌山・紀美野町などに「レベル4土砂災害危険警報」自治体からの避難情報の確認を｜Quebee キュエビー",
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-25",
-    "title": "【速報】和歌山県北部は今後3時間以内に線状降水帯発生のおそれ 25日11時頃発表(気象予報士 日直主任)",
-    "url": "https://tenki.jp/forecaster/deskpart/2026/10/25/41085.html",
-    "source": "tenki.jp",
-    "published_at": "2026-10-25 11:12",
-    "summary": "・和歌山県北部では、今後3時間以内に線状降水帯が発生して、命に危険が及ぶ災害発生の危険度が急激に高まる可能性があります。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
   },
   {
     "article_date": "2026-10-25",
@@ -1045,16 +1101,16 @@
   },
   {
     "article_date": "2026-10-25",
-    "title": "【和歌山県】10/25の天気予報",
-    "url": "https://www.fnn.jp/articles/-/1139348",
-    "source": "FNNプライムオンライン",
-    "published_at": "2026-10-25 05:10",
-    "summary": "・和歌山地方気象台が10月25日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山28℃、潮岬27℃でしょう。\n・各地の天気予報は以下の通りです。",
+    "title": "高野山(和歌山県)の過去のアメダス(2026年10月24日)",
+    "url": "https://tenki.jp/past/2026/10/24/amedas/6/33/65061.html",
+    "source": "tenki.jp",
+    "published_at": "2026-10-25 03:13",
+    "summary": "・※日最高気温・日最低気温・日最大風速は、アメダス10分値です。\n・高野山(コウヤサン)のアメダス(2026年10月24日)2026年10月24日。\n・高野山(和歌山県)のアメダスによる2026年10月24日の気温、降水量、風向・風速、日照時間、積雪深の観測情報を閲覧できます。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "is_featured": false
   },
   {
     "article_date": "2026-10-25",
