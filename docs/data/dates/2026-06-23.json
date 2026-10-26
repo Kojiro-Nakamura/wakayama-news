@@ -9,7 +9,20 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 12,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-06-23",
+    "title": "上富田ＦＣが優勝 12歳以下の和歌山県大会、サッカー",
+    "url": "https://www.agara.co.jp/article/651067",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-06-23 16:00",
+    "summary": "・熱い応援相次ぐ　サッカーＷ杯､本宮大社のメッセージボード､和歌山。\n・耕作地放棄地で初収穫　4年前にヤマモモ植樹、住民有志の会、和歌山県上富田。\n・田辺高チームが県大会優勝　高校生金融経済クイズ、和歌山。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [],
+    "importance_score": 20,
+    "is_featured": true
   }
 ]
