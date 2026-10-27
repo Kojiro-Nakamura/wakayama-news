@@ -1,15 +1,22 @@
 [
   {
     "article_date": "2023-03-09",
-    "title": "有田川町吉備金屋の警報・注意報",
-    "url": "https://tenki.jp/bousai/warn/6/33/3036601/",
+    "title": "日高川町川辺の警報・注意報",
+    "url": "https://tenki.jp/bousai/warn/6/33/3039201/",
     "source": "tenki.jp",
-    "published_at": "2023-03-09 19:10",
-    "summary": "・北部に現在発表されている早期注意情報はありません。\n・※ 警報は、警報級の現象が予想される時間帯の最大6時間前に発表します。\n・有田川町の警報・注意報の最新状況。",
+    "published_at": "2023-03-09 19:15",
+    "summary": "・北部に現在発表されている早期注意情報はありません。\n・※ 警報は、警報級の現象が予想される時間帯の最大6時間前に発表します。\n・北部の早期注意情報（警報級の可能性）。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 12,
-    "is_featured": true,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "有田川町吉備金屋の警報・注意報",
+        "url": "https://tenki.jp/bousai/warn/6/33/3036601/",
+        "source": "tenki.jp",
+        "published_at": "2023-03-09 19:10"
+      }
+    ],
+    "importance_score": 27,
+    "is_featured": true
   }
 ]

@@ -8,9 +8,9 @@
     "summary": "・空き店舗活用イベント「まちなかイロドリ（通称＝まちドリ）」が11月7日・8日、北ぶらくり丁商店街周辺で開催される。\n・雇用と産業の創出を目的に空き店舗物件を活用し試験的な出店を行う同イベントは、2015（平成27）年から始まり今年で12年目。\n・同イベントに合わせ、第2日曜開催のマーケットイベント「北ぶらリメンバーMARKET」を土曜・日の2日間に拡張する。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
@@ -21,9 +21,9 @@
     "summary": "・空き店舗活用イベント「まちなかイロドリ（通称＝まちドリ）」が11月7日・8日、北ぶらくり丁商店街周辺で開催される。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
@@ -34,9 +34,9 @@
     "summary": "・【国道425号】印南町内で土砂災害 通行止め解除には時間がかかる見込み（26日20:00現在）。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
@@ -47,6 +47,8 @@
     "summary": "・【南紀白浜マリオットホテル】和歌山が育んだブランドいちご「まりひめ」とショコラが織りなす「MARIHIME。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【南紀白浜マリオットホテル】和歌山が育んだブランドいちご「まりひめ」とショコラが織りなす「MARIHIME Strawberry Afternoon Tea」を発売｜Infoseekニュース",
@@ -54,9 +56,7 @@
         "source": "Infoseek",
         "published_at": "2026-10-26 14:06"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -67,6 +67,8 @@
     "summary": "・和歌山県北山村特産のかんきつ類、じゃばらを使った加工食品などを手がける企業「じゃばらいず北山」が、食品ロス削減への取り組みを評価する「食品産業もったいない大賞」で、最優秀の農林水産大臣賞を受賞した。\n・じゃばら果汁を搾った後に年間約60トン発生する果皮など搾りかすの全てを食品原料などに再利用していることが評価された。\n・そのほか、乾燥させた果皮を養殖マグロの飼料にしたり、パウダー状にしてサプリに活用したりなどの取り組みを進め、昨年は約60トンの残渣（ざんさ）を再利用した。",
     "summary_type": "auto",
     "category": "経済・産業",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "特産「じゃばら」の果皮などを食品原料に再利用　和歌山・北山村の企業が農林水産大臣賞",
@@ -74,9 +76,7 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-26 20:39"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -87,9 +87,9 @@
     "summary": "・都市計画法第21条第2項において準用する同法第17条第1項の規定に基づき、次の都市計画道路の変更案の縦覧を行います。\n・縦覧期間中、変更案に対する意見書を提出することができます。\n・変更計画図（案） (PDFファイル: 1.7MB)。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
@@ -100,6 +100,8 @@
     "summary": "・10周年の新コンテンツとして、XR技術を活用したイルミネーション体験「NOELLUCE＜ノエル・ルーチェ＞」が登場。\n・XRヘッドセットと光の杖を使い、「もう一つのクリスマス」の物語に入り込める新感覚のイルミネーションです。\n・杖をかざすと、目の前のイルミネーションやデジタル映像が自分の動きに呼応してダイナミックに変化。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山で光のフェス「フェスタ・ルーチェ」--ドローンショーやランタンに加え、参加型イルミネーション・ツアーも初開催",
@@ -107,9 +109,7 @@
         "source": "マイナビニュース",
         "published_at": "2026-10-26 13:21"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -120,9 +120,9 @@
     "summary": "・串本町に元駐日トルコ大使の遺品を寄贈 和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
@@ -133,6 +133,8 @@
     "summary": "・鯨に関する日本遺産10年記念セミナー 和歌山 太地町。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 35,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "捕鯨の歴史と文化学ぶ 日本遺産10周年セミナー、和歌山・太地で（紀伊民報）",
@@ -146,9 +148,7 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-10-26 14:30"
       }
-    ],
-    "importance_score": 35,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -159,6 +159,8 @@
     "summary": "・和歌山県で最大震度1の地震 和歌山県・海南市、有田市。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 120,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市（TBS NEWS DIG Powered by JNN）",
@@ -201,10 +203,34 @@
         "url": "https://news.yahoo.co.jp/articles/d55edf150e6c4841cea3bca4816d51472cd3e329",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-26 18:50"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市",
+        "url": "https://article.auone.jp/e9b6359f-69ff-48be-9778-713b727d840f",
+        "source": "au Webポータル",
+        "published_at": "2026-10-26 18:50"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-10-26",
+    "title": "和歌山県 局地的に激しい雨 秋雨前線の影響 河川の増水や土砂災害などに警戒を（テレビ和歌山）",
+    "url": "https://news.yahoo.co.jp/articles/7cffe2ea94994d13f5d7fcb50f442aa99f106107",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-26 18:40",
+    "summary": "・秋雨前線の影響で、県内では今日も大気の状態が不安定となっていて、局地的に激しい雨が降りました。\n・このあとも、河川の増水などに注意が必要なほか、北部では地盤が緩んでいるところもあるため、土砂災害に警戒して下さい。\n・県内では、昨日、北部や中部を中心に大雨となり、和歌山市などで道路が冠水するなどし、今日も、台風から変わった温帯低気圧から、前線に向かって暖かく湿った空気が流れ込んでいる影響で、大気の状態が不安定となり局地的に強い雨が降りました。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "土砂災害、浸水に警戒を／温帯低気圧や前線の影響 （14:30）",
+        "url": "https://www.agara.co.jp/article/703930",
+        "source": "紀伊民報",
+        "published_at": "2026-10-26 17:31"
       }
     ],
-    "importance_score": 105,
-    "is_featured": true
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-26",
@@ -215,6 +241,8 @@
     "summary": "・「Cafe de KAWAKYU（カフェ・ド・カワキュウ）」（和歌山県西牟婁郡白浜町）が、2027年1月末にオープン！壮麗な建築美で知られるホテル「KAWAKYU -南紀白浜-」の姿を眺めながら季節のフルーツのスイーツやドリンクを楽しむ、上質なカフェ体験ができます。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「ホテル川久」を眺めるカフェが誕生！南紀白浜に2027年1月末オープン",
@@ -222,9 +250,7 @@
         "source": "au Webポータル",
         "published_at": "2026-10-26 18:00"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -235,9 +261,9 @@
     "summary": "・和歌山市から南に20キロほど離れた和歌山県湯浅町では25日、1時間の雨量が観測史上、10月としては最大の68ミリを記録しました。\n・片平敦気象予報士は、「ことし何度も大雨をもたらしている、台風と秋雨前線の組み合わせの影響」と解説します。\n・ただ、秋雨前線が長く延び、台風の周りを回る湿った空気が勢いよく流れ込み、一部の地域で雨雲が発達しました。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
@@ -325,19 +351,6 @@
     "source": "紀伊民報",
     "published_at": "2026-10-26 17:31",
     "summary": "・土砂災害、浸水に警戒を／温帯低気圧や前線の影響。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 5,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "土砂災害、浸水に警戒を／温帯低気圧や前線の影響 （14:30）",
-    "url": "https://www.agara.co.jp/article/703930",
-    "source": "紀伊民報",
-    "published_at": "2026-10-26 17:31",
-    "summary": "・マスク氏、ウクライナ批判／米衛星通信切れば前線崩壊。",
     "summary_type": "auto",
     "category": "社会・事件",
     "importance_score": 5,
@@ -484,9 +497,16 @@
     "summary": "・和歌山県上富田町出身の歌手・坂本冬美さんが、10月26日、東京のラジオ番組に出演し、最近、音楽を聞く道具を「MD」から、タブレット端末「iPad」に乗り換えたことを明らかにしました。\n・冬美さんは、この日、東京・ニッポン放送のラジオ番組「高田文夫と松本明子のラジオビバリー昼ズ」にゲスト出演し、石崎ひゅーいさん作詞作曲のデビュー40周年記念曲「ひらり」をPRしたほか、近況報告を行いました。\n・「ラジオビバリー昼ズ」は関東ローカルの番組ですが、有料のラジコ・プレミアムを契約すれば、和歌山県でも放送後1週間以内ならタイムフリー機能で聞き返すことが出来ます。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 6,
-    "is_featured": false
+    "importance_score": 21,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "坂本冬美さん「最近MDからiPadに」／和歌山県 (WBS和歌山放送ニュース)",
+        "url": "https://news.yahoo.co.jp/articles/76b599c7b2dd7403476653935127cdaa5a852497/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-26 16:02"
+      }
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -706,9 +726,9 @@
     "summary": "・このたび、海上保安庁和歌山海上保安部より、「わかおしっ」のＰＲキャラクター雑賀崎海老子に、雑賀埼灯台名誉灯台長の称号が授与されることとなりました！\n・「わかおしっ」の各キャラクターには、和歌山市のＰＲに結び付く「プロモーションアイテム」が授けられており、雑賀崎海老子の「ランタン」は、海を行く船の道しるべとなる灯台のように、和歌山市の未来を照らしていきたいという願いが込められています。\n・和歌山市のプレスリリース（2026年10月26日 11時32分）雑賀崎 海老子に雑賀埼灯台名誉灯台長の称号が授与されました！",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
@@ -758,9 +778,16 @@
     "summary": "・今年、創立140周年を迎えた高野山高校（和歌山県高野町）が記念事業として、弁論部の全国大会出場原稿集「如是我聞」（非売品）を作った。\n・この夏の全国高校総合文化祭（総文祭）に出場し、その時の原稿「『共生社会』実現に向けて」と写真も「如是我聞」に掲載されている。\n・11月の文部科学大臣杯全国青年弁論大会にも出場が決まっている。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 12,
+    "importance_score": 27,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "高野山高校弁論部の原稿集完成　全国大会出場の33人47編を掲載",
+        "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVBT3QK5VBTPXLB001M",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-26 10:45"
+      }
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -814,6 +841,19 @@
     "importance_score": 14,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-26",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-10-26 04:54",
+    "summary": "・和歌山県の雨雲レーダー(実況)27日09:10発表。\n・2026年10月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-26",

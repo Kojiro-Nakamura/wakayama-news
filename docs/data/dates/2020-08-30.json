@@ -1,15 +1,22 @@
 [
   {
     "article_date": "2020-08-30",
-    "title": "和歌山県九度山町の雨雲レーダー【予想60時間】",
-    "url": "https://weathernews.jp/onebox/radar/wakayama/30343/",
+    "title": "和歌山県みなべ町の雨雲レーダー【予想60時間】",
+    "url": "https://weathernews.jp/onebox/radar/wakayama/30391/",
     "source": "ウェザーニュース",
-    "published_at": "2020-08-30 14:50",
-    "summary": "・【和歌山の雨雲概況】パラパラと雨を降らせる雲が通過中。\n・「雨雲レーダー」は、最新の雨雲の動き、12時間、24時間と最大60時間先の予想を確認できます。\n・【60時間先までの雨雲をチェック】和歌山県九度山町のリアルタイムな雨雲の動きから最長60時間先の予報まで確認できます。",
+    "published_at": "2020-08-30 14:52",
+    "summary": "・【和歌山の雨雲概況】雨雲が発生する可能性あり。\n・「雨雲レーダー」は、最新の雨雲の動き、12時間、24時間と最大60時間先の予想を確認できます。\n・【60時間先までの雨雲をチェック】和歌山県みなべ町のリアルタイムな雨雲の動きから最長60時間先の予報まで確認できます。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "和歌山県九度山町の雨雲レーダー【予想60時間】",
+        "url": "https://weathernews.jp/onebox/radar/wakayama/30343/",
+        "source": "ウェザーニュース",
+        "published_at": "2020-08-30 14:50"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": true
   }
 ]
