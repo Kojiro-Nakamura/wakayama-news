@@ -67,13 +67,19 @@
     "summary": "・和歌山県北山村特産のかんきつ類、じゃばらを使った加工食品などを手がける企業「じゃばらいず北山」が、食品ロス削減への取り組みを評価する「食品産業もったいない大賞」で、最優秀の農林水産大臣賞を受賞した。\n・じゃばら果汁を搾った後に年間約60トン発生する果皮など搾りかすの全てを食品原料などに再利用していることが評価された。\n・そのほか、乾燥させた果皮を養殖マグロの飼料にしたり、パウダー状にしてサプリに活用したりなどの取り組みを進め、昨年は約60トンの残渣（ざんさ）を再利用した。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "importance_score": 21,
-    "is_featured": false,
+    "importance_score": 36,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "特産「じゃばら」の果皮などを食品原料に再利用　和歌山・北山村の企業が農林水産大臣賞",
         "url": "https://topics.smt.docomo.ne.jp/article/sankei/life/sankei-_life_environment_SYELPWFYGZJARPIW6ERPZMS5CQ?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
         "source": "ｄメニューニュース",
+        "published_at": "2026-10-26 20:39"
+      },
+      {
+        "title": "特産「じゃばら」の果皮などを食品原料に再利用 和歌山・北山村の企業が農林水産大臣賞",
+        "url": "https://www.sankei.com/article/20261026-SYELPWFYGZJARPIW6ERPZMS5CQ/",
+        "source": "産経ニュース",
         "published_at": "2026-10-26 20:39"
       }
     ]
@@ -134,7 +140,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 35,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "捕鯨の歴史と文化学ぶ 日本遺産10周年セミナー、和歌山・太地で（紀伊民報）",
@@ -159,7 +165,7 @@
     "summary": "・和歌山県で最大震度1の地震 和歌山県・海南市、有田市。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 120,
+    "importance_score": 135,
     "is_featured": true,
     "related_articles": [
       {
@@ -209,6 +215,12 @@
         "url": "https://article.auone.jp/e9b6359f-69ff-48be-9778-713b727d840f",
         "source": "au Webポータル",
         "published_at": "2026-10-26 18:50"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市(放送局のニュース )",
+        "url": "https://tenki.jp/news/fnn/022c4f8d-de2d-404e-847d-0306148c43be.html",
+        "source": "tenki.jp",
+        "published_at": "2026-10-26 18:50"
       }
     ]
   },
@@ -221,6 +233,8 @@
     "summary": "・秋雨前線の影響で、県内では今日も大気の状態が不安定となっていて、局地的に激しい雨が降りました。\n・このあとも、河川の増水などに注意が必要なほか、北部では地盤が緩んでいるところもあるため、土砂災害に警戒して下さい。\n・県内では、昨日、北部や中部を中心に大雨となり、和歌山市などで道路が冠水するなどし、今日も、台風から変わった温帯低気圧から、前線に向かって暖かく湿った空気が流れ込んでいる影響で、大気の状態が不安定となり局地的に強い雨が降りました。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "土砂災害、浸水に警戒を／温帯低気圧や前線の影響 （14:30）",
@@ -228,9 +242,7 @@
         "source": "紀伊民報",
         "published_at": "2026-10-26 17:31"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -615,9 +627,16 @@
     "summary": "・秋の紀州路走る／往年の名車５１台／高野山や龍神、本宮。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 8,
+    "importance_score": 23,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "秋の紀州路走る／往年の名車５１台／高野山や龍神、本宮",
+        "url": "https://www.agara.co.jp/article/703933",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-26 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -811,6 +830,19 @@
   },
   {
     "article_date": "2026-10-26",
+    "title": "熊野古道伊勢路を踏破しよう 11月から9回、参加募集 三重（伊勢新聞）",
+    "url": "https://news.yahoo.co.jp/articles/01194801c13403324a4a619709604da850f5b51f",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-26 09:46",
+    "summary": "・世界遺産・熊野古道伊勢路を11日間に分けて踏破する「熊野古道伊勢路踏破シリーズ」（全9回）が11月、三重県伊勢市の伊勢神宮内宮を起点に始まる。\n・福田さんは、熊野古道の来訪者から「伊勢路を踏破したいが、その知識や体力に不安がある」との話をよく聞くという。\n・第7回（4月25日）には、伊勢路では珍しいという竹林の古道・大吹峠、松本峠などいくつもの峠を越え、七里御浜海岸沿い、熊野市街地まで歩く「人気の高い王道コース」を用意した。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-26",
     "title": "【和歌山市】10/26 最高22℃、雨、昼間から夜も雨が続く予想【朝版】",
     "url": "https://news.yahoo.co.jp/articles/ef04ab7da37f5278c2a22f46287eb022aeda28d0",
     "source": "Yahoo!ニュース",
@@ -851,9 +883,9 @@
     "summary": "・和歌山県の雨雲レーダー(実況)27日09:10発表。\n・2026年10月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",

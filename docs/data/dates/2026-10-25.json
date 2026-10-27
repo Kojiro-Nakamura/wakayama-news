@@ -917,7 +917,7 @@
     "url": "https://news.yahoo.co.jp/articles/848a9d12752dfd41981b352ef3205b8023e22ce1",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-25 11:08",
-    "importance_score": 216,
+    "importance_score": 246,
     "is_featured": true,
     "summary": "・【レベル3大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点。",
     "related_articles": [
@@ -1004,6 +1004,18 @@
         "url": "https://news.livedoor.com/topics/detail/32650952/",
         "source": "ライブドアニュース",
         "published_at": "2026-10-25 10:23"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・海南市、橋本市に発表 10:23時点",
+        "url": "https://news.infoseek.co.jp/article/tbs_3036237/",
+        "source": "Infoseek",
+        "published_at": "2026-10-25 10:23"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・紀の川市、岩出市に発表 10:00時点",
+        "url": "https://news.infoseek.co.jp/article/tbs_3036223/",
+        "source": "Infoseek",
+        "published_at": "2026-10-25 10:00"
       }
     ]
   },
