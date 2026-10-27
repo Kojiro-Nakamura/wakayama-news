@@ -8,8 +8,8 @@
     "summary": "・内水浸水想定区域図を作成しましたので公表します。\n・内水浸水想定区域図の作成にあたり、対象とした地域と降雨は以下の通りです。\n・本市では、近年の気候変動に伴う降雨量の増加を踏まえ、「想定最大規模降雨」と「既往最大降雨」により内水氾濫が発生した場合に想定される浸水の状況をシミュレーションにより予測し、「内水浸水想定区域図」を作成しました。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]

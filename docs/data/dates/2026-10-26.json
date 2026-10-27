@@ -165,7 +165,7 @@
     "summary": "・和歌山県で最大震度1の地震 和歌山県・海南市、有田市。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 135,
+    "importance_score": 150,
     "is_featured": true,
     "related_articles": [
       {
@@ -221,6 +221,12 @@
         "url": "https://tenki.jp/news/fnn/022c4f8d-de2d-404e-847d-0306148c43be.html",
         "source": "tenki.jp",
         "published_at": "2026-10-26 18:50"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/5dd2b2ae25c4057bee95d17485a378d38cfa8871/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-26 18:52"
       }
     ]
   },
@@ -837,9 +843,9 @@
     "summary": "・世界遺産・熊野古道伊勢路を11日間に分けて踏破する「熊野古道伊勢路踏破シリーズ」（全9回）が11月、三重県伊勢市の伊勢神宮内宮を起点に始まる。\n・福田さんは、熊野古道の来訪者から「伊勢路を踏破したいが、その知識や体力に不安がある」との話をよく聞くという。\n・第7回（4月25日）には、伊勢路では珍しいという竹林の古道・大吹峠、松本峠などいくつもの峠を越え、七里御浜海岸沿い、熊野市街地まで歩く「人気の高い王道コース」を用意した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",

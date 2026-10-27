@@ -85,7 +85,7 @@
     "summary": "・和歌山市では、今日午前１０時過ぎまでの１時間の降水量が１０月の観測史上最大の６８ミリを記録し、午前１１時前には気象庁が、和歌山県北部に線状降水帯直前予測を発表するなど、県内では荒れた天気の一日となりました。\n・一時、レベル４の土砂災害危険警報が有田市や湯浅町など１市５町に、レベル３の大雨警報が和歌山市や湯浅町など６市７町に出され、レベル４の避難指示が由良町全域と広川町津木地区に出されましたが、現在はいずれも解消されています。\n・ＪＲでは阪和線が和歌山・和泉砂川間で、和歌山線が和歌山・高田間で、紀勢線が和歌山市・和歌山間と和歌山・紀伊田辺間で一時運転を見合わせ、現在は、阪和線と和歌山線の和歌山・五条間、紀勢線の和歌山市・和歌山間が運転を再開しています。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 63,
+    "importance_score": 78,
     "is_featured": false,
     "related_articles": [
       {
@@ -105,6 +105,12 @@
         "url": "https://news.yahoo.co.jp/articles/09d6c26aa09e8cc6001d2a7b3859506382e453a3",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-25 12:07"
+      },
+      {
+        "title": "和歌山市 10月の観測史上最大 1時間の降水量 和歌山県内荒れた天気に レベル4の土砂災害危険警報も (テレビ和歌山)",
+        "url": "https://news.yahoo.co.jp/articles/6f31d58f4f2ea0de44d227d8d5d948303216b169/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 19:39"
       }
     ]
   },
@@ -287,7 +293,7 @@
     "summary": "・台風30号と秋雨前線の影響で、和歌山県では断続的に激しい雨が降り、一時、レベル4の土砂災害危険警報が発表されました。\n・気象台は一時、和歌山県有田市や紀美野町などにレベル4の土砂災害危険警報を発表していましたが、現在は解除しています。\n・本州付近には前線が停滞していて、今後も大雨になるおそれがあり、土砂災害や低い土地への浸水などに十分注意が必要です。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "importance_score": 87,
+    "importance_score": 102,
     "is_featured": false,
     "related_articles": [
       {
@@ -319,6 +325,12 @@
         "url": "https://newsdig.tbs.co.jp/articles/tut/3036372?display=1",
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-25 12:16"
+      },
+      {
+        "title": "【速報】和歌山県北部に「線状降水帯直前予測」 今後3時間以内に豪雨となる可能性が高まるおそれ レベル4「土砂災害危険警報」も発表 厳重に警戒を",
+        "url": "https://www.ktv.jp/news/articles/?id=30533",
+        "source": "ktv.jp",
+        "published_at": "2026-10-25 11:47"
       }
     ]
   },
@@ -495,6 +507,19 @@
         "published_at": "2026-10-25 11:54"
       }
     ]
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "速報！記念イベント 2026年度 和歌山県小学4年生サッカー大会 優勝はグランディールFC！全結果掲載",
+    "url": "https://www.juniorsoccer-news.com/post-1962418",
+    "source": "Green Card ニュース",
+    "published_at": "2026-10-25 16:00",
+    "summary": "・準優勝：スポーツクラブ和歌山ヴィーヴォまつえ。\n・3連覇達成したグランディールFCの皆さん（参照：グランディールFC Instagram）。\n・FC BLAZE YUASA　0-3　グランディールFC。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-25",
