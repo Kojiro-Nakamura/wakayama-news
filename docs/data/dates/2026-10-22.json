@@ -8,7 +8,7 @@
     "summary": "・和歌山県警によると、１０月２２日午後２時１０分頃、高野町高野山鶯谷で、クマが出没しました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 36,
+    "importance_score": 51,
     "is_featured": false,
     "related_articles": [
       {
@@ -20,6 +20,12 @@
       {
         "title": "（和歌山）広川町上津木でクマ出没　１０月２２日",
         "url": "https://topics.smt.docomo.ne.jp/amp/article/fushinsha_joho/region/fushinsha_joho-1485864240779510714",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-22 13:47"
+      },
+      {
+        "title": "（和歌山）広川町上津木でクマ出没　１０月２２日",
+        "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1485864240779510714",
         "source": "ｄメニューニュース",
         "published_at": "2026-10-22 13:47"
       }
@@ -769,6 +775,19 @@
     "importance_score": 0,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-22",
+    "title": "道の駅 根来さくらの里",
+    "url": "https://www.city.iwade.lg.jp/soshiki/16/1600.html",
+    "source": "岩出市",
+    "published_at": "2026-10-22 16:00",
+    "summary": "・京奈和自動車道・岩出根来ICから車で約5分。\n・保延6年（1140）根来に移り、最盛期には堂塔2700余、寺領72万石の隆盛を誇ったが、天正13年（1585）秀吉の討伐でほとんどの寺院が焼失。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-22",

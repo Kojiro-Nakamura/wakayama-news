@@ -8,9 +8,9 @@
     "summary": "・焼き菓子店「恐竜スコーンがおがお」（有田市初島町里）が10月2日、オープンした。\n・空き店舗活用イベント「まちなかイロドリ（通称＝まちドリ）」が11月7日・8日、北ぶらくり丁商店街周辺で開催される。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -21,9 +21,9 @@
     "summary": "・同日午後に行われた力士会後、報道陣の取材に応じ「いい形で、今年最後の九州場所を締めくくりたい」と、意欲的に語った。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -34,9 +34,9 @@
     "summary": "・野党６党の参院国対委員長は２７日、国会内で会談し、消費税減税関連法案の参院での審議について、野党が求める特別委員会設置に与党が応じなければ、審議入りを認めない方針で一致した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -47,9 +47,9 @@
     "summary": "・第３７回高松宮記念世界文化賞を受賞し、会見に出席した彫刻のアンディ・ゴールズワージーさん、絵画のジェニー・ホルツァーさん、建築のダニエル・リベスキンドさん、演劇・映像のケイト・ブランシェットさん　【時事通信フォト】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -60,9 +60,9 @@
     "summary": "・「クビアカ」被害発見に懸賞金3万円 ウメ産地の和歌山・田辺市などが対策強化（産経新聞）。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -73,9 +73,22 @@
     "summary": "・和歌山県有田市の旧宮原小学校跡地に整備が進められていた複合公共施設「MifroM（みふろむ）」が11月1日に供用が開始されるのを前に、同施設で27日、落成式が行われた。\n・「MifroM」は、市立中学校の統合に伴い、旧宮原小の跡地を活用するため、敷地面積約1万3161平方メートルに、「宮原コミュニティセンター」と「宮原認定こども園」（来年4月1日に開園予定）を新たに建設。\n・落成式で、玉木久登市長は「施設が子供たちの健やかな成長や世代を超えた交流、地域のスポーツや文化活動を支える新たな拠点となることを確信している」とあいさつ。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 6,
-    "is_featured": false
+    "importance_score": 36,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "「子供たちの成長支える拠点に」 和歌山・有田市の複合公共施設「MifroM」で落成式 (産経新聞)",
+        "url": "https://news.yahoo.co.jp/articles/9124e1f3714ec9764ee214bc3b2e8e07be686fdc/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-27 20:22"
+      },
+      {
+        "title": "「子供たちの成長支える拠点に」 和歌山・有田市の複合公共施設「MifroM」で落成式",
+        "url": "https://www.sankei.com/article/20261027-3AZ7JWLSZRNFBM7HMS5AT46HYU/",
+        "source": "産経ニュース",
+        "published_at": "2026-10-27 20:21"
+      }
+    ]
   },
   {
     "article_date": "2026-10-27",
@@ -86,9 +99,16 @@
     "summary": "・高野山のお寺で“46匹のモルモット”が大運動会！？ 前代未聞の光景に住職「全然雑念とれてない」。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 3,
-    "is_featured": false
+    "importance_score": 18,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "高野山のお寺で“46匹のモルモット”が大運動会！？ 前代未聞の光景に住職「全然雑念とれてない」",
+        "url": "https://times.abema.tv/articles/-/10283974",
+        "source": "ABEMA TIMES",
+        "published_at": "2026-10-27 20:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-27",
@@ -99,9 +119,9 @@
     "summary": "・ハロウィーン前に楽しみながら防災学ぶ催し 和歌山 串本町。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -112,9 +132,9 @@
     "summary": "・和歌山 橋本市で心臓マッサージや119番通報学ぶ催し。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -125,9 +145,9 @@
     "summary": "・和歌山 かつらぎ町で手作りの竹とうろう作り飾る催し。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -138,6 +158,8 @@
     "summary": "・配車アプリ「DiDi」、栃木県・和歌山でサービス開始～全国44都道府県に対応エリア拡大～。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 33,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "配車アプリ『DiDi』が栃木県・和歌山県で提供開始！ 対応エリアは全国44都道府県に",
@@ -151,8 +173,52 @@
         "source": "福島民友新聞社",
         "published_at": "2026-10-27 15:34"
       }
+    ]
+  },
+  {
+    "article_date": "2026-10-27",
+    "title": "【和歌山県】10/28の天気予報",
+    "url": "https://www.fnn.jp/articles/-/1140720",
+    "source": "FNNプライムオンライン",
+    "published_at": "2026-10-27 19:30",
+    "summary": "・和歌山地方気象台が10月27日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・最高気温は、和歌山20℃、潮岬22℃でしょう。\n・各地の天気予報は以下の通りです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "【和歌山県】10/27の天気予報",
+        "url": "https://www.fnn.jp/articles/-/1140344",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-10-27 05:10"
+      }
     ],
-    "importance_score": 33,
+    "importance_score": 24,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-27",
+    "title": "和歌山のクリエイター・猫村作男さんの個展「妖」11月1日から大阪市で開幕",
+    "url": "https://news.yahoo.co.jp/articles/375dfcb589c10ad761abb9ad8dda4074200fdd15",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-27 19:25",
+    "summary": "・和歌山県を拠点にAIを駆使して多彩なイラストを手掛ける、グラフィッククリエイターの猫村作男さんが、11月1日から、大阪市の天保山にある猫カフェで、日本古来の妖怪や神仏のイラストを展示する個展「妖(あやかし)」を開催します。\n・猫村さんは、AIを活用したコンピューターグラフィックで猫や若い女性などを描いていて、これまでに和歌山県橋本市などで個展を開いています。\n・猫村作男さんの個展「妖」は11月1日から29日まで、大阪市港区の猫カフェ「ねこの方舟・天保山店」で開かれます。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-27",
+    "title": "南海トラフ地震を想定 和歌山の石油コンビナートで防災訓練 自衛隊など１５０人参加",
+    "url": "https://news.yahoo.co.jp/articles/49e11ee357067c68636dc3b5c159ce2d6437c67d",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-27 19:03",
+    "summary": "・大規模地震を想定した防災訓練が行われました。\n・２７日に和歌山市で行われた訓練は、和歌山県の南方沖を震源にマグニチュード８．７の地震が起き、石油コンビナートに最大６メートルの津波が押し寄せる想定で行われました。\n・県や警察、自衛隊など約１５０人の参加者は、南海トラフ地震を想定した訓練に真剣な表情で取り組んでいました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
     "is_featured": false
   },
   {
@@ -164,9 +230,9 @@
     "summary": "・この「外国人と企業のための生活・雇用相談会」は、大阪出入国在留管理局と県が開きました。\n・和歌山市手平の県民交流プラザ・和歌山ビッグ愛を会場に、弁護士や行政書士、入管職員ら専門家が集まり、県内で暮らす外国人からの生活上の悩みや在留資格、各種支援制度に関する相談や、企業から海外人材の受け入れや雇用管理、行政の支援などの相談に応対しました。\n・法務省や厚生労働省のまとめによりますと、今年6月末現在で、県内在留の外国人は1万2065人で、直近3年間では毎年1000人程度増加し、去年10月時点で6808人が県内の事業所で就労しています。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -177,9 +243,9 @@
     "summary": "・デジタル技術で藻場再生 那智勝浦町と慶応大など 和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -190,9 +256,9 @@
     "summary": "・和歌山 みなべ町 クビアカツヤカミキリ対策で放棄地の伐採支援。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -203,9 +269,16 @@
     "summary": "・和歌山県北部・海南市の市民防災公園「海南ハレアメ」が、このほど、都市公園としては西日本で初めて、全国でも3例目という「フェーズフリー認証」を取得しました。\n・「フェーズフリー認証」を取得したことについて、海南市の神出政巳市長は「開園以来、多くの賑わいが生まれる中、市が進めてきた公園づくりへの大きな励みで、更なる発展に向け弾みになる」などとするコメントを出しました。\n・「海南ハレアメ」は、竣工から25年が経過した「わんぱく公園」を拡充・整備して、今年（2026年）4月29日にリニューアル・オープンした市民防災公園で、およそ半年で24万人が訪れる人気ぶりとなっています。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 12,
-    "is_featured": false
+    "importance_score": 27,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "「海南ハレアメ」が「フェーズフリー認証」取得／和歌山・海南市",
+        "url": "https://news.wbs.co.jp/221212",
+        "source": "WBS和歌山放送ニュース",
+        "published_at": "2026-10-27 18:14"
+      }
+    ]
   },
   {
     "article_date": "2026-10-27",
@@ -216,9 +289,9 @@
     "summary": "・和歌山県紀美野、有田川両町にまたがる県立自然公園生石高原（標高８７０メートル）でススキが見頃を迎えている。\n・周囲を一望できる山頂付近に約１３ヘクタールのススキの大草原が広がっている。\n・夕日を受け、穂が黄金に輝く時間には多くの人が訪れ、散策をしたり、写真を撮ったりしていた。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -229,6 +302,8 @@
     "summary": "・和歌山県の世界遺産・熊野本宮大社で、来年の干支の羊を描いた大絵馬が完成しました。\n・描かれるのは、鈴をモチーフにした羊。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 30,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "世界遺産・熊野本宮大社で新年の準備 宮司自ら描いた「未（ひつじ）」の大絵馬が完成 笑顔あふれる1年に 和歌山・田辺市",
@@ -236,9 +311,7 @@
         "source": "日テレNEWS NNN",
         "published_at": "2026-10-27 11:51"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-27",
@@ -249,9 +322,9 @@
     "summary": "・「デラックスケーキ」が１位、おみやげグランプリ／和歌山・田辺市。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
@@ -262,9 +335,16 @@
     "summary": "・「和歌山県庁舎本館特別見学会」参加者募集和歌山放送ニュース10/27 17:5910/27(火) 17:59 配信和歌山放送ニュース続きを読む（外部サイト）出典元: 和歌山放送ニュース。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
-    "importance_score": 0,
-    "is_featured": false
+    "importance_score": 15,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "「和歌山県庁舎本館特別見学会」参加者募集",
+        "url": "https://news.wbs.co.jp/221214",
+        "source": "WBS和歌山放送ニュース",
+        "published_at": "2026-10-27 17:59"
+      }
+    ]
   },
   {
     "article_date": "2026-10-27",
@@ -275,7 +355,7 @@
     "summary": "・梅盗難防止へパトロール　和歌山県田辺でＪＡ青年部。\n・発展願い、新梅干し奉納／熊野本宮大社に／田辺の協同組合。\n・紀州梅の会は１０日、京都市の下鴨神社と上賀茂神社に本年産の「新梅干し」を奉納し、梅産業の発展や人々の健康を祈願した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 50,
+    "importance_score": 65,
     "is_featured": true,
     "related_articles": [
       {
@@ -289,6 +369,12 @@
         "url": "https://www.47news.jp/15145709.html",
         "source": "47NEWS",
         "published_at": "2026-10-27 14:30"
+      },
+      {
+        "title": "京都･賀茂神社へ奉納 本年度産の梅干し、紀州梅の会、和歌山県田辺 (紀伊民報)",
+        "url": "https://news.yahoo.co.jp/articles/b018013cbdd73649d90fa32df9dcfc489685f61e/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-27 16:25"
       }
     ]
   },
@@ -477,7 +563,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 36,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "丸く収まり、笑顔に 熊野本宮大社で来年の干支大絵馬、和歌山",
@@ -757,9 +843,16 @@
     "summary": "・和歌山県田辺市立高雄中学校体育館で18日、吹奏楽部による第31回プロムナードコンサートがあった。\n・【写真】高雄中学校体育館で開かれた吹奏楽部の第31回プロムナードコンサート=2026年10月18日午後3時10分、和歌山県田辺市高雄3丁目、菊地洋行撮影　高雄中吹奏楽部は、県吹奏楽コンクールで県代表として関西大会へ出場する常連。\n・コンサートのI部では、吹奏楽部員33人が今年度の吹奏楽コンクールの課題曲「夕映えの丘」、自由曲「白虎繚乱（りょうらん）～なれし御城（おしろ）に残す月影」を演奏した。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 9,
+    "importance_score": 24,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "田辺市立高雄中の吹奏楽部が迫力のステージ 体育館でコンサート (朝日新聞)",
+        "url": "https://news.yahoo.co.jp/articles/3db4cccfae487f53d4a8c0a20788de4ad18b7453/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-27 10:45"
+      }
+    ]
   },
   {
     "article_date": "2026-10-27",
@@ -796,19 +889,6 @@
   },
   {
     "article_date": "2026-10-27",
-    "title": "【和歌山県】10/27の天気予報",
-    "url": "https://www.fnn.jp/articles/-/1140344",
-    "source": "FNNプライムオンライン",
-    "published_at": "2026-10-27 05:10",
-    "summary": "・和歌山地方気象台が10月27日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山25℃、潮岬27℃でしょう。\n・各地の天気予報は以下の通りです。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
     "title": "【和歌山市】10/27 最高25℃、夜はやや風がある予想【朝版】",
     "url": "https://news.yahoo.co.jp/articles/b9588a9157f3349b71d8dd70c66ee8e88bb2476a/images/000",
     "source": "Yahoo!ニュース",
@@ -816,9 +896,9 @@
     "summary": "・【和歌山市】10/27 最高25℃、夜はやや風がある予想【朝版】。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",
