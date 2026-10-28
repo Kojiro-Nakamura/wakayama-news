@@ -165,7 +165,7 @@
     "summary": "・和歌山県で最大震度1の地震 和歌山県・海南市、有田市。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 150,
+    "importance_score": 165,
     "is_featured": true,
     "related_articles": [
       {
@@ -227,6 +227,12 @@
         "url": "https://news.yahoo.co.jp/articles/5dd2b2ae25c4057bee95d17485a378d38cfa8871/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-26 18:52"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震　和歌山県・海南市、有田市",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3039439",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-26 18:50"
       }
     ]
   },
