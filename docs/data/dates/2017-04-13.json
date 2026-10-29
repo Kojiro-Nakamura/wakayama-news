@@ -8,6 +8,8 @@
     "summary": "・再生する10/29(木)7時　日差し届くも天気下り坂　関東は日中も肌寒さ継続。\n・3時間ごとの天気、降水量、気温などがチェックできます。\n・細かい地点単位の天気を知るには最適です。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 21,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "有田川町の天気",
@@ -15,8 +17,6 @@
         "source": "Yahoo!天気",
         "published_at": "2017-04-13 12:25"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": true
+    ]
   }
 ]

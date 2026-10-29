@@ -1,6 +1,654 @@
 [
   {
     "article_date": "2026-10-29",
+    "title": "伝統の踊り次世代へ 11月21日に市ノ瀬小で披露、和歌山県上富田",
+    "url": "https://www.agara.co.jp/article/705640",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・「山本氏　総集編」発行／上富田文化の会。\n・元気だ！！万歳！！’２６（４）／宮内　益穂〈みやうち　ますほ〉さん（９６）／上富田町岩田／運動し、何でも食べる。\n・荒木兄妹（上富田）２年連続入賞／カワイうたのコンクール。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "被告「５分ごとに確認」 託児所で乳児死亡の公判、和歌山",
+    "url": "https://www.agara.co.jp/article/705643",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・初公判で無罪主張／田辺の託児所乳児死亡。\n・被告の１人　起訴内容認める／岡山の死体遺棄で初公判／和歌山地裁。\n・貯金証書の偽造も　串本の１億円着服公判、信漁連元店長、和歌山。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "被告「５分ごとに確認」 託児所で乳児死亡の公判、和歌山（紀伊民報）",
+        "url": "https://news.yahoo.co.jp/articles/5f96047de9aadfcd00151104ff38e12cf56e8d87",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-29 16:25"
+      }
+    ],
+    "importance_score": 35,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "卒業生の作品展示 小学校創立150周年、11月8日、岡小、和歌山県上富田町",
+    "url": "https://www.agara.co.jp/article/705018",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・２５年前のタイムカプセル開封　和歌山の田辺第三小。\n・【動画】半世紀前の思い出に浸る　タイムカプセル開封､上秋津小卒業生､和歌山県田辺市。\n・「万博漬け」展示　南高梅干し、2050年開封予定、和歌山県田辺市役所。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [
+      {
+        "title": "卒業生の作品展示 小学校創立150周年、11月8日、岡小、和歌山県上富田町（紀伊民報）",
+        "url": "https://news.yahoo.co.jp/articles/103858bd4e64ab0b82e579b48c6fa6f83b4f2619",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-29 16:25"
+      }
+    ],
+    "importance_score": 29,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "ヘツカラン咲く 民家でかれんに、和歌山県田辺",
+    "url": "https://www.agara.co.jp/article/705021",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・和歌山県田辺市新庄町の福元幸郎さん（７６）方で、ヘツカラン（ラン科）が花を咲かせている。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [
+      {
+        "title": "ヘツカラン咲く 民家でかれんに、和歌山県田辺",
+        "url": "https://www.47news.jp/15156038.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-29 14:30"
+      }
+    ],
+    "importance_score": 23,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "運転士眠気で３００メートル通過／ＪＲ西、防止装置動作せず （14:30）",
+    "url": "https://www.agara.co.jp/article/705576",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・運転士眠気で３００メートル通過／ＪＲ西、防止装置動作せず （14:30）。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "ＪＲ阪和線、運転士眠気で駅を３００メートル通過／大阪・和歌山",
+        "url": "https://news.wbs.co.jp/221242",
+        "source": "WBS和歌山放送ニュース",
+        "published_at": "2026-10-29 18:20"
+      }
+    ],
+    "importance_score": 20,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "広がれ「折り友」の輪 小学生が折り紙公募展、和歌山県田辺で11月21､22日",
+    "url": "https://www.agara.co.jp/article/705027",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・折り紙って面白い／小山君（田一小２年）の作品展／８、９日　田辺。\n・将棋の県大会に挑戦／田辺第一小３年生の３人。\n・卒業証書を手作り　地元作家と紙すき、上山路小６年生、和歌山県田辺市龍神村。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [
+      {
+        "title": "広がれ「折り友」の輪 小学生が折り紙公募展、和歌山県田辺で11月21､22日（紀伊民報）",
+        "url": "https://news.yahoo.co.jp/articles/a34754f578b2debd584b923199f172b34738de1a",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-29 16:25"
+      }
+    ],
+    "importance_score": 29,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "飯田グループ４社に課徴金／４億円、「Ｎｏ．１」表示で （14:30）",
+    "url": "https://www.agara.co.jp/article/705575",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・飯田グループ４社に課徴金／４億円、「Ｎｏ．１」表示で （14:30）。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "中国抑止へ「拒否的防衛」／日米 侵攻阻止、３文書明記検討 （14:30）",
+    "url": "https://www.agara.co.jp/article/705574",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・【セブ共同】小泉進次郎防衛相は２８日、訪問先のフィリピン中部セブでヘグセス米国防長官と会談した。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "ＧＭＯ問題／個人情報、丸見えの脅威／アクセス権掌握、ＰＣ侵入 （14:30）",
+    "url": "https://www.agara.co.jp/article/705573",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・ＧＭＯ問題／個人情報、丸見えの脅威／アクセス権掌握、ＰＣ侵入 （14:30）。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "県高校弓道／神島女子の２選手全国へ／田辺工業男子の薮本選手も （14:30）",
+    "url": "https://www.agara.co.jp/article/705578",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・クマノザクラ苗木植え／１１月２２日、田辺市熊野。\n・田辺市稲成小／種入り風船　空へ／人権への思い込め。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 23,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "スペイン事故、死者６８人に／赤信号で列車出発指示か （14:30）",
+    "url": "https://www.agara.co.jp/article/705572",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・スペイン事故、死者６８人に／赤信号で列車出発指示か （14:30）。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "女子団体で１１年ぶりＶ／南部高弓道 近畿と全国へ （14:30）",
+    "url": "https://www.agara.co.jp/article/705534",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・田辺男子が４強／県高校バレー／熊野女子は８強。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "第５２回 若鷲旗争奪大会／学童軟式野球 ３１日開幕／１２チームが熱戦（後半） （14:30）",
+    "url": "https://www.agara.co.jp/article/705509",
+    "source": "紀伊民報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・第５２回 若鷲旗争奪大会／学童軟式野球 ３１日開幕／１２チームが熱戦（後半） （14:30）。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "第５２回 若鷲旗争奪大会／学童軟式野球 ３１日開幕／１２チームが熱戦（前半） （14:30）",
+        "url": "https://www.agara.co.jp/article/705486",
+        "source": "紀伊民報",
+        "published_at": "2026-10-29 18:20"
+      }
+    ],
+    "importance_score": 20,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "臓器移植普及推進月間 和歌山市で街頭啓発／和歌山",
+    "url": "https://news.wbs.co.jp/221248",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・臓器移植への理解と意思表示の大切さを訴える街頭啓発活動が、きょう（２９日）午後、和歌山市で行われました。\n・これは、１０月の「臓器移植普及推進月間」にあわせ、臓器移植に関する正しい知識の普及と、運転免許証やマイナンバーカードなどへの意思表示の定着を図ろうと、和歌山県と公益財団法人わかやま移植医療推進協会が毎年この時期に行っているものです。\n・和歌山県臓器移植コーディネーターの中山恭伸(なかやま・やすのぶ)さんは「街頭啓発に加え、医療の仕事を志す学生らへの啓発を進めるとともに、メディアを通じて発信することで意思表示の輪を広げたい」と活動への理解を呼びかけています。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "橋本市民病院で初の地域交流イベント３１日に／和歌山",
+    "url": "https://news.wbs.co.jp/221253",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・橋本市にある橋本市民病院では、３１日、開院以来初めてとなる地域交流イベントが開かれます。\n・これは、地域の人に病院を身近に知ってもらいたいという職員の思いから企画された「橋本市民病院フェスタ」です。\n・「橋本市民病院フェスタ」は、３１日・午前１０時から午後３時まで、橋本市小峰台(おみねだい)の橋本市民病院で開かれます。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "闇夜に浮かぶ奇岩、幻想的、串本・橋杭岩ライトアップ／和歌山",
+    "url": "https://news.wbs.co.jp/221268",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・串本町の国の天然記念物「橋杭岩(はしぐいいわ)」のライトアップが始まるのを前に、今夜（２９日）、試験点灯が行われました。\n・日が暮れたあと、海岸沿いにそびえ立つように並ぶ、大小およそ４０の奇岩が、青やオレンジ色に照らされ、幻想的な雰囲気を醸し出しました。\n・橋杭岩は、最大で高さ１５メートルほどの岩が、およそ８５０メートルにわたり一直線に並ぶ景勝地で、ライトアップは２００４年に始まり、「日本夜景遺産」にも認定されています。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "闇夜に浮かぶ奇岩、幻想的 串本・橋杭岩ライトアップ（共同通信）",
+        "url": "https://news.yahoo.co.jp/articles/4072c5ad90dd1e99e656066cf9fced883f83a968",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-29 17:47"
+      }
+    ],
+    "importance_score": 29,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "親子で楽しく運動体験「トラスト親子体操イベント」１１月２９日開催／和歌山市",
+    "url": "https://news.wbs.co.jp/221257",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・親子で楽しく運動や体操の楽しさを体験しようというイベントが、１１月２９日の夕方、和歌山市手平(てびら)の和歌山ビッグホエール軽運動場で開かれます。\n・これは、和歌山市鳴神(なるかみ)の「トラスト体操クラブ」が中心となって初めて開催するものです。\n・当日は夕方５時１５分に開会し、トラスト体操クラブの古田一馬(ふるた・かずま)代表と、ピラティススタジオＤＥＰ(デップ)和歌山店の藤岡凌(ふじおか・りょう)代表が講師となって「遊びで変わる運動神経」と題して、様々な遊びを通じて運動の楽しさを親子で体験出来ます。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "親子で楽しく運動体験「トラスト親子体操イベント」１１月２９日開催／和歌山市",
+        "url": "https://article.auone.jp/eaa804ce-43d6-4555-9c37-7bd555019132",
+        "source": "au Webポータル",
+        "published_at": "2026-10-29 17:56"
+      },
+      {
+        "title": "親子で楽しく運動体験「トラスト親子体操イベント」11月29日開催／和歌山市（WBS和歌山放送ニュース）",
+        "url": "https://news.yahoo.co.jp/articles/a42cd6cce15655d4c8edc5ef5c42d5d6895cddc8",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-29 16:43"
+      }
+    ],
+    "importance_score": 47,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "有田市の「紀文まつり」、１１月１日に延期開催／和歌山",
+    "url": "https://news.wbs.co.jp/221266",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・雨のため中止された有田市の「紀文(きぶん)まつり」が、来月（１１月）１日に延期・開催されます。\n・「紀文まつり」は、例年、有田市の夏まつりとして８月に開催されていますが、今年（２０２６年）は、市制施行７０周年ということもあり、特産のみかんが実る季節の今月（１０月）２４日と２５日の２日間にわたって開催の予定でしたが、２日目が大雨のとなり、中止となりました。\n・１１月１日は、まつり２日目の延期・開催で、午後４時から、箕島駅前「有田みかんマルシェ」、午後５時からは、有田市役所前で飲食店や露店が店を開き、午後８時から有田川河川敷で、ドローンショーと３０００発の花火が打ち上げられ、まつりを締めくくります。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "この秋一番の冷え込み、和歌山や白浜で１０度割る",
+    "url": "https://news.wbs.co.jp/221250",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・きょう（２９日）の和歌山県は、日中は、秋晴れとなり、暖かくなったところが多くなりましたが、今朝は、各地とも、この秋一番の冷え込みとなりました。\n・また、平野部の白浜町で９・４度、和歌山市で９・９度と、今シーズン初めて１０度を下回りました。\n・一方、日中は、各地とも平年を上回り、田辺市栗栖川で２３・０度、新宮で２２・８度、和歌山で２１・８度など、秋の陽気となりました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 26,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "南海フェリー撤退不可避か、存続模索も壁高く／和歌山・徳島",
+    "url": "https://news.wbs.co.jp/221246",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・和歌山県と徳島県を結び、苦しい経営が続いてきたフェリーを巡り、地元の自治体が存続を模索していますが、壁は高そうです。\n・南海フェリーは、和歌山と徳島を結んできましたが、神戸市と兵庫県の淡路島をつなぐ明石海峡大橋が１９９８年に開通すると利用者が減り、２０２１年度以降は、債務超過に陥りました。\n・利用者側の和歌山県トラック協会は７月、「ドライバーの休憩時間確保や労働負担軽減に重要な輸送手段」として存続を求める要望書を県に提出しましたが、徳島県トラック協会の調査では、フェリーを利用していたのはおよそ３割の事業者にとどまりました。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "和歌山・有功中の矢田が１８位、アジア太平洋アマ",
+    "url": "https://news.wbs.co.jp/221263",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・男子ゴルフのアジア太平洋アマチュア選手権は２９日、ニュージーランド北島のテアライ・リンクスで第１ラウンドが行われ、初出場で、和歌山市の有功(いさお)中学３年、矢田賢司(やだ・けんし)が７１で１８位となりました。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "チョコっと見に来ませんか",
+    "url": "https://hidakashimpo.co.jp/?p=109092",
+    "source": "日高新報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・場所は南山野球場西側にある日高川工場の裏の「チョコっと農園」。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "県白梅賞に日高地方から３人",
+    "url": "https://hidakashimpo.co.jp/?p=109096",
+    "source": "日高新報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・高齢者や児童など社会福祉の向上に功績のあった人をたたえる県の白梅賞の受賞者が決まり、今年はこども園の保育教諭や高齢者施設の介護職員ら１１人が受賞。\n・日高地方からは社会福祉法人博愛会が運営する特別養護老人ホーム日高博愛園（御坊市）の事務係長岡裕司さん（６７）＝由良町＝、同じく博愛会のリバティ博愛指定居宅介護支援事業所（御坊市）の主任介護支援専門員木下誠弘さん（６８）＝御坊市＝、社会福祉法人県福祉事業団障害者支援施設由良あかつき園（由良町）の管理栄養士主査松本久実さん（５９）＝湯浅町＝の３人が選ばれた。\n・白梅賞は１９７３年に制定され、これまでの受賞者は今年度の１１人を含め４５１人。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "県立医科大学附属病院が次世代CT導入",
+    "url": "https://hidakashimpo.co.jp/?p=109101",
+    "source": "日高新報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・県立医科大学は今月から附属病院に次世代コンピューター断層撮影装置「フォトンカウンティングＣＴ」を導入し、運用を始めた。\n・導入した機種はドイツのシーメンスヘルスケア社が開発した「ネオトム・アルファ・ピーク」。\n・費用は関連設備などを含めて約４億７３００万円で、既存のＣＴ３台のうち、稼働から１３年が経過した１台を更新する形で導入した。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "本ノ脇の磯でグレ 沖の一文字でチャリコ、イサキ",
+    "url": "https://hidakashimpo.co.jp/?p=109106",
+    "source": "日高新報",
+    "published_at": "2026-10-29 18:20",
+    "summary": "・【日高町】　共栄丸℡０７３８－６４－２３１８▽日ノ御崎沖で、イサキ釣りで出船中。\n・沖の一文字で、かご釣りでチャリコ、イサキ、グレ。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "奈良・和歌山に共通の“地味うまグルメ”【ケンミンSHOW 極／出演者・出身県の一覧】",
+    "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2489683",
+    "source": "ｄメニューニュース",
+    "published_at": "2026-10-29 18:10",
+    "summary": "・29日放送『秘密のケンミンSHOW 極』より（C）ytv。\n・きょう29日放送の読売テレビ・日本テレビ系『ディスカバリー・エンターテインメント 秘密のケンミンSHOW 極』（毎週木曜　後8：54）は、福岡の「博多皿うどん」、奈良・和歌山の「茶粥」などが紹介される。\n・今回は奈良県と和歌山県から、両県共通の地味うまグルメ「茶粥」を取り上げ、奈良と和歌山がタッグを組み、「茶粥兄弟」として魅力をアピールする。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "【ホテルグランヴィア和歌山】おうちクリスマスを彩る至福のスイーツ＆ローストチキンホールケーキ4種と少人数でシェアできる愛らしい「クリスマス限定ケーキセット」を展開",
+    "url": "https://www.sankei.com/pressrelease/prtimes/ZG6TVHQRA5LMLMSAI7KEMDW2QA/",
+    "source": "産経ニュース",
+    "published_at": "2026-10-29 17:00",
+    "summary": "・【ホテルグランヴィア和歌山】おうちクリスマスを彩る至福のスイーツ＆ローストチキンホールケーキ4種と少人数でシェアできる愛らしい「クリスマス限定ケーキセット」を展開。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "りら・兼子さんが金賞　全国高校生エッセイコンテスト",
+    "url": "https://wakayamashimpo.co.jp/2026/10/20261029_139928.html",
+    "source": "わかやま新報",
+    "published_at": "2026-10-29 16:18",
+    "summary": "・全国の高校生の今の思いを公募する第２６回「全国高校生エッセイコンテスト１７歳からのメッセージ」で、全国５７６校から過去最多の３万６５６６作品が寄せられ、和歌山県紀美野町真国宮のりら創造芸術高校２年生の兼子ひかるさん（１７）が金賞に輝いた。\n・同コンテストは、絶えず変化し続ける世の中で、高校生たちが何を思い、何に悩み、何を目標に生きているのだろうという、今だからこそ発せられる言葉を聞いてみたいと２００１年に始まり、大阪経済大学が主催する。\n・テーマや視点、オリジナリティー、書き手の意図の明確さなどを重視し、大阪読売サービス㈱や㈱進研アド編集部長ら審査員による審査の結果、グランプリ３人、金賞１０人が選ばれた。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "悪質リフォームに注意　屋根工事業協会と県警が啓発",
+    "url": "https://wakayamashimpo.co.jp/2026/10/20261029_139924.html",
+    "source": "わかやま新報",
+    "published_at": "2026-10-29 16:17",
+    "summary": "・屋根の点検商法など、悪質な訪問販売業者によるリフォーム詐欺を防ごうと和歌山県屋根工事業協会と県警は合同で和歌山市のＪＲ和歌山駅で啓発活動を行った。\n・屋根の点検商法など悪質な訪問販売業者による詐欺被害は全国的に増加しており、県警によると県内ではことし３件検挙したという。\n・困ったとき、相談などは県屋根工事業協会（℡０７３・４３５・３４７７）。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "マグロのすしに合う日本酒　九重雜賀が世界へ発信",
+    "url": "https://wakayamashimpo.co.jp/2026/10/20261029_139921.html",
+    "source": "わかやま新報",
+    "published_at": "2026-10-29 16:17",
+    "summary": "・和歌山県紀の川市桃山町で日本酒と食酢を醸造する蔵元、㈱九重雜賀（雜賀俊光社長）は、㈱味香り戦略研究所（東京都中央区）と共同で、マグロのすしに合う日本酒を開発した。\n・同社は１９０８年に赤酢の醸造元として創業し、３４年から日本酒の醸造を開始した。\n・開発にあたっては、従来の日本酒とすしの組み合わせに加え、海外で定着しているワインとマグロのすしの相性も分析。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "Ｑ＆Ａに知英さん、唐田えりかさん",
+    "url": "https://wakayama.keizai.biz/gpnews/1778542/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-29 16:05",
+    "summary": "・第３９回東京国際映画祭のコンペティション作品「過怠」のＱ＆Ａに登壇した知英さん、唐田えりかさん、山本英監督＝２９日、都内　【時事通信フォト】。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "水族館で「アート魚拓展」 魚そのものが持つ美しさや生命感を一枚の作品として表現 和歌山県串本町（テレビ和歌山）",
+    "url": "https://news.yahoo.co.jp/articles/7e8c9c1e6cb988703de433d53ca146365219b0c7",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-29 15:48",
+    "summary": "・串本町の水族館では、現在、魚の形や色、模様などを写し取り、一枚の作品として表現する「アート魚拓展」が開かれています。\n・串本町の串本海中公園水族館では、現在、串本町出身の魚拓作家、谷口岬人さんの作品を集めた「アート魚拓展」が開かれています。\n・串本町出身の魚拓作家 谷口岬人さん「絵では描けない鱗のデコボコとかヒレの表現、それがすべて「アート魚拓」で表現出来るのが楽しいです」「アート魚拓展」は、来年３月２８日まで開催されています。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "夕景から星空、地下に響く波音まで。夜の三段壁洞窟を五感で味わう「星降る洞窟ナイトウォーク2026年」開催中｜南紀白浜",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000124453.html",
+    "source": "PR TIMES",
+    "published_at": "2026-10-29 15:48",
+    "summary": "・2026年10月3日(土)から2027年2月27日(土)までの計25日間、夜の洞窟を探検する「星降る洞窟ナイトウォーク2026」を開催しています。\n・今シーズンのテーマは「五感で楽しむ三段壁洞窟」。\n・星空観賞、そして白浜での夜ごはんまで、昼間とはまったく違う三段壁を全身で味わえます。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "【動画】タンチョウ再び 白浜の富田川で、和歌山",
+    "url": "https://www.agara.co.jp/article/705642",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-10-29 14:30",
+    "summary": "・【動画】田辺にもタンチョウ飛来　紀南で1カ月以上滞在か、会津川下流、和歌山。\n・【動画】白いカルガモ　和歌山県上富田で見つかる。\n・国の特別天然記念物であるタンチョウが２８日、和歌山県白浜町を流れる富田川に飛来した。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "田辺市稲成小／種入り風船 空へ／人権への思い込め",
+    "url": "https://www.agara.co.jp/article/705641?rct=society",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-10-29 14:30",
+    "summary": "・クマノザクラ苗木植え／１１月２２日、田辺市熊野。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "交通手段の空白埋めたい／白浜の事業者 タクシー事業に参入",
+    "url": "https://www.agara.co.jp/article/705635?rct=society",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-10-29 14:30",
+    "summary": "・白浜町や田辺市で、住民の日常の移動を支える「地域の足」の確保が切実な課題となっている。\n・公開交通取り締まり（１０月３０日）。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "元中学校長の大樫氏／みなべ町の新教育長に",
+    "url": "https://www.agara.co.jp/article/705535?rct=education",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-10-29 14:30",
+    "summary": "・卒業生の作品展示　小学校創立150周年、11月8日、岡小、和歌山県上富田町。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "PHRアプリ「TomoBe」、和歌山県ICT・PHRを活用した特定保健指導基盤整備事業に導入決定",
+    "url": "https://prtimes.jp/main/html/rd/p/000000179.000092153.html",
+    "source": "PR TIMES",
+    "published_at": "2026-10-29 14:11",
+    "summary": "・保健指導に特化したPHR（Personal Health Record：生涯にわたる個人の健康・医療に関わる情報）アプリ「TomoBe（トモビー）」について、和歌山県における導入が決定しました。\n・2026年5月28日の提供開始以来、特定保健指導（※１）においては初の導入事例となります。\n・和歌山県では、特定保健指導の実施率向上を重要課題として位置付けており、対面等の従来型手法に加え、ICT・PHRの特性を活用することで、実施率及び実施効果の向上を目指されています。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "10周年の光のフェスティバル「フェスタ・ルーチェ」が10月31日（土）に和歌山マリーナシティで開幕！",
+    "url": "https://www.jiji.com/jc/article?k=000000115.000182609&g=prt",
+    "source": "時事ドットコム",
+    "published_at": "2026-10-29 13:16",
+    "summary": "・ジョン・ヨンファ（CNBLUE）が表紙　韓流ぴあ20周年特別ムック『今だから見たい 韓ドラ最強ガイド 2003-2027』本日発売。\n・［和歌山県公式］和歌山県が後援する光のフェスティバル「フェスタ・ルーチェ」が、2026年10月31日（土）から和歌山マリーナシティで開催されます。\n・和歌山県では、県内の冬の観光情報として本イベントの見どころをご紹介します。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "10周年の光のフェスティバル「フェスタ・ルーチェ」が10月31日（土）に和歌山マリーナシティで開幕！",
+        "url": "https://prtimes.jp/main/html/rd/p/000000115.000182609.html",
+        "source": "PR TIMES",
+        "published_at": "2026-10-29 12:00"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "世界遺産・熊野古道 伊勢路を紐解く 歴史紡ぐ峠道と、秋の東紀州を味わう",
+    "url": "https://prtimes.jp/main/html/rd/p/000000008.000166554.html",
+    "source": "PR TIMES",
+    "published_at": "2026-10-29 13:00",
+    "summary": "・一般社団法人東紀州地域振興公社 (理事:熊野市⻑ 河上 敢二)は、世界でも珍しい“道”の世界遺産である熊野古道 伊勢路の歴史や構成遺産、秋のイベント、そして地元に愛されるグルメをご案内いたします。\n・今回は、江戶時代の参詣者が歩んだ祈りの道である「熊野古道 伊勢路」について詳しく解説いたします。\n・世界遺産・熊野古道の峠道から尾鷲(おわせ)特有の景色まで、美しい海と山の絶景を全身で満喫できる人気のウォーキング大会。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "高級珍味｢カラスミ｣づくり最盛期 2時間ごとに裏返し まんべんなく乾燥 東紀州近海のボラが不漁で瀬戸内海産で対応も｢出来は変わらず上々｣ 三重･尾鷲市",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/3046524",
+    "source": "TBS NEWS DIG",
+    "published_at": "2026-10-29 12:25",
+    "summary": "・高級珍味｢カラスミ｣づくり最盛期 2時間ごとに裏返し まんべんなく乾燥 東紀州近海のボラが不漁で瀬戸内海産で対応も｢出来は変わらず上々｣ 三重･尾鷲市。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "高級珍味｢カラスミ｣づくり最盛期 2時間ごとに裏返し まんべんなく乾燥 東紀州近海のボラが不漁で瀬戸内海産で対応も｢出来は変わらず上々｣ 三重･尾鷲市 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+        "url": "https://newsdig.tbs.co.jp/articles/cbc/3046524",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-29 12:10"
+      }
+    ],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "来年の干支は未(ひつじ) 大絵馬が完成 世界遺産・熊野本宮大社 和歌山県田辺市（テレビ和歌山）",
+    "url": "https://news.yahoo.co.jp/articles/a4914de623008c3cf6ee1f254e059f8a4b579347",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-29 11:54",
+    "summary": "・田辺市本宮町の世界遺産・熊野本宮大社で、来年の干支 未(ヒツジ)の大絵馬が完成しました。\n・来年用の大絵馬作りは、６月から行われていて、今日は九鬼家隆宮司が、ヒツジの目を描くなど、大社の神門に飾る大絵馬の仕上げを行いました。\n・大絵馬は合わせて７枚完成し、来月中に南紀白浜空港やＪＲ紀伊田辺駅、白浜駅などに飾られるほか、本宮大社の神門には１２月１日に掲げられる予定です。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 21,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "得票数や判断理由「公表を」和歌山大学長選考、教職員組合が要望書 [和歌山県]",
+    "url": "https://www.asahi.com/articles/ASVBX3VZVVBXPXLB003M.html",
+    "source": "朝日新聞",
+    "published_at": "2026-10-29 10:45",
+    "summary": "・得票数や判断理由「公表を」和歌山大学長選考、教職員組合が要望書 [和歌山県]。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "「串本の宝」応挙と芦雪、守り継ぐ 無量寺の美術館収蔵庫改修、再開（朝日新聞）",
+    "url": "https://news.yahoo.co.jp/articles/e23272c7d4ffdfcf33fa588f27ea0599232e1636",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-29 10:45",
+    "summary": "・江戸時代中期の絵師・長沢芦雪（ろせつ）（1754～99）や、その師である円山応挙（1733～95）らの障壁画を保存してきた無量寺（和歌山県串本町）の美術館「串本応挙芦雪館」収蔵庫の改修工事が終わり、24日から公開が再び始まった。\n・【写真】改修工事が施された串本応挙芦雪館の収蔵庫=2026年10月24日午前11時2分、和歌山県串本町串本、菊地洋行撮影　収蔵庫は鉄筋コンクリート造り平屋建て約160平方メートル。\n・改修工事の間、芦雪の襖絵などの作品は東京都府中市美術館や和歌山市の県立博物館で出張展示され、注目を集めた。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
     "title": "有田市で震度１、津波の心配なし／和歌山",
     "url": "https://news.wbs.co.jp/221240",
     "source": "WBS和歌山放送ニュース",
@@ -8,9 +656,9 @@
     "summary": "・きょう（２９日）午前０時５０分ごろ、有田市で震度１を観測する地震がありました。\n・この地震による津波の心配はありません。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -21,9 +669,9 @@
     "summary": "・かつらぎ町の築野食品工業が、国内バレーボールの最高峰・ＳＶリーグの強豪サントリーサンバーズ大阪と、今シーズンのオフィシャルパートナー契約を結びました。\n・２０２４年から３年連続で、最上位クラスの「プラチナパートナー」として、自社製品の「こめ油」などを通じて選手の体づくりや食を支えます。\n・築野食品では「選手の食を支える『こめ油』を通して、選手の健康やパフォーマンス向上を後押しするとともに、ファンの皆さんや地域とのつながりが広がっていくことを願っている」としています。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -34,9 +682,9 @@
     "summary": "・和歌山放送の第７１７回番組審議会がきょう（２８日）開かれ、毎週月曜日の午後７時から３０分間、放送されている「CHRISTMAS SHOWROOM（クリスマス ショールーム)」について審議が行われました。\n・この番組は、和歌山市の和歌山マリーナシティの光の祭典「フェスタ・ルーチェ」の最新情報を中心に、世界各国のクリスマス文化や歴史、楽しみ方などを紹介するもので、審議番組となった１０月５日の放送では、パーソナリティでフェスタ・ルーチェ実行委員会会長の古澤良祐（ふるさわ・りょうすけ）さんが前回イベントからの半年間を振り返ったり、今年で１０周年を迎えることへの意気込みなどを語りました。\n・番組審議会では委員から「クリスマスをテーマにしたユニークな番組」「パーソナリティとアシスタントの息があっていてトークも快調」といった意見が出されたほか、「初めて聴く人でも分かりやすい説明を」「全国のイルミネーション事情など毎回、番組ならではのテーマを打ち出してほしい」といった意見も出されました。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 20,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -47,9 +695,9 @@
     "summary": "・和歌山市出身の個性派俳優・岡部たかしさん５４歳が、きょう（１０月２８日）東京のラジオ番組にゲスト出演し、俳優になるまでのいきさつや演技への思いなどを語りました。\n・岡部さんは和歌山市出身で、県立和歌山工業高校を卒業後、地元の建設会社勤務を経て上京し、柄本明(えもと・あきら)さんらが主宰する劇団「東京乾電池」の養成所に入って、俳優としてのキャリアを重ね、ドラマ「エルピス-希望、あるいは災い-」や「虎に翼」「ガス人間」など多くの人気作品に出演しています。\n・優しい父親役から、狂気に溢れる東京都知事役など、硬軟問わず個性的な演技で人気を博し、おととし（２０２４年）和歌山市文化功労賞を受賞し、和歌山市観光発信人にも委嘱されています。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -60,9 +708,16 @@
     "summary": "・和歌山海上保安部は、和歌山市の魅力をPRするプロジェクト「わかおしっ」で作成された2次元キャラクターの一人、雑賀崎海老子に雑賀埼灯台の「名誉灯台長」の称号を授与した。\n・名前や性格などのプロフィルも設定されており、雑賀崎海老子の誕生日は同灯台の点灯が始まった3月31日。\n・授与式では、川畑照司部長が雑賀崎海老子のパネルに名誉灯台長のたすきをかけた。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
-    "importance_score": 14,
-    "is_featured": false
+    "importance_score": 29,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "海の安全、2次元キャラクターで啓発 名誉灯台長に「雑賀崎海老子」和歌山海上保安部",
+        "url": "https://www.sankei.com/article/20261029-FW2K2EXEZFNQDKVDTWVDQ7XSJY/?outputType=asynd",
+        "source": "産経ニュース",
+        "published_at": "2026-10-29 08:40"
+      }
+    ]
   },
   {
     "article_date": "2026-10-29",
@@ -73,9 +728,9 @@
     "summary": "・和歌山県白浜町は、観光DXプラットフォーム「ろかとらべる」の実証実験を2026年11月1日から開始すると発表した。\n・和歌山県白浜町は、豊かな観光資源を有し多くの観光客が訪れる地域である一方で、以下の課題を抱えている。\n・そこで、観光客に便利な体験（NFCタップとAI案内）を提供しながら、裏側で観光ログを精密に取得・還元できるモデルとして今回のシステム実証が決定した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -86,6 +741,8 @@
     "summary": "・今年9月、その豊臣家の墓所の隣に新しく供養塔と顕彰碑が造られた。\n・それにしても、なぜ高野山に田中元首相の供養塔が建立されたのだろう。\n・田中先生を記念する碑を建てるならここしかないと思って、場所を管理する親王院さんにお願いしてみたのです」　場所は高野山の中でも一等地である。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "田中角栄の「供養塔」が豊臣秀吉の墓所の隣に建立 なぜ高野山の一等地に？",
@@ -93,9 +750,7 @@
         "source": "デイリー新潮",
         "published_at": "2026-10-29 04:59"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-29",
@@ -106,8 +761,21 @@
     "summary": "・★お天気川柳★冷えた朝お土産ひとつで口元ゆるむーーおはようございます！和歌山市専用のお天気サポートAIです！■きょうのざっくり天気■【気温の目安】昨日と比べて、最低気温は10℃で3℃低く、ひんやり感じるタイミングがありそうです。\n・最高気温は22℃で2℃高く、過ごしやすく感じられそうです。\n・【空模様】朝から夕方にかけては晴れる見込みで、夜はくもりが広がる予想です。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 9,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "有田市の新たなシンボルに 複合公共施設「みふろむ」落成 ／和歌山",
+    "url": "https://mainichi.jp/articles/20261029/ddl/k30/040/253000c",
+    "source": "毎日新聞",
+    "published_at": "2026-10-29 05:02",
+    "summary": "・有田市宮原町滝川原の旧宮原小学校跡地を活用した複合公共施設「MifroM（みふろむ）」の落成式が27日、同施設内の体育館で開かれた。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 5,
     "is_featured": false
   },
   {
@@ -119,6 +787,8 @@
     "summary": "・29日午前0時50分ごろ、和歌山県で最大震度1を観測する地震がありました。\n・最大震度1を観測したのは、和歌山県の有田市です。\n・【各地の震度詳細】■震度1□和歌山県有田市気象庁の発表に基づき、地域ごとに震度情報をお伝えしています。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 114,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山県で最大震度1の地震 和歌山県・有田市(放送局のニュース )",
@@ -155,10 +825,14 @@
         "url": "https://news.livedoor.com/article/detail/32680034/",
         "source": "ライブドアニュース",
         "published_at": "2026-10-29 00:52"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震 和歌山県・有田市 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/73277ca9f1b58c56e90be158d25f69b5035ca364/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-29 00:54"
       }
-    ],
-    "importance_score": 99,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-29",
@@ -169,6 +843,8 @@
     "summary": "・２８日午前、和歌山市のトンネル「雑賀崎隧道」で８０代の女性が重傷を負ったひき逃げ事件で、無職の男（５４）が逮捕されました。\n・過失運転致傷などの疑いで逮捕されたのは、和歌山市の無職・山本浩資容疑者（５４）です。\n・｢雑賀崎隧道｣でひき逃げ 男逮捕New写真。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山市「雑賀崎隧道」でのひき逃げ事件　５０代の男が逮捕「当たるまで気が付かなかった」",
@@ -176,9 +852,7 @@
         "source": "Infoseek",
         "published_at": "2026-10-29 01:00"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-29",
@@ -189,9 +863,9 @@
     "summary": "・和歌山県 近隣の雨雲レーダー(実況)。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -202,9 +876,22 @@
     "summary": "・【速報】自転車の高齢女性をひき逃げした疑い　54歳男を逮捕　和歌山市の雑賀崎トンネルで関西テレビ10/29 00:0910/29(木) 00:09 配信出典元: 関西テレビ【速報】JR阪和線の区間快速　東佐野駅を「約300ｍ」オーバーランするトラブル　運転士の眠気が原因　現場に整備の「誤通過防止支援装置」も作動せず「攻撃者はプロではなくAI利用の“素人”か」専門家　GMOサイバー攻撃「身代金の減額や丁寧すぎる脅迫に違和感」指摘誕生から70年　“古希”迎えた「二代目通天閣」を紫色にライトアップ　大阪を盛り上げる光を放ち続け“コロナ禍”では感染状況“伝える”役割も「ブレーキとアクセルを踏み間違えた」　軽自動車がコインランドリーに突っ込み、店内にいた70代女性が軽傷　運転していたのは40代男性　駐車しようとした際に突っ込んだか「子どもが教員に性的な画像を要求されている」　高校の男性教員が10人以上の男子生徒に下半身の画像要求や食事に誘うなど繰り返す　保護者からの相談で発覚。\n・和歌山市のトンネルで28日午前、自転車に乗っていた80代の女性がひき逃げされ大けがをした事件で、警察は軽四トラックを運転していた54歳の男を逮捕しました。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
+    "importance_score": 39,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "【速報】自転車の高齢女性をひき逃げした疑い 54歳男を逮捕 和歌山市の雑賀崎トンネルで（関西テレビ）",
+        "url": "https://news.yahoo.co.jp/articles/92178b6793c47f2fe35a0e9a613e3be4f2b172e9",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-29 00:03"
+      },
+      {
+        "title": "【速報】自転車の高齢女性をひき逃げした疑い　54歳男を逮捕　和歌山市の雑賀崎トンネルで",
+        "url": "https://topics.smt.docomo.ne.jp/article/ktv_news/region/ktv_news-30619",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-29 00:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-28",
@@ -215,9 +902,9 @@
     "summary": "・2009年、太地町でのイルカの追い込み漁をテーマにした米国のドキュメンタリー映画『ザ・コーヴ』が公開されています。\n・『ザ・コーヴ』は、米国の反捕鯨団体「ドルフィンプロジェクト」や「シーシェパード」が太地町に乗り込み、イルカの追い込み漁を批判するという筋書きで、米アカデミー賞長編ドキュメンタリー部門を受賞しました。\n・太地町の捕鯨は、比較的近くの海で10トンより小さな船で行う沿岸漁業の一つに位置付けられ、海産哺乳類は水揚げの約30％を占める重要な品目となっています。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -228,9 +915,9 @@
     "summary": "・安倍晴明社 和歌山県田辺市龍神村殿原。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -241,9 +928,9 @@
     "summary": "・「串本応挙芦雪館」の収蔵庫の改修が完了 和歌山 串本町。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -254,8 +941,21 @@
     "summary": "・和歌山 白浜町のテーマパークで「招きパンダ」発売。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 11,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-28",
+    "title": "高速道路SAで「白トラ」防止を呼びかけ 和歌山",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261028de67062",
+    "source": "NHKニュース",
+    "published_at": "2026-10-28 21:53",
+    "summary": "・高速道路SAで「白トラ」防止を呼びかけ 和歌山。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 5,
     "is_featured": false
   },
   {
@@ -267,9 +967,9 @@
     "summary": "・3連休を利用した旅行では観光地の知名度だけでなく、自然景観や宿泊施設の充実度、静かに過ごせる環境などを重視し、穴場の自治体を選びたいと考える人も少なくありません。\n・【画像：ランキング30位～1位を見る】　令和トラベルが運営する旅行アプリ「NEWT（ニュート）」は、11月22日の「いい夫婦の日」を含む11月下旬の3連休（11月21～23日）を受け、「夫婦・パートナーふたりで訪れたい穴場の自治体」ベスト30を発表しました。\n・湯と景色と食に癒やされる穴場自治体ランキング ベスト30」）。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -280,9 +980,9 @@
     "summary": "・デジタル技術で藻場再生 那智勝浦町と慶応大など 和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -293,21 +993,28 @@
     "summary": "・警視庁光が丘署は２８日、練馬区立中学校で防犯教室を開き、高額報酬をうたう闇バイトの危険性をクイズを交えて解説。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
-    "title": "水害に備え、和歌山・美浜町和田地区を「貯留機能保全区域」に指定 2級河川では全国初",
-    "url": "https://www.sankei.com/article/20261028-MCLRSILDMBMVNODMDVLEWY3THQ/",
-    "source": "産経ニュース",
-    "published_at": "2026-10-28 18:27",
+    "title": "水害に備え、和歌山・美浜町和田地区を「貯留機能保全区域」に指定 2級河川では全国初（産経新聞）",
+    "url": "https://news.yahoo.co.jp/articles/6c6f0930dfa2eaed7c1f43a78145320733bcf653",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-28 18:30",
     "summary": "・和歌山県は、美浜町和田地区を日高川水系西川の支流・和田川の氾濫時に水をためる「貯留機能保全区域」に指定した。\n・県によると、同区域の指定は令和6年の奈良県大和川流域に続いて2例目で、2級河川では全国初という。\n・指定に伴い区域内では盛土、塀や柵、止水壁といった貯水機能を損なう可能性のある施設などの設置には、県に事前の届け出が必要となる。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 17,
+    "related_articles": [
+      {
+        "title": "水害に備え、和歌山・美浜町和田地区を「貯留機能保全区域」に指定 2級河川では全国初",
+        "url": "https://www.sankei.com/article/20261028-MCLRSILDMBMVNODMDVLEWY3THQ/",
+        "source": "産経ニュース",
+        "published_at": "2026-10-28 18:27"
+      }
+    ],
+    "importance_score": 27,
     "is_featured": false
   },
   {
@@ -319,6 +1026,8 @@
     "summary": "・和歌山市出身の個性派俳優・岡部たかしさん５４歳が、きょう（１０月２８日）東京のラジオ番組にゲスト出演し、俳優になるまでのいきさつや演技への思いなどを語りました。\n・岡部さんは和歌山市出身で、県立和歌山工業高校を卒業後、地元の建設会社勤務を経て上京し、柄本明(えもと・あきら)さんらが主宰する劇団「東京乾電池」の養成所に入って、俳優としてのキャリアを重ね、ドラマ「エルピス-希望、あるいは災い-」や「虎に翼」「ガス人間」など多くの人気作品に出演しています。\n・優しい父親役から、狂気に溢れる東京都知事役など、硬軟問わず個性的な演技で人気を博し、おととし（２０２４年）和歌山市文化功労賞を受賞し、和歌山市観光発信人にも委嘱されています。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 47,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山市出身の俳優・岡部たかしさんがナイツのラジオに生出演",
@@ -332,9 +1041,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-28 15:16"
       }
-    ],
-    "importance_score": 47,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-28",
@@ -581,6 +1288,8 @@
     "summary": "・２８日午前、和歌山市内のトンネル「雑賀崎隧道」の中で、８０代の女性が車にひき逃げされました。\n・勤務先にいたところを逮捕　ひき逃げ疑いの42歳男　ひかれた自転車の男性は死亡　大阪・藤井寺市　２８日午前１１時４０分すぎ、和歌山市田野で「自転車が倒れている。\n・警察によりますと、現場は「雑賀崎隧道」の中で、近くに住む８０代の女性が病院に搬送され、腰の骨を折るなどの重傷です。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【速報】和歌山市のトンネルでひき逃げ 自転車の80代女性が重傷…骨盤骨折の疑い 雑賀崎トンネルで車が自転車と衝突と断定…逃げた車の行方追う 和歌山県警",
@@ -588,9 +1297,7 @@
         "source": "FNNプライムオンライン",
         "published_at": "2026-10-28 17:26"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-28",
@@ -643,6 +1350,19 @@
     "importance_score": 15,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-28",
+    "title": "岡山の児島ジーンズストリート、和歌山のニット産地と連携",
+    "url": "https://www.nikkei.com/article/DGXZQOCC264190W6A021C2000000/",
+    "source": "日本経済新聞",
+    "published_at": "2026-10-28 16:00",
+    "summary": "・岡山県倉敷市の児島ジーンズストリート協同組合は和歌山ニット工業組合（和歌山市）と産地間連携を始めた。\n・10月下旬、デニム専門店が並ぶ倉敷市の「児島ジーンズストリート」で開かれたイベントで新ブランド「あみあい」の立ち上げを発表した。\n・和歌山で編んだニット生地と児島の加工技術でTシャツなどをつくり、同ストリートの店舗などで販売する。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-28",
@@ -718,9 +1438,9 @@
     "summary": "・株式会社ルミエール（ルミエール）。\n・〒136-0071東京都江東区亀戸九丁目18-13。\n・【人口1万人あたりの寿司店数、山梨県が最多で高知県の2.9倍】回転寿司・寿司店の市場データを無料公開（事業所数・市場規模・広告費）。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -796,9 +1516,9 @@
     "summary": "・和歌山県教育委員会は2026年10月23日、2027年度（令和9年度）和歌山県立高等学校入学者選抜の学校別・学科別募集定員を公表した。\n・2027年度の県立高校募集定員は、全日制が157学級6,200人、定時制が16学級570人。\n・募集定員を変更するのは、全日制の県立高校2校2学科。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -809,6 +1529,8 @@
     "summary": "・再開発の計画が白紙になった区画=2026年10月22日、和歌山市友田町3丁目、松永和彦撮影（朝日新聞）。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 33,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "地域活性化に向けた再開発計画が白紙に、和歌山市街地の準備組合解散 [和歌山県]",
@@ -822,9 +1544,7 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-28 07:00"
       }
-    ],
-    "importance_score": 33,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-28",
@@ -926,9 +1646,9 @@
     "summary": "・和歌山地方気象台が10月28日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山20℃、潮岬21℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -1043,6 +1763,8 @@
     "summary": "・焼き菓子店「恐竜スコーンがおがお」（有田市初島町里）が10月2日、オープンした。\n・店主の北野理奈さんは、趣味で焼き菓子やスコーンを10年以上作り続けてきた。\n・チョコチップ入りティラノサウルス形スコーン（450円）、ドライイチゴとホワイトチョコ入りステゴサウルス形スコーン（500円）のほか、プレーン（300円）、チョコココア（350円）、季節限定の味などをそろえる。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 39,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "有田市に開店した焼き菓子店「恐竜スコーンがおがお」店舗外観",
@@ -1056,9 +1778,7 @@
         "source": "和歌山経済新聞",
         "published_at": "2026-10-27 23:06"
       }
-    ],
-    "importance_score": 39,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-27",
@@ -1598,800 +2318,6 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "丸く収まり、笑顔に 熊野本宮大社で来年の干支大絵馬、和歌山（紀伊民報）",
-    "url": "https://news.yahoo.co.jp/articles/d9533541bf261622c5baceccbe425f9e67d20ddd",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-27 16:25",
-    "summary": "・和歌山県田辺市本宮町の世界遺産・熊野本宮大社の九鬼家隆宮司（７０）が２７日、来年の干支（えと）である「未（ひつじ）」の大絵馬を完成させた。\n・神門に掲げている大絵馬は１２月１日にかけ替える予定。\n・【穏やかで平和な未年に　来年の絵馬完成、速玉大社、和歌山県新宮の記事】　大絵馬は縦１１７センチ、横２３２センチ。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 36,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "丸く収まり、笑顔に 熊野本宮大社で来年の干支大絵馬、和歌山",
-        "url": "https://www.agara.co.jp/article/704473",
-        "source": "AGARA 紀伊民報",
-        "published_at": "2026-10-27 14:30"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "ジャムや雑貨に行列 中芳養中１年生が田辺駅前で販売、和歌山（紀伊民報）",
-    "url": "https://news.yahoo.co.jp/articles/ddd4d91db00569b06e9b230be1b35bbc2895a82b",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-27 16:25",
-    "summary": "・和歌山県田辺市の中芳養中学校１年生（２３人）は２１、２２日、ＪＲ紀伊田辺駅前の田辺エンプラス（田辺市湊）で、校内で収穫した梅を加工したジャムや、生徒手作りのオリジナル雑貨を販売した。\n・販売開始前から行列ができ、ジャムは約３０分で売り切れるなど盛況だった。\n・【思い込めた梅ジャムいかが　中芳養中生徒が21・22日に販売、和歌山・田辺の記事】　ジャムは南部高校（みなべ町芝）の施設を借りて加工した本格的なもので、両日とも４０個限定で販売。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 24,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "ジャムや雑貨に行列 中芳養中１年生が田辺駅前で販売、和歌山",
-        "url": "https://www.agara.co.jp/article/703974",
-        "source": "AGARA 紀伊民報",
-        "published_at": "2026-10-27 14:30"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "明かりに照らされて",
-    "url": "https://wakayama.keizai.biz/gpnews/1778468/",
-    "source": "和歌山経済新聞",
-    "published_at": "2026-10-27 16:23",
-    "summary": "・２６日、ミャンマーのヤンゴンで開催された伝統的な仏教の祭り「タディンジュ」で、光の装飾が施された街中をゾウに乗って練り歩く人々。\n・第2回紀州神仏霊場「あさも和（わ）」御朱印巡りが11月1日、和歌山市内7カ所にある寺院と神社で始まる。\n・空き店舗活用イベント「まちなかイロドリ（通称＝まちドリ）」が11月7日・8日、北ぶらくり丁商店街周辺で開催される。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "野口英世生誕１５０年の企画展",
-    "url": "https://wakayama.keizai.biz/gpnews/1778470/",
-    "source": "和歌山経済新聞",
-    "published_at": "2026-10-27 16:23",
-    "summary": "・東京・上野の国立科学博物館で２７日、医師・細菌学者野口英世の生誕１５０年を記念する企画展「感染症への挑戦　過去・現在・未来」が始まった。\n・写真は内覧会で説明する野口英世記念会の倉根一郎理事長＝２６日撮影　【時事通信社】。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "飲酒運転撲滅へ　東署が啓発、ゴーグル危険歩行体験も",
-    "url": "https://wakayamashimpo.co.jp/2026/10/20261027_139908.html",
-    "source": "わかやま新報",
-    "published_at": "2026-10-27 15:59",
-    "summary": "・お酒を飲む機会が増える年末を前に、和歌山東署は２６日、和歌山市川辺のカインズ紀伊川辺店前で、飲酒運転の防止に向けた啓発活動を行った。\n・買い物客に啓発チラシや反射たすきなどの交通安全を呼びかけるグッズを手渡し、飲酒運転の危険性と根絶を呼びかけた。\n・県警によると、東署管内での飲酒運転による人身事故が３件発生し、うち死亡事故が１件発生している。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 14,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "紀美野の魅力を発信　国際交流員のジェームズさん",
-    "url": "https://wakayamashimpo.co.jp/2026/10/20261027_139906.html",
-    "source": "わかやま新報",
-    "published_at": "2026-10-27 15:59",
-    "summary": "・ことし８月、和歌山県紀美野町にイギリス出身のジェームズ・ドライバーさん（２５）が、国際交流員（ＣＩＲ）として赴任した。\n・ＣＩＲは、日本政府が実施する外国語教育の充実と地域の国際交流の推進を図る事業「ＪＥＴプログラム」の職種の一つで、高い日本語能力が必要とされる。\n・国際交流事業の企画や通訳、翻訳などに関わり、任期は１年ごとの更新で最長５年となる。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 11,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "地域と育つ企業目指す　日本生命の朝日社長が来社",
-    "url": "https://wakayamashimpo.co.jp/2026/10/20261027_139910.html",
-    "source": "わかやま新報",
-    "published_at": "2026-10-27 15:58",
-    "summary": "・日本生命保険相互会社の朝日智司社長（６３）がこのほど、和歌山市福町の㈱和歌山新報社を訪れ、津村周社長に今後の展望や、地域における企業の在り方などを語った。\n・東京中央総合支社長や取締役執行役員などを歴任して昨年４月、社長に就任した。\n・また同日、朝日社長は県庁を訪れ、宮﨑泉知事に本年度の医療費白書を手渡した。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 17,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "日立、沖縄中南部と和歌山熊野で観光DXの実証を開始 AIによる広域周遊促進と旅行前データの活用を検証",
-    "url": "https://cloud.watch.impress.co.jp/docs/news/2151205.html",
-    "source": "クラウド Watch",
-    "published_at": "2026-10-27 15:07",
-    "summary": "・株式会社日立製作所（以下、日立）は26日、自治体や観光地域づくり法人（DMO）などの地域の関係者と連携し、沖縄県中南部地域および和歌山県熊野地域の2拠点で、観光DXの実証を10月から順次開始すると発表した。\n・これにより、県内の行政区域を越えた周遊観光の促進と、データに基づく観光地経営の高度化を支援するという。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "大人が幸せのモデルに 御坊市でひきこもり支援講演会",
-    "url": "https://hidakashimpo.co.jp/?p=109067",
-    "source": "日高新報",
-    "published_at": "2026-10-27 14:38",
-    "summary": "・御坊市ひきこもり支援連絡協議会は２４日、御坊商工会館で「生きづらさを理解する」をテーマにした講演会を開き、ひきこもりの本人や家族、福祉、学校の関係者ら約８０人が参加した。\n・大人が幸せのモデルでいたいものですね」と呼びかけた。\n・ＮＰＯ法人Ｐｅｅｒ心理教育サポートネットワーク（和歌山市）の理事長で臨床心理士などの資格を持つ小山秀之氏も「こども・若者たちの居場所」をテーマに講演し、居場所の必要性や支援のあり方で語った。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 14,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "印南の天然染色家堀口さんが大阪で個展開く",
-    "url": "https://hidakashimpo.co.jp/?p=109063",
-    "source": "日高新報",
-    "published_at": "2026-10-27 14:32",
-    "summary": "・印南町の天然染色家で株式会社Ｈ.　Ａ.　Ｌ.　Ｕ代表の堀口久美さんが２４、２５日の両日、大阪市のエルス中之島で個展「Ｈ.　Ａ.　Ｌ.　Ｕ天然染色２０２６秋」を開いた。\n・堀口さんは５０年以上にわたり天然染色の創作活動を行っており、今年３月にはフランスで開催された第３回アート博inパリで最高賞のグランプリに輝いた。\n・７０歳を節目に、都会の文化的な地で新しい出会いが生まれる場所を作りたいと考え、大阪での個展に挑戦。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 11,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "神島･田工が初戦突破　高校サッカー和歌山大会",
-    "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow703985?fm=latestnews",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-27 14:30",
-    "summary": "・第１０５回全国高校サッカー選手権大会の和歌山大会は２４日、和歌山県紀の川市の桃源郷運動公園陸上競技場で２回戦３試合があった。\n・紀南勢では神島・田辺工業の合同チームが粉河に５―１、新宮が和歌山商業に１１―０で勝った。\n・この他、和歌山工業は開智に０―０からのＰＫ戦を８―７で制した。",
-    "summary_type": "auto",
-    "category": "スポーツ",
-    "importance_score": 18,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "スマホでスタンプラリー 11月から観光客の流れ調査で、和歌山・白浜",
-    "url": "https://www.agara.co.jp/article/704471",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-10-27 14:30",
-    "summary": "・本物そっくりのペンギンロボット　白浜のアドベン、和歌山。\n・熊野の旅楽しむアプリ　観光、宿泊、飲食これ一つ、和歌山県田辺。\n・和歌山県白浜町は、福岡市の企業と連携し、実証事業でデジタルスタンプラリーを１１月に始める。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 23,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "国際園芸博覧会和歌山県催事実施計画策定等業務に係る公募型プロポーザルの実施",
-    "url": "https://www.travelvoice.jp/tenders/1709",
-    "source": "トラベルボイス",
-    "published_at": "2026-10-27 14:27",
-    "summary": "・和歌山県庁は、国際園芸博覧会和歌山県催事実施計画策定等業務の委託先を公募しています。\n・本業務は、2027年国際園芸博覧会において、国内外に向けて和歌山県の魅力を効果的に発信し、県への来訪者増加につなげるため、PR催事の実施計画を策定し、開催に向けた準備をおこなうものです。\n・2027年国際園芸博覧会で、梅などの特産品や観光地、伝統文化、空港利用をPRする催事を企画・準備し、和歌山県の認知度向上と来県促進を図る。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "白浜町、温泉情緒エリア整備フィージビリティ調査プロポ ９日まで受付",
-    "url": "http://www.ken-san.com/article/view/23756",
-    "source": "日刊建産速報",
-    "published_at": "2026-10-27 14:00",
-    "summary": "・和歌山県・白浜町は、観光戦略の核となる温泉資源の活用について、温泉地としての本来の魅力である温泉情緒を体感できるまちづくりエリアの整備を検討するため、「温泉情緒エリア整備に係るフィージビリティ調査業務」の公募型プロポーザルを実施する。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "朝日に照らされ幻想的に輝く青紫の花 標高600メートルの寺でリンドウ数千株が今月末まで見ごろ 和歌山・那智勝浦町",
-    "url": "https://news.ntv.co.jp/n/ytv/category/society/yt59892e2664c04369a7aaffecce73c322",
-    "source": "日テレNEWS NNN",
-    "published_at": "2026-10-27 13:48",
-    "summary": "・和歌山県那智勝浦町の山あいにある寺では、秋の訪れを告げる花・リンドウが見ごろを迎えています。\n・スギの木のすきまから差し込む朝日に照らされ、幻想的に輝きます。\n・標高600メートルに位置する和歌山県那智勝浦町の妙法山・阿弥陀寺では、境内の木陰に数千株のリンドウが自生しています。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "夜の動物たちの姿や幻想的な演出楽しむ アドベンチャーワールドで「ＬＩＧＨＴ ＰＡＲＫＳ」開催 和歌山・白浜町",
-    "url": "https://news.yahoo.co.jp/articles/3f046abec973c349a20e5ef9b1e6a0458e28a5f1",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-27 12:26",
-    "summary": "・和歌山県白浜町のアドベンチャーワールドでは、光のイベント「ＬＩＧＨＴ ＰＡＲＫＳ」が開かれています。\n・韓国最大級のファッションＰＦ「ＭＵＳＩＮＳＡ」が期間限定出店　大阪・梅田に７１ブランド約３４００点　来月８日まで　アドベンチャーワールドの「ＬＩＧＨＴ ＰＡＲＫＳ」は、巨大な光のオブジェや幻想的な光の演出、動物たちの暮らす場所に光を灯し、夜ならではの姿を楽しんでもらおうというイベントです。\n・「ＬＩＧＨＴ ＰＡＲＫＳ」は来年３月３１日まで行われ、来年１月４日から３月１９日は土日祝のみの開催ということです。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 12,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "「ＡＩ学校司書」を千葉市・日高川町で試験運用 授業実践データから図書資料を提案",
-    "url": "https://www.shijyukukai.jp/2026/10/31114",
-    "source": "月刊私塾界",
-    "published_at": "2026-10-27 12:25",
-    "summary": "・京都産業大学と日本事務器株式会社が共同研究を進める「ＡＩ学校司書」の試験運用が、千葉市と和歌山県日高川町で行われている。\n・教員や学校司書が授業の単元、学年、探究テーマなどを入力すると、過去の授業で活用された図書資料や提案理由、所蔵する図書館を示す仕組みだ。\n・教育家庭新聞の取材によると、試験運用は千葉市で６月、日高川町で７月に始まった。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "ケーンが初受賞",
-    "url": "https://wakayama.keizai.biz/gpnews/1778411/",
-    "source": "和歌山経済新聞",
-    "published_at": "2026-10-27 12:22",
-    "summary": "・ケーンが初受賞。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
-    "url": "https://tenki.jp/radar/6/33/",
-    "source": "tenki.jp",
-    "published_at": "2026-10-27 12:13",
-    "summary": "・和歌山県の雨雲レーダー(実況)28日18:10発表。\n・2026年10月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 24,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "和歌山県の雨雲レーダー(予報)",
-        "url": "https://tenki.jp/radar/6/33/rainmesh.html",
-        "source": "tenki.jp",
-        "published_at": "2026-10-27 09:36"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "「和歌山県世界遺産マスター」新規募集開始！！：時事ドットコム",
-    "url": "https://www.jiji.com/jc/article?k=000000114.000182609&g=prt",
-    "source": "時事ドットコム",
-    "published_at": "2026-10-27 11:46",
-    "summary": "・［和歌山県公式］和歌山県が主体となり、世界遺産とその周辺地域のパトロールや、保全・活用に関する普及啓発に取り組むボランティア「和歌山県世界遺産マスター」を募集いたします。\n・世界遺産を守り、その魅力を伝える活動に参加してみませんか。\n・募集の背景・目的　世界遺産「紀伊山地の霊場と参詣道」のより一層の保全啓発活動を推進していくには、民間の活力を活かし、官民が一体となって取り組むこ とが重要です。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 24,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "「和歌山県世界遺産マスター」新規募集開始！！",
-        "url": "https://prtimes.jp/main/html/rd/p/000000114.000182609.html",
-        "source": "PR TIMES",
-        "published_at": "2026-10-27 10:00"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "「爽やかでやさしい和菓子」　買ってきてほしい“和歌山県のお土産（お菓子・スイーツ）”ランキング1位に「食べ始めたら手が止まりません」「柚あんと最中生地とのバランスが絶妙」（1/3） | 和歌山県 ねとらぼリサーチ",
-    "url": "https://nlab.itmedia.co.jp/research/articles/4070733/",
-    "source": "ねとらぼ",
-    "published_at": "2026-10-27 11:40",
-    "summary": "・近畿地方に位置し、温暖な気候のもとで果樹栽培などが盛んに行われている和歌山県。\n・ねとらぼでは、アンケートサイト「ボイスノート」の協力のもと、全国の男女を対象に「買ってきてほしい和歌山県のお土産（お菓子・スイーツ）」というテーマでアンケート調査を実施しました。\n・和歌山県白浜町で1933年からお菓子作りを続けてきた老舗「福菱」が創業当時より販売している「柚もなか」は、自社で皮をむいて炊き上げたゆずあんを、熟練の職人が焼く香ばしい最中生地で包んだ和菓子です。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "アドソル日進",
-    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261023555562/",
-    "source": "日本経済新聞",
-    "published_at": "2026-10-27 11:30",
-    "summary": "・2026年10月27日 アドソル日進[3837]の開示資料「那智勝浦町・慶應義塾大学SFC研究所・アドソル日進が産官学連携協定を締結」 が閲覧できます。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 15,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "データとテクノロジーで未来の海とまちをつなぐー那智勝浦町・慶應義塾大学SFC研究所・アドソル日進が産官学連携協定を締結",
-        "url": "https://prtimes.jp/main/html/rd/p/000000057.000061250.html",
-        "source": "PR TIMES",
-        "published_at": "2026-10-27 11:30"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "【恒和システム】“新米”社員を「一から育てる」IT企業、和歌山の協賛農家から届いた「新米」を関係先に配布",
-    "url": "https://www.sankei.com/pressrelease/prtimes/XMOWEKM5FRJATDLN7PGAJGRTSU/",
-    "source": "産経ニュース",
-    "published_at": "2026-10-27 11:00",
-    "summary": "・【恒和システム】“新米”社員を「一から育てる」IT企業、和歌山の協賛農家から届いた「新米」を関係先に配布。",
-    "summary_type": "auto",
-    "category": "経済・産業",
-    "importance_score": 5,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "田辺市立高雄中の吹奏楽部が迫力のステージ 体育館でコンサート（朝日新聞）",
-    "url": "https://news.yahoo.co.jp/articles/3db4cccfae487f53d4a8c0a20788de4ad18b7453",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-27 10:45",
-    "summary": "・和歌山県田辺市立高雄中学校体育館で18日、吹奏楽部による第31回プロムナードコンサートがあった。\n・【写真】高雄中学校体育館で開かれた吹奏楽部の第31回プロムナードコンサート=2026年10月18日午後3時10分、和歌山県田辺市高雄3丁目、菊地洋行撮影　高雄中吹奏楽部は、県吹奏楽コンクールで県代表として関西大会へ出場する常連。\n・コンサートのI部では、吹奏楽部員33人が今年度の吹奏楽コンクールの課題曲「夕映えの丘」、自由曲「白虎繚乱（りょうらん）～なれし御城（おしろ）に残す月影」を演奏した。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 24,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "田辺市立高雄中の吹奏楽部が迫力のステージ 体育館でコンサート (朝日新聞)",
-        "url": "https://news.yahoo.co.jp/articles/3db4cccfae487f53d4a8c0a20788de4ad18b7453/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-27 10:45"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "11月1日（日）は和歌山・かつらぎ町へ！「バイクの文化祭inかつらぎ町2026」ステージのタイムスケジュールを公開",
-    "url": "https://www.autoby.jp/_ct/17872441?",
-    "source": "Webオートバイ",
-    "published_at": "2026-10-27 08:30",
-    "summary": "・この地をツーリングスポットとしてより多くの人に知ってもらい、ライダーが学べるイベントとして2024年にスタートした「バイクの文化祭」が今年も開催されます。\n・「バイクの文化祭2026 in かつらぎ町」として、2026年11月1日（日）に開催されます。\n・【入場無料】「バイクの文化祭2026 in かつらぎ町」が11月1日（日）に開催！ \"学ぶ\"をテーマに親子でも楽しめるバイクイベント - webオートバイ。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 21,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "11月1日（日）は和歌山・かつらぎ町へ！「バイクの文化祭inかつらぎ町2026」ステージのタイムスケジュールを公開",
-        "url": "https://www.autoby.jp/_ct/17872441",
-        "source": "Webオートバイ",
-        "published_at": "2026-10-27 08:30"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "【和歌山市】10/27 最高25℃、夜はやや風がある予想【朝版】",
-    "url": "https://news.yahoo.co.jp/articles/b9588a9157f3349b71d8dd70c66ee8e88bb2476a/images/000",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-27 05:10",
-    "summary": "・【和歌山市】10/27 最高25℃、夜はやや風がある予想【朝版】。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "防災語り継ぐ灯 稲むらの火祭り 広川 ／和歌山",
-    "url": "https://mainichi.jp/articles/20261027/ddl/k30/040/191000c",
-    "source": "毎日新聞",
-    "published_at": "2026-10-27 05:03",
-    "summary": "・第24回稲むらの火祭りが24日、広川町の広八幡神社などで開かれた。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 5,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "11月3日(火)深夜2時04分〜「和歌山県でイカダ下りの旅」第4話（日テレTOPICS）",
-    "url": "https://topics.smt.docomo.ne.jp/article/ntv_topics/entertainment/www.ntv.co.jp-tabizaru-articles-3297qap0tbgdifmk5hlj-html",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-27 02:45",
-    "summary": "・11月3日(火)深夜2時04分〜「和歌山県でイカダ下りの旅」第4話（日テレTOPICS）。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 15,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "11月3日(火)深夜2時04分〜「和歌山県でイカダ下りの旅」第4話",
-        "url": "https://news.livedoor.com/article/detail/32663366/",
-        "source": "ライブドアニュース",
-        "published_at": "2026-10-27 02:35"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "火災時の避難方法学ぶ 中芳養幼稚園児が訓練、和歌山県田辺",
-    "url": "https://www.agara.co.jp/article/703100",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-10-27 02:40",
-    "summary": "・傷ある梅もおいしく　ジャム開発取り組む、中芳養中１年生、和歌山県田辺市。\n・盆踊りや夜店楽しむ、中芳養小で夏まつり、和歌山県田辺。\n・和歌山県田辺市中芳養の中芳養幼稚園で９日、避難訓練があり、園児９人が体験を通じて、火災への備えを学んだ。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 14,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "【高校野球】秋季近畿高校野球大会 智辯和歌山は３１日に京都国際と",
-    "url": "https://news.wbs.co.jp/221201",
-    "source": "WBS和歌山放送ニュース",
-    "published_at": "2026-10-27 00:51",
-    "summary": "・来年春の選抜高校野球大会の出場校選考で重要な資料となる秋季近畿高校野球大会は、雨のために日程が二転三転し、智辯和歌山は今月（１０月）３１日に京都市のわかさスタジアム京都でベスト４進出をかけて京都国際と対戦します。\n・秋季近畿高校野球大会は当初、今月２５日にベスト８が出そろう予定でしたが、雨のために日程が延び、２７日に１回戦残る２試合が行われてベスト８が出そろい、３１日にベスト４進出をかけて準々決勝４試合が行われます。\n・１８日の１回戦で奈良１位の奈良大付属を１０対２で破った県予選２位の智辯和歌山は、３１日午後１時半開始予定の第３試合で京都１位の京都国際とベスト４進出をかけて対戦します。",
-    "summary_type": "auto",
-    "category": "スポーツ",
-    "importance_score": 14,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "坂本冬美さん「最近ＭＤからｉＰａｄに」",
-    "url": "https://news.wbs.co.jp/221196",
-    "source": "WBS和歌山放送ニュース",
-    "published_at": "2026-10-27 00:51",
-    "summary": "・上富田町(かみとんだちょう)出身の歌手・坂本冬美さんが、きょう（１０月２６日）東京のラジオ番組に出演し、最近、音楽を聞く道具を「ＭＤ」からタブレット端末「ｉＰａｄ」に乗り換えたことを明らかにしました。\n・冬美さんは、きょう午後、東京・ニッポン放送のラジオ番組「高田文夫と松本明子のラジオビバリー昼ズ」にゲスト出演し、石崎ひゅーいさん作詞作曲のデビュー４０周年記念曲「ひらり」をＰＲしたほか、近況報告を行いました。\n・また阪神ファンの冬美さんは、来年(２０２７年)のチームについて「佐藤輝明(さとう・てるあき)選手の大リーグ挑戦はショックでしたが、大山悠輔(おおやま・ゆうすけ)選手に期待したいです。",
-    "summary_type": "auto",
-    "category": "スポーツ",
-    "importance_score": 11,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "大相撲九州場所の番付発表 藤壮大は東幕下１２枚目に",
-    "url": "https://news.wbs.co.jp/221198",
-    "source": "WBS和歌山放送ニュース",
-    "published_at": "2026-10-27 00:51",
-    "summary": "・東京の両国国技館で来月（１１月）８日に初日を迎える大相撲九州場所の番付がきょう（２６日）、日本（にほん）相撲協会から発表され、有田市出身の藤壮大(ふじそうだい)は、東幕下１２枚目となりました。\n・紀の川市出身の千代雷山(ちよらいざん)は、西三段目４４枚目となっています。\n・また、和歌山県出身ではありませんが、県立箕島高校ＯＢの藤凌駕(ふじりょうが)は、西前頭４枚目から西前頭筆頭に番付を上げたほか、藪ヶ崎(やぶがさき)は、西三段目９枚目に、栃武蔵（とちむさし）は、西三段目２０枚目に、栃葵（とちあおい）は、西三段目５１枚目に、和歌桜（わかざくら）は、東三段目７９枚目となっています。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 17,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "北ぶらくり丁で空き店舗活用イベント マーケットイベントと同時開催",
-    "url": "https://wakayama.keizai.biz/headline/3164/",
-    "source": "和歌山経済新聞",
-    "published_at": "2026-10-26 23:07",
-    "summary": "・空き店舗活用イベント「まちなかイロドリ（通称＝まちドリ）」が11月7日・8日、北ぶらくり丁商店街周辺で開催される。\n・雇用と産業の創出を目的に空き店舗物件を活用し試験的な出店を行う同イベントは、2015（平成27）年から始まり今年で12年目。\n・同イベントに合わせ、第2日曜開催のマーケットイベント「北ぶらリメンバーMARKET」を土曜・日の2日間に拡張する。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "空き店舗活用イベント「まちドリ」会場の北ぶらくり丁商店街",
-    "url": "https://wakayama.keizai.biz/photoflash/7990/",
-    "source": "和歌山経済新聞",
-    "published_at": "2026-10-26 23:07",
-    "summary": "・空き店舗活用イベント「まちなかイロドリ（通称＝まちドリ）」が11月7日・8日、北ぶらくり丁商店街周辺で開催される。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "【国道425号】印南町内で土砂災害 通行止め解除には時間がかかる見込み（26日20:00現在）",
-    "url": "https://www.chiba-tv.com/plus/detail/2026102159130",
-    "source": "千葉テレビ放送",
-    "published_at": "2026-10-26 22:49",
-    "summary": "・【国道425号】印南町内で土砂災害 通行止め解除には時間がかかる見込み（26日20:00現在）。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "【南紀白浜マリオットホテル】和歌山が育んだブランドいちご「まりひめ」とショコラが織りなす「MARIHIME",
-    "url": "https://news.nicovideo.jp/watch/nw19920431?news_ref=watch_20_nw19780912",
-    "source": "ニコニコニュース",
-    "published_at": "2026-10-26 21:30",
-    "summary": "・【南紀白浜マリオットホテル】和歌山が育んだブランドいちご「まりひめ」とショコラが織りなす「MARIHIME。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 18,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "【南紀白浜マリオットホテル】和歌山が育んだブランドいちご「まりひめ」とショコラが織りなす「MARIHIME Strawberry Afternoon Tea」を発売｜Infoseekニュース",
-        "url": "https://news.infoseek.co.jp/article/digitalprplatform_146749/",
-        "source": "Infoseek",
-        "published_at": "2026-10-26 14:06"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "特産「じゃばら」の果皮などを食品原料に再利用 和歌山・北山村の企業が農林水産大臣賞（産経新聞）",
-    "url": "https://news.yahoo.co.jp/articles/d55bbf14be74ccd29e2264dbfc74ca25462ebde8",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-26 20:57",
-    "summary": "・和歌山県北山村特産のかんきつ類、じゃばらを使った加工食品などを手がける企業「じゃばらいず北山」が、食品ロス削減への取り組みを評価する「食品産業もったいない大賞」で、最優秀の農林水産大臣賞を受賞した。\n・じゃばら果汁を搾った後に年間約60トン発生する果皮など搾りかすの全てを食品原料などに再利用していることが評価された。\n・そのほか、乾燥させた果皮を養殖マグロの飼料にしたり、パウダー状にしてサプリに活用したりなどの取り組みを進め、昨年は約60トンの残渣（ざんさ）を再利用した。",
-    "summary_type": "auto",
-    "category": "経済・産業",
-    "importance_score": 36,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "特産「じゃばら」の果皮などを食品原料に再利用　和歌山・北山村の企業が農林水産大臣賞",
-        "url": "https://topics.smt.docomo.ne.jp/article/sankei/life/sankei-_life_environment_SYELPWFYGZJARPIW6ERPZMS5CQ?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-26 20:39"
-      },
-      {
-        "title": "特産「じゃばら」の果皮などを食品原料に再利用 和歌山・北山村の企業が農林水産大臣賞",
-        "url": "https://www.sankei.com/article/20261026-SYELPWFYGZJARPIW6ERPZMS5CQ/",
-        "source": "産経ニュース",
-        "published_at": "2026-10-26 20:39"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "都市計画道路の変更案の縦覧について",
-    "url": "https://www.city.kainan.lg.jp/kakubusho/machizukuribu/toshiseibika/toshiseibikatorikumi/8306.html",
-    "source": "海南市",
-    "published_at": "2026-10-26 20:15",
-    "summary": "・都市計画法第21条第2項において準用する同法第17条第1項の規定に基づき、次の都市計画道路の変更案の縦覧を行います。\n・縦覧期間中、変更案に対する意見書を提出することができます。\n・変更計画図（案） (PDFファイル: 1.7MB)。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "【光の祭典「フェスタ・ルーチェ」】イルミネーションのほかドローンショーやランタンフェスも！｜和歌山県",
-    "url": "https://topics.smt.docomo.ne.jp/article/tabizine/region/tabizine-698620?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-26 20:00",
-    "summary": "・10周年の新コンテンツとして、XR技術を活用したイルミネーション体験「NOELLUCE＜ノエル・ルーチェ＞」が登場。\n・XRヘッドセットと光の杖を使い、「もう一つのクリスマス」の物語に入り込める新感覚のイルミネーションです。\n・杖をかざすと、目の前のイルミネーションやデジタル映像が自分の動きに呼応してダイナミックに変化。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 21,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "和歌山で光のフェス「フェスタ・ルーチェ」--ドローンショーやランタンに加え、参加型イルミネーション・ツアーも初開催",
-        "url": "https://news.mynavi.jp/article/20261026-5193518/",
-        "source": "マイナビニュース",
-        "published_at": "2026-10-26 13:21"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "串本町に元駐日トルコ大使の遺品を寄贈 和歌山",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261026de65595",
-    "source": "NHKニュース",
-    "published_at": "2026-10-26 19:09",
-    "summary": "・串本町に元駐日トルコ大使の遺品を寄贈 和歌山。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 8,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "鯨に関する日本遺産10年記念セミナー 和歌山 太地町",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261026de65683",
-    "source": "NHKニュース",
-    "published_at": "2026-10-26 19:00",
-    "summary": "・鯨に関する日本遺産10年記念セミナー 和歌山 太地町。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 35,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "捕鯨の歴史と文化学ぶ 日本遺産10周年セミナー、和歌山・太地で（紀伊民報）",
-        "url": "https://news.yahoo.co.jp/articles/297feed5424fa546c1aa0dcdedb841a980e24835",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-26 16:25"
-      },
-      {
-        "title": "捕鯨の歴史と文化学ぶ 日本遺産10周年セミナー、和歌山・太地で",
-        "url": "https://www.agara.co.jp/article/703973",
-        "source": "AGARA 紀伊民報",
-        "published_at": "2026-10-26 14:30"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市",
-    "url": "https://www.chiba-tv.com/plus/detail/2026102160457",
-    "source": "千葉テレビ放送",
-    "published_at": "2026-10-26 18:53",
-    "summary": "・和歌山県で最大震度1の地震 和歌山県・海南市、有田市。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 180,
-    "is_featured": true,
-    "related_articles": [
-      {
-        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市（TBS NEWS DIG Powered by JNN）",
-        "url": "https://news.yahoo.co.jp/articles/5dd2b2ae25c4057bee95d17485a378d38cfa8871",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-26 18:52"
-      },
-      {
-        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市",
-        "url": "https://www.fnn.jp/articles/-/1140115",
-        "source": "FNNプライムオンライン",
-        "published_at": "2026-10-26 18:50"
-      },
-      {
-        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市 (2026年10月26日掲載)",
-        "url": "https://news.livedoor.com/topics/detail/32661468/",
-        "source": "ライブドアニュース",
-        "published_at": "2026-10-26 18:50"
-      },
-      {
-        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市｜Infoseekニュース",
-        "url": "https://news.infoseek.co.jp/article/tbs_3039439/",
-        "source": "Infoseek",
-        "published_at": "2026-10-26 18:50"
-      },
-      {
-        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3039439?display=1",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-26 18:50"
-      },
-      {
-        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3039439",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-26 18:50"
-      },
-      {
-        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市（FNNプライムオンライン（フジテレビ系））",
-        "url": "https://news.yahoo.co.jp/articles/d55edf150e6c4841cea3bca4816d51472cd3e329",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-26 18:50"
-      },
-      {
-        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市",
-        "url": "https://article.auone.jp/e9b6359f-69ff-48be-9778-713b727d840f",
-        "source": "au Webポータル",
-        "published_at": "2026-10-26 18:50"
-      },
-      {
-        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市(放送局のニュース )",
-        "url": "https://tenki.jp/news/fnn/022c4f8d-de2d-404e-847d-0306148c43be.html",
-        "source": "tenki.jp",
-        "published_at": "2026-10-26 18:50"
-      },
-      {
-        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市 (TBS NEWS DIG Powered by JNN)",
-        "url": "https://news.yahoo.co.jp/articles/5dd2b2ae25c4057bee95d17485a378d38cfa8871/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-26 18:52"
-      },
-      {
-        "title": "和歌山県で最大震度1の地震　和歌山県・海南市、有田市",
-        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3039439",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-26 18:50"
-      },
-      {
-        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市 (FNNプライムオンライン（フジテレビ系）)",
-        "url": "https://news.yahoo.co.jp/articles/d55edf150e6c4841cea3bca4816d51472cd3e329/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-26 18:50"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "和歌山県 局地的に激しい雨 秋雨前線の影響 河川の増水や土砂災害などに警戒を（テレビ和歌山）",
-    "url": "https://news.yahoo.co.jp/articles/7cffe2ea94994d13f5d7fcb50f442aa99f106107",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-26 18:40",
-    "summary": "・秋雨前線の影響で、県内では今日も大気の状態が不安定となっていて、局地的に激しい雨が降りました。\n・このあとも、河川の増水などに注意が必要なほか、北部では地盤が緩んでいるところもあるため、土砂災害に警戒して下さい。\n・県内では、昨日、北部や中部を中心に大雨となり、和歌山市などで道路が冠水するなどし、今日も、台風から変わった温帯低気圧から、前線に向かって暖かく湿った空気が流れ込んでいる影響で、大気の状態が不安定となり局地的に強い雨が降りました。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 24,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "土砂災害、浸水に警戒を／温帯低気圧や前線の影響 （14:30）",
-        "url": "https://www.agara.co.jp/article/703930",
-        "source": "紀伊民報",
-        "published_at": "2026-10-26 17:31"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "「ホテル川久」を眺めるカフェが誕生！南紀白浜に2027年1月末オープン",
-    "url": "https://www.pretty-online.jp/news/10078/",
-    "source": "PrettyOnline",
-    "published_at": "2026-10-26 18:00",
-    "summary": "・「Cafe de KAWAKYU（カフェ・ド・カワキュウ）」（和歌山県西牟婁郡白浜町）が、2027年1月末にオープン！壮麗な建築美で知られるホテル「KAWAKYU -南紀白浜-」の姿を眺めながら季節のフルーツのスイーツやドリンクを楽しむ、上質なカフェ体験ができます。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 18,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "「ホテル川久」を眺めるカフェが誕生！南紀白浜に2027年1月末オープン",
-        "url": "https://article.auone.jp/f3aec758-7fa5-4b41-9118-75b8a196b4ac",
-        "source": "au Webポータル",
-        "published_at": "2026-10-26 18:00"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "【“元台風30号”解説】台風から離れた和歌山に大雨の要因は「ことし何度も大雨をもたらしている台風と秋雨前線の組み合わせ」　雨雲は南に離れるも「今夜遅くまでは警報が出るおそれ」",
-    "url": "https://topics.smt.docomo.ne.jp/article/ktv_news/region/ktv_news-30551?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-10-26 17:35",
-    "summary": "・和歌山市から南に20キロほど離れた和歌山県湯浅町では25日、1時間の雨量が観測史上、10月としては最大の68ミリを記録しました。\n・片平敦気象予報士は、「ことし何度も大雨をもたらしている、台風と秋雨前線の組み合わせの影響」と解説します。\n・ただ、秋雨前線が長く延び、台風の周りを回る湿った空気が勢いよく流れ込み、一部の地域で雨雲が発達しました。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "全日本ソフトテニス選手権 明徳の林君がダブルス準優勝",
-    "url": "https://hidakashimpo.co.jp/?p=109055",
-    "source": "日高新報",
-    "published_at": "2026-10-26 17:32",
-    "summary": "・ＪＯＣジュニアオリンピックカップ・第３３回全日本ジュニアソフトテニス選手権大会が２４、２５日に広島県で開かれ、男子Ｕ１７のダブルスで美浜町出身、明徳義塾高校（高知）２年の林寿李稀選手が準優勝、シングルスでも３位に入った。\n・１７組が出場したダブルスでは、同じナショナルチームの選手とペアを組み、初戦で埼玉県、２回戦で宮城県、準決勝で奈良県のペアをいずれも３―０で破り、決勝に進出。\n・塚本選手に０―３で敗れたものの、ダブルス、シングルスの両種目で入賞を果たした。",
-    "summary_type": "auto",
-    "category": "スポーツ",
-    "importance_score": 17,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "日高川のグループホームみよせの里が開設10周年",
-    "url": "https://hidakashimpo.co.jp/?p=109052",
-    "source": "日高新報",
-    "published_at": "2026-10-26 17:32",
-    "summary": "・ＮＰＯ法人なごみ（小池敬治理事長）が運営する日高川町三百瀬、グループホームなごみ・みよせの里が開設１０周年の節目を迎え、２５日に記念式典を行った。\n・なごみ・みよせの里は２０１６年５月、小規模多機能ホームとグループホーム１ユニット（最大定員９人）でスタート。\n・２１年に改修工事を行い、グループホーム２ユニット（１８人まで）に変更。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 11,
     "is_featured": false,
     "related_articles": []
   }

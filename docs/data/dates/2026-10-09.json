@@ -67,13 +67,19 @@
     "summary": "・和歌山県御坊市は9日、経営不振の続く紀州鉄道が他社への鉄道事業譲渡を目指して進めていた交渉が合意できなかったと発表した。\n・【写真】民家の間を走る紀州鉄道の列車利用者の減少で同社の鉄道事業の収支は悪化しており、令和7年度までの3年平均で5700万円の赤字という。\n・「日本一短いローカル私鉄」として知られる。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": true,
     "related_articles": [
       {
         "title": "「日本一短いローカル私鉄」紀州鉄道、譲渡合意できず 存続巡り",
         "url": "https://mainichi.jp/articles/20261009/k00/00m/310/338000c",
         "source": "毎日新聞",
+        "published_at": "2026-10-09 16:00"
+      },
+      {
+        "title": "「日本一短いローカル私鉄」和歌山・紀州鉄道 譲渡交渉が白紙に 経営不振、存廃の正念場",
+        "url": "https://www.sankei.com/article/20261009-3RYRKHQ3MRPNRE5UXEALLAYCKI/",
+        "source": "産経ニュース",
         "published_at": "2026-10-09 16:00"
       }
     ]

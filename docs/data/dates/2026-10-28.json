@@ -8,9 +8,9 @@
     "summary": "・2009年、太地町でのイルカの追い込み漁をテーマにした米国のドキュメンタリー映画『ザ・コーヴ』が公開されています。\n・『ザ・コーヴ』は、米国の反捕鯨団体「ドルフィンプロジェクト」や「シーシェパード」が太地町に乗り込み、イルカの追い込み漁を批判するという筋書きで、米アカデミー賞長編ドキュメンタリー部門を受賞しました。\n・太地町の捕鯨は、比較的近くの海で10トンより小さな船で行う沿岸漁業の一つに位置付けられ、海産哺乳類は水揚げの約30％を占める重要な品目となっています。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -21,9 +21,9 @@
     "summary": "・安倍晴明社 和歌山県田辺市龍神村殿原。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -34,9 +34,9 @@
     "summary": "・「串本応挙芦雪館」の収蔵庫の改修が完了 和歌山 串本町。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -47,8 +47,21 @@
     "summary": "・和歌山 白浜町のテーマパークで「招きパンダ」発売。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 11,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-28",
+    "title": "高速道路SAで「白トラ」防止を呼びかけ 和歌山",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261028de67062",
+    "source": "NHKニュース",
+    "published_at": "2026-10-28 21:53",
+    "summary": "・高速道路SAで「白トラ」防止を呼びかけ 和歌山。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 5,
     "is_featured": false
   },
   {
@@ -60,9 +73,9 @@
     "summary": "・3連休を利用した旅行では観光地の知名度だけでなく、自然景観や宿泊施設の充実度、静かに過ごせる環境などを重視し、穴場の自治体を選びたいと考える人も少なくありません。\n・【画像：ランキング30位～1位を見る】　令和トラベルが運営する旅行アプリ「NEWT（ニュート）」は、11月22日の「いい夫婦の日」を含む11月下旬の3連休（11月21～23日）を受け、「夫婦・パートナーふたりで訪れたい穴場の自治体」ベスト30を発表しました。\n・湯と景色と食に癒やされる穴場自治体ランキング ベスト30」）。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -73,9 +86,9 @@
     "summary": "・デジタル技術で藻場再生 那智勝浦町と慶応大など 和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -86,21 +99,28 @@
     "summary": "・警視庁光が丘署は２８日、練馬区立中学校で防犯教室を開き、高額報酬をうたう闇バイトの危険性をクイズを交えて解説。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
-    "title": "水害に備え、和歌山・美浜町和田地区を「貯留機能保全区域」に指定 2級河川では全国初",
-    "url": "https://www.sankei.com/article/20261028-MCLRSILDMBMVNODMDVLEWY3THQ/",
-    "source": "産経ニュース",
-    "published_at": "2026-10-28 18:27",
+    "title": "水害に備え、和歌山・美浜町和田地区を「貯留機能保全区域」に指定 2級河川では全国初（産経新聞）",
+    "url": "https://news.yahoo.co.jp/articles/6c6f0930dfa2eaed7c1f43a78145320733bcf653",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-28 18:30",
     "summary": "・和歌山県は、美浜町和田地区を日高川水系西川の支流・和田川の氾濫時に水をためる「貯留機能保全区域」に指定した。\n・県によると、同区域の指定は令和6年の奈良県大和川流域に続いて2例目で、2級河川では全国初という。\n・指定に伴い区域内では盛土、塀や柵、止水壁といった貯水機能を損なう可能性のある施設などの設置には、県に事前の届け出が必要となる。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 17,
+    "related_articles": [
+      {
+        "title": "水害に備え、和歌山・美浜町和田地区を「貯留機能保全区域」に指定 2級河川では全国初",
+        "url": "https://www.sankei.com/article/20261028-MCLRSILDMBMVNODMDVLEWY3THQ/",
+        "source": "産経ニュース",
+        "published_at": "2026-10-28 18:27"
+      }
+    ],
+    "importance_score": 27,
     "is_featured": false
   },
   {
@@ -112,6 +132,8 @@
     "summary": "・和歌山市出身の個性派俳優・岡部たかしさん５４歳が、きょう（１０月２８日）東京のラジオ番組にゲスト出演し、俳優になるまでのいきさつや演技への思いなどを語りました。\n・岡部さんは和歌山市出身で、県立和歌山工業高校を卒業後、地元の建設会社勤務を経て上京し、柄本明(えもと・あきら)さんらが主宰する劇団「東京乾電池」の養成所に入って、俳優としてのキャリアを重ね、ドラマ「エルピス-希望、あるいは災い-」や「虎に翼」「ガス人間」など多くの人気作品に出演しています。\n・優しい父親役から、狂気に溢れる東京都知事役など、硬軟問わず個性的な演技で人気を博し、おととし（２０２４年）和歌山市文化功労賞を受賞し、和歌山市観光発信人にも委嘱されています。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 47,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山市出身の俳優・岡部たかしさんがナイツのラジオに生出演",
@@ -125,9 +147,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-28 15:16"
       }
-    ],
-    "importance_score": 47,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-28",
@@ -374,6 +394,8 @@
     "summary": "・２８日午前、和歌山市内のトンネル「雑賀崎隧道」の中で、８０代の女性が車にひき逃げされました。\n・勤務先にいたところを逮捕　ひき逃げ疑いの42歳男　ひかれた自転車の男性は死亡　大阪・藤井寺市　２８日午前１１時４０分すぎ、和歌山市田野で「自転車が倒れている。\n・警察によりますと、現場は「雑賀崎隧道」の中で、近くに住む８０代の女性が病院に搬送され、腰の骨を折るなどの重傷です。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【速報】和歌山市のトンネルでひき逃げ 自転車の80代女性が重傷…骨盤骨折の疑い 雑賀崎トンネルで車が自転車と衝突と断定…逃げた車の行方追う 和歌山県警",
@@ -381,9 +403,7 @@
         "source": "FNNプライムオンライン",
         "published_at": "2026-10-28 17:26"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-28",
@@ -436,6 +456,19 @@
     "importance_score": 15,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-28",
+    "title": "岡山の児島ジーンズストリート、和歌山のニット産地と連携",
+    "url": "https://www.nikkei.com/article/DGXZQOCC264190W6A021C2000000/",
+    "source": "日本経済新聞",
+    "published_at": "2026-10-28 16:00",
+    "summary": "・岡山県倉敷市の児島ジーンズストリート協同組合は和歌山ニット工業組合（和歌山市）と産地間連携を始めた。\n・10月下旬、デニム専門店が並ぶ倉敷市の「児島ジーンズストリート」で開かれたイベントで新ブランド「あみあい」の立ち上げを発表した。\n・和歌山で編んだニット生地と児島の加工技術でTシャツなどをつくり、同ストリートの店舗などで販売する。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-28",
@@ -511,9 +544,9 @@
     "summary": "・株式会社ルミエール（ルミエール）。\n・〒136-0071東京都江東区亀戸九丁目18-13。\n・【人口1万人あたりの寿司店数、山梨県が最多で高知県の2.9倍】回転寿司・寿司店の市場データを無料公開（事業所数・市場規模・広告費）。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -589,9 +622,9 @@
     "summary": "・和歌山県教育委員会は2026年10月23日、2027年度（令和9年度）和歌山県立高等学校入学者選抜の学校別・学科別募集定員を公表した。\n・2027年度の県立高校募集定員は、全日制が157学級6,200人、定時制が16学級570人。\n・募集定員を変更するのは、全日制の県立高校2校2学科。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -602,6 +635,8 @@
     "summary": "・再開発の計画が白紙になった区画=2026年10月22日、和歌山市友田町3丁目、松永和彦撮影（朝日新聞）。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 33,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "地域活性化に向けた再開発計画が白紙に、和歌山市街地の準備組合解散 [和歌山県]",
@@ -615,9 +650,7 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-28 07:00"
       }
-    ],
-    "importance_score": 33,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-28",
@@ -719,9 +752,9 @@
     "summary": "・和歌山地方気象台が10月28日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山20℃、潮岬21℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",

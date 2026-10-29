@@ -1000,6 +1000,8 @@
     "summary": "・高野山真言宗総本山・金剛峯寺（和歌山県高野町）は24日から、秋の特別拝観として通常非公開の「奥殿」と「持仏本尊　弘法大師坐像」を公開する。\n・弘法大師坐像は、金剛峯寺持仏の本尊の秘仏。\n・金剛峯寺の拝観料に加え、奥殿はさらに拝観料500円が必要。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "高野山・金剛峯寺 持仏本尊の弘法大師坐像など公開 24日から秋の特別拝観",
@@ -1007,9 +1009,7 @@
         "source": "産経ニュース",
         "published_at": "2026-10-22 08:30"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-22",
