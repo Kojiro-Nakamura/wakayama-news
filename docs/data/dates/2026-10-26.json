@@ -68,7 +68,7 @@
     "summary_type": "auto",
     "category": "経済・産業",
     "importance_score": 36,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "特産「じゃばら」の果皮などを食品原料に再利用　和歌山・北山村の企業が農林水産大臣賞",
@@ -165,7 +165,7 @@
     "summary": "・和歌山県で最大震度1の地震 和歌山県・海南市、有田市。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 165,
+    "importance_score": 180,
     "is_featured": true,
     "related_articles": [
       {
@@ -232,6 +232,12 @@
         "title": "和歌山県で最大震度1の地震　和歌山県・海南市、有田市",
         "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3039439",
         "source": "ｄメニューニュース",
+        "published_at": "2026-10-26 18:50"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市 (FNNプライムオンライン（フジテレビ系）)",
+        "url": "https://news.yahoo.co.jp/articles/d55edf150e6c4841cea3bca4816d51472cd3e329/images/000",
+        "source": "Yahoo!ニュース",
         "published_at": "2026-10-26 18:50"
       }
     ]
@@ -691,6 +697,19 @@
   },
   {
     "article_date": "2026-10-26",
+    "title": "速報！記念イベント 2026年度 和歌山県小学4年生サッカー大会 優勝はグランディールFC！全結果掲載",
+    "url": "https://www.juniorsoccer-news.com/post-1962418",
+    "source": "Green Card ニュース",
+    "published_at": "2026-10-26 13:32",
+    "summary": "・準優勝：スポーツクラブ和歌山ヴィーヴォまつえ。\n・3連覇達成したグランディールFCの皆さん（参照：グランディールFC Instagram）。\n・FC BLAZE YUASA　0-3　グランディールFC。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-26",
     "title": "和歌山県・日高川町、小中学校施設全体を一体活用する事業者募集",
     "url": "http://www.ken-san.com/article/view/23749",
     "source": "日刊建産速報",
@@ -809,13 +828,19 @@
     "summary": "・今年、創立140周年を迎えた高野山高校（和歌山県高野町）が記念事業として、弁論部の全国大会出場原稿集「如是我聞」（非売品）を作った。\n・この夏の全国高校総合文化祭（総文祭）に出場し、その時の原稿「『共生社会』実現に向けて」と写真も「如是我聞」に掲載されている。\n・11月の文部科学大臣杯全国青年弁論大会にも出場が決まっている。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 27,
-    "is_featured": false,
+    "importance_score": 42,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "高野山高校弁論部の原稿集完成　全国大会出場の33人47編を掲載",
         "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVBT3QK5VBTPXLB001M",
         "source": "ｄメニューニュース",
+        "published_at": "2026-10-26 10:45"
+      },
+      {
+        "title": "高野山高校弁論部の原稿集完成 全国大会出場の33人47編を掲載 [和歌山県]",
+        "url": "https://www.asahi.com/articles/ASVBT3QK5VBTPXLB001M.html",
+        "source": "朝日新聞",
         "published_at": "2026-10-26 10:45"
       }
     ]

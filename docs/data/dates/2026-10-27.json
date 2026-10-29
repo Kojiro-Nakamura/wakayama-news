@@ -1,23 +1,29 @@
 [
   {
     "article_date": "2026-10-27",
-    "title": "有田市に開店した焼き菓子店「恐竜スコーンがおがお」店舗外観",
-    "url": "https://wakayama.keizai.biz/photoflash/7992/",
+    "title": "有田に焼き菓子店「恐竜スコーンがおがお」 子どもの好きをスコーンに",
+    "url": "https://wakayama.keizai.biz/headline/3165/",
     "source": "和歌山経済新聞",
-    "published_at": "2026-10-27 23:07",
-    "summary": "・焼き菓子店「恐竜スコーンがおがお」（有田市初島町里）が10月2日、オープンした。\n・空き店舗活用イベント「まちなかイロドリ（通称＝まちドリ）」が11月7日・8日、北ぶらくり丁商店街周辺で開催される。",
+    "published_at": "2026-10-27 23:08",
+    "summary": "・焼き菓子店「恐竜スコーンがおがお」（有田市初島町里）が10月2日、オープンした。\n・店主の北野理奈さんは、趣味で焼き菓子やスコーンを10年以上作り続けてきた。\n・チョコチップ入りティラノサウルス形スコーン（450円）、ドライイチゴとホワイトチョコ入りステゴサウルス形スコーン（500円）のほか、プレーン（300円）、チョコココア（350円）、季節限定の味などをそろえる。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 21,
-    "is_featured": false,
     "related_articles": [
+      {
+        "title": "有田市に開店した焼き菓子店「恐竜スコーンがおがお」店舗外観",
+        "url": "https://wakayama.keizai.biz/photoflash/7992/",
+        "source": "和歌山経済新聞",
+        "published_at": "2026-10-27 23:07"
+      },
       {
         "title": "有田市に開店した焼き菓子店「恐竜スコーンがおがお」の恐竜形スコーンや季節のスコーンなど",
         "url": "https://wakayama.keizai.biz/photoflash/7991/",
         "source": "和歌山経済新聞",
         "published_at": "2026-10-27 23:06"
       }
-    ]
+    ],
+    "importance_score": 39,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-27",
@@ -81,7 +87,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 36,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「子供たちの成長支える拠点に」 和歌山・有田市の複合公共施設「MifroM」で落成式 (産経新聞)",
@@ -771,6 +777,19 @@
   },
   {
     "article_date": "2026-10-27",
+    "title": "夜の動物たちの姿や幻想的な演出楽しむ アドベンチャーワールドで「ＬＩＧＨＴ ＰＡＲＫＳ」開催 和歌山・白浜町",
+    "url": "https://news.yahoo.co.jp/articles/3f046abec973c349a20e5ef9b1e6a0458e28a5f1",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-27 12:26",
+    "summary": "・和歌山県白浜町のアドベンチャーワールドでは、光のイベント「ＬＩＧＨＴ ＰＡＲＫＳ」が開かれています。\n・韓国最大級のファッションＰＦ「ＭＵＳＩＮＳＡ」が期間限定出店　大阪・梅田に７１ブランド約３４００点　来月８日まで　アドベンチャーワールドの「ＬＩＧＨＴ ＰＡＲＫＳ」は、巨大な光のオブジェや幻想的な光の演出、動物たちの暮らす場所に光を灯し、夜ならではの姿を楽しんでもらおうというイベントです。\n・「ＬＩＧＨＴ ＰＡＲＫＳ」は来年３月３１日まで行われ、来年１月４日から３月１９日は土日祝のみの開催ということです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-27",
     "title": "「ＡＩ学校司書」を千葉市・日高川町で試験運用 授業実践データから図書資料を提案",
     "url": "https://www.shijyukukai.jp/2026/10/31114",
     "source": "月刊私塾界",
@@ -804,6 +823,8 @@
     "summary": "・和歌山県の雨雲レーダー(実況)28日18:10発表。\n・2026年10月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の雨雲レーダー(予報)",
@@ -811,9 +832,7 @@
         "source": "tenki.jp",
         "published_at": "2026-10-27 09:36"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-27",
@@ -824,6 +843,8 @@
     "summary": "・［和歌山県公式］和歌山県が主体となり、世界遺産とその周辺地域のパトロールや、保全・活用に関する普及啓発に取り組むボランティア「和歌山県世界遺産マスター」を募集いたします。\n・世界遺産を守り、その魅力を伝える活動に参加してみませんか。\n・募集の背景・目的　世界遺産「紀伊山地の霊場と参詣道」のより一層の保全啓発活動を推進していくには、民間の活力を活かし、官民が一体となって取り組むこ とが重要です。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「和歌山県世界遺産マスター」新規募集開始！！",
@@ -831,9 +852,7 @@
         "source": "PR TIMES",
         "published_at": "2026-10-27 10:00"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-27",

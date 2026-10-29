@@ -915,9 +915,16 @@
     "summary": "・高野山から始まる、地域の未来を担う人材育成。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 3,
+    "importance_score": 18,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "高野山から始まる、地域の未来を担う人材育成",
+        "url": "https://prtimes.jp/main/html/rd/p/000000007.000178702.html",
+        "source": "PR TIMES",
+        "published_at": "2026-10-22 10:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-22",
@@ -986,6 +993,26 @@
   },
   {
     "article_date": "2026-10-22",
+    "title": "高野山・金剛峯寺 持仏本尊の弘法大師坐像など公開 24日から秋の特別拝観（産経新聞）",
+    "url": "https://news.yahoo.co.jp/articles/6a6db8dc6241d509d8962b7fddc410f010a02c26",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-22 09:11",
+    "summary": "・高野山真言宗総本山・金剛峯寺（和歌山県高野町）は24日から、秋の特別拝観として通常非公開の「奥殿」と「持仏本尊　弘法大師坐像」を公開する。\n・弘法大師坐像は、金剛峯寺持仏の本尊の秘仏。\n・金剛峯寺の拝観料に加え、奥殿はさらに拝観料500円が必要。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "高野山・金剛峯寺 持仏本尊の弘法大師坐像など公開 24日から秋の特別拝観",
+        "url": "https://www.sankei.com/article/20261022-3KERBUYYCNIMTAPEIQLZOELEWA/",
+        "source": "産経ニュース",
+        "published_at": "2026-10-22 08:30"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-22",
     "title": "10/25は親子でウミガメの甲羅みがき！串本海中公園で予約不要・無料のふれあい体験",
     "url": "https://report.iko-yo.net/articles/34942",
     "source": "いこーよニュース",
@@ -994,19 +1021,6 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "高野山・金剛峯寺 持仏本尊の弘法大師坐像など公開 24日から秋の特別拝観",
-    "url": "https://www.sankei.com/article/20261022-3KERBUYYCNIMTAPEIQLZOELEWA/",
-    "source": "産経ニュース",
-    "published_at": "2026-10-22 08:30",
-    "summary": "・高野山真言宗総本山・金剛峯寺（和歌山県高野町）は24日から、秋の特別拝観として通常非公開の「奥殿」と「持仏本尊　弘法大師坐像」を公開する。\n・弘法大師坐像は、金剛峯寺持仏の本尊の秘仏。\n・金剛峯寺の拝観料に加え、奥殿はさらに拝観料500円が必要。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 14,
     "is_featured": false,
     "related_articles": []
   },

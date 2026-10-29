@@ -152,7 +152,7 @@
     "summary_type": "auto",
     "category": "スポーツ",
     "importance_score": 51,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "奈良・和歌山のイオンモールで開催されるおすすめハロウィンイベント3選[2026年10月24日・25日開催分]（ウォーカープラス）",
@@ -704,8 +704,21 @@
     "summary": "・コーヒーの実を摘むミドファームの道仙信也さん＝和歌山県日高川町。\n・人口約８７００人の和歌山県日高川町で、１人の移住者がコーヒー農園を開き、１月、初収穫を迎えた。\n・「森のキャビア」特産挑む　元菊農家、転作に活路。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 12,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-23",
+    "title": "第2回紀州神仏霊場「あさも和」御朱印巡りで頒布する特別限定御朱印と参拝証代わりの「まり札」",
+    "url": "https://wakayama.keizai.biz/photoflash/7987/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-23 16:00",
+    "summary": "・第2回紀州神仏霊場「あさも和（わ）」御朱印巡りが11月1日、和歌山市内7カ所にある寺院と神社で始まる。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 3,
     "is_featured": false
   },
   {
@@ -822,8 +835,8 @@
     "summary": "・視聴者から寄せられた奇想天外な頼み事や、心配事の相談を「探偵」たちが体当たりで解決する人気バラエティー番組「探偵！ナイトスクープ」（ABCテレビ、金曜午後11時17分）。\n・10月23日は、石田靖探偵が「高野山でモルモット大運動会！？」を調査した。\n・【写真特集】今週は「高野山でモルモット大運動会！？」「マジンガーZはなぜあの形になったのか？」「『おは朝』のおき太くんが怖すぎる！」の3本立て。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 39,
-    "is_featured": false,
+    "importance_score": 54,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "『探偵！ナイトスクープ』アメリカから来た僧侶が抱く煩悩… 「高野山でモルモット大運動会がしたい！」",
@@ -836,6 +849,12 @@
         "url": "https://news.yahoo.co.jp/articles/32eefb47b94b9dfb1636cd248d5749009339d4bb/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-23 13:33"
+      },
+      {
+        "title": "探偵！ナイトスクープ：高野山の寺でモルモットの大運動会やりたい米国人僧侶 子どもの頃の思い出忘れられず 住職「ペット禁止です」",
+        "url": "https://mantan-web.jp/article/20261020dog00m200062000a.html",
+        "source": "Mantan Web",
+        "published_at": "2026-10-23 13:23"
       }
     ]
   },
@@ -848,9 +867,9 @@
     "summary": "・2026年11月号全編 (PDFファイル: 15.3MB)。\n・特集　橋本家の家計簿で例える令和７年度 決算報告 (PDFファイル: 3.3MB)。\n・8ページ「令和7年度決算報告」　物価高騰などに対応する経済支援について、記載に誤りがありましたのでお詫びの上訂正いたします。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
