@@ -8,7 +8,7 @@
     "summary": "・今日10月25日(日)の天気予報　西日本・東日本は大雨に警戒　北海道は晴れ間多い。\n・毎時更新【ウェザーニュース】和歌山県有田郡広川町の1時間毎・今日明日・週間(10日間)の天気予報、いまの空模様。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 78,
+    "importance_score": 93,
     "is_featured": true,
     "related_articles": [
       {
@@ -40,6 +40,12 @@
         "url": "https://weathernews.jp/v/wl/?city=30391",
         "source": "ウェザーニュース",
         "published_at": "2024-02-27 16:09"
+      },
+      {
+        "title": "和歌山県広川町付近の天気",
+        "url": "https://weathernews.jp/v/wl/?city=30362",
+        "source": "ウェザーニュース",
+        "published_at": "2024-02-27 15:54"
       }
     ]
   }

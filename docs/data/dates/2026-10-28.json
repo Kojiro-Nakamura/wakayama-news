@@ -1,6 +1,19 @@
 [
   {
     "article_date": "2026-10-28",
+    "title": "卒業生の作品展示 小学校創立150周年、11月8日、岡小、和歌山県上富田町",
+    "url": "https://www.agara.co.jp/article/705018",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-10-28 23:27",
+    "summary": "・２５年前のタイムカプセル開封　和歌山の田辺第三小。\n・【動画】半世紀前の思い出に浸る　タイムカプセル開封､上秋津小卒業生､和歌山県田辺市。\n・「万博漬け」展示　南高梅干し、2050年開封予定、和歌山県田辺市役所。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-28",
     "title": "クジラの街の光と影（前編）――映画『ザ・コーヴ』と太地町のリアル",
     "url": "https://allatanys.jp/blogs/31759/",
     "source": "あらたにす",
@@ -24,6 +37,32 @@
     "importance_score": 3,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-28",
+    "title": "「きのくにことのは市」で販売する「すけのあずさ」さんのイラストエッセーを掲載するZINE",
+    "url": "https://wakayama.keizai.biz/photoflash/7993/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-10-28 23:04",
+    "summary": "・自主制作の小冊子「ZINE（ジン）」のマーケットイベント「きのくにことのは市」が11月3日、旧田島うるし工場（海南市船尾）で初開催される。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-28",
+    "title": "和歌山県の人口は86万人余り 減少率は全国7番目",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66179",
+    "source": "NHKニュース",
+    "published_at": "2026-10-28 22:08",
+    "summary": "・和歌山県の人口は86万人余り 減少率は全国7番目。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-28",
@@ -60,9 +99,9 @@
     "summary": "・高速道路SAで「白トラ」防止を呼びかけ 和歌山。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -92,6 +131,19 @@
   },
   {
     "article_date": "2026-10-28",
+    "title": "高級珍味｢カラスミ｣づくり最盛期 2時間ごとに裏返し まんべんなく乾燥 東紀州近海のボラが不漁で瀬戸内海産で対応も｢出来は変わらず上々｣ 三重･尾鷲市",
+    "url": "https://locipo.jp/article/53575c1d-b2e0-4d9b-9a45-27fc34ce6aad",
+    "source": "locipo.jp",
+    "published_at": "2026-10-28 20:10",
+    "summary": "・三重県尾鷲市で、高級珍味「カラスミ」づくりが最盛期を迎えています。\n・創業100年を超える尾鷲市の鮮魚店「はし佐商店」では、まんべんなく乾燥させるため、2時間ごとに形を整えながら裏返す作業を行っていました。\n・去年から東紀州近海のボラが不漁のため、ことしは瀬戸内海産を使って対応しています。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-28",
     "title": "しんやさんが闇バイト防止訴え",
     "url": "https://wakayama.keizai.biz/gpnews/1778512/",
     "source": "和歌山経済新聞",
@@ -112,6 +164,8 @@
     "summary": "・和歌山県は、美浜町和田地区を日高川水系西川の支流・和田川の氾濫時に水をためる「貯留機能保全区域」に指定した。\n・県によると、同区域の指定は令和6年の奈良県大和川流域に続いて2例目で、2級河川では全国初という。\n・指定に伴い区域内では盛土、塀や柵、止水壁といった貯水機能を損なう可能性のある施設などの設置には、県に事前の届け出が必要となる。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "水害に備え、和歌山・美浜町和田地区を「貯留機能保全区域」に指定 2級河川では全国初",
@@ -119,9 +173,7 @@
         "source": "産経ニュース",
         "published_at": "2026-10-28 18:27"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-28",
@@ -466,9 +518,9 @@
     "summary": "・岡山県倉敷市の児島ジーンズストリート協同組合は和歌山ニット工業組合（和歌山市）と産地間連携を始めた。\n・10月下旬、デニム専門店が並ぶ倉敷市の「児島ジーンズストリート」で開かれたイベントで新ブランド「あみあい」の立ち上げを発表した。\n・和歌山で編んだニット生地と児島の加工技術でTシャツなどをつくり、同ストリートの店舗などで販売する。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -531,9 +583,16 @@
     "summary": "・クビアカ防除へ有志始動／みなべ　梅畑の放置木伐採。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 5,
+    "importance_score": 20,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "遊休農地の木伐採に補助／みなべ町 クビアカ対策費２７３０万円",
+        "url": "https://www.agara.co.jp/article/704956",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-28 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-10-28",
@@ -609,9 +668,16 @@
     "summary": "・アドベンチャーワールド（和歌山県白浜町、AW）は、2026年10月24日（土）から5日間、特別企画「運動場パンダ」を開催します。\n・100年後の未来からやってきた、ジャイアントパンダの子孫という設定の着ぐるみキャラクター「すみれ（Smile）」が、パンダラブの運動場に登場します。\n・「運動場パンダ」は、2026年10月24日（土）、25日（日）、29日（木）、31日（土）、11月1日（日）の計5日間、各日12時15分から約15分間実施されます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 15,
+    "importance_score": 30,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【和歌山・白浜町】パンダラブにすみれが登場！アドベンチャーワールドで「運動場パンダ」期間限定開催",
+        "url": "https://miyoca.jp/go/4908",
+        "source": "https://miyoca.jp/",
+        "published_at": "2026-10-28 09:45"
+      }
+    ]
   },
   {
     "article_date": "2026-10-28",

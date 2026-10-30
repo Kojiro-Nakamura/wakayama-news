@@ -8,7 +8,7 @@
     "summary": "・2週間天気の後半に表示されている「A〜E」の記号は、降水有無の予報に対する信頼度です（毎日10時頃更新）。\n・Aの方が高い信頼度があり、予報が的中しやすく、予報が変わりにくいことを表しています。\n・【予報精度No.1】和歌山県田辺市の天気予報を5分毎・1時間毎・今日明日・週間(10日間)で掲載中！今知りたい現地の天気は、ウェザーニュースアプリから届く空の写真で確認。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 39,
+    "importance_score": 54,
     "is_featured": true,
     "related_articles": [
       {
@@ -22,6 +22,12 @@
         "url": "https://weathernews.jp/onebox/tenki/wakayama/30343/",
         "source": "ウェザーニュース",
         "published_at": "2019-08-03 18:34"
+      },
+      {
+        "title": "和歌山県海南市の天気予報(1時間・今日明日・週間)",
+        "url": "https://weathernews.jp/onebox/tenki/wakayama/30202/",
+        "source": "ウェザーニュース",
+        "published_at": "2019-08-03 19:12"
       }
     ]
   }

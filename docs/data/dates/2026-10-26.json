@@ -8,9 +8,16 @@
     "summary": "・空き店舗活用イベント「まちなかイロドリ（通称＝まちドリ）」が11月7日・8日、北ぶらくり丁商店街周辺で開催される。\n・雇用と産業の創出を目的に空き店舗物件を活用し試験的な出店を行う同イベントは、2015（平成27）年から始まり今年で12年目。\n・同イベントに合わせ、第2日曜開催のマーケットイベント「北ぶらリメンバーMARKET」を土曜・日の2日間に拡張する。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 6,
+    "importance_score": 21,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "北ぶらくり丁で空き店舗活用イベント マーケットイベントと同時開催（みんなの経済新聞ネットワーク）",
+        "url": "https://news.yahoo.co.jp/articles/e1cc4f28ea31a53999d4e727b89a07731349107f",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-26 23:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -67,8 +74,8 @@
     "summary": "・和歌山県北山村特産のかんきつ類、じゃばらを使った加工食品などを手がける企業「じゃばらいず北山」が、食品ロス削減への取り組みを評価する「食品産業もったいない大賞」で、最優秀の農林水産大臣賞を受賞した。\n・じゃばら果汁を搾った後に年間約60トン発生する果皮など搾りかすの全てを食品原料などに再利用していることが評価された。\n・そのほか、乾燥させた果皮を養殖マグロの飼料にしたり、パウダー状にしてサプリに活用したりなどの取り組みを進め、昨年は約60トンの残渣（ざんさ）を再利用した。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "importance_score": 36,
-    "is_featured": false,
+    "importance_score": 51,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "特産「じゃばら」の果皮などを食品原料に再利用　和歌山・北山村の企業が農林水産大臣賞",
@@ -79,6 +86,12 @@
       {
         "title": "特産「じゃばら」の果皮などを食品原料に再利用 和歌山・北山村の企業が農林水産大臣賞",
         "url": "https://www.sankei.com/article/20261026-SYELPWFYGZJARPIW6ERPZMS5CQ/",
+        "source": "産経ニュース",
+        "published_at": "2026-10-26 20:39"
+      },
+      {
+        "title": "特産「じゃばら」の果皮などを食品原料に再利用 和歌山・北山村の企業が農林水産大臣賞",
+        "url": "https://www.sankei.com/article/20261026-SYELPWFYGZJARPIW6ERPZMS5CQ/?outputType=asynd",
         "source": "産経ニュース",
         "published_at": "2026-10-26 20:39"
       }
@@ -829,7 +842,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 42,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "高野山高校弁論部の原稿集完成　全国大会出場の33人47編を掲載",
