@@ -8,9 +8,9 @@
     "summary": "・藻場再生に必要な海草を観察 和歌山 那智勝浦町。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-30",
@@ -21,9 +21,9 @@
     "summary": "・自転車の施錠呼びかけるスピーカー 和歌山 かつらぎ町。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-30",
@@ -34,9 +34,9 @@
     "summary": "・特産のゆずの初搾り 和歌山 古座川町。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-30",
@@ -47,9 +47,9 @@
     "summary": "・「橋杭岩」ライトアップの試験点灯 和歌山 串本町。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-30",
@@ -60,6 +60,8 @@
     "summary": "・和歌山県湯浅町は30日、柏木保行副町長（70）が31日付で退職すると発表した。\n・横矢政明町長（77）に辞職を申し入れ、承認された。\n・副町長は当面の間、置かないという。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 54,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山・湯浅町の柏木副町長が辞職 「一身上の都合」 当面は副町長置かず (産経新聞)",
@@ -79,9 +81,7 @@
         "source": "産経ニュース",
         "published_at": "2026-10-30 19:20"
       }
-    ],
-    "importance_score": 54,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-30",
@@ -92,9 +92,9 @@
     "summary": "・和歌山 白浜町で絶滅危惧種「キタイワトビペンギン」3羽誕生。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-30",
@@ -105,6 +105,8 @@
     "summary": "・30日付けで懲戒免職となったのは和歌山県海南市が運営する海南医療センターの医療技術職員の男性（20代）です。\n・海南医療センターによりますと、男性職員は9月7日の午前11時ごろ、2人の入院患者の病室の引き出しを開け、かばんや封筒から現金計4万円を盗んだということです。\n・海南医療センターは「病院の信用を失墜させたことに対し、心よりお詫び申し上げます」とコメントしています。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "海南医療センター職員が入院患者の現金窃取で懲戒免職",
@@ -112,9 +114,7 @@
         "source": "WBS和歌山放送ニュース",
         "published_at": "2026-10-30 18:36"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-30",
@@ -125,6 +125,8 @@
     "summary": "・和歌山地方気象台が10月30日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・最高気温は、和歌山23℃、潮岬23℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【和歌山県】10/30の天気予報",
@@ -132,9 +134,7 @@
         "source": "FNNプライムオンライン",
         "published_at": "2026-10-30 05:10"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-30",
@@ -145,6 +145,8 @@
     "summary": "・和歌山県、秋季特別展「川合小梅の世界‐時代を記し、日々を描く‐」を和歌山市立博物館で令和8年10月31日（土）から12。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県、秋季特別展「川合小梅の世界‐時代を記し、日々を描く‐」を和歌山市立博物館で令和8年10月31日（土）から12月6日（日）まで開催",
@@ -152,9 +154,7 @@
         "source": "PR TIMES",
         "published_at": "2026-10-30 11:00"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-30",
@@ -165,9 +165,9 @@
     "summary": "・政府は３０日、大規模災害時に首都機能を代替する「副首都」関連法の施行を受け、高市早苗首相を本部長とする「副首都整備推進本部」を設置した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-30",
@@ -451,6 +451,8 @@
     "summary": "・社会どうする南海フェリー撤退　和歌山県知事との直接協議「11月13日」【徳島】　2026年10月30日 18:002027年3月末をめどに撤退を発表している南海フェリーについて後藤田知事は、和歌山県知事との直接協議を11月13日に行うことを明らかにしました。\n・徳島と和歌山を結ぶ南海フェリーは、乗客数の減少や燃料価格の高騰、船の老朽化などから事業継続は困難だとして、2027年3月末をめどに撤退することを発表しています。\n・30日の会見で後藤田知事は、県議会9月定例会で言及した和歌山県知事との直接協議を11月13日に行うと、明らかにしました。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "どうする南海フェリー撤退 和歌山県知事との直接協議「11月13日」【徳島】 （JRT四国放送）",
@@ -458,9 +460,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-30 18:00"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-30",
@@ -590,9 +590,9 @@
     "summary": "・和歌山県高校弓道新人大会が２４、２５日、田辺市目良の市立弓道場であり、女子個人で神島１年の吉田遥選手が優勝、同１年の稲田一葉選手が準優勝した。\n・男子個人では田辺工業２年の薮本マサキ選手が準優勝だった。\n・男子団体＝（４）田辺工業Ａ（南地瑛士、立岩空雅、薮本マサキ、中山草太）　女子団体＝（２）神島Ａ（永岡琉菜、野田紗菜、水原帆稀、稲田一葉）　男子個人＝（４）立岩空雅（田辺工業１年）　女子個人＝（４）水原帆稀（神島２年）（５）永岡琉菜（同２年）（６）野田紗菜（同２年）。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-30",
@@ -655,9 +655,9 @@
     "summary": "・◆ソフトバンクのドラフト指名あいさつ（30日、和歌山市）。\n・ソフトバンクから育成ドラフト1位指名された市立和歌山高校の丹羽涼介投手（17）が30日、和歌山市内の同校で指名あいさつを受けた。\n・最速150キロ右腕は「球団を代表する投手になりたいと思っています」と意気込みを語った。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-30",
@@ -720,9 +720,16 @@
     "summary": "・南紀白浜マリオットホテルで2026年12月1日～2027年2月28日、高級魚クエを主役にした冬季限定ディナー「クエ会席～紀州・熊野の恵み～」を販売。\n・熊野牛やじゃばら、南高梅、まりひめなど和歌山県産食材を取り入れ、紀州・熊野の海と山の恵みを堪能できる会席料理。\n・南紀白浜マリオットホテル（和歌山県西牟婁郡白浜町、総支配人：笹川 昭一）は、2026年12月1日（火）から2027年2月28日（日）まで、ホテル内レストラン「Grill(グリル) & Dining(ダイニング) G(ジー)」にて、旬を迎える高級魚クエを主役に、和歌山県産食材を用いながら和と洋の感性を織り交ぜて仕立てた「クエ会席～紀州・熊野の恵み～」を発売します。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 15,
+    "importance_score": 30,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【南紀白浜マリオットホテル】和歌山の食材×和洋の感性が響き合うクエ尽くしのディナー「クエ会席～紀州・熊野の恵み～」を発売",
+        "url": "https://www.okinawatimes.co.jp/articles/-/1956171",
+        "source": "沖縄タイムス社",
+        "published_at": "2026-10-30 14:21"
+      }
+    ]
   },
   {
     "article_date": "2026-10-30",
@@ -867,6 +874,19 @@
     "importance_score": 14,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-30",
+    "title": "子どもも大人もワクワク！熊野古道にみんなでつくる秘密基地のような古民家宿を",
+    "url": "https://camp-fire.jp/projects/976507/view",
+    "source": "CAMPFIRE (キャンプファイヤー)",
+    "published_at": "2026-10-30 06:27",
+    "summary": "・そんな、日常ではつい忘れてしまう「余白の時間」を過ごせる場所を、和歌山・熊野古道沿いの古民家につくります。\n・子どもも大人も思わずワクワクして、「また帰ってきたい」と思える、秘密基地のような場所。\n・tetoteto.は、子どもも大人も愉しみながら、家族という枠を越えて日常から支え合える関係をつくるコミュニティです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-30",

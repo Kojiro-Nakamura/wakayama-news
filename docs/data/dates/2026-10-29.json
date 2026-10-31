@@ -59,9 +59,9 @@
     "summary": "・先日、熊本県内の工場において、溶断作業中にＦＲＰ製の工作物が炎上する火災が発生しました。\n・このことを受けて、改めて工事、解体等で使用するガスや電気を用いた溶接・溶断作業、グラインダーなどによる火花を発する作業を行う場合には、橋本市火災予防条例による規定を遵守するよう心がけてください。\n・2　自動車の解体作業においては、溶断作業を行う前に燃料等の可燃性物品の除去及び消火用具の準備を行い、かつ、除去した燃料等の適切な管理を行わなければならない。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -137,9 +137,16 @@
     "summary": "・和歌山地方気象台が10月29日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・最高気温は、和歌山21℃、潮岬23℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 9,
+    "importance_score": 24,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【和歌山県】10/29の天気予報",
+        "url": "https://www.fnn.jp/articles/-/1141919",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-10-29 05:10"
+      }
+    ]
   },
   {
     "article_date": "2026-10-29",
@@ -693,9 +700,9 @@
     "summary": "・(2026年10月29日 14時30分 更新)。\n・上富田でウオーク　11月14日、世界遺産追加10周年､和歌山。\n・31日・11月１日にラーメンフェス　全国の人気６店食べ比べ、和歌山・白浜。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 20,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -843,6 +850,19 @@
   },
   {
     "article_date": "2026-10-29",
+    "title": "和歌山県ふるさと誕生日キャンペーン \"ナイトイベント特別優待プラン\" 最大１,５００円お得！１１月２１日～２３日の３連休は和歌山県民の皆さまをご優待",
+    "url": "https://crea.bunshun.jp/ud/pressrelease/6ae595a27079c86e85000002",
+    "source": "クレアウェブ",
+    "published_at": "2026-10-29 12:00",
+    "summary": "・対象者　　：和歌山県にお住まいの方（ご購入・ご来園時に在住を証明できる身分証明書のご提示が必要です）。\n・-  通常来園者向け　：フルプラン（１日入園券＋LIGHT PARKS＋ナイトサファリ）の県民優待割引 - パスホルダー向け：夜間満喫プラン（LIGHT PARKS＋ナイトサファリ）の県民優待割引。\n・２. パスホルダー向け：夜間満喫プラン（LIGHT PARKS ＋ ナイトサファリ）。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
     "title": "来年の干支は未(ひつじ) 大絵馬が完成 世界遺産・熊野本宮大社 和歌山県田辺市（テレビ和歌山）",
     "url": "https://news.yahoo.co.jp/articles/a4914de623008c3cf6ee1f254e059f8a4b579347",
     "source": "Yahoo!ニュース",
@@ -876,9 +896,16 @@
     "summary": "・江戸時代中期の絵師・長沢芦雪（ろせつ）（1754～99）や、その師である円山応挙（1733～95）らの障壁画を保存してきた無量寺（和歌山県串本町）の美術館「串本応挙芦雪館」収蔵庫の改修工事が終わり、24日から公開が再び始まった。\n・【写真】改修工事が施された串本応挙芦雪館の収蔵庫=2026年10月24日午前11時2分、和歌山県串本町串本、菊地洋行撮影　収蔵庫は鉄筋コンクリート造り平屋建て約160平方メートル。\n・改修工事の間、芦雪の襖絵などの作品は東京都府中市美術館や和歌山市の県立博物館で出張展示され、注目を集めた。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 12,
+    "importance_score": 27,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "「串本の宝」応挙と芦雪、守り継ぐ 無量寺の美術館収蔵庫改修、再開 [和歌山県]",
+        "url": "https://www.asahi.com/articles/ASVBX3VSQVBXPXLB009M.html",
+        "source": "朝日新聞",
+        "published_at": "2026-10-29 10:45"
+      }
+    ]
   },
   {
     "article_date": "2026-10-29",
