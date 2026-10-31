@@ -688,7 +688,7 @@
     "summary": "・気象庁は25日12時33分、和歌山県広川町、由良町にレベル4土砂災害危険警報を発表しました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 441,
+    "importance_score": 456,
     "is_featured": true,
     "related_articles": [
       {
@@ -864,6 +864,12 @@
         "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036399",
         "source": "ｄメニューニュース",
         "published_at": "2026-10-25 12:33"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・有田市に発表 10:33時点",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036268",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 10:33"
       }
     ]
   },
@@ -999,7 +1005,7 @@
     "url": "https://news.yahoo.co.jp/articles/848a9d12752dfd41981b352ef3205b8023e22ce1",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-25 11:08",
-    "importance_score": 231,
+    "importance_score": 246,
     "is_featured": true,
     "summary": "・【レベル3大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点。",
     "related_articles": [
@@ -1092,6 +1098,12 @@
         "url": "https://news.infoseek.co.jp/article/tbs_3036223/",
         "source": "Infoseek",
         "published_at": "2026-10-25 10:00"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・海南市、橋本市に発表 10:23時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036237",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 10:23"
       }
     ]
   },

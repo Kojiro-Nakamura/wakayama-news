@@ -8,6 +8,8 @@
     "summary": "・和歌山県串本町で幻想的なライトアップが見られます。\n・和歌山県串本町の海辺に大小４０あまりの岩が規則的に並ぶ奇岩・橋杭岩。\n・橋杭岩のライトアップは３０日から３日間、午後５時半から８時半まで行われます。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 74,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "奇岩を照らす鮮やかな光 和歌山・串本の「橋杭岩」ライトアップ",
@@ -33,9 +35,7 @@
         "source": "NEWSjp",
         "published_at": "2026-10-29 17:47"
       }
-    ],
-    "importance_score": 74,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-29",
@@ -49,6 +49,19 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "作業中の防火管理について",
+    "url": "https://www.city.hashimoto.lg.jp/guide/shobohonbu/oshirase/jigyoshooshirase/23663.html",
+    "source": "橋本市",
+    "published_at": "2026-10-29 22:33",
+    "summary": "・先日、熊本県内の工場において、溶断作業中にＦＲＰ製の工作物が炎上する火災が発生しました。\n・このことを受けて、改めて工事、解体等で使用するガスや電気を用いた溶接・溶断作業、グラインダーなどによる火花を発する作業を行う場合には、橋本市火災予防条例による規定を遵守するよう心がけてください。\n・2　自動車の解体作業においては、溶断作業を行う前に燃料等の可燃性物品の除去及び消火用具の準備を行い、かつ、除去した燃料等の適切な管理を行わなければならない。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-29",
@@ -602,9 +615,9 @@
     "summary": "・第１０５回全国高校サッカー選手権大会和歌山大会、今日行われた試合結果です。\n・第106回全国高等学校ラグビーフットボール大会 和歌山県大会。\n・第108回全国高等学校野球選手権和歌山大会 DVD。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -670,6 +683,19 @@
     "importance_score": 0,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "11月3日、かみとん市",
+    "url": "https://www.agara.co.jp/article/705020",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-10-29 16:00",
+    "summary": "・(2026年10月29日 14時30分 更新)。\n・上富田でウオーク　11月14日、世界遺産追加10周年､和歌山。\n・31日・11月１日にラーメンフェス　全国の人気６店食べ比べ、和歌山・白浜。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 20,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-29",
@@ -758,6 +784,8 @@
     "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・和歌山県の落雷地点・雷予報をチェック！\n・2026年10月の和歌山県の雨雲レーダーを見る。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の過去の雨雲レーダー(2026年10月28日)",
@@ -765,9 +793,7 @@
         "source": "tenki.jp",
         "published_at": "2026-10-29 00:22"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-29",

@@ -34,7 +34,7 @@
     "summary": "・「稲むらの火祭り」で、たいまつを手に歩く町民ら＝24日夜、和歌山県広川町｜西日本新聞meは、九州のニュースを中心に最新情報を伝えるニュースサイトです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 255,
+    "importance_score": 270,
     "is_featured": true,
     "related_articles": [
       {
@@ -137,6 +137,12 @@
         "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承",
         "url": "https://www.kochinews.co.jp/article/detail/1057149",
         "source": "高知新聞",
+        "published_at": "2026-10-24 19:18"
+      },
+      {
+        "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承（共同通信）",
+        "url": "https://news.yahoo.co.jp/articles/99c18d141f98f13a06b730a54064a772689705ec",
+        "source": "Yahoo!ニュース",
         "published_at": "2026-10-24 19:18"
       }
     ]

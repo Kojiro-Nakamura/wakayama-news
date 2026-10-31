@@ -9,7 +9,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 39,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "有田市に開店した焼き菓子店「恐竜スコーンがおがお」店舗外観",
@@ -86,8 +86,8 @@
     "summary": "・和歌山県有田市の旧宮原小学校跡地に整備が進められていた複合公共施設「MifroM（みふろむ）」が11月1日に供用が開始されるのを前に、同施設で27日、落成式が行われた。\n・「MifroM」は、市立中学校の統合に伴い、旧宮原小の跡地を活用するため、敷地面積約1万3161平方メートルに、「宮原コミュニティセンター」と「宮原認定こども園」（来年4月1日に開園予定）を新たに建設。\n・落成式で、玉木久登市長は「施設が子供たちの健やかな成長や世代を超えた交流、地域のスポーツや文化活動を支える新たな拠点となることを確信している」とあいさつ。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 36,
-    "is_featured": false,
+    "importance_score": 51,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "「子供たちの成長支える拠点に」 和歌山・有田市の複合公共施設「MifroM」で落成式 (産経新聞)",
@@ -98,6 +98,12 @@
       {
         "title": "「子供たちの成長支える拠点に」 和歌山・有田市の複合公共施設「MifroM」で落成式",
         "url": "https://www.sankei.com/article/20261027-3AZ7JWLSZRNFBM7HMS5AT46HYU/",
+        "source": "産経ニュース",
+        "published_at": "2026-10-27 20:21"
+      },
+      {
+        "title": "「子供たちの成長支える拠点に」 和歌山・有田市の複合公共施設「MifroM」で落成式",
+        "url": "https://www.sankei.com/article/20261027-3AZ7JWLSZRNFBM7HMS5AT46HYU/?outputType=asynd",
         "source": "産経ニュース",
         "published_at": "2026-10-27 20:21"
       }
@@ -982,9 +988,9 @@
     "summary": "・※日最高気温・日最低気温・日最大風速は、アメダス10分値です。\n・高野山(コウヤサン)のアメダス(2026年10月26日)2026年10月26日。\n・高野山(和歌山県)のアメダスによる2026年10月26日の気温、降水量、風向・風速、日照時間、積雪深の観測情報を閲覧できます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-27",

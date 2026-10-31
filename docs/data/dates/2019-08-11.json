@@ -8,8 +8,8 @@
     "summary": "・2週間天気の後半に表示されている「A〜E」の記号は、降水有無の予報に対する信頼度です（毎日10時頃更新）。\n・週間天気予報　週明けは広く雨　気温のアップダウンにも注意。\n・【2週間天気｜予報精度No.1】和歌山県みなべ町の2週間(14日間)先までの天気・気温・降水量を掲載しています。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]
