@@ -8,7 +8,7 @@
     "summary": "・和歌山県串本町で幻想的なライトアップが見られます。\n・和歌山県串本町の海辺に大小４０あまりの岩が規則的に並ぶ奇岩・橋杭岩。\n・橋杭岩のライトアップは３０日から３日間、午後５時半から８時半まで行われます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 74,
+    "importance_score": 89,
     "is_featured": true,
     "related_articles": [
       {
@@ -34,6 +34,12 @@
         "url": "https://news.jp/i/1488459860256620710",
         "source": "NEWSjp",
         "published_at": "2026-10-29 17:47"
+      },
+      {
+        "title": "闇夜に浮かぶ奇岩、幻想的 串本・橋杭岩ライトアップ",
+        "url": "https://www.sanyonews.jp/article/2012826",
+        "source": "山陽新聞",
+        "published_at": "2026-10-29 19:26"
       }
     ]
   },
@@ -249,7 +255,7 @@
     "summary": "・２５年前のタイムカプセル開封　和歌山の田辺第三小。\n・【動画】半世紀前の思い出に浸る　タイムカプセル開封､上秋津小卒業生､和歌山県田辺市。\n・「万博漬け」展示　南高梅干し、2050年開封予定、和歌山県田辺市役所。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "importance_score": 29,
+    "importance_score": 44,
     "is_featured": false,
     "related_articles": [
       {
@@ -257,6 +263,12 @@
         "url": "https://news.yahoo.co.jp/articles/103858bd4e64ab0b82e579b48c6fa6f83b4f2619",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-29 16:25"
+      },
+      {
+        "title": "卒業生の作品展示 小学校創立150周年、11月8日、岡小、和歌山県上富田町",
+        "url": "https://www.47news.jp/15156040.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-29 14:30"
       }
     ]
   },
@@ -269,7 +281,7 @@
     "summary": "・和歌山県田辺市新庄町の福元幸郎さん（７６）方で、ヘツカラン（ラン科）が花を咲かせている。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "importance_score": 38,
+    "importance_score": 53,
     "is_featured": false,
     "related_articles": [
       {
@@ -283,6 +295,12 @@
         "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow705021",
         "source": "ｄメニューニュース",
         "published_at": "2026-10-29 14:30"
+      },
+      {
+        "title": "ヘツカラン咲く 民家でかれんに、和歌山県田辺（紀伊民報）",
+        "url": "https://news.yahoo.co.jp/articles/0664a543eb20ecf3c0ca92ab9f5b3e6d7786efd9",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-29 16:25"
       }
     ]
   },
@@ -315,8 +333,8 @@
     "summary": "・折り紙って面白い／小山君（田一小２年）の作品展／８、９日　田辺。\n・将棋の県大会に挑戦／田辺第一小３年生の３人。\n・卒業証書を手作り　地元作家と紙すき、上山路小６年生、和歌山県田辺市龍神村。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "importance_score": 44,
-    "is_featured": false,
+    "importance_score": 59,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "広がれ「折り友」の輪 小学生が折り紙公募展、和歌山県田辺で11月21､22日（紀伊民報）",
@@ -329,6 +347,12 @@
         "url": "https://www.47news.jp/15156039.html",
         "source": "47NEWS",
         "published_at": "2026-10-29 14:30"
+      },
+      {
+        "title": "広がれ「折り友」の輪 小学生が折り紙公募展、和歌山県田辺で11月21､22日 (紀伊民報)",
+        "url": "https://news.yahoo.co.jp/articles/a34754f578b2debd584b923199f172b34738de1a/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-29 16:25"
       }
     ]
   },
@@ -473,7 +497,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 47,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "親子で楽しく運動体験「トラスト親子体操イベント」１１月２９日開催／和歌山市",
@@ -857,9 +881,9 @@
     "summary": "・対象者　　：和歌山県にお住まいの方（ご購入・ご来園時に在住を証明できる身分証明書のご提示が必要です）。\n・-  通常来園者向け　：フルプラン（１日入園券＋LIGHT PARKS＋ナイトサファリ）の県民優待割引 - パスホルダー向け：夜間満喫プラン（LIGHT PARKS＋ナイトサファリ）の県民優待割引。\n・２. パスホルダー向け：夜間満喫プラン（LIGHT PARKS ＋ ナイトサファリ）。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -1053,6 +1077,19 @@
   },
   {
     "article_date": "2026-10-29",
+    "title": "高野山(和歌山県)の過去のアメダス(2026年10月28日)",
+    "url": "https://tenki.jp/past/2026/10/28/amedas/6/33/65061.html",
+    "source": "tenki.jp",
+    "published_at": "2026-10-29 01:45",
+    "summary": "・※日最高気温・日最低気温・日最大風速は、アメダス10分値です。\n・高野山(コウヤサン)のアメダス(2026年10月28日)2026年10月28日。\n・高野山(和歌山県)のアメダスによる2026年10月28日の気温、降水量、風向・風速、日照時間、積雪深の観測情報を閲覧できます。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
     "title": "和歌山市「雑賀崎隧道」でのひき逃げ事件 ５０代の男が逮捕「当たるまで気が付かなかった」",
     "url": "https://www.asahi.co.jp/webnews/pages/abc_63302.html",
     "source": "朝日放送",
@@ -1086,7 +1123,7 @@
     "summary": "・FNNプライムオンライン（FNNプライムオンライン）。\n・【台風情報】最大瞬間風速65m/s・中心気圧940hPa「台風31号（インファ）」非常に強い勢力...今後の進路、日本への影響は?11月9日にかけての雨風シミュレーション【気象庁30日3時45分発表】。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 141,
+    "importance_score": 156,
     "is_featured": true,
     "related_articles": [
       {
@@ -1142,6 +1179,12 @@
         "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3045998",
         "source": "ｄメニューニュース",
         "published_at": "2026-10-29 00:52"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震 和歌山県・有田市（FNNプライムオンライン（フジテレビ系））",
+        "url": "https://news.yahoo.co.jp/articles/2b1e2bdd5d3cfb7355fa740207c829e4f6076d04",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-29 00:53"
       }
     ]
   },
