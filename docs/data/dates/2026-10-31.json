@@ -8,9 +8,9 @@
     "summary": "・女子エペ決勝で寺山珠樹（右）が成田琉夏を１５―１３で退け、２年連続２度目の頂点に立った＝３１日、東京・駒沢体育館　【時事通信社】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -21,6 +21,8 @@
     "summary": "・12月23日に開幕する「SoftBank ウインターカップ2026 令和8年度 第79回全国高等学校バスケットボール選手権大会」。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【ウインターカップ2026 男子予選】創部2年目の高野山が初出場決める…柳ヶ浦は3連覇、東海大諏訪も全国へ",
@@ -28,9 +30,7 @@
         "source": "スポーツブル",
         "published_at": "2026-10-31 19:00"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-31",
@@ -41,9 +41,9 @@
     "summary": "・第105回全国高校サッカー選手権・和歌山県予選の準々決勝が31日に行われた。\n・ベスト4には初芝橋本の他、和歌山北高、近大和歌山高、桐蔭高が進出している。\n・【動画】谷川萌々子がセンターサークル内からロングシュートを叩き込む!![準々決勝](10月31日)初芝橋本高 4-1 那賀高日高高 1-7 和歌山北高近大新宮高 2-4 近大和歌山高星林高 1-6 桐蔭高[準決勝](11月7日)初芝橋本高 vs 和歌山北高近大和歌山高 vs 桐蔭高。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -355,6 +355,8 @@
     "summary": "・和歌山の子どもたちに「一生の財産」となる夢のスポーツ体験を届けるため、本プロジェクトに挑戦します！\n・一流の選手との出会いや、学校・クラブの垣根を超えた交流を通じて、子どもたちの挑戦を応援するスポーツイベント「CITY DREAM 2027」を開催し、地域が一体となって新しいスポーツの未来を創るプロジェクトです。\n・わかやまCity Clubは、和歌山市を拠点に『スポーツを通して和歌山を元気にしたい』と集まる地域団体です。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "E-Bikeで行く！親子ヘラブナ釣りサイクリング",
@@ -362,9 +364,7 @@
         "source": "橋本市",
         "published_at": "2026-10-31 01:34"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-31",
@@ -421,7 +421,7 @@
     "summary": "・パンダで知られた和歌山県の南紀白浜にある､老舗の最上級ホテル｢KAWAKYU -南紀白浜-｣。\n・同ホテルを含め､白浜では高級路線が進んでいるようです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 114,
+    "importance_score": 144,
     "is_featured": true,
     "related_articles": [
       {
@@ -465,6 +465,18 @@
         "url": "https://news.yahoo.co.jp/articles/bb938859437d52e2eaea6a431f4812034c1e9fa3/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-31 05:46"
+      },
+      {
+        "title": "南紀白浜にある《ヨーロッパの古城》のようなホテル、圧倒される“豪華な建築美”と白浜で進んでいる「高級化路線」",
+        "url": "https://news.yahoo.co.jp/articles/bb938859437d52e2eaea6a431f4812034c1e9fa3?page=3",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-31 05:46"
+      },
+      {
+        "title": "南紀白浜にある《ヨーロッパの古城》のようなホテル､圧倒される\"豪華な建築美\"と白浜で進んでいる｢高級化路線｣",
+        "url": "https://toyokeizai.net/articles/-/962519?page=4",
+        "source": "東洋経済オンライン",
+        "published_at": "2026-10-31 05:45"
       }
     ]
   },
@@ -663,6 +675,19 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-31",
+    "title": "和歌山県行政書士会と「災害時における行政書士による被災者支援に関する協定」を締結しました",
+    "url": "https://www.city.hashimoto.lg.jp/guide/kikikanri/minkan_bousai/kyoutei/23675.html",
+    "source": "橋本市",
+    "published_at": "2026-10-31 01:34",
+    "summary": "・被災者が行う罹災証明書の申請や各種支援制度の申請など、災害時に増加する行政手続に関する負担を軽減し、生活再建を迅速に進められるよう、行政書士による相談・書類作成支援等の体制を強化することを目的としています。\n・市の要請に基づき、避難所や市が設ける相談窓口等で行政書士が支援できる体制を整え、発災後の立ち上げを迅速化します。\n・橋本市 危機管理室〒648-8585和歌山県橋本市東家一丁目1番1号電話：0736-33-6105　ファクス：0736-26-4550問い合わせフォーム。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-31",
