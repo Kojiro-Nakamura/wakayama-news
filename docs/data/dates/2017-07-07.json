@@ -1,28 +1,51 @@
 [
   {
     "article_date": "2017-07-07",
-    "title": "みなべ町の今日明日の天気",
-    "url": "https://tenki.jp/forecast/6/33/6510/30391/",
+    "title": "日高川町の2週間天気(旧:10日間天気)",
+    "url": "https://tenki.jp/forecast/6/33/6510/30392/10days.html",
     "source": "tenki.jp",
-    "published_at": "2017-07-07 00:56",
-    "summary": "・日中は多くの所で晴れる　北海道は雪や雨で風が強い　今日11月1日(日)の天気。",
+    "published_at": "2017-07-07 10:23",
+    "summary": "・前線の雨雲が通過　近畿と東海では激しい雨や雷雨も　今日2日(月)の天気。\n・日高川町の2週間天気、気温、降水確率などに加え、台風情報、警報注意報を掲載。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 30,
-    "is_featured": true,
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2017-07-07",
+    "title": "みなべ町の3時間天気",
+    "url": "https://tenki.jp/forecast/6/33/6510/30391/3hours.html",
+    "source": "tenki.jp",
+    "published_at": "2017-07-07 02:54",
+    "summary": "・前線の雨雲が通過　近畿と東海では激しい雨や雷雨も　今日2日(月)の天気。\n・みなべ町の3時間ごとの天気、気温、降水量などに加え、台風情報、警報注意報を掲載。",
+    "summary_type": "auto",
+    "category": "社会・事件",
     "related_articles": [
       {
-        "title": "有田川町の今日明日の天気",
-        "url": "https://tenki.jp/forecast/6/33/6510/30366/",
+        "title": "みなべ町の今日明日の天気",
+        "url": "https://tenki.jp/forecast/6/33/6510/30391/",
         "source": "tenki.jp",
-        "published_at": "2017-07-07 00:52"
-      },
+        "published_at": "2017-07-07 00:56"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": true
+  },
+  {
+    "title": "有田川町の今日明日の天気",
+    "url": "https://tenki.jp/forecast/6/33/6510/30366/",
+    "source": "tenki.jp",
+    "published_at": "2017-07-07 00:52",
+    "related_articles": [
       {
         "title": "湯浅町の今日明日の天気",
         "url": "https://tenki.jp/forecast/6/33/6510/30361/",
         "source": "tenki.jp",
         "published_at": "2017-07-07 00:35"
       }
-    ]
+    ],
+    "importance_score": 15,
+    "is_featured": true
   }
 ]

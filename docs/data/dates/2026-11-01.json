@@ -1,6 +1,96 @@
 [
   {
     "article_date": "2026-11-01",
+    "title": "観光列車に戦国武将 特産の柿をPR 和歌山",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69229",
+    "source": "NHKニュース",
+    "published_at": "2026-11-01 19:48",
+    "summary": "・観光列車に戦国武将 特産の柿をPR 和歌山。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-01",
+    "title": "【和歌山県】11/2の天気予報",
+    "url": "https://www.fnn.jp/articles/-/1144040",
+    "source": "FNNプライムオンライン",
+    "published_at": "2026-11-01 19:30",
+    "summary": "・和歌山地方気象台が11月1日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・最高気温は、和歌山24℃、潮岬24℃でしょう。\n・各地の天気予報は以下の通りです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-01",
+    "title": "三重県と和歌山県、勝負を制したのは 新宮市で綱引きイベント、両県民が親睦深める",
+    "url": "https://www.chunichi.co.jp/article/1333578",
+    "source": "中日新聞Web",
+    "published_at": "2026-11-01 19:27",
+    "summary": "・※紙の新聞とは、中日新聞朝刊・北陸中日新聞朝刊・日刊県民福井です。\n・三重県と和歌山県の住民が綱引きで対決するイベントが1日、和歌山県新宮市あけぼのの新宮木材協同組合駐車場で開かれた。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "三重県と和歌山県、勝負を制したのは 新宮市で綱引きイベント、両県民が親睦深める",
+        "url": "https://www.47news.jp/15170217.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-01 19:27"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-01",
+    "title": "磯釣り中の男性２人が海に転落 うち１人死亡 波にさらわれたか 和歌山・串本町",
+    "url": "https://www.asahi.co.jp/webnews/pages/abc_63359.html",
+    "source": "朝日放送",
+    "published_at": "2026-11-01 19:08",
+    "summary": "・和歌山県串本町の岬で、磯釣り中の男性２人が海に転落し、うち１人が死亡しました。\n・１日午前４時半すぎ、串本町の岬で、「海上から助けを求める声が聞こえた」と、近くで釣りをしていた男性から通報がありました。\n・串本海上保安署によりますと、磯釣りをしていたいずれも５０代の男性が、波にさらわれて転落したとみられ、通報から約１時間半後に５２歳の男性、２時間半後に５５歳の男性が、沖合約６００メートルの地点を漂流中に見つかりました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "串本大島で釣り人が海に転落、１人死亡／和歌山",
+        "url": "https://news.wbs.co.jp/221339",
+        "source": "WBS和歌山放送ニュース",
+        "published_at": "2026-11-01 19:04"
+      },
+      {
+        "title": "磯釣り中の男性２人が海に転落 うち１人死亡 波にさらわれたか 和歌山・串本町",
+        "url": "https://news.yahoo.co.jp/articles/06b56aea54d7e847b70e965cbede1d8804550844",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-01 18:54"
+      },
+      {
+        "title": "釣り人の50代男性2人が海に転落、1人死亡 和歌山・串本（朝日新聞）",
+        "url": "https://news.yahoo.co.jp/articles/97746027b4266082ab01e81eab464493e503362e",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-01 18:49"
+      },
+      {
+        "title": "釣り人の50代男性2人が海に転落、1人死亡 和歌山・串本 [和歌山県]",
+        "url": "https://www.asahi.com/articles/ASVC133CHVC1POMB00GM.html",
+        "source": "朝日新聞",
+        "published_at": "2026-11-01 18:49"
+      },
+      {
+        "title": "和歌山で海に転落１人死亡 釣り中に波にさらわれたか | | 全国のニュース",
+        "url": "https://www.saga-s.co.jp/articles/-/1821765",
+        "source": "佐賀新聞",
+        "published_at": "2026-11-01 12:05"
+      }
+    ],
+    "importance_score": 89,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-01",
     "title": "勇壮に「鯨踊り」披露、太地の恒例祭り／和歌山",
     "url": "https://news.wbs.co.jp/221348",
     "source": "WBS和歌山放送ニュース",
@@ -8,6 +98,8 @@
     "summary": "・古式捕鯨発祥の地、太地町できょう（１日）、恒例の「太地浦くじら祭」が開かれ、捕鯨の様子を伝える「鯨踊り」が、町の若者らによって勇壮に披露されました。\n・祭りは、クジラに関する郷土芸能や食文化を伝えるイベントで、鯨踊りは、４００年前の古式捕鯨で、豊漁を祝い、船の上で踊ったのが始まりとされています。\n・会場では、また、太地町漁協所属の捕鯨船が、北海道沖で捕獲したミンククジラの冷凍肉も販売されました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 41,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "「太地浦くじら祭」で披露された「鯨踊り」＝1日午後、和歌山県太地町 - 勇壮に「鯨踊り」披露 和歌山・太地の恒例祭り - 写真・画像(1/1)",
@@ -21,9 +113,7 @@
         "source": "西日本新聞me",
         "published_at": "2026-11-01 15:55"
       }
-    ],
-    "importance_score": 41,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-01",
@@ -34,6 +124,8 @@
     "summary": "・和歌山市では、第４回となる「有吉佐和子(ありよし・さわこ)文学賞」の作品を募集しています。\n・これは、和歌山市出身の作家、有吉佐和子を顕彰し、文学に親しんでもらおうと、市が２０２４年、没後４０年を機に創設したエッセイ作品の文学賞です。\n・市の文化振興課内の「文学賞」係に、郵送、持参、または、専用フォームから応募でき、締切は、来年（２０２７年）１月２９日です。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 29,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "第４回「有吉佐和子文学賞」作品募集始まる／和歌山",
@@ -41,9 +133,7 @@
         "source": "au Webポータル",
         "published_at": "2026-11-01 17:31"
       }
-    ],
-    "importance_score": 29,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-01",
@@ -54,35 +144,9 @@
     "summary": "・男子ゴルフのアジア太平洋アマチュア選手権は１日、ニュージーランド北島のテアライ・リンクスで最終ラウンドが行われ、初出場で、和歌山市の有功(いさお)中学３年、１５歳の矢田賢司(やだ・けんし)は、この日７６の１４オーバー、２９８で３８位に終わりました。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-01",
-    "title": "串本大島で釣り人が海に転落、１人死亡／和歌山",
-    "url": "https://news.wbs.co.jp/221339",
-    "source": "WBS和歌山放送ニュース",
-    "published_at": "2026-11-01 19:04",
-    "summary": "・きょう（１日）未明、串本町の大島で釣りをしていた岩出市の５０代の男性２人が海に転落し、うち１人が死亡しました。\n・きょう午前４時半頃、串本町大島の須江崎(すえさき)付近で、釣りをしていた男性から、「海から助けを求める声が聞こえた」と１１８番通報がありました。\n・このため、串本海上保安署などから救助船が現地に向かい、午前６時頃、大島の沖合いおよそ６００メートルの海上で、漂流していた男性１人を救助、さらにおよそ１時間後に、近くで、もう１人の男性も救助されました。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "related_articles": [
-      {
-        "title": "磯釣り中の男性２人が海に転落 うち１人死亡 波にさらわれたか 和歌山・串本町",
-        "url": "https://news.yahoo.co.jp/articles/06b56aea54d7e847b70e965cbede1d8804550844",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-11-01 18:54"
-      },
-      {
-        "title": "釣り人の50代男性2人が海に転落、1人死亡 和歌山・串本（朝日新聞）",
-        "url": "https://news.yahoo.co.jp/articles/97746027b4266082ab01e81eab464493e503362e",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-11-01 18:49"
-      }
-    ],
-    "importance_score": 44,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -93,9 +157,9 @@
     "summary": "・秋の近畿高校野球大会はきょう（１日）、京都市のわかさスタジアム京都で準決勝が行われ、兵庫の明石商業と京都の京都国際が勝ちました。\n・明石商業は、奈良の智辯学園に５対４で、京都国際は、兵庫の報徳学園に４対０で、それぞれ勝ち、決勝進出を決めました。\n・決勝は、あさって（３日）正午から、明石商業と京都国際が、いずれも初優勝を目指して対戦します。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -106,22 +170,35 @@
     "summary": "・目の不自由な人が安心して街を歩けるように、音の出る信号機を増やすことを主目的にラジオ放送を通じて、募金を呼びかける和歌山放送の「ラジオ・チャリティ・ミュージックソン」が、きょう（１日）から始まりました。\n・ミュージックソンは、１９７５年に東京のニッポン放送などが始めた活動で、和歌山放送は１９８６年から参加し、今年で４１回目です。\n・これまで４０回の和歌山放送のラジオ・チャリティ・ミュージックソンに寄せられた募金の総額は、２億１８００万円を超え、音の出る信号機を和歌山放送の放送エリア（和歌山県と大阪府南部に）あわせて１２２か所に寄贈・設置しています。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
     "title": "二軍球団・ハヤテが13選手の退団を発表…「紀州の剛腕」、首位打者争いを繰り広げた好打者など主力がチームを去る",
-    "url": "https://www.hb-nippon.com/articles/18888",
-    "source": "高校野球ドットコム",
-    "published_at": "2026-11-01 18:54",
-    "summary": "・2軍球団のハヤテは13選手の退団を発表した。\n・高校時代に「紀州の剛腕」と騒がれた落合 秀市（25歳・和歌山東-兵庫ブルーサンダーズ-06BULLS-高知ファイティングドッグス）、フレッシュオールスターにも出場した佐藤 友紀（26歳・千城台-秀明大-茨城アストロプラネッツ-堺シュライクス-茨城アストロプラネッツ）、佐藤 英雄（25歳・日大三-青山学院大-西濃運輸-埼玉武蔵ヒートベアーズ）、ファームリーグで首位打者争いを繰り広げ、最終的に中地区2位の打率.296を記録した廣沢 新太郎（25歳・福岡工大城東-九州総合スポーツカレッジ-大分B-リングス-茨城アストロプラネッツ）など、多くの主力選手たちがチームを去ることとなった。",
+    "url": "https://news.yahoo.co.jp/articles/83b5122c5e6e82cd8dfee653067763b5ad025559",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-01 18:59",
+    "summary": "・二軍球団のハヤテは13選手の退団を発表した。\n・投手では高校時代に「紀州の剛腕」と騒がれた落合 秀市（25歳・和歌山東-兵庫ブルーサンダーズ-06BULLS-高知ファイティングドッグス）、フレッシュオールスターにも出場した佐藤 友紀（26歳・千城台-秀明大-茨城アストロプラネッツ-堺シュライクス-茨城アストロプラネッツ）など7投手が退団。\n・【一覧】30日までの戦力外・引退リスト　野手では、佐藤ともにフレッシュオールスターに出場した佐藤 英雄（25歳・日大三-青山学院大-西濃運輸-埼玉武蔵ヒートベアーズ）、ファームリーグで首位打者争いを繰り広げ、最終的に中地区2位の打率.296を記録した廣沢 新太郎（25歳・福岡工大城東-九州総合スポーツカレッジ-大分B-リングス-茨城アストロプラネッツ）など、多くの主力選手たちがチームを去ることとなった。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
-    "importance_score": 6,
-    "is_featured": false
+    "related_articles": [
+      {
+        "title": "二軍球団・ハヤテが13選手の退団を発表…「紀州の剛腕」、首位打者争いを繰り広げた好打者など主力がチームを去る",
+        "url": "https://sportsbull.jp/p/2449099/",
+        "source": "スポーツブル",
+        "published_at": "2026-11-01 18:59"
+      },
+      {
+        "title": "二軍球団・ハヤテが13選手の退団を発表…「紀州の剛腕」、首位打者争いを繰り広げた好打者など主力がチームを去る",
+        "url": "https://www.hb-nippon.com/articles/18888",
+        "source": "高校野球ドットコム",
+        "published_at": "2026-11-01 18:54"
+      }
+    ],
+    "importance_score": 39,
+    "is_featured": true
   },
   {
     "article_date": "2026-11-01",
@@ -132,6 +209,19 @@
     "summary": "・2026年8月5日、堺東エリアに「焼肉うっしー堺東店」がオープンしています！\n・こちらは、黒毛和牛「紀州和華牛」の上質なお肉が堪能できる認定店。",
     "summary_type": "auto",
     "category": "経済・産業",
+    "importance_score": 3,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-01",
+    "title": "（和歌山）和歌山市朝日地区で声かけ　１０月３０日",
+    "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1489529389901775825",
+    "source": "ｄメニューニュース",
+    "published_at": "2026-11-01 16:35",
+    "summary": "・和歌山県警によると、１０月３０日午後２時３０分頃、和歌山市朝日地区で、児童への声かけが発生しました。",
+    "summary_type": "auto",
+    "category": "政治・行政",
     "related_articles": [],
     "importance_score": 3,
     "is_featured": false
@@ -145,9 +235,9 @@
     "summary": "・今朝、串本町の紀伊大島近くの海上で、漂流していた男性２人が救助され、このうち、１人が死亡しました。\n・串本海上保安署の調べによりますと、今日午前４時３５分ごろ、串本町の紀伊大島にある須江埼と呼ばれる磯場近くで釣りをしていた男性から「助けを求める声が聞こえた」と１１８番通報がありました。\n・午前７時１０分ごろに、もう１人の男性が救助されましたが、搬送先の病院で死亡が確認されました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -158,9 +248,9 @@
     "summary": "・和歌山県西牟婁・白浜町役場は、温泉情緒エリア整備に係るフィージビリティ調査業務の委託先を公募しています。\n・本業務では、その戦略の核となる温泉資源の活用に着目し、温泉地本来の魅力である温泉情緒を体感できる「温泉情緒エリア」の整備について、実現可能性を多角的に調査・分析します。\n・白浜町の持続的な観光地経営に向け、温泉情緒を体感できるエリアの整備可能性を多角的に調査・分析し、温泉資源を生かしたまちづくりを検討。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -171,9 +261,9 @@
     "summary": "・その日は公共施設の多くが無料開放されるので、アートファンにもお得な１日です。\n・愛知県美術館　臨時開館／コレクション展無料開放　（11月21日～27日）。\n・和歌山県・ふるさと誕生日　11月22日。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -184,21 +274,21 @@
     "summary": "・11月1日未明、和歌山県串本町の磯場で釣りをしていたとみられる男性2人が海に流され、海上保安署などに救助されましたが、50代とみられる男性1人が搬送先の病院で死亡しました。\n・串本海上保安署によりますと、1日午前4時半すぎ、串本町須江崎付近で釣りをしていた男性から「海から助けを求める声が聞こえた」と通報がありました。\n・救助された2人は病院に搬送されましたが、意識不明の男性は搬送先の病院で死亡が確認されました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
-    "title": "和歌山で海に転落１人死亡 釣り中に波にさらわれたか | | 全国のニュース",
-    "url": "https://www.saga-s.co.jp/articles/-/1821765",
-    "source": "佐賀新聞",
+    "title": "和歌山で海に転落１人死亡",
+    "url": "https://www.kanaloco.jp/news/social/article-1317192.html",
+    "source": "カナロコ",
     "published_at": "2026-11-01 12:05",
-    "summary": "・１日午前４時３５分ごろ、和歌山県串本町の紀伊大島で「海上から助けを求める声が聞こえた」と１１８番があった。\n・串本海上保安署が成人男性２人を救助し、うち１人は命に別条はないが、もう１人は搬送先の病院で死亡が確認された。",
+    "summary": "・和歌山で海に転落１人死亡。",
     "summary_type": "auto",
-    "category": "観光・文化",
+    "category": "社会・事件",
     "related_articles": [],
-    "importance_score": 9,
+    "importance_score": 0,
     "is_featured": false
   },
   {
@@ -210,9 +300,9 @@
     "summary": "・11月5日は「世界津波の日（World Tsunami Awareness Day）」です。\n・日本の津波災害の故事が、世界で津波防災を考える日につながったのです。\n・津波防災教育センターでは、3Ｄシアターやガイダンス、各種展示、ゲーム形式の防災体験で、津波災害などについて学べます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -223,9 +313,9 @@
     "summary": "・和歌山県古座川町平井でユズの収穫と搾汁作業が始まっており、１１月末頃まで続く予定だ。\n・平井地区は、農家の高齢化で人手不足が年々深刻になっているが、今年は学生や取引先の協力で、これまでで最も多い約１５０人が収穫ボランティアとして参加する見通しという。\n・同地区の北海道大和歌山研究林を拠点に集落支援をする学生サークル「ワタリドリ」も初めて収穫イベントを企画して支援する。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -236,9 +326,9 @@
     "summary": "・昨日夕方、岩出市の食料品店の駐車場で、歩いていた女性が軽乗用車にはねられ、死亡しました。\n・岩出警察署の調べによりますと、昨日午後４時１５分ごろ、岩出市野上野の住宅街にある食料品店の駐車場で車から降りて歩いていた岩出市内に住む７０歳代の女性が、駐車場に入って来た軽乗用車にはねられました。\n・女性は頭を強く打つなどして病院に運ばれ、およそ３時間後に死亡が確認されました。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -249,16 +339,22 @@
     "summary": "・【熊野】太平洋戦争末期、旧入鹿村（三重県熊野市紀和町）の紀州鉱山で強制労働に従事した英国兵捕虜の追悼式が31日、同町板屋の英国人兵士墓地であった。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 36,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "英兵捕虜へ追悼の祈り 紀州鉱山で強制労働 三重・熊野（伊勢新聞）",
         "url": "https://news.yahoo.co.jp/articles/a0d7d9a5cf6d207cc5f5ad8cc7e28a54591c2124",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-01 08:10"
+      },
+      {
+        "title": "英兵捕虜へ追悼の祈り 紀州鉱山で強制労働 三重・熊野 (伊勢新聞)",
+        "url": "https://news.yahoo.co.jp/articles/a0d7d9a5cf6d207cc5f5ad8cc7e28a54591c2124/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-01 08:01"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-01",
@@ -269,9 +365,9 @@
     "summary": "・内務省推計で３２万人（主催者発表約５０万人）が参加＝パリ　【EPA時事】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -282,6 +378,8 @@
     "summary": "・子どもたちが災害時の対応学ぶ「防災キャンプ」 和歌山 串本町。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 23,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "子どもたちが災害時の対応学ぶ「防災キャンプ」 和歌山 串本町",
@@ -289,9 +387,7 @@
         "source": "NHKニュース",
         "published_at": "2026-11-01 06:07"
       }
-    ],
-    "importance_score": 23,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-01",
@@ -302,9 +398,9 @@
     "summary": "・パンダで知られた和歌山県の南紀白浜にある､老舗の最上級ホテル｢KAWAKYU -南紀白浜-｣。\n・同ホテルを含め､白浜では高級路線が進んでいるようです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -367,9 +463,9 @@
     "summary": "・毎年12月に京都市で開催される全国高校駅伝競走大会（都大路）を中心とした高校駅伝に関するニュースサイトです。\n・男子第77回、女子第38回全国高校駅伝競走大会県予選（県教委、県高体連、和歌山陸上競技協会主催、毎日新聞社後援）が31日、日高川町の長子橋・小釜本橋周辺コースで開かれた。\n・男子は和歌山北が2時間7分42秒で4年連続26回目、女子は智弁和歌山が1時間13分24秒で4年ぶり4回目の優勝を果たした。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -406,8 +502,8 @@
     "summary": "・和歌山県 近隣の雨雲レーダー(実況)。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]

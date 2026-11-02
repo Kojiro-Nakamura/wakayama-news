@@ -454,7 +454,7 @@
     "summary": "・きのう＝10月25日から大雨になっている和歌山・湯浅町では、川が氾濫して、ミカンを収穫後に集める「集荷場」が浸水するなど被害が出ています。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 15,
+    "importance_score": 30,
     "is_featured": false,
     "related_articles": [
       {
@@ -462,6 +462,12 @@
         "url": "https://www.fnn.jp/articles/-/1140034",
         "source": "FNNプライムオンライン",
         "published_at": "2026-10-26 17:17"
+      },
+      {
+        "title": "【現場報告】「畑のミカンが無事か確認できていない」 10月としては最大「1時間に68ミリ」の雨記録した和歌山・湯浅町 収穫を間近に控えるも集荷場が浸水など被害（関西テレビ）",
+        "url": "https://news.yahoo.co.jp/articles/c881cfab8b87fc5f8e937a1cedf8f5e1c44d03d3",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-26 17:18"
       }
     ]
   },

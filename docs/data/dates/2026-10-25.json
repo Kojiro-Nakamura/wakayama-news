@@ -688,7 +688,7 @@
     "summary": "・気象庁は25日12時33分、和歌山県広川町、由良町にレベル4土砂災害危険警報を発表しました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 471,
+    "importance_score": 486,
     "is_featured": true,
     "related_articles": [
       {
@@ -876,6 +876,12 @@
         "url": "https://newsdig.tbs.co.jp/articles/-/3036359",
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-25 12:02"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点）（FNNプライムオンライン）",
+        "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1139432",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 12:33"
       }
     ]
   },
