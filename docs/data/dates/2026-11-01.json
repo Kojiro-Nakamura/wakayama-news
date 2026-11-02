@@ -8,9 +8,9 @@
     "summary": "・観光列車に戦国武将 特産の柿をPR 和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -21,9 +21,9 @@
     "summary": "・和歌山地方気象台が11月1日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・最高気温は、和歌山24℃、潮岬24℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -34,6 +34,8 @@
     "summary": "・※紙の新聞とは、中日新聞朝刊・北陸中日新聞朝刊・日刊県民福井です。\n・三重県と和歌山県の住民が綱引きで対決するイベントが1日、和歌山県新宮市あけぼのの新宮木材協同組合駐車場で開かれた。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "三重県と和歌山県、勝負を制したのは 新宮市で綱引きイベント、両県民が親睦深める",
@@ -41,9 +43,7 @@
         "source": "47NEWS",
         "published_at": "2026-11-01 19:27"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-01",
@@ -54,6 +54,8 @@
     "summary": "・和歌山県串本町の岬で、磯釣り中の男性２人が海に転落し、うち１人が死亡しました。\n・１日午前４時半すぎ、串本町の岬で、「海上から助けを求める声が聞こえた」と、近くで釣りをしていた男性から通報がありました。\n・串本海上保安署によりますと、磯釣りをしていたいずれも５０代の男性が、波にさらわれて転落したとみられ、通報から約１時間半後に５２歳の男性、２時間半後に５５歳の男性が、沖合約６００メートルの地点を漂流中に見つかりました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 89,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "串本大島で釣り人が海に転落、１人死亡／和歌山",
@@ -85,9 +87,7 @@
         "source": "佐賀新聞",
         "published_at": "2026-11-01 12:05"
       }
-    ],
-    "importance_score": 89,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-01",
@@ -183,6 +183,8 @@
     "summary": "・二軍球団のハヤテは13選手の退団を発表した。\n・投手では高校時代に「紀州の剛腕」と騒がれた落合 秀市（25歳・和歌山東-兵庫ブルーサンダーズ-06BULLS-高知ファイティングドッグス）、フレッシュオールスターにも出場した佐藤 友紀（26歳・千城台-秀明大-茨城アストロプラネッツ-堺シュライクス-茨城アストロプラネッツ）など7投手が退団。\n・【一覧】30日までの戦力外・引退リスト　野手では、佐藤ともにフレッシュオールスターに出場した佐藤 英雄（25歳・日大三-青山学院大-西濃運輸-埼玉武蔵ヒートベアーズ）、ファームリーグで首位打者争いを繰り広げ、最終的に中地区2位の打率.296を記録した廣沢 新太郎（25歳・福岡工大城東-九州総合スポーツカレッジ-大分B-リングス-茨城アストロプラネッツ）など、多くの主力選手たちがチームを去ることとなった。",
     "summary_type": "auto",
     "category": "スポーツ",
+    "importance_score": 39,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "二軍球団・ハヤテが13選手の退団を発表…「紀州の剛腕」、首位打者争いを繰り広げた好打者など主力がチームを去る",
@@ -196,9 +198,7 @@
         "source": "高校野球ドットコム",
         "published_at": "2026-11-01 18:54"
       }
-    ],
-    "importance_score": 39,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-01",
@@ -222,9 +222,9 @@
     "summary": "・和歌山県警によると、１０月３０日午後２時３０分頃、和歌山市朝日地区で、児童への声かけが発生しました。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",
@@ -287,9 +287,9 @@
     "summary": "・和歌山で海に転落１人死亡。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-01",

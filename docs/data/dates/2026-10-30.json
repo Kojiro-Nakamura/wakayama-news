@@ -451,9 +451,9 @@
     "summary": "・「わたしの里山」では、私が県内の中山間地にお邪魔して、地域の知られざる魅力を調べ、発信するコーナーです。\n・高野町ならではの食に出会いました。\n・すっぽんの養殖場なんですよ」。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-30",
@@ -484,6 +484,8 @@
     "summary": "・3年生にとって高校バスケ最後の大会となる、ウィンターカップ（高校バスケットボール選手権大会）。\n・2026年度和歌山県予選の大会情報を随時更新しています。",
     "summary_type": "auto",
     "category": "スポーツ",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【和歌山県】Jr.ウインターカップ2026-27 第7回全国U15バスケットボール選手権大会 結果速報・トーナメント表(ドロー)・日程・放送予定（配信）｜和歌山県バスケットボール協会",
@@ -491,9 +493,7 @@
         "source": "ぐぐスポ！",
         "published_at": "2026-10-30 16:33"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-30",
@@ -727,9 +727,9 @@
     "summary": "・爽やかな香り／古座川町平井 ユズ搾り始まる。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-30",

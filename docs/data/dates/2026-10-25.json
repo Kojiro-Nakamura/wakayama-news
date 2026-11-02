@@ -549,6 +549,19 @@
   },
   {
     "article_date": "2026-10-25",
+    "title": "大学のふるさと事業 羽衣国際大学×湯浅町「第22回紀州湯浅のギョギョっとお魚まつり」に参加しました！",
+    "url": "https://www.hagoromo.ac.jp/today/120583",
+    "source": "羽衣国際大学",
+    "published_at": "2026-10-25 16:00",
+    "summary": "・この撮影は、今年で町制施行130周年を迎える湯浅町の魅力を伝えるPR動画「ゆあさ130」制作の一環です。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
     "title": "【速報】和歌山県に「線状降水帯直前予測」 今後３時間以内に線状降水帯発生のおそれ",
     "url": "https://www.asahi.co.jp/webnews/pages/abc_63241.html",
     "source": "朝日放送",
@@ -688,7 +701,7 @@
     "summary": "・気象庁は25日12時33分、和歌山県広川町、由良町にレベル4土砂災害危険警報を発表しました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 486,
+    "importance_score": 501,
     "is_featured": true,
     "related_articles": [
       {
@@ -882,6 +895,12 @@
         "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1139432",
         "source": "ｄメニューニュース",
         "published_at": "2026-10-25 12:33"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036295",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 11:18"
       }
     ]
   },
@@ -1017,7 +1036,7 @@
     "url": "https://news.yahoo.co.jp/articles/848a9d12752dfd41981b352ef3205b8023e22ce1",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-25 11:08",
-    "importance_score": 246,
+    "importance_score": 261,
     "is_featured": true,
     "summary": "・【レベル3大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点。",
     "related_articles": [
@@ -1116,6 +1135,12 @@
         "url": "https://newsdig.tbs.co.jp/articles/-/3036237",
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-25 10:23"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036293",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 11:06"
       }
     ]
   },
