@@ -383,7 +383,7 @@
     "summary_type": "auto",
     "category": "地域・一般",
     "importance_score": 158,
-    "is_featured": false,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山県北部に線状降水帯直前予測 気象庁が注意呼びかけ（朝日新聞）",
@@ -556,9 +556,335 @@
     "summary": "・この撮影は、今年で町制施行130周年を迎える湯浅町の魅力を伝えるPR動画「ゆあさ130」制作の一環です。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-25",
+    "title": "【レベル４土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3036343",
+    "source": "TBS NEWS DIG",
+    "published_at": "2026-10-25 16:00",
+    "summary": "・気象台は、25日午前11時32分に、レベル４土砂災害危険警報を有田市、湯浅町に発表しました。\n・北部では、土砂災害に厳重に警戒してください。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県紀美野町、有田川町吉備金屋、有田川町清水に発表（11時06分時点）",
+        "url": "https://www.fnn.jp/articles/-/1139391",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-10-25 16:00"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点）",
+        "url": "https://www.fnn.jp/articles/-/1139432",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-10-25 16:00"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点）",
+        "url": "https://www.chiba-tv.com/plus/detail/2026102155365",
+        "source": "千葉テレビ放送株式会社",
+        "published_at": "2026-10-25 12:59"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/579fc4ddefaac55b590e39648d2700f8366e3bc6",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:35"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/579fc4ddefaac55b590e39648d2700f8366e3bc6/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:35"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点） (FNNプライムオンライン（フジテレビ系）)",
+        "url": "https://news.yahoo.co.jp/articles/aec8dad9657b0896f56dfab55f9d995c7af49698/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:35"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点）（FNNプライムオンライン（フジテレビ系））",
+        "url": "https://news.yahoo.co.jp/articles/aec8dad9657b0896f56dfab55f9d995c7af49698",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:35"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036399",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 12:33"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036399",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 12:33"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・広川町に発表 12:02時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/7fce37ce746c871f17740f261d0a4317431f6739",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:03"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・広川町に発表 12:02時点",
+        "url": "https://article.auone.jp/7bb7eca8-7230-4d48-b49d-2a30b9ae2c7c",
+        "source": "au Webポータル",
+        "published_at": "2026-10-25 12:02"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・広川町に発表 12:02時点",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036359",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 12:02"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/66e7c4d9a40445791360b86c5189115923bf08fd",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:34"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県有田市、湯浅町に発表（11時32分時点）",
+        "url": "https://www.fnn.jp/articles/-/1139406",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-10-25 11:32"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036343",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 11:32"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036343",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 11:32"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・有田市に発表 10:33時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/0b17f308063cde3ef17d799c78a39ef718b9ecda",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 10:35"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036399?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 12:33"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・広川町に発表 12:02時点｜Infoseekニュース",
+        "url": "https://news.infoseek.co.jp/article/tbs_3036359/",
+        "source": "Infoseek",
+        "published_at": "2026-10-25 12:02"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036343?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 11:32"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県有田市、湯浅町に発表（11時32分時点） (FNNプライムオンライン（フジテレビ系）)",
+        "url": "https://news.yahoo.co.jp/articles/db8d6794565b11561699e05102517df0f03d73a6/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:34"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036295?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 11:06"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
+        "url": "https://news.yahoo.co.jp/articles/5e7cc1970d255a28c3fce63157a7a3db68bdbd53/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:08"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036295",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 11:06"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県紀美野町、有田川町吉備金屋、有田川町清水に発表（11時06分時点）",
+        "url": "https://news.yahoo.co.jp/articles/58f055308e3ff42f60a5eec30b9029ce84ca576a/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:08"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
+        "url": "https://news.yahoo.co.jp/articles/5e7cc1970d255a28c3fce63157a7a3db68bdbd53",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:08"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・有田市に発表 10:33時点",
+        "url": "https://article.auone.jp/6ef38074-9a67-4f62-bc1e-fb86dc6bb768",
+        "source": "au Webポータル",
+        "published_at": "2026-10-25 10:33"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・広川町に発表 12:02時点 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/7fce37ce746c871f17740f261d0a4317431f6739/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 12:03"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036399",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 12:33"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・有田市に発表 10:33時点",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036268",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 10:33"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・広川町に発表 12:02時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036359",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 12:02"
+      },
+      {
+        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点）（FNNプライムオンライン）",
+        "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1139432",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 12:33"
+      },
+      {
+        "title": "【レベル４土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036295",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 11:18"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
+        "url": "https://news.yahoo.co.jp/articles/848a9d12752dfd41981b352ef3205b8023e22ce1",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:08"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点｜Infoseekニュース",
+        "url": "https://news.infoseek.co.jp/article/tbs_3036293/",
+        "source": "Infoseek",
+        "published_at": "2026-10-25 11:06"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036293",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 11:06"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・海南市、橋本市に発表 10:23時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/1ce2f435a02338438eee1bbbbf5b8dcd07f42138",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 10:25"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・紀の川市、岩出市に発表 10:00時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/3b733605f52ed19d8738c2e777b4b63463932f53",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 10:02"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・紀の川市、岩出市に発表 10:00時点 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/3b733605f52ed19d8738c2e777b4b63463932f53/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 10:02"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・和歌山市に発表 09:42時点（TBS NEWS DIG Powered by JNN）",
+        "url": "https://news.yahoo.co.jp/articles/d984f998125bc3b20e6f447ce0e52de270800e5d",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 09:43"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・和歌山市に発表 09:42時点 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/d984f998125bc3b20e6f447ce0e52de270800e5d/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 09:43"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・和歌山市に発表 09:42時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036215",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 09:42"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・和歌山市に発表 09:42時点",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036215",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 09:42"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・和歌山市に発表 09:42時点｜Infoseekニュース",
+        "url": "https://news.infoseek.co.jp/article/tbs_3036215/",
+        "source": "Infoseek",
+        "published_at": "2026-10-25 09:42"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
+        "url": "https://news.yahoo.co.jp/articles/848a9d12752dfd41981b352ef3205b8023e22ce1/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 11:08"
+      },
+      {
+        "title": "【レベル3大雨警報】和歌山県・海南市、橋本市に発表 10:23時点 (TBS NEWS DIG Powered by JNN)",
+        "url": "https://news.yahoo.co.jp/articles/1ce2f435a02338438eee1bbbbf5b8dcd07f42138/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-25 10:25"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・海南市、橋本市に発表 10:23時点",
+        "url": "https://article.auone.jp/7f8a074a-1385-44cd-9bd6-d4efe862622d",
+        "source": "au Webポータル",
+        "published_at": "2026-10-25 10:23"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・海南市、橋本市に発表 10:23時点",
+        "url": "https://news.infoseek.co.jp/article/tbs_3036237/",
+        "source": "Infoseek",
+        "published_at": "2026-10-25 10:23"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・紀の川市、岩出市に発表 10:00時点",
+        "url": "https://news.infoseek.co.jp/article/tbs_3036223/",
+        "source": "Infoseek",
+        "published_at": "2026-10-25 10:00"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・海南市、橋本市に発表 10:23時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036237",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 10:23"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
+        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036293",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-25 11:06"
+      },
+      {
+        "title": "【レベル３大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3036293",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-25 11:06"
+      }
+    ],
+    "importance_score": 789,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-25",
@@ -694,218 +1020,6 @@
   },
   {
     "article_date": "2026-10-25",
-    "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点）",
-    "url": "https://www.chiba-tv.com/plus/detail/2026102155365",
-    "source": "千葉テレビ放送株式会社",
-    "published_at": "2026-10-25 12:59",
-    "summary": "・気象庁は25日12時33分、和歌山県広川町、由良町にレベル4土砂災害危険警報を発表しました。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 501,
-    "is_featured": true,
-    "related_articles": [
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点（TBS NEWS DIG Powered by JNN）",
-        "url": "https://news.yahoo.co.jp/articles/579fc4ddefaac55b590e39648d2700f8366e3bc6",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 12:35"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点 (TBS NEWS DIG Powered by JNN)",
-        "url": "https://news.yahoo.co.jp/articles/579fc4ddefaac55b590e39648d2700f8366e3bc6/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 12:35"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点） (FNNプライムオンライン（フジテレビ系）)",
-        "url": "https://news.yahoo.co.jp/articles/aec8dad9657b0896f56dfab55f9d995c7af49698/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 12:35"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点）（FNNプライムオンライン（フジテレビ系））",
-        "url": "https://news.yahoo.co.jp/articles/aec8dad9657b0896f56dfab55f9d995c7af49698",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 12:35"
-      },
-      {
-        "title": "【レベル４土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3036399",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 12:33"
-      },
-      {
-        "title": "【レベル４土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点",
-        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036399",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-25 12:33"
-      },
-      {
-        "title": "【レベル3大雨警報】和歌山県・広川町に発表 12:02時点（TBS NEWS DIG Powered by JNN）",
-        "url": "https://news.yahoo.co.jp/articles/7fce37ce746c871f17740f261d0a4317431f6739",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 12:03"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・広川町に発表 12:02時点",
-        "url": "https://article.auone.jp/7bb7eca8-7230-4d48-b49d-2a30b9ae2c7c",
-        "source": "au Webポータル",
-        "published_at": "2026-10-25 12:02"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・広川町に発表 12:02時点",
-        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036359",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-25 12:02"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点（TBS NEWS DIG Powered by JNN）",
-        "url": "https://news.yahoo.co.jp/articles/66e7c4d9a40445791360b86c5189115923bf08fd",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 11:34"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県有田市、湯浅町に発表（11時32分時点）",
-        "url": "https://www.fnn.jp/articles/-/1139406",
-        "source": "FNNプライムオンライン",
-        "published_at": "2026-10-25 11:32"
-      },
-      {
-        "title": "【レベル４土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点",
-        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036343",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-25 11:32"
-      },
-      {
-        "title": "【レベル４土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3036343",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 11:32"
-      },
-      {
-        "title": "【レベル４土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点",
-        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036343",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-25 11:32"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県紀美野町、有田川町吉備金屋、有田川町清水に発表（11時06分時点）",
-        "url": "https://www.fnn.jp/articles/-/1139391",
-        "source": "FNNプライムオンライン",
-        "published_at": "2026-10-25 11:06"
-      },
-      {
-        "title": "【レベル3大雨警報】和歌山県・有田市に発表 10:33時点（TBS NEWS DIG Powered by JNN）",
-        "url": "https://news.yahoo.co.jp/articles/0b17f308063cde3ef17d799c78a39ef718b9ecda",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 10:35"
-      },
-      {
-        "title": "【レベル４土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3036399?display=1",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 12:33"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・広川町に発表 12:02時点｜Infoseekニュース",
-        "url": "https://news.infoseek.co.jp/article/tbs_3036359/",
-        "source": "Infoseek",
-        "published_at": "2026-10-25 12:02"
-      },
-      {
-        "title": "【レベル４土砂災害危険警報】和歌山県・有田市、湯浅町に発表 11:32時点",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3036343?display=1",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 11:32"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点）",
-        "url": "https://www.fnn.jp/articles/-/1139432",
-        "source": "FNNプライムオンライン",
-        "published_at": "2026-10-25 12:33"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県有田市、湯浅町に発表（11時32分時点） (FNNプライムオンライン（フジテレビ系）)",
-        "url": "https://news.yahoo.co.jp/articles/db8d6794565b11561699e05102517df0f03d73a6/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 11:34"
-      },
-      {
-        "title": "【レベル４土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3036295?display=1",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 11:06"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
-        "url": "https://news.yahoo.co.jp/articles/5e7cc1970d255a28c3fce63157a7a3db68bdbd53/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 11:08"
-      },
-      {
-        "title": "【レベル４土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3036295",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 11:06"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県紀美野町、有田川町吉備金屋、有田川町清水に発表（11時06分時点）",
-        "url": "https://news.yahoo.co.jp/articles/58f055308e3ff42f60a5eec30b9029ce84ca576a/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 11:08"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
-        "url": "https://news.yahoo.co.jp/articles/5e7cc1970d255a28c3fce63157a7a3db68bdbd53",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 11:08"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・有田市に発表 10:33時点",
-        "url": "https://article.auone.jp/6ef38074-9a67-4f62-bc1e-fb86dc6bb768",
-        "source": "au Webポータル",
-        "published_at": "2026-10-25 10:33"
-      },
-      {
-        "title": "【レベル3大雨警報】和歌山県・広川町に発表 12:02時点 (TBS NEWS DIG Powered by JNN)",
-        "url": "https://news.yahoo.co.jp/articles/7fce37ce746c871f17740f261d0a4317431f6739/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 12:03"
-      },
-      {
-        "title": "【レベル４土砂災害危険警報】和歌山県・広川町、由良町に発表 12:33時点",
-        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036399",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-25 12:33"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・有田市に発表 10:33時点",
-        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036268",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-25 10:33"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・広川町に発表 12:02時点",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3036359",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 12:02"
-      },
-      {
-        "title": "【レベル4土砂災害危険警報】和歌山県広川町、由良町に発表（12時33分時点）（FNNプライムオンライン）",
-        "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1139432",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-25 12:33"
-      },
-      {
-        "title": "【レベル４土砂災害危険警報】和歌山県・紀美野町、有田川町吉備金屋、有田川町清水に発表 11:06時点",
-        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036295",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-25 11:18"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-25",
     "title": "【2026】「第44回紀文まつり花火大会」は悪天候で開催中止（和歌山県有田市）",
     "url": "https://yakei-fan.com/magazine/fireworks/wakayama/kibun-hanabi2026cancel.html",
     "source": "夜景FAN",
@@ -1032,119 +1146,6 @@
     ]
   },
   {
-    "title": "【レベル3大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
-    "url": "https://news.yahoo.co.jp/articles/848a9d12752dfd41981b352ef3205b8023e22ce1",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-25 11:08",
-    "importance_score": 261,
-    "is_featured": true,
-    "summary": "・【レベル3大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点。",
-    "related_articles": [
-      {
-        "title": "【レベル３大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点｜Infoseekニュース",
-        "url": "https://news.infoseek.co.jp/article/tbs_3036293/",
-        "source": "Infoseek",
-        "published_at": "2026-10-25 11:06"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
-        "url": "https://topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-3036293",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-25 11:06"
-      },
-      {
-        "title": "【レベル3大雨警報】和歌山県・海南市、橋本市に発表 10:23時点（TBS NEWS DIG Powered by JNN）",
-        "url": "https://news.yahoo.co.jp/articles/1ce2f435a02338438eee1bbbbf5b8dcd07f42138",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 10:25"
-      },
-      {
-        "title": "【レベル3大雨警報】和歌山県・紀の川市、岩出市に発表 10:00時点（TBS NEWS DIG Powered by JNN）",
-        "url": "https://news.yahoo.co.jp/articles/3b733605f52ed19d8738c2e777b4b63463932f53",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 10:02"
-      },
-      {
-        "title": "【レベル3大雨警報】和歌山県・紀の川市、岩出市に発表 10:00時点 (TBS NEWS DIG Powered by JNN)",
-        "url": "https://news.yahoo.co.jp/articles/3b733605f52ed19d8738c2e777b4b63463932f53/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 10:02"
-      },
-      {
-        "title": "【レベル3大雨警報】和歌山県・和歌山市に発表 09:42時点（TBS NEWS DIG Powered by JNN）",
-        "url": "https://news.yahoo.co.jp/articles/d984f998125bc3b20e6f447ce0e52de270800e5d",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 09:43"
-      },
-      {
-        "title": "【レベル3大雨警報】和歌山県・和歌山市に発表 09:42時点 (TBS NEWS DIG Powered by JNN)",
-        "url": "https://news.yahoo.co.jp/articles/d984f998125bc3b20e6f447ce0e52de270800e5d/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 09:43"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・和歌山市に発表 09:42時点",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3036215",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 09:42"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・和歌山市に発表 09:42時点",
-        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036215",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-25 09:42"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・和歌山市に発表 09:42時点｜Infoseekニュース",
-        "url": "https://news.infoseek.co.jp/article/tbs_3036215/",
-        "source": "Infoseek",
-        "published_at": "2026-10-25 09:42"
-      },
-      {
-        "title": "【レベル3大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
-        "url": "https://news.yahoo.co.jp/articles/848a9d12752dfd41981b352ef3205b8023e22ce1/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 11:08"
-      },
-      {
-        "title": "【レベル3大雨警報】和歌山県・海南市、橋本市に発表 10:23時点 (TBS NEWS DIG Powered by JNN)",
-        "url": "https://news.yahoo.co.jp/articles/1ce2f435a02338438eee1bbbbf5b8dcd07f42138/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-25 10:25"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・海南市、橋本市に発表 10:23時点",
-        "url": "https://article.auone.jp/7f8a074a-1385-44cd-9bd6-d4efe862622d",
-        "source": "au Webポータル",
-        "published_at": "2026-10-25 10:23"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・海南市、橋本市に発表 10:23時点",
-        "url": "https://news.infoseek.co.jp/article/tbs_3036237/",
-        "source": "Infoseek",
-        "published_at": "2026-10-25 10:23"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・紀の川市、岩出市に発表 10:00時点",
-        "url": "https://news.infoseek.co.jp/article/tbs_3036223/",
-        "source": "Infoseek",
-        "published_at": "2026-10-25 10:00"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・海南市、橋本市に発表 10:23時点",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3036237",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-25 10:23"
-      },
-      {
-        "title": "【レベル３大雨警報】和歌山県・紀美野町、かつらぎ町かつらぎ、九度山町などに発表 11:06時点",
-        "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3036293",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-10-25 11:06"
-      }
-    ]
-  },
-  {
     "article_date": "2026-10-25",
     "title": "第71回海南市下津総合文化祭の中止について",
     "url": "https://www.city.kainan.lg.jp/kakubusho/kyoikuiinkai/shogaigakusyuka/event/bunka_event/8648.html",
@@ -1192,9 +1193,16 @@
     "summary": "・津波の逸話伝える「稲むらの火祭り」 和歌山 広川町。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 5,
+    "importance_score": 20,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "津波の逸話伝える「稲むらの火祭り」 和歌山 広川町",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261025de64968",
+        "source": "NHKニュース",
+        "published_at": "2026-10-25 07:52"
+      }
+    ]
   },
   {
     "article_date": "2026-10-25",
