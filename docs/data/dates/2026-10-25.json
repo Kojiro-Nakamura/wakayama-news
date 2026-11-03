@@ -569,6 +569,8 @@
     "summary": "・気象台は、25日午前11時32分に、レベル４土砂災害危険警報を有田市、湯浅町に発表しました。\n・北部では、土砂災害に厳重に警戒してください。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 789,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【レベル4土砂災害危険警報】和歌山県紀美野町、有田川町吉備金屋、有田川町清水に発表（11時06分時点）",
@@ -882,9 +884,7 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-25 11:06"
       }
-    ],
-    "importance_score": 789,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-25",

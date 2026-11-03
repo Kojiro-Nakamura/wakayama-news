@@ -8,9 +8,16 @@
     "summary": "・前線の雨雲が通過　近畿と東海では激しい雨や雷雨も　今日2日(月)の天気。\n・日高川町の2週間天気、気温、降水確率などに加え、台風情報、警報注意報を掲載。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "広川町の1時間天気",
+        "url": "https://tenki.jp/forecast/6/33/6510/30362/1hour.html",
+        "source": "tenki.jp",
+        "published_at": "2017-07-07 04:51"
+      }
+    ]
   },
   {
     "article_date": "2017-07-07",
@@ -38,7 +45,7 @@
     "source": "tenki.jp",
     "published_at": "2017-07-07 00:52",
     "importance_score": 15,
-    "is_featured": true,
+    "is_featured": false,
     "summary": "・有田川町の今日明日の天気。",
     "related_articles": [
       {

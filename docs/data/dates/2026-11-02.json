@@ -1,6 +1,38 @@
 [
   {
     "article_date": "2026-11-02",
+    "title": "紀の川市シェイクアウト訓練を実施",
+    "url": "https://news.nicovideo.jp/watch/nw19949521?news_ref=watch_20_nw19139145",
+    "source": "ニコニコニュース",
+    "published_at": "2026-11-02 23:21",
+    "summary": "・紀の川市シェイクアウト訓練を実施。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "プレスリリース：紀の川市シェイクアウト訓練を実施（PR TIMES）",
+        "url": "https://mainichi.jp/articles/20261102/pr2/00m/020/693000c",
+        "source": "毎日新聞",
+        "published_at": "2026-11-02 15:23"
+      },
+      {
+        "title": "紀の川市シェイクアウト訓練を実施",
+        "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-02-173667-87/",
+        "source": "Excite エキサイト",
+        "published_at": "2026-11-02 15:15"
+      },
+      {
+        "title": "紀の川市シェイクアウト訓練を実施",
+        "url": "https://prtimes.jp/main/html/rd/p/000000087.000173667.html",
+        "source": "PR TIMES",
+        "published_at": "2026-11-02 13:00"
+      }
+    ],
+    "importance_score": 45,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-02",
     "title": "和歌山で光の祭典「フェスタ・ルーチェ」10回目の開幕 新企画XRツアー",
     "url": "https://wakayama.keizai.biz/headline/3169/",
     "source": "和歌山経済新聞",
@@ -8,6 +40,8 @@
     "summary": "・イルミネーションイベント「フェスタ・ルーチェ」が10月31日、テーマパーク「和歌山マリーナシティ」（和歌山市毛見）で始まった。\n・11月21日以降の週末や祝日には新企画のXR（クロスリアリティー）技術を使った参加型イルミネーション・ツアー「NOELLUCE（ノエル・ルーチェ）」（3,500円、別途入場券が必要）を用意する。\n・そのほか会場では、和歌山のアーティスト「石田延命所」とのコラボ空間や光の遊園地も展開。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 54,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山マリーナシティで開催する「フェスタ・ルーチェ」の10年を記念するクリスマスツリー",
@@ -27,9 +61,7 @@
         "source": "わかやま新報",
         "published_at": "2026-11-02 16:36"
       }
-    ],
-    "importance_score": 54,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-02",
@@ -40,9 +72,16 @@
     "summary": "・和歌山県警によると、１１月２日午後３時３０分頃、有田川町粟生で、クマが出没しました。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 3,
-    "is_featured": false
+    "importance_score": 18,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "（和歌山）有田川町粟生でクマ出没　１１月２日",
+        "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1489949155764617795",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-11-02 20:23"
+      }
+    ]
   },
   {
     "article_date": "2026-11-02",
@@ -53,9 +92,9 @@
     "summary": "・秋の褒章 和歌山県内から５人が受章。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-02",
@@ -255,9 +294,9 @@
     "summary": "・世界農業遺産「みなべ・田辺の梅システム」を、地元の人たちにもっと知ってもらおうとするイベントが、このほど、田辺市の農産物直売所で行われました。\n・このイベントは、地元の人たちに地域の梅産業を担う人たちと交流することで、世界農業遺産への関心を高めてもらい、次世代への周知啓発に繋げようと、みなべ・田辺地域世界農業遺産推進協議会が行いました。\n・梅や備長炭の生産者のほか、県立神島高校と南部高校の生徒らがスタッフとして手伝う中、大勢の買い物客らが足をとめてイベントに参加し、「みなべ・田辺の梅システム」が世界農業遺産として認定された理由などについて、知識を深めている様子でした。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-02",
@@ -281,9 +320,9 @@
     "summary": "・高市早苗首相は、同日午後の発足式で「国民の命と暮らしを守り抜くことは、国家の最も大切な責務の一つだ」と述べ、「強い司令塔」となるよう訓示した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-02",
@@ -386,7 +425,7 @@
     "summary": "・和歌山県の来年度予算編成を前に、県内７商工会議所でつくる県商工会議所連合会は１０月２９日、宮﨑泉知事に対し、中小企業支援などを要望。\n・田辺商工会議所は、県庁知事室紀南分室の新設や、文里湾横断道路の早期完成に向けた大幅な予算増額などを求めた。\n・田辺商工会議所からの要望は、紀南の人口減少スピードを緩やかにするために県庁知事室紀南分室の新設と知事の定期的常駐▽文里湾横断道路の早期完成に向けた大幅な予算増額と完成目標年度の公表、工事進捗（しんちょく）状況の説明会の定期的開催▽外国人労働者が日本語や文化、習慣を学べる日本語学校を紀南に設立▽農林水産やＩＴ、医療、調理などの技術を取得できる高等教育機関の紀南への設置や誘致▽県との関係強化。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 45,
+    "importance_score": 60,
     "is_featured": true,
     "related_articles": [
       {
@@ -400,6 +439,12 @@
         "url": "https://www.agara.co.jp/article/707105",
         "source": "AGARA 紀伊民報",
         "published_at": "2026-11-02 14:30"
+      },
+      {
+        "title": "知事室紀南分室の新設を 田辺商議所が県に要望、和歌山 (紀伊民報)",
+        "url": "https://news.yahoo.co.jp/articles/0844548f4d3436cffa2ddb37d4fe59d32ba0c68c/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-02 16:25"
       }
     ]
   },
@@ -458,12 +503,18 @@
     "summary": "・子供たちに、楽しみながら防災について学んでもらおうという催しが、このほど、串本町で行われました。\n・この催し「みんなで遊防ハロウィン」は、地元の建設業・株式会社人見建設や、地域の活性化に貢献しようと活動する県立串本古座高校ＣＧＳ部を中心とした実行委員会が開きました。\n・この日、照明や飾り付けでハロウィンのムードが演出された町立体育館には、巨大な迷路が設置され、参加した子供たちが防災に関するクイズを解きながら、暗闇の中ペンライトを手に出口を目指しました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": false,
     "related_articles": [
       {
         "title": "みんなで遊防ハロウィン 和歌山県串本町 (テレビ和歌山)",
         "url": "https://news.yahoo.co.jp/articles/b21b9e36ff90a28f2ca9e712f96f585e4c818273/images/001",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-02 16:11"
+      },
+      {
+        "title": "みんなで遊防ハロウィン 和歌山県串本町 (テレビ和歌山)",
+        "url": "https://news.yahoo.co.jp/articles/b21b9e36ff90a28f2ca9e712f96f585e4c818273/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-02 16:11"
       }
@@ -511,38 +562,12 @@
     "summary": "・＠Press、Digital PR Platform、共同通信PRワイヤー、PR TIMESが提供するプレスリリースを掲載します。\n・紀の川市では、一人一人が人権問題を自分自身の問題と受け止め、日常生活において学習を深めるとともに、より多くの人々が問題意識を持ち、全ての人の人権が尊重された差別のないまちづくりのため、人権講演会を開催します。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "importance_score": 38,
+    "importance_score": 23,
     "is_featured": false,
     "related_articles": [
-      {
-        "title": "プレスリリース：紀の川市シェイクアウト訓練を実施（PR TIMES）",
-        "url": "https://mainichi.jp/articles/20261102/pr2/00m/020/693000c",
-        "source": "毎日新聞",
-        "published_at": "2026-11-02 15:23"
-      },
       {
         "title": "紀の川市人権講演会を開催",
         "url": "https://prtimes.jp/main/html/rd/p/000000088.000173667.html",
-        "source": "PR TIMES",
-        "published_at": "2026-11-02 13:00"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-02",
-    "title": "紀の川市シェイクアウト訓練を実施",
-    "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-02-173667-87/",
-    "source": "Excite エキサイト",
-    "published_at": "2026-11-02 15:15",
-    "summary": "・紀の川市シェイクアウト訓練を実施。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 15,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "紀の川市シェイクアウト訓練を実施",
-        "url": "https://prtimes.jp/main/html/rd/p/000000087.000173667.html",
         "source": "PR TIMES",
         "published_at": "2026-11-02 13:00"
       }
@@ -746,9 +771,9 @@
     "summary": "・厚生労働省は、人生会議（ACP：アドバンス・ケア・プランニング）の現状や課題、重要性を国民の皆様とともに考える機会として、令和８年度人生会議普及・啓発イベントの第一弾を10月12日（月・祝）に和歌山県民文化会館で開催しました。\n・トークセッションの冒頭、廣西昌也氏（和歌山県立医科大学附属病院紀北分院 教授)より、人生会議の普及に向けた和歌山県の取組や医療現場での患者さんとご家族の実例についてご紹介いただきました。\n・廣西氏は、和歌山県出身の名僧である明恵上人の言葉『あるべきやうは』を紹介し、「人生会議で目指すのは、まさに『あるべきやうは』だと思います」と、患者さんとご家族が対話を通じてお互いの思いや価値観を理解することが重要であることをご説明されました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-02",
@@ -798,9 +823,9 @@
     "summary": "・和歌山地方気象台が11月2日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山22℃、潮岬24℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-02",

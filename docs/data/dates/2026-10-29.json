@@ -268,8 +268,8 @@
     "summary": "・２５年前のタイムカプセル開封　和歌山の田辺第三小。\n・【動画】半世紀前の思い出に浸る　タイムカプセル開封､上秋津小卒業生､和歌山県田辺市。\n・「万博漬け」展示　南高梅干し、2050年開封予定、和歌山県田辺市役所。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "importance_score": 44,
-    "is_featured": false,
+    "importance_score": 59,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "卒業生の作品展示 小学校創立150周年、11月8日、岡小、和歌山県上富田町（紀伊民報）",
@@ -281,6 +281,12 @@
         "title": "卒業生の作品展示 小学校創立150周年、11月8日、岡小、和歌山県上富田町",
         "url": "https://www.47news.jp/15156040.html",
         "source": "47NEWS",
+        "published_at": "2026-10-29 14:30"
+      },
+      {
+        "title": "卒業生の作品展示　小学校創立150周年、11月8日、岡小、和歌山県上富田町",
+        "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow705018",
+        "source": "ｄメニューニュース",
         "published_at": "2026-10-29 14:30"
       }
     ]
@@ -347,7 +353,7 @@
     "summary_type": "auto",
     "category": "スポーツ",
     "importance_score": 59,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "広がれ「折り友」の輪 小学生が折り紙公募展、和歌山県田辺で11月21､22日（紀伊民報）",
