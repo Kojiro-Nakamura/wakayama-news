@@ -1,6 +1,19 @@
 [
   {
     "article_date": "2026-11-02",
+    "title": "XR（クロスリアリティー）技術を使った参加型イルミネーション・ツアーに使うゴーグルとつえ",
+    "url": "https://wakayama.keizai.biz/photoflash/7998/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-11-02 23:29",
+    "summary": "・XR（クロスリアリティー）技術を使った参加型イルミネーション・ツアーに使うゴーグルとつえ。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-02",
     "title": "紀の川市シェイクアウト訓練を実施",
     "url": "https://news.nicovideo.jp/watch/nw19949521?news_ref=watch_20_nw19139145",
     "source": "ニコニコニュース",
@@ -8,6 +21,8 @@
     "summary": "・紀の川市シェイクアウト訓練を実施。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 45,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "プレスリリース：紀の川市シェイクアウト訓練を実施（PR TIMES）",
@@ -27,9 +42,7 @@
         "source": "PR TIMES",
         "published_at": "2026-11-02 13:00"
       }
-    ],
-    "importance_score": 45,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-02",
@@ -40,7 +53,7 @@
     "summary": "・イルミネーションイベント「フェスタ・ルーチェ」が10月31日、テーマパーク「和歌山マリーナシティ」（和歌山市毛見）で始まった。\n・11月21日以降の週末や祝日には新企画のXR（クロスリアリティー）技術を使った参加型イルミネーション・ツアー「NOELLUCE（ノエル・ルーチェ）」（3,500円、別途入場券が必要）を用意する。\n・そのほか会場では、和歌山のアーティスト「石田延命所」とのコラボ空間や光の遊園地も展開。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 54,
+    "importance_score": 69,
     "is_featured": true,
     "related_articles": [
       {
@@ -60,8 +73,34 @@
         "url": "https://wakayamashimpo.co.jp/2026/11/20261102_139956.html",
         "source": "わかやま新報",
         "published_at": "2026-11-02 16:36"
+      },
+      {
+        "title": "和歌山で光の祭典「フェスタ・ルーチェ」10回目の開幕 新企画XRツアー（みんなの経済新聞ネットワーク）",
+        "url": "https://news.yahoo.co.jp/articles/7df849fc50624e35299c5e03f9dc538809e95933",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-02 23:00"
       }
     ]
+  },
+  {
+    "article_date": "2026-11-02",
+    "title": "和歌山マリーナシティで開催する「フェスタ・ルーチェ」の光の遊園地",
+    "url": "https://wakayama.keizai.biz/photoflash/8002/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-11-02 23:08",
+    "summary": "・イルミネーションイベント「フェスタ・ルーチェ」が10月31日、テーマパーク「和歌山マリーナシティ」（和歌山市毛見）で始まった。\n・三輪崎八幡神社（新宮市三輪崎）の例大祭が9月13日、同神社と三輪崎漁港（同）周辺で開催された。\n・居酒屋「巻ト酒マキチヨ」（和歌山市吉田、TEL 073-498-6108）がJR和歌山駅近くにオープンして10月18日で2カ月がたった。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "和歌山マリーナシティで開催する「フェスタ・ルーチェ」の和歌山のアーティスト「石田延命所」とのコラボ空間",
+        "url": "https://wakayama.keizai.biz/photoflash/8000/",
+        "source": "和歌山経済新聞",
+        "published_at": "2026-11-02 23:08"
+      }
+    ],
+    "importance_score": 27,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-02",

@@ -888,6 +888,38 @@
   },
   {
     "article_date": "2026-10-25",
+    "title": "和歌山 由良町全域と広川町の一部に避難指示",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261025de65148",
+    "source": "NHKニュース",
+    "published_at": "2026-10-25 16:00",
+    "summary": "・和歌山 由良町全域と広川町の一部に避難指示。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山 由良町と広川町の避難指示 解除",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261025de65174",
+        "source": "NHKニュース",
+        "published_at": "2026-10-25 15:05"
+      },
+      {
+        "title": "和歌山 由良町全域と広川町の一部に避難指示",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261025de65142",
+        "source": "NHKニュース",
+        "published_at": "2026-10-25 14:07"
+      },
+      {
+        "title": "和歌山 由良町と広川町の避難指示解除",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261025de65144",
+        "source": "NHKニュース",
+        "published_at": "2026-10-25 14:06"
+      }
+    ],
+    "importance_score": 50,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-25",
     "title": "【速報】和歌山県に「線状降水帯直前予測」 今後３時間以内に線状降水帯発生のおそれ",
     "url": "https://www.asahi.co.jp/webnews/pages/abc_63241.html",
     "source": "朝日放送",
@@ -927,38 +959,6 @@
         "url": "https://tenki.jp/forecaster/deskpart/2026/10/25/41085.html",
         "source": "tenki.jp",
         "published_at": "2026-10-25 11:12"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-25",
-    "title": "和歌山 由良町と広川町の避難指示 解除",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261025de65174",
-    "source": "NHKニュース",
-    "published_at": "2026-10-25 15:05",
-    "summary": "・和歌山 由良町と広川町の避難指示 解除。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 50,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "和歌山 由良町全域と広川町の一部に避難指示",
-        "url": "https://news.web.nhk/newsweb/na/nd-20261025de65148",
-        "source": "NHKニュース",
-        "published_at": "2026-10-25 14:14"
-      },
-      {
-        "title": "和歌山 由良町全域と広川町の一部に避難指示",
-        "url": "https://news.web.nhk/newsweb/na/nd-20261025de65142",
-        "source": "NHKニュース",
-        "published_at": "2026-10-25 14:07"
-      },
-      {
-        "title": "和歌山 由良町と広川町の避難指示解除",
-        "url": "https://news.web.nhk/newsweb/na/nd-20261025de65144",
-        "source": "NHKニュース",
-        "published_at": "2026-10-25 14:06"
       }
     ]
   },

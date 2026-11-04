@@ -184,7 +184,7 @@
     "summary_type": "auto",
     "category": "スポーツ",
     "importance_score": 39,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "二軍球団・ハヤテが13選手の退団を発表…「紀州の剛腕」、首位打者争いを繰り広げた好打者など主力がチームを去る",
@@ -225,6 +225,19 @@
     "importance_score": 3,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-01",
+    "title": "広報白浜",
+    "url": "https://www.town.shirahama.wakayama.jp/soshiki/somu/kikaku/gyomu/koho/1453813268137.html",
+    "source": "白浜町ホームページ",
+    "published_at": "2026-11-01 16:00",
+    "summary": "・〇声の広報は、記事の内容により読み上げが困難な場合は一部を省略しています。\n・〇ご希望の方に、「声の広報（CD）」をお送りします。\n・〇「声の広報」は最新号のみの公開となります。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-01",
@@ -339,8 +352,8 @@
     "summary": "・【熊野】太平洋戦争末期、旧入鹿村（三重県熊野市紀和町）の紀州鉱山で強制労働に従事した英国兵捕虜の追悼式が31日、同町板屋の英国人兵士墓地であった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 36,
-    "is_featured": false,
+    "importance_score": 51,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "英兵捕虜へ追悼の祈り 紀州鉱山で強制労働 三重・熊野（伊勢新聞）",
@@ -353,6 +366,12 @@
         "url": "https://news.yahoo.co.jp/articles/a0d7d9a5cf6d207cc5f5ad8cc7e28a54591c2124/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-01 08:01"
+      },
+      {
+        "title": "英兵捕虜へ追悼の祈り　紀州鉱山で強制労働　三重・熊野",
+        "url": "https://topics.smt.docomo.ne.jp/article/ise/region/ise-20261101110007",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-11-01 11:00"
       }
     ]
   },
