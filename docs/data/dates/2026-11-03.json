@@ -8,6 +8,8 @@
     "summary": "・「春の高校バレー」として行われる「JVA第79回全日本バレーボール高等学校選手権大会」（産経新聞社など主催）の和歌山県大会決勝が3日、和歌山市の「こうふくホーム和歌山アリーナ」（県立体育館）であり、開智が男女そろって3年連続の優勝を決めた。\n・男子は和歌山工、女子は日高にストレート勝ち。\n・開智の本大会出場は男子が32年連続32回目、女子が3年連続10回目。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 30,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "春高バレー和歌山予選 開智、男女そろって3年連続の全国切符",
@@ -15,9 +17,7 @@
         "source": "産経ニュース",
         "published_at": "2026-11-03 21:21"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-03",
@@ -28,6 +28,8 @@
     "summary": "・和歌山地方気象台が11月3日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・最高気温は、和歌山22℃、潮岬20℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【和歌山県】11/3の天気予報",
@@ -35,9 +37,7 @@
         "source": "FNNプライムオンライン",
         "published_at": "2026-11-03 05:10"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-03",
@@ -159,8 +159,8 @@
     "summary": "・和歌山市の近海で水揚げされる「わかしらす」などの直売や、よさこい踊り、もちまきなどで楽しんでもらう「和歌浦漁港朝市しらすまつり」が、文化の日のきょう（１１月３日）和歌山市和歌浦の和歌浦漁港で開催され、沢山の人たちで賑わいました。\n・これは、市民へ日頃の感謝を示し、和歌浦近海の豊富な魚介類を味わってもらおうと、和歌浦漁港を指定管理する有限会社ベイサイド和歌浦が中心となって開いているイベントで、今回で４１回目です。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "importance_score": 41,
-    "is_featured": false,
+    "importance_score": 56,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "第４１回「和歌浦漁港朝市しらすまつり」／和歌山",
@@ -171,6 +171,12 @@
       {
         "title": "第41回「和歌浦漁港朝市しらすまつり」／和歌山市（WBS和歌山放送ニュース）",
         "url": "https://news.yahoo.co.jp/articles/086d09d75bd475641ccd6aa54e766c069ff7ca6d",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-03 15:49"
+      },
+      {
+        "title": "第41回「和歌浦漁港朝市しらすまつり」／和歌山市 (WBS和歌山放送ニュース)",
+        "url": "https://news.yahoo.co.jp/articles/086d09d75bd475641ccd6aa54e766c069ff7ca6d/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-03 15:49"
       }
@@ -186,7 +192,7 @@
     "summary_type": "auto",
     "category": "地域・一般",
     "importance_score": 44,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【写真】佐藤春夫しのび筆供養 出身地の和歌山・新宮",
@@ -427,7 +433,7 @@
     "summary": "・和歌山県田辺市の中辺路町観光協会（宮井章会長）は３日、熊野古道が通る同市中辺路町高原で第３３回「熊野古道絵巻行列」を開いた。\n・【天空の山里に熊野古道絵巻　秋晴れでにぎわう、和歌山県田辺市中辺路町の動画】　平安時代の熊野詣でを再現することで熊野古道の魅力を広く発信しようと始めた催し。\n・【食中毒】焼き鳥など食べ下痢や腹痛…客2人から「カンピロバクター」検出　飲食店に3日間の営業停止処分　和歌山市保健所。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 63,
+    "importance_score": 78,
     "is_featured": true,
     "related_articles": [
       {
@@ -447,8 +453,27 @@
         "url": "https://www.47news.jp/15177803.html",
         "source": "47NEWS",
         "published_at": "2026-11-03 14:30"
+      },
+      {
+        "title": "天空の山里に熊野古道絵巻 秋晴れでにぎわう、和歌山県田辺市中辺路町 (紀伊民報)",
+        "url": "https://news.yahoo.co.jp/articles/37d241eba5fee6cc649b81398780c51c5c896200/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-03 16:25"
       }
     ]
+  },
+  {
+    "article_date": "2026-11-03",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-11-03 16:00",
+    "summary": "・和歌山県の雨雲レーダー(実況)04日19:15発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-03",
@@ -707,13 +732,19 @@
     "summary": "・ペーパードレスで3組の家族が晴れ姿 古座川町で撮影会 [和歌山県]。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 20,
+    "importance_score": 35,
     "is_featured": false,
     "related_articles": [
       {
         "title": "ペーパードレスで3組の家族が晴れ姿 古座川町で撮影会（朝日新聞）",
         "url": "https://news.yahoo.co.jp/articles/c1fbe974cc7445b2bc01cca12ef097f607418b78",
         "source": "Yahoo!ニュース",
+        "published_at": "2026-11-03 10:45"
+      },
+      {
+        "title": "ペーパードレスで3組の家族が晴れ姿 古座川町で撮影会 [和歌山県]",
+        "url": "https://www.asahi.com/sp/articles/photo/AS20261102003951.html",
+        "source": "朝日新聞",
         "published_at": "2026-11-03 10:45"
       }
     ]
@@ -740,9 +771,9 @@
     "summary": "・トランプ米大統領は２日、首都ワシントンで中間選挙（３日投開票）前の最後の訴えを行い、「われわれの人生で一番重要な選挙だ」と強調した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-03",
@@ -841,6 +872,19 @@
     "importance_score": 0,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-03",
+    "title": "紀の川市シェイクアウト訓練を実施",
+    "url": "https://www.rbbtoday.com/release/prtimes2-today/20261103/1393896.html",
+    "source": "RBB TODAY",
+    "published_at": "2026-11-03 01:10",
+    "summary": "・紀の川市シェイクアウト訓練を実施。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-03",

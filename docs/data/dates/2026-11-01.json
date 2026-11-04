@@ -235,6 +235,32 @@
     "summary": "・〇声の広報は、記事の内容により読み上げが困難な場合は一部を省略しています。\n・〇ご希望の方に、「声の広報（CD）」をお送りします。\n・〇「声の広報」は最新号のみの公開となります。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 9,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-01",
+    "title": "令和8年度白浜町総合防災訓練／白浜町ホームページ",
+    "url": "https://www.town.shirahama.wakayama.jp/soshiki/bosai/gyomu/3967.html",
+    "source": "白浜町ホームページ",
+    "published_at": "2026-11-01 16:00",
+    "summary": "・発生が危惧されている南海トラフに起因する大規模地震及び津波・土砂災害などの広域的な災害に備え、町内一斉の防災訓練を実施します。\n・場所：白浜町全域（町内各地区等での訓練を実施）。\n・1．関係機関及び住民の皆さま参加による防災訓練を実施。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-01",
+    "title": "南紀白浜(和歌山県)の過去のアメダス(2026年11月01日)",
+    "url": "https://tenki.jp/past/2026/11/01/amedas/6/33/65288.html",
+    "source": "tenki.jp",
+    "published_at": "2026-11-01 16:00",
+    "summary": "・※日最高気温・日最低気温・日最大風速は、アメダス10分値です。\n・南紀白浜(ナンキシラハマ)のアメダス(2026年11月01日)2026年11月01日。\n・南紀白浜(和歌山県)のアメダスによる2026年11月01日の気温、降水量、風向・風速、日照時間、積雪深の観測情報を閲覧できます。",
+    "summary_type": "auto",
+    "category": "観光・文化",
     "related_articles": [],
     "importance_score": 9,
     "is_featured": false
@@ -313,9 +339,16 @@
     "summary": "・11月5日は「世界津波の日（World Tsunami Awareness Day）」です。\n・日本の津波災害の故事が、世界で津波防災を考える日につながったのです。\n・津波防災教育センターでは、3Ｄシアターやガイダンス、各種展示、ゲーム形式の防災体験で、津波災害などについて学べます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 6,
+    "importance_score": 21,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "11月5日 日本の津波災害の故事が国連制定の“世界津波防災の日”に！【暮らしの防災】 (メ〜テレ（名古屋テレビ）)",
+        "url": "https://news.yahoo.co.jp/articles/a204c8fe923cb9e67e66fa1463bde9fc6731547d/images/003",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-01 12:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-01",

@@ -895,6 +895,8 @@
     "summary": "・和歌山 由良町全域と広川町の一部に避難指示。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 50,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山 由良町と広川町の避難指示 解除",
@@ -914,9 +916,7 @@
         "source": "NHKニュース",
         "published_at": "2026-10-25 14:06"
       }
-    ],
-    "importance_score": 50,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-25",

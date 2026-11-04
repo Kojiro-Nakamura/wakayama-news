@@ -316,7 +316,7 @@
     "summary_type": "auto",
     "category": "スポーツ",
     "importance_score": 42,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "智弁和歌山が優勝 都大路出場を決める 高校駅伝・和歌山女子",
@@ -381,9 +381,41 @@
     "summary": "・私たちが暮らす和歌山県御坊市では、毎年秋に「御坊祭（ごぼうまつり）」が行われています。\n・島組は1909年以降に成立し、1926年には確実に島組として存在していたという記録が残っており、100年以上の歴史がある御坊祭の氏子組です。\n・和歌山県・御坊市を代表する伝統行事「御坊祭り」に、55年以上姿を消していた【島組】が復活を目指します。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-31",
+    "title": "高野山(和歌山県)の過去のアメダス(2026年10月31日)",
+    "url": "https://tenki.jp/past/2026/10/31/amedas/6/33/65061.html",
+    "source": "tenki.jp",
+    "published_at": "2026-10-31 16:00",
+    "summary": "・※日最高気温・日最低気温・日最大風速は、アメダス10分値です。\n・高野山(コウヤサン)のアメダス(2026年10月31日)2026年10月31日。\n・高野山(和歌山県)のアメダスによる2026年10月31日の気温、降水量、風向・風速、日照時間、積雪深の観測情報を閲覧できます。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "+?【LIVE配信!TV】 2026 和歌山高校駅伝放送・テレビ放送・ライブ配信・生放送・生中継・生配信 2026年10月31日",
+        "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cHM6Ly9hcHBnaGFuYS5jb20vdmlkZW8td2FrYXlhbWEtc2Nob29sLWVraWRlbi1saWUtcXd6eHRyLmh0bWwnKSk7IiA+PC9rcnBhbm8+&id=video-wakayama-school-ekiden-lie-qwzxtr",
+        "source": "Port of Rotterdam",
+        "published_at": "2026-10-31 08:06"
+      },
+      {
+        "title": "奈良・和歌山のイオンモールで開催されるおすすめハロウィンイベント5選[2026年10月31日・11月1日開催分]（ウォーカープラス）",
+        "url": "https://news.yahoo.co.jp/articles/081d5841ba688ecbe6d2a443a0759af42e60eb90",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-31 00:05"
+      },
+      {
+        "title": "高野山(和歌山県)の過去のアメダス(2026年10月30日)",
+        "url": "https://tenki.jp/past/2026/10/30/amedas/6/33/65061.html",
+        "source": "tenki.jp",
+        "published_at": "2026-10-31 03:30"
+      }
+    ],
+    "importance_score": 54,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-31",
@@ -631,26 +663,6 @@
   },
   {
     "article_date": "2026-10-31",
-    "title": "+?【LIVE配信!TV】 2026 和歌山高校駅伝放送・テレビ放送・ライブ配信・生放送・生中継・生配信 2026年10月31日",
-    "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cHM6Ly9hcHBnaGFuYS5jb20vdmlkZW8td2FrYXlhbWEtc2Nob29sLWVraWRlbi1saWUtcXd6eHRyLmh0bWwnKSk7IiA+PC9rcnBhbm8+&id=video-wakayama-school-ekiden-lie-qwzxtr",
-    "source": "Port of Rotterdam",
-    "published_at": "2026-10-31 08:06",
-    "summary": "・+?【LIVE配信!TV】 2026 和歌山高校駅伝放送・テレビ放送・ライブ配信・生放送・生中継・生配信 2026年10月31日。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 15,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "奈良・和歌山のイオンモールで開催されるおすすめハロウィンイベント5選[2026年10月31日・11月1日開催分]（ウォーカープラス）",
-        "url": "https://news.yahoo.co.jp/articles/081d5841ba688ecbe6d2a443a0759af42e60eb90",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-31 00:05"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-31",
     "title": "「最後のロハス」をご一緒に。ホテルアバローム紀の国でLOHAS FAIR",
     "url": "https://www.nwn.jp/feature/261031machikado_avalorm/",
     "source": "ニュース和歌山",
@@ -737,19 +749,6 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 17,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-31",
-    "title": "高野山(和歌山県)の過去のアメダス(2026年10月30日)",
-    "url": "https://tenki.jp/past/2026/10/30/amedas/6/33/65061.html",
-    "source": "tenki.jp",
-    "published_at": "2026-10-31 03:30",
-    "summary": "・※日最高気温・日最低気温・日最大風速は、アメダス10分値です。\n・高野山(コウヤサン)のアメダス(2026年10月30日)2026年10月30日。\n・高野山(和歌山県)のアメダスによる2026年10月30日の気温、降水量、風向・風速、日照時間、積雪深の観測情報を閲覧できます。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 9,
     "is_featured": false,
     "related_articles": []
   },
