@@ -1,16 +1,20 @@
 [
   {
     "article_date": "2017-04-13",
-    "title": "みなべ町の天気",
-    "url": "https://weather.yahoo.co.jp/weather/jp/30/6510/30391.html",
+    "title": "印南町の天気",
+    "url": "https://weather.yahoo.co.jp/weather/jp/30/6510/30390.html",
     "source": "Yahoo!天気",
-    "published_at": "2017-04-13 17:36",
-    "summary": "・再生する10/29(木)7時　日差し届くも天気下り坂　関東は日中も肌寒さ継続。\n・3時間ごとの天気、降水量、気温などがチェックできます。\n・細かい地点単位の天気を知るには最適です。",
+    "published_at": "2017-04-13 21:22",
+    "summary": "・3時間ごとの天気、降水量、気温などがチェックできます。\n・細かい地点単位の天気を知るには最適です。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 36,
-    "is_featured": true,
     "related_articles": [
+      {
+        "title": "みなべ町の天気",
+        "url": "https://weather.yahoo.co.jp/weather/jp/30/6510/30391.html",
+        "source": "Yahoo!天気",
+        "published_at": "2017-04-13 17:36"
+      },
       {
         "title": "有田川町の天気",
         "url": "https://weather.yahoo.co.jp/weather/jp/30/6510/30366.html",
@@ -23,6 +27,8 @@
         "source": "Yahoo!天気",
         "published_at": "2017-04-13 15:16"
       }
-    ]
+    ],
+    "importance_score": 48,
+    "is_featured": true
   }
 ]
