@@ -375,15 +375,22 @@
   {
     "article_date": "2026-11-03",
     "title": "【食中毒】焼き鳥など食べ下痢や腹痛…客2人から「カンピロバクター」検出 飲食店に3日間の営業停止処分 和歌山市保健所",
-    "url": "https://news.yahoo.co.jp/articles/120f325b7c4068fba4675e524ffc05ee9359418c",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-03 16:57",
-    "summary": "・【速報】不動産ファンド「みんなで大家さん」所有の大阪・ミナミの土地開札3日前に競売が停止　集団訴訟の弁護士「強制執行以外の手段検討も」。\n・京都府北部でクマ２頭を殺処分「わなにかかっている」と通報　府内で３例目の緊急銃猟。\n・先月、和歌山市の飲食店で焼き鳥などを食べた客2人が下痢や腹痛などの症状を訴えたことについて、保健所は食中毒と判断し、今月3日、この店を3日間の営業停止処分にしました。",
+    "url": "https://newsdig.tbs.co.jp/articles/mbs/3058532?display=1",
+    "source": "TBS NEWS DIG",
+    "published_at": "2026-11-03 16:58",
+    "summary": "・先月、和歌山市の飲食店で焼き鳥などを食べた客2人が下痢や腹痛などの症状を訴えたことについて、保健所は食中毒と判断し、今月3日、この店を3日間の営業停止処分にしました。\n・営業停止処分を受けたのは、和歌山市紀三井寺の飲食店「YAKITORI工房　五み’ずきっちん」です。\n・2人の便からは食中毒を引き起こす細菌「カンピロバクター」の一種である「カンピロバクター・ジェジュニ」が検出され、保健所はこの店での食事が原因の食中毒と断定し、今月3日から3日間の営業停止処分としました。",
     "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "【食中毒】焼き鳥など食べ下痢や腹痛…客2人から「カンピロバクター」検出 飲食店に3日間の営業停止処分 和歌山市保健所",
+        "url": "https://news.yahoo.co.jp/articles/120f325b7c4068fba4675e524ffc05ee9359418c",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-03 16:57"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-03",
@@ -882,9 +889,16 @@
     "summary": "・紀の川市シェイクアウト訓練を実施。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 0,
+    "importance_score": 15,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "紀の川市シェイクアウト訓練を実施",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000087_000173667/",
+        "source": "Infoseek",
+        "published_at": "2026-11-03 01:10"
+      }
+    ]
   },
   {
     "article_date": "2026-11-03",
