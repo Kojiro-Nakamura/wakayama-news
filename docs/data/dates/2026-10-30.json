@@ -457,9 +457,16 @@
     "summary": "・「わたしの里山」では、私が県内の中山間地にお邪魔して、地域の知られざる魅力を調べ、発信するコーナーです。\n・高野町ならではの食に出会いました。\n・すっぽんの養殖場なんですよ」。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 6,
+    "importance_score": 21,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【わたしの里山】もぎたてのトマトを丸かじり！大根も大収穫　ええ！？スッポンの養殖場も　広島・高野町",
+        "url": "https://topics.smt.docomo.ne.jp/article/tss/region/tss-36451",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-30 18:34"
+      }
+    ]
   },
   {
     "article_date": "2026-10-30",

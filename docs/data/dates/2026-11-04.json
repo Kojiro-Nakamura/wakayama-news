@@ -21,6 +21,8 @@
     "summary": "・県は、来年１１月頃の交付開始を目指す、和歌山県版の図柄のナンバープレートについて、今日から、国へ提案するデザインを決めるための県民投票を始めました。\n・図柄ナンバープレートは、地域の風景や観光資源などをデザインに取り入れ、「走る広告塔」として全国に魅力を発信するもので、県では、国土交通省が今年４月に募集を開始した、都道府県単位の図柄ナンバープレートの導入に向け、手続きを進めています。\n・また、投票に関する詳細や３作品のデザインは、県のホームページから確認可能で、県は、投票結果を踏まえて年内に国交省へデザインを提案し、認められれば、来年１１月頃にナンバープレートの交付を開始する予定です。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 54,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県版図柄ナンバープレート県民投票はじまる・３種類から",
@@ -40,9 +42,7 @@
         "source": "わかやま新報",
         "published_at": "2026-11-04 16:19"
       }
-    ],
-    "importance_score": 54,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-04",
@@ -557,6 +557,8 @@
     "summary": "・和歌山県の雨雲レーダー(実況)05日19:05発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の雨雲レーダー(予報)",
@@ -564,9 +566,7 @@
         "source": "tenki.jp",
         "published_at": "2026-11-04 12:49"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-04",
@@ -629,8 +629,28 @@
     "summary": "・和歌山県田辺市稲成町の高山寺（真言宗御室派）で３日、入山式が営まれ、新しい住職が就任した。\n・歴代住職が伝えてきた法具の引き継ぎが本尊の阿弥陀如来の前で行われ、前住職から新住職に目録が手渡された。\n・この後、奥の院の前にある前堂まで行列し、新住職が就任したことを開祖の弘法大師に報告した。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "新住職が就任 高山寺で入山式、和歌山県田辺",
+        "url": "https://www.47news.jp/15186502.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-04 14:30"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-11-04",
+    "title": "かみとん市盛況 出店やステージ、和歌山県上富田",
+    "url": "https://www.47news.jp/15186501.html",
+    "source": "47NEWS",
+    "published_at": "2026-11-04 14:30",
+    "summary": "・和歌山県上富田町朝来の町役場駐車場で３日、「第２７回かみとん市」があり、多くの来場者が訪れて飲食やステージイベントを楽しんだ。\n・和歌山県南部のニュースをお届けします。",
+    "summary_type": "auto",
+    "category": "観光・文化",
     "related_articles": [],
-    "importance_score": 9,
+    "importance_score": 3,
     "is_featured": false
   },
   {
@@ -701,7 +721,7 @@
     "summary": "・【11月14日・15日開催】和歌山・橋本の秋を味わい尽くす2日間「楽しいこと、うまいもんがあり“まっせ”！！」～祝・第20回「まっせ・はしもと～柿まつり2026～」を実施します。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 30,
+    "importance_score": 45,
     "is_featured": false,
     "related_articles": [
       {
@@ -714,6 +734,12 @@
         "title": "和歌山県橋本市で第20回まっせ・はしもと～柿まつり2026～開催",
         "url": "https://www.wowkorea.jp/woman/read/164939.html",
         "source": "wowKorea",
+        "published_at": "2026-11-04 11:15"
+      },
+      {
+        "title": "【11月14日・15日開催】和歌山・橋本の秋を味わい尽くす2日間 「楽しいこと、うまいもんがあり“まっせ”！！」 ～祝・第20回「まっせ・はしもと～柿まつり2026～」を 実施します",
+        "url": "https://newscast.jp/smart/news/4336658",
+        "source": "Newscast.jp",
         "published_at": "2026-11-04 11:15"
       }
     ]
@@ -743,6 +769,19 @@
     "importance_score": 3,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-04",
+    "title": "【自治体】和歌山県白浜町：公共施設照明LED化事業の優先交渉権者に和歌山電工を選定、書類審査とプレゼンテーションなどを経て契約協議へ",
+    "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/11/04/news-33878/",
+    "source": "みんなの広報宣伝部",
+    "published_at": "2026-11-04 10:37",
+    "summary": "・和歌山県白浜町は、公募していた公共施設照明LED化業務について、和歌山電工を優先交渉権者に選定したと発表した。\n・今回の公募には1社が応募し、10月13日に開催した事業者選定委員会で書類審査、プレゼンテーション、ヒアリングを実施した。\n・同事業は白浜町の公共施設照明をLED化する業務で、今後は選定事業者との契約交渉を進める。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-04",
