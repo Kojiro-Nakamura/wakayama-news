@@ -9,7 +9,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 12,
-    "is_featured": false,
+    "is_featured": true,
     "related_articles": []
   },
   {
@@ -24,5 +24,18 @@
     "importance_score": 20,
     "is_featured": true,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-06-23",
+    "title": "令和８年度 大島プールの一般開放について",
+    "url": "https://www.town.kushimoto.wakayama.jp/kyouiku/syakaikyouiku/2026-0618-1345-13.html",
+    "source": "串本町",
+    "published_at": "2026-06-23 09:11",
+    "summary": "・開放期間や料金の詳細はチラシをご覧ください。\n・※施設修繕のため営業開始を延期していました大島プールにつきまして、7月7日より営業を開始いたします。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   }
 ]
