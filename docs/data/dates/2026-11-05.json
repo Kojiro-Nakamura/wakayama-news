@@ -34,6 +34,8 @@
     "summary": "・「津波防災の日」の5日、県庁南別館（和歌山市）では南海トラフ地震に備えた「政府本部運営訓練」が行われた。\n・巨大地震発生から48時間後を想定し、2日に発足した防災庁など各省庁の関係者が、被災地の状況確認や人命救助のタイムリミットとされる72時間への対応手順などを確認した。\n・孤立集落の支援や物資輸送、緊急輸送の状況などを各担当者が報告し、発災後72時間に向けた対策などを検討した。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「津波防災の日」に和歌山県庁で政府本部運営訓練　発災後72時間の対応など確認",
@@ -41,9 +43,7 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-11-05 21:20"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-05",
@@ -608,6 +608,8 @@
     "summary": "・和歌山市に拠点を置く「わかやま市民生活協同組合」は、2027年4月1日に大阪府堺市の「大阪いずみ市民生活協同組合」と合併することを決定しました。\n・これは、11月4日に和歌山市で開かれた、わかやま市民生協の臨時総代会で承認されたものです。\n・そして、2026年6月、双方が対等な立場で2027年4月1日に合併することを決め、この日の和歌山市民生協の臨時総代会で承認され、新しい定款や規約なども承認されました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「世界津波の日」和歌山県広川町のJR紀勢線で津波避難訓練（WBS和歌山放送ニュース）",
@@ -615,67 +617,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-05 15:03"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
-  },
-  {
-    "title": "「世界津波の日」和歌山市の小学校で大津波想定の避難訓練",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261105de70889",
-    "source": "NHKニュース",
-    "published_at": "2026-11-05 13:23",
-    "related_articles": [
-      {
-        "title": "「世界津波の日」に和歌山・広川町で津波避難訓練　地元の小学生ら約３５０人参加",
-        "url": "https://topics.smt.docomo.ne.jp/article/abcnews/region/abcnews-63425?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-11-05 12:40"
-      },
-      {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://smart.shimotsuke.co.jp/articles/-/1453535",
-        "source": "下野新聞社",
-        "published_at": "2026-11-05 11:23"
-      },
-      {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://www.fukuishimbun.co.jp/articles/-/2739482",
-        "source": "福井新聞社",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://www.saitama-np.co.jp/articles/221763",
-        "source": "埼玉新聞",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "「世界津波の日」和歌山市の小学校で大津波想定の避難訓練",
-        "url": "https://news.web.nhk/newsweb/na/nd-20261105de70843",
-        "source": "NHKニュース",
-        "published_at": "2026-11-05 12:45"
-      },
-      {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://www.chugoku-np.co.jp/articles/-/919940",
-        "source": "中国新聞デジタル",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "「世界津波の日」に和歌山・広川町で津波避難訓練　地元の小学生ら約３５０人参加",
-        "url": "https://news.infoseek.co.jp/article/abcnews_63425/",
-        "source": "Infoseek",
-        "published_at": "2026-11-05 12:40"
-      },
-      {
-        "title": "「世界津波の日」に和歌山・広川町で津波避難訓練 地元の小学生ら約３５０人参加",
-        "url": "https://news.yahoo.co.jp/articles/96c9a99408241a2667304375f1decc07be3afd9d",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-11-05 12:40"
-      }
-    ],
-    "importance_score": 128,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-05",
@@ -758,6 +700,65 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000071.000068511.html",
         "source": "PR TIMES",
         "published_at": "2026-11-05 10:00"
+      }
+    ]
+  },
+  {
+    "title": "「世界津波の日」和歌山市の小学校で大津波想定の避難訓練",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261105de70889",
+    "source": "NHKニュース",
+    "published_at": "2026-11-05 13:23",
+    "importance_score": 128,
+    "is_featured": true,
+    "summary": "・「世界津波の日」和歌山市の小学校で大津波想定の避難訓練",
+    "related_articles": [
+      {
+        "title": "「世界津波の日」に和歌山・広川町で津波避難訓練　地元の小学生ら約３５０人参加",
+        "url": "https://topics.smt.docomo.ne.jp/article/abcnews/region/abcnews-63425?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-11-05 12:40"
+      },
+      {
+        "title": "和歌山で津波避難訓練",
+        "url": "https://smart.shimotsuke.co.jp/articles/-/1453535",
+        "source": "下野新聞社",
+        "published_at": "2026-11-05 11:23"
+      },
+      {
+        "title": "和歌山で津波避難訓練",
+        "url": "https://www.fukuishimbun.co.jp/articles/-/2739482",
+        "source": "福井新聞社",
+        "published_at": "2026-11-05 11:16"
+      },
+      {
+        "title": "和歌山で津波避難訓練",
+        "url": "https://www.saitama-np.co.jp/articles/221763",
+        "source": "埼玉新聞",
+        "published_at": "2026-11-05 11:16"
+      },
+      {
+        "title": "「世界津波の日」和歌山市の小学校で大津波想定の避難訓練",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261105de70843",
+        "source": "NHKニュース",
+        "published_at": "2026-11-05 12:45"
+      },
+      {
+        "title": "和歌山で津波避難訓練",
+        "url": "https://www.chugoku-np.co.jp/articles/-/919940",
+        "source": "中国新聞デジタル",
+        "published_at": "2026-11-05 11:16"
+      },
+      {
+        "title": "「世界津波の日」に和歌山・広川町で津波避難訓練　地元の小学生ら約３５０人参加",
+        "url": "https://news.infoseek.co.jp/article/abcnews_63425/",
+        "source": "Infoseek",
+        "published_at": "2026-11-05 12:40"
+      },
+      {
+        "title": "「世界津波の日」に和歌山・広川町で津波避難訓練 地元の小学生ら約３５０人参加",
+        "url": "https://news.yahoo.co.jp/articles/96c9a99408241a2667304375f1decc07be3afd9d",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-05 12:40"
       }
     ]
   },

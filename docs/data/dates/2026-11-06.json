@@ -8,40 +8,26 @@
     "summary": "・条件付一般競争入札説明書 (PDFファイル: 661.4KB)。\n・下津中学校備品等移転業務仕様書 (PDFファイル: 2.5MB)。\n・競争入札参加表明書(様式第1号) (Excelファイル: 27.0KB)。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-06",
-    "title": "今年も学芸大学駅高架下3店舗に100種類の梅酒が登場！梅酒を入り口に紀州田辺とつながろう！",
-    "url": "https://news.nicovideo.jp/watch/nw19965228?news_ref=20_20",
-    "source": "ニコニコニュース",
-    "published_at": "2026-11-06 20:51",
-    "summary": "・今年も学芸大学駅高架下3店舗に100種類の梅酒が登場！梅酒を入り口に紀州田辺とつながろう！",
-    "summary_type": "auto",
-    "category": "経済・産業",
-    "related_articles": [
-      {
-        "title": "今年も学芸大学駅高架下3店舗に100種類の梅酒が登場！梅酒を入り口に紀州田辺とつながろう！",
-        "url": "https://prtimes.jp/main/html/rd/p/000000071.000062174.html",
-        "source": "PR TIMES",
-        "published_at": "2026-11-06 12:00"
-      }
-    ],
-    "importance_score": 18,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-06",
-    "title": "平祐奈：和歌山で熊野古道を巡る 平安時代の衣装で散策 伊勢海老、熊野牛に舌鼓 「旅サラダ」で",
-    "url": "https://mainichikirei.jp/article/20261106dog00m100003000a.html",
-    "source": "毎日キレイ",
-    "published_at": "2026-11-06 20:20",
-    "summary": "・俳優の平祐奈さんが、土曜朝の旅情報バラエティー番組「朝だ！生です旅サラダ」（ABCテレビ・テレビ朝日系、土曜午前8時）の11月7日の放送回に出演。\n・和歌山県で世界遺産の熊野古道を巡り、熊野三山制覇を目指す。\n・源泉かけ流しの湯で疲れを癒やし、地元の鮎や伊勢海老、熊野牛などを堪能できる会席料理に舌鼓を打つ。",
+    "title": "平祐奈＞和歌山で熊野古道を巡る 平安時代の衣装で散策 伊勢海老、熊野牛に舌鼓 「旅サラダ」で (毎日キレイ)",
+    "url": "https://news.yahoo.co.jp/articles/185340fc586fe5fd52d998966a81a8191a1c0ed5/images/000",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-06 22:06",
+    "summary": "・土曜朝の旅情報バラエティー番組「朝だ！生です旅サラダ」に出演する平祐奈さん＝ABCテレビ提供（MANTAN）。",
     "summary_type": "auto",
     "category": "観光・文化",
     "related_articles": [
+      {
+        "title": "平祐奈：和歌山で熊野古道を巡る 平安時代の衣装で散策 伊勢海老、熊野牛に舌鼓 「旅サラダ」で",
+        "url": "https://mainichikirei.jp/article/20261106dog00m100003000a.html",
+        "source": "毎日キレイ",
+        "published_at": "2026-11-06 20:20"
+      },
       {
         "title": "『旅サラダ』平祐奈、平安時代の衣装姿に…世界遺産・熊野古道巡り",
         "url": "https://www.asahi.com/and/entertainment/17030710",
@@ -55,8 +41,28 @@
         "published_at": "2026-11-06 18:07"
       }
     ],
-    "importance_score": 50,
+    "importance_score": 51,
     "is_featured": true
+  },
+  {
+    "article_date": "2026-11-06",
+    "title": "今年も学芸大学駅高架下3店舗に100種類の梅酒が登場！梅酒を入り口に紀州田辺とつながろう！",
+    "url": "https://news.nicovideo.jp/watch/nw19965228?news_ref=20_20",
+    "source": "ニコニコニュース",
+    "published_at": "2026-11-06 20:51",
+    "summary": "・今年も学芸大学駅高架下3店舗に100種類の梅酒が登場！梅酒を入り口に紀州田辺とつながろう！",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "importance_score": 18,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "今年も学芸大学駅高架下3店舗に100種類の梅酒が登場！梅酒を入り口に紀州田辺とつながろう！",
+        "url": "https://prtimes.jp/main/html/rd/p/000000071.000062174.html",
+        "source": "PR TIMES",
+        "published_at": "2026-11-06 12:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-06",
@@ -126,14 +132,20 @@
     "summary": "・児童虐待相談２０８４件　25年度に過去２番目の多さ、和歌山。\n・病院の仕事を体験　南和歌山医療センターで健康フェス、和歌山・田辺。\n・サツマイモ掘り楽しむ　園児が高校生と体験、和歌山県上富田。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 29,
-    "is_featured": false,
+    "importance_score": 44,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "子ども保護の流れ確認 児相と警察が合同研修、和歌山県田辺（紀伊民報）",
         "url": "https://news.yahoo.co.jp/articles/2182b0fdefeaf5a42bc957388a960ab5df19c1dc",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-06 16:25"
+      },
+      {
+        "title": "子ども保護の流れ確認 児相と警察が合同研修、和歌山県田辺",
+        "url": "https://www.47news.jp/15192551.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-06 14:30"
       }
     ]
   },
@@ -328,9 +340,9 @@
     "summary": "・高野山の紅葉 色づき進む 和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-06",
@@ -341,8 +353,28 @@
     "summary": "・熊野古道「安居の渡し」人気インフルエンサーが船頭デビュー。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 11,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-06",
+    "title": "和歌山県知事との南海フェリー協議 遠藤市長が参加する意向【徳島】",
+    "url": "https://news.livedoor.com/article/detail/32750663/",
+    "source": "ライブドアニュース",
+    "published_at": "2026-11-06 19:10",
+    "summary": "・徳島市の遠藤市長は11月6日の定例会見で、11月13日に行われる、後藤田知事と和歌山県知事との南海フェリーに関する直接協議に、参加する意向を示しました。\n・（徳島市・遠藤彰良 市長）「南海フェリーが存続して欲しいという思いは、誰しも持っている。\n・遠藤市長は今回、県から連絡を受け、協議への参加を決めたということです。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [
+      {
+        "title": "和歌山県知事との南海フェリー協議 遠藤市長が参加する意向【徳島】（2026年11月6日掲載）｜JRT NEWS NNN",
+        "url": "https://news.ntv.co.jp/n/jrt/category/society/jr52b71e9241b041d5802237c2ca40b98f",
+        "source": "日テレNEWS NNN",
+        "published_at": "2026-11-06 18:00"
+      }
+    ],
+    "importance_score": 24,
     "is_featured": false
   },
   {
@@ -373,19 +405,6 @@
   },
   {
     "article_date": "2026-11-06",
-    "title": "和歌山県知事との南海フェリー協議 遠藤市長が参加する意向【徳島】（2026年11月6日掲載）｜JRT NEWS NNN",
-    "url": "https://news.ntv.co.jp/n/jrt/category/society/jr52b71e9241b041d5802237c2ca40b98f",
-    "source": "日テレNEWS NNN",
-    "published_at": "2026-11-06 18:00",
-    "summary": "・社会和歌山県知事との南海フェリー協議　遠藤市長が参加する意向【徳島】2026年11月6日 18:00徳島市の遠藤市長は11月6日の定例会見で、11月13日に行われる、後藤田知事と和歌山県知事との南海フェリーに関する直接協議に、参加する意向を示しました。\n・（徳島市・遠藤彰良 市長）「南海フェリーが存続して欲しいという思いは、誰しも持っている。\n・遠藤市長は今回、県から連絡を受け、協議への参加を決めたということです。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-06",
     "title": "【高野山・霜月】晩秋に華やぐ山上の聖地…針葉樹の新緑に浮かぶモミジ・イチョウの赤や黄色",
     "url": "https://www.yomiuri.co.jp/local/kansai/news/20261106-GYO1T00103/",
     "source": "読売新聞",
@@ -406,9 +425,9 @@
     "summary": "・県高校野球連盟は来年春の選抜高校野球大会に向けた一般選考と２１世紀枠の推薦校を発表しました。\n・一般選考の県の推薦校は、秋季近畿地区高校野球大会の県予選で優勝した和歌山東と準優勝の智辯和歌山で、このうち、智辯和歌山はその後の近畿大会でベスト８に入りました。\n・また、２１世紀枠の県の推薦校には那賀が選ばれました。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-06",
@@ -569,6 +588,26 @@
   },
   {
     "article_date": "2026-11-06",
+    "title": "和歌山県の雨雲レーダー(予報)",
+    "url": "https://tenki.jp/radar/6/33/rainmesh.html",
+    "source": "tenki.jp",
+    "published_at": "2026-11-06 12:40",
+    "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・和歌山県の落雷地点・雷予報をチェック！\n・2026年11月の和歌山県の雨雲レーダーを見る。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+        "url": "https://tenki.jp/radar/6/33/",
+        "source": "tenki.jp",
+        "published_at": "2026-11-06 00:52"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-06",
     "title": "【楽待】和歌山県和歌山市 1棟マンション | 収益物件数No.1不動産投資サイト",
     "url": "https://www.rakumachi.jp/syuuekibukken/kansai/wakayama/dim1001/3789822/show.html",
     "source": "rakumachi.jp",
@@ -589,6 +628,8 @@
     "summary": "・当日は、和歌山県内の5自治体・計7部署の担当者と面談し、空き家・遊休資産の利活用、既存宿泊施設の運営改善、滞在型観光の促進、地域住民との共生など、各地域が抱える課題について意見交換を行いました。\n・単に空き家を宿泊施設へ転用するのではなく、地域にとって持続可能な活用方法を見極めることを重視し、自治体や地域事業者との連携の可能性を探ってまいります。\n・また、主催者である紀陽銀行とも適宜情報共有を図りながら、自治体との連携の可能性を探り、地域資源の有効活用と持続可能な宿泊事業の実現を目指してまいります。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県内5自治体と地域資源の活用・観光振興について協議 宿泊事業を通じた官民連携の可能性を探る",
@@ -596,9 +637,7 @@
         "source": "Infoseek",
         "published_at": "2026-11-06 10:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-06",
@@ -656,7 +695,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 36,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "夏の和歌山県観光客357万人超、過去20年で最多　",
@@ -675,9 +714,9 @@
     "summary": "・登山アプリ「YAMAP」を運営する株式会社ヤマップ（福岡市、代表取締役CEO 春山慶彦、以下ヤマップ）は和歌山県警察と、山岳救助の際に有用な情報となる登山届に関する「遭難ZERO協定」を締結いたしました。\n・さらに、登山口に設置されている登山届ポストで専用の書類に登山計画を記入して提出したり、事前に郵送などで登山計画を和歌山県警察に提出したりすることが必要で、登山者にとっては二度手間となっていました。\n・今回の和歌山県警察との登山届に関する協定は36例目※2となります。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-06",
@@ -691,18 +730,5 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-11-06",
-    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
-    "url": "https://tenki.jp/radar/6/33/",
-    "source": "tenki.jp",
-    "published_at": "2026-11-06 00:52",
-    "summary": "・和歌山県の雨雲レーダー(実況)07日09:30発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
   }
 ]

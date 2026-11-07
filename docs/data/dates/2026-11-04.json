@@ -537,9 +537,16 @@
     "summary": "・近畿大学農学部生が生産に携わった「特別栽培米 つや姫」 和歌山・有田の飲食店にて土鍋炊きごはんで提供。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 0,
+    "importance_score": 15,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "近畿大学農学部生が生産に携わった「特別栽培米 つや姫」 和歌山・有田の飲食店にて土鍋炊きごはんで提供",
+        "url": "https://newscast.jp/smart/news/5841770",
+        "source": "Newscast.jp",
+        "published_at": "2026-11-04 14:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-04",
