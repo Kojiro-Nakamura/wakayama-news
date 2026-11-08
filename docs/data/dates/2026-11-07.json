@@ -8,9 +8,9 @@
     "summary": "・【事例001】シェアキッチン＋うつわ屋 sonson。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-07",
@@ -21,6 +21,8 @@
     "summary": "・森を守り育てる大切さを普及・啓発する「第４９回全国育樹祭」が、きょう（７日）和歌山県内で始まり、秋篠宮ご夫妻が田辺市でお手入れ行事に臨まれました。\n・風の強い晴天となったきょう（７日）午後、田辺市の新庄総合公園で行われた「お手入れ(おていれ)行事」には、秋篠宮ご夫妻をはじめ、関係者およそ２００人が出席しました。\n・秋篠宮ご夫妻は、２０１１年に和歌山県で開かれた第６２回全国植樹祭で、当時の天皇皇后両陛下がお手植えされたウバメガシとイチイガシの樹をお手入れされました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 185,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "全国育樹祭の関連行事で樹木の手入れをされる秋篠宮さま＝7日午後、和歌山県田辺市 - 秋篠宮ご夫妻、和歌山を訪問 8日に全国育樹祭、植木手入れ - 写真・画像(1/1)",
@@ -81,10 +83,14 @@
         "url": "https://news.yahoo.co.jp/articles/c28b707569fbdb630c259661825d26f4e2e495ca/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-07 16:25"
+      },
+      {
+        "title": "秋篠宮ご夫妻が和歌山県入り、「お手入れ行事」に臨まれる…全国育樹祭にご出席へ",
+        "url": "https://news.infoseek.co.jp/article/yomiuri_20261107_gyt1t00178/",
+        "source": "Infoseek",
+        "published_at": "2026-11-07 17:26"
       }
-    ],
-    "importance_score": 170,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-07",
@@ -258,6 +264,8 @@
     "summary": "・秋篠宮ご夫妻、和歌山を訪問。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 45,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "秋篠宮ご夫妻、和歌山を訪問",
@@ -277,9 +285,7 @@
         "source": "中国新聞デジタル",
         "published_at": "2026-11-07 17:57"
       }
-    ],
-    "importance_score": 45,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-07",
@@ -368,9 +374,9 @@
     "summary": "・四季彩々（２１１３）／秋色を感じて。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-07",
@@ -705,8 +711,8 @@
     "summary": "・和歌山県の雨雲レーダー(実況)08日09:05発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]

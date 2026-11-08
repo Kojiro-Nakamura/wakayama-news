@@ -1,15 +1,22 @@
 [
   {
     "article_date": "2026-05-01",
-    "title": "広川(和歌山)の天気予報(1時間・今日明日・週間)",
-    "url": "https://weathernews.jp/onebox/tenki/spot/dam/06/5318041/",
+    "title": "広川(和歌山)の2週間天気【予報精度No.1】",
+    "url": "https://weathernews.jp/onebox/tenki/spot/dam/06/5318041/week.html",
     "source": "ウェザーニュース",
-    "published_at": "2026-05-01 12:20",
-    "summary": "・【予報精度No.1】広川(和歌山)の天気予報を5分毎・1時間毎・今日明日・週間(10日間)で掲載中！今知りたい現地の天気は、ウェザーニュースアプリから届く空の写真で確認。\n・世界最大級の気象情報会社ウェザーニューズの観測ネットワークと独自の予測モデル、AI分析で一番当たる予報をお届けします。\n・今日のこよみ・今週のこよみ 2026年10月15日(木)。",
+    "published_at": "2026-05-01 13:45",
+    "summary": "・週間天気予報　週中頃は晴れて洗濯日和に　次の日曜日は各地で雨。\n・【2週間天気｜予報精度No.1】広川(和歌山)の2週間(14日間)先までの天気・気温・降水量を掲載しています。\n・広川(和歌山)と札幌・東京・名古屋・大阪・福岡など主要都市の最高気温、最低気温の比較もできます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "広川(和歌山)の天気予報(1時間・今日明日・週間)",
+        "url": "https://weathernews.jp/onebox/tenki/spot/dam/06/5318041/",
+        "source": "ウェザーニュース",
+        "published_at": "2026-05-01 12:20"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": true
   }
 ]

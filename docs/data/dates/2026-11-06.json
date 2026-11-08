@@ -21,7 +21,7 @@
     "summary": "・土曜朝の旅情報バラエティー番組「朝だ！生です旅サラダ」に出演する平祐奈さん＝ABCテレビ提供（MANTAN）。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 66,
+    "importance_score": 81,
     "is_featured": true,
     "related_articles": [
       {
@@ -47,6 +47,12 @@
         "url": "https://news.yahoo.co.jp/articles/26bc3ecfd6ef6ce634190c44bfe827b63c2d6b0b",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-06 18:07"
+      },
+      {
+        "title": "平祐奈＞和歌山で熊野古道を巡る 平安時代の衣装で散策 伊勢海老、熊野牛に舌鼓 「旅サラダ」で（毎日キレイ）",
+        "url": "https://news.yahoo.co.jp/articles/185340fc586fe5fd52d998966a81a8191a1c0ed5",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-06 20:30"
       }
     ]
   },
@@ -79,9 +85,9 @@
     "summary": "・和歌山県海南市藤白の老舗酒造会社「中野BC」で6日、新鮮な味わいが特徴の「梅酒ヌーボー」の蔵出しが始まった。\n・今年の梅酒ヌーボーはウメの香りと酸味がしっかり感じられ、すっきりとしている。\n・販売解禁日の20日には和歌山市ふじと台のイオンモール和歌山で試飲販売も行う予定。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-06",
@@ -457,9 +463,9 @@
     "summary": "・「山田さつきこども園」が橋本市消防本部の救マーク認定施設として登録されました。\n・同施設は、橋本市の子どもたちが楽しく過ごすことができるこども園です。\n・このたび、救マーク認定制度の基準を満たしていただき、当本部で救マーク認定施設として認定しました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-06",
