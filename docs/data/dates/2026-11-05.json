@@ -710,7 +710,7 @@
     "published_at": "2026-11-05 13:23",
     "importance_score": 128,
     "is_featured": true,
-    "summary": "・「世界津波の日」和歌山市の小学校で大津波想定の避難訓練",
+    "summary": "・「世界津波の日」和歌山市の小学校で大津波想定の避難訓練。",
     "related_articles": [
       {
         "title": "「世界津波の日」に和歌山・広川町で津波避難訓練　地元の小学生ら約３５０人参加",
@@ -991,9 +991,16 @@
     "summary": "・【JUST!シン日本遺産】シーズン３ # 14をちら見せ 和歌山県広川町のシン日本遺産を探す！和歌山の「ウユニ塩湖」で“JUS動画”撮影に挑戦！！ 続きはTELASAで",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 0,
+    "importance_score": 15,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【JUST!シン日本遺産】シーズン３ # 14をちら見せ 和歌山県広川町のシン日本遺産を探す！和歌山の「ウユニ塩湖」で“JUS動画”撮影に挑戦！！ 続きはTELASAで",
+        "url": "https://youtu.be/RbHggNfY_lc?si=XbDEDxkYZ_2RaOIb",
+        "source": "YouTube",
+        "published_at": "2026-11-05 08:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-05",

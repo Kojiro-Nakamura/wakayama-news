@@ -21,6 +21,8 @@
     "summary": "・土曜朝の旅情報バラエティー番組「朝だ！生です旅サラダ」に出演する平祐奈さん＝ABCテレビ提供（MANTAN）。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 66,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "平祐奈：和歌山で熊野古道を巡る 平安時代の衣装で散策 伊勢海老、熊野牛に舌鼓 「旅サラダ」で",
@@ -39,10 +41,14 @@
         "url": "https://www.oricon.co.jp/news/2491297/full/",
         "source": "オリコンニュース",
         "published_at": "2026-11-06 18:07"
+      },
+      {
+        "title": "『旅サラダ』平祐奈、平安時代の衣装姿に…世界遺産・熊野古道巡り（オリコン）",
+        "url": "https://news.yahoo.co.jp/articles/26bc3ecfd6ef6ce634190c44bfe827b63c2d6b0b",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-06 18:07"
       }
-    ],
-    "importance_score": 51,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-06",
@@ -63,6 +69,19 @@
         "published_at": "2026-11-06 12:00"
       }
     ]
+  },
+  {
+    "article_date": "2026-11-06",
+    "title": "「梅酒ヌーボー」11月20日に解禁 今年は香りと酸味しっかり 和歌山の酒造会社が販売",
+    "url": "https://www.sankei.com/article/20261106-VMGKX52YBBMIJICUZVXHLHORTM/?outputType=asynd",
+    "source": "産経ニュース",
+    "published_at": "2026-11-06 20:26",
+    "summary": "・和歌山県海南市藤白の老舗酒造会社「中野BC」で6日、新鮮な味わいが特徴の「梅酒ヌーボー」の蔵出しが始まった。\n・今年の梅酒ヌーボーはウメの香りと酸味がしっかり感じられ、すっきりとしている。\n・販売解禁日の20日には和歌山市ふじと台のイオンモール和歌山で試飲販売も行う予定。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-06",
@@ -366,6 +385,8 @@
     "summary": "・徳島市の遠藤市長は11月6日の定例会見で、11月13日に行われる、後藤田知事と和歌山県知事との南海フェリーに関する直接協議に、参加する意向を示しました。\n・（徳島市・遠藤彰良 市長）「南海フェリーが存続して欲しいという思いは、誰しも持っている。\n・遠藤市長は今回、県から連絡を受け、協議への参加を決めたということです。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県知事との南海フェリー協議 遠藤市長が参加する意向【徳島】（2026年11月6日掲載）｜JRT NEWS NNN",
@@ -373,9 +394,7 @@
         "source": "日テレNEWS NNN",
         "published_at": "2026-11-06 18:00"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-06",
@@ -428,6 +447,19 @@
     "importance_score": 12,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-06",
+    "title": "救マーク認定施設 新規登録情報！！（山田さつきこども園）",
+    "url": "https://www.city.hashimoto.lg.jp/guide/shobohonbu/oshirase/oshirase/23681.html",
+    "source": "橋本市",
+    "published_at": "2026-11-06 16:37",
+    "summary": "・「山田さつきこども園」が橋本市消防本部の救マーク認定施設として登録されました。\n・同施設は、橋本市の子どもたちが楽しく過ごすことができるこども園です。\n・このたび、救マーク認定制度の基準を満たしていただき、当本部で救マーク認定施設として認定しました。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-06",
@@ -595,6 +627,8 @@
     "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・和歌山県の落雷地点・雷予報をチェック！\n・2026年11月の和歌山県の雨雲レーダーを見る。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
@@ -602,9 +636,7 @@
         "source": "tenki.jp",
         "published_at": "2026-11-06 00:52"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-06",
