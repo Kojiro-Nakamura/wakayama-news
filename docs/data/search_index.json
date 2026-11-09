@@ -1,5 +1,51 @@
 [
   {
+    "article_date": "2026-11-09",
+    "title": "秋篠宮ご夫妻 紀州備長炭で作られた「炭琴」でドレミの歌を”デュエット” 和歌山・みなべ町",
+    "url": "https://news.yahoo.co.jp/articles/32618c0013db1f6975cf8665c3880e5e97f8def7",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-09 06:55",
+    "summary": "・和歌山県を訪問していた秋篠宮ご夫妻は、備長炭で作った楽器「炭琴」の音色を確かめられました。\n・8日午後、秋篠宮ご夫妻はみなべ町にある特産の紀州備長炭の歴史や伝統的な製造技術を伝える施設を訪問されました。\n・秋篠宮さまは「備長炭を焼くときの温度は?」と尋ねられ、紀子さまは備長炭で作った風鈴の音色について「澄んでいますね」と話されました。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "秋篠宮ご夫妻 紀州備長炭で作られた「炭琴」でドレミの歌を”デュエット” 和歌山・みなべ町",
+        "url": "https://www.chiba-tv.com/plus/detail/2026112204348",
+        "source": "千葉テレビ放送株式会社",
+        "published_at": "2026-11-09 06:53"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-08",
+    "title": "《ブラジル》熊野古道の魅力、ブラジルで発信＝３県人会と各県庁が連携＝ジャパンハウスに１２３１人",
+    "url": "https://news.yahoo.co.jp/articles/8369e4e0cc065eade18d9d7daafc851bde90901a",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-08 23:15",
+    "summary": "・三重、和歌山、奈良の３県人会と各県庁による熊野古道の紹介イベント「Kumano Kodo: caminho de peregrinação para o futuro（熊野古道―未来への巡礼の道）」が１０月１８日、サンパウロ市のジャパンハウスで開催され、１２３１人が来場した。\n・山田氏は、熊野古道が通る３県がブラジルで連携し、イベントを成功させたことを歓迎。\n・３県人会は熊野古道の名物料理「めはり寿司」を紹介し、来場者の関心を集めた。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-08",
+    "title": "（和歌山）広川町上津木でクマ出没　１１月８日",
+    "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1492116436188889665",
+    "source": "ｄメニューニュース",
+    "published_at": "2026-11-08 19:55",
+    "summary": "・和歌山県警によると、１１月８日午後７時頃、広川町上津木で、クマが出没しました。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
     "article_date": "2026-11-08",
     "title": "全国高校ラグビー和歌山大会準決勝、近大和歌山と和歌山工業が勝つ",
     "url": "https://news.wbs.co.jp/221591",
@@ -8,9 +54,9 @@
     "summary": "・全国高校ラグビー和歌山大会の準決勝がきょう（８日）、和歌山市の紀三井寺公園陸上競技場で行われ、近大附属和歌山と和歌山工業が勝ちました。\n・準決勝第１試合、近大和歌山 対 和歌山南陵・新宮連合は、７７対７で近大和歌山が、第２試合の熊野 対 和歌山工業は、８２対０で和歌山工業がそれぞれ勝ちました。\n・決勝は、近大和歌山と和歌山工業の対戦で、今月（１１月）１４日、午後１時１０分キックオフです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 26,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-08",
@@ -21,6 +67,8 @@
     "summary": "・大相撲九州場所がきょう（８日）、福岡市の福岡国際センターで開幕しました。\n・有田市出身の幕下、藤壮大(ふじそうだい)と、紀の川市出身の三段目、千代雷山(ちよらいざん)は、この日、取組はありませんでした。\n・和歌山県出身ではありませんが、県立箕島高校ＯＢで、幕内・前頭筆頭の藤凌駕(ふじりょうが)は、大関の琴桜(ことざくら)を押し出しで下し、１勝０敗の白星発進となりました。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 26,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【大相撲】九州場所開幕、和歌山県出身力士、取組なし",
@@ -28,9 +76,7 @@
         "source": "au Webポータル",
         "published_at": "2026-11-08 17:42"
       }
-    ],
-    "importance_score": 26,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-08",
@@ -41,9 +87,9 @@
     "summary": "・和歌山市の近鉄百貨店和歌山店で、１２日から、「食品サンプル展」が初めて開催されます。\n・ここでは、大阪に本社がある食品サンプルのパイオニア、株式会社いわさきの最新作品のほか、本物よりおいしそうなリアルな作品から実物ではありえない奇想天外な表現、また、くすっと笑えるアイデア作品など、職人の技が詰まった展示を楽しむことができます。\n・「食品サンプル展２０２６ ｉｎ 和歌山」は、１１月１２日から２３日まで、近鉄百貨店和歌山店・５階催事場で開かれます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-08",
@@ -54,9 +100,9 @@
     "summary": "・秋の近畿高校軟式野球大会が、きのう（７日）、奈良県橿原市(かしはらし)のさとやくスタジアムで開幕し、１回戦２試合が行われました。\n・このうち第２試合で、和歌山の耐久(たいきゅう)が滋賀の比叡山(ひえいざん)と対戦し、２対４で敗れました。\n・初回４点を先制した比叡山に対し、耐久は７回に２点を返しましたが及びませんでした。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-08",
@@ -67,9 +113,9 @@
     "summary": "・京奈和自動車道の奈良県・橿原高田(かしはらたかだ)インターチェンジから橋本市の橋本東(はしもとひがし)インターチェンジまでの上下線が、あす（９日）から今月（１１月）１３日まで、夜間通行止めとなります。\n・通行止めの時間は、毎日・午後８時から翌朝６時までで、迂回路は国道２４号などです。\n・道路を管理する国土交通省・和歌山河川国道事務所によりますと、ワイヤーロープ式防護柵の修繕や舗装修繕、トンネル照明工事などのための夜間通行止めです。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-08",
@@ -80,6 +126,8 @@
     "summary": "・第４９回全国育樹祭は、今日、２日目を迎え、秋篠宮ご夫妻ご臨席の式典行事が、白浜町で行われました。\n・式典行事は、今日、白浜町の白浜会館で行われました。\n・全国育樹祭は、継続して森を守り育てることの大切さを普及啓発し、活力ある森林を次世代につなげていくことを目的に、昭和５２年から行われています。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 75,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山県白浜町：秋篠宮ご夫妻、全国育樹祭の式典に出席…緑化活動の功労者に「深く敬意を表します」",
@@ -105,9 +153,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-08 10:45"
       }
-    ],
-    "importance_score": 75,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-08",
@@ -118,6 +164,8 @@
     "summary": "・森を守り育てる大切さを普及・啓発する「第４９回全国育樹祭」の中心となる式典行事が、きょう（８日）午前、白浜町の白浜会館で、全国からおよそ２千人が参加して開かれ、秋篠宮ご夫妻が出席されました。\n・主催者の挨拶のあと、秋篠宮さまは、「昨日(さくじつ)の行事で、１５年前に当時の天皇皇后両陛下がお手植えされた木々が大きく成長していることを大変嬉しく思いました。\n・本大会を契機として、育て・使うという循環の意識が和歌山から全国に広がっていくことを祈念いたします」とお言葉を述べられました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 35,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "第４９回全国育樹祭の式典行事、白浜町で２千人が参加して開催／和歌山",
@@ -125,9 +173,7 @@
         "source": "au Webポータル",
         "published_at": "2026-11-08 17:54"
       }
-    ],
-    "importance_score": 35,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-08",
@@ -138,6 +184,8 @@
     "summary": "・和歌山の食と農と音楽の祭典「ココカラ和歌山フェス」が、きょう（８日）、和歌山市の和歌山城公園・砂の丸広場で開かれ、にぎわいました。\n・これは、ＪＡわかやまが、合併を機に去年（２０２５年）から開催しているもので、全国に誇る和歌山の農産物と地元のおいしい食、それに、親しみのある音楽を提供しようというイベントです。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 29,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "ＪＡわかやま「ココカラ和歌山フェス」",
@@ -145,9 +193,7 @@
         "source": "au Webポータル",
         "published_at": "2026-11-08 17:46"
       }
-    ],
-    "importance_score": 29,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-08",
@@ -158,6 +204,8 @@
     "summary": "・和歌山市に本社があるスーパーマーケットのヒダカヤでは、中学生が考案した「世界のおにぎり」の商品化を進めていて、近く店頭販売を予定しています。\n・これは、創業８０周年のヒダカヤが、地域の次の世代を担う中学生とともに、食を通じた新しい価値づくりに挑戦する取組で、先月（１０月）下旬、和歌山市の近畿大学附属和歌山中学校１年３組の生徒による商品企画プレゼンテーションが行われました。\n・これを受け、ヒダカヤの惣菜担当者が、商品としての実現可能性を検討し、試作や味の調整、製造方法の確認などを進めていて、今月（１１月）２１日、和歌山市黒田(くろだ)のヒダカヤ黒田店で販売される予定です。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 29,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "中学生考案の世界のおにぎりを店頭販売へ／和歌山",
@@ -165,9 +213,7 @@
         "source": "au Webポータル",
         "published_at": "2026-11-08 17:44"
       }
-    ],
-    "importance_score": 29,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-08",
@@ -178,9 +224,9 @@
     "summary": "・岐阜市の秋を彩る「ぎふ信長まつり」は８日、市中心市街地の金華橋通りでメイン行事の「信長公騎馬武者行列」があり、濃姫役の関市出身のアーティストＬｉＳＡさんらが、時代衣装に身を包みにこやかに街を練った。\n・ぎふ信長まつりの騎馬武者行列で濃姫役を務めたＬｉＳＡさん＝８日午後１時４０分、岐阜市高野町（撮影・堀尚人）。\n・織田信長役の森永悠希さん＝８日午後１時２６分、岐阜市神室町（撮影・堀尚人）。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-08",
@@ -191,16 +237,22 @@
     "summary": "・＜復活時の記事＞33年ぶりのあの味「祖父に怒られないように」　名店フジヤ食堂。\n・工場火災から2カ月　酒造会社社長「復活に向かってる」　和歌山。\n・「梅酒ヌーボー」蔵出し始まる　20日に解禁　和歌山の酒造会社。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 41,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "名物「ミンチボール」の味も守り 和歌山のフジヤ食堂復活7周年（毎日新聞）",
         "url": "https://news.yahoo.co.jp/articles/a1530303291214cf5788c9b88d09bd8a2f914212",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-08 16:27"
+      },
+      {
+        "title": "名物「ミンチボール」の味も守り　和歌山のフジヤ食堂復活7周年",
+        "url": "https://news.infoseek.co.jp/article/mainichi_20261108k0000m310074000c/",
+        "source": "Infoseek",
+        "published_at": "2026-11-08 16:26"
       }
-    ],
-    "importance_score": 26,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-08",
@@ -211,9 +263,9 @@
     "summary": "・和歌山県南部には、新鮮な海の幸や柑橘を使ったスイーツなど、その土地ならではのグルメが数多くあります。\n・和歌山での生活は約3か月になりますが、休日にはキャラバンで串本や白浜、田辺方面へ出かけ、さまざまな飲食店を巡ってきました。\n・白浜から串本へのドライブや、田辺方面を訪れる際の食事処選びの参考にしてください。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-08",
@@ -224,6 +276,8 @@
     "summary": "・作家の中上健次（１９４６～９２年）は、故郷である和歌山県新宮市の土地や人間関係をモデルとした「路地」を舞台に、「紀州熊野サーガ」と呼ばれる小説を書き継いだ。\n・和歌山県新宮市、丹鶴スタジオ、丹鶴ホール（図書館）、神倉神社、ＪＲ新宮駅。\n・「徐福寿司」の名物「さんま姿寿司」＝和歌山県新宮市。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 30,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【旅】失われた「路地」を追って 中上健次の和歌山・新宮",
@@ -231,9 +285,7 @@
         "source": "静岡新聞DIGITAL",
         "published_at": "2026-11-08 16:00"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-08",
@@ -244,6 +296,8 @@
     "summary": "・和歌山城公園で菊花展、２３日まで和歌山放送ニュース11/08 14:4111/8(日) 14:41 配信和歌山放送ニュース続きを読む（外部サイト）出典元: 和歌山放送ニュース。\n・和歌山市の和歌山城公園で、恒例の菊花展が開かれ、散策をする人や観光客らを楽しませています。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山城公園で菊花展、２３日まで",
@@ -251,9 +305,7 @@
         "source": "WBS和歌山放送ニュース",
         "published_at": "2026-11-08 14:41"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-08",
@@ -264,9 +316,16 @@
     "summary": "・第１０５回全国高校サッカー選手権大会和歌山大会（和歌山県サッカー協会、県高校体育連盟、テレビ和歌山主催、読売新聞社など後援）の準決勝が７日、和歌山市の紀三井寺公園陸上競技場で行われた。\n・連覇を目指す初芝橋本が和歌山北を破り、２年ぶりの優勝を狙う近大和歌山が桐蔭に競り勝った。\n・近大和歌山は１３分、ゴール前への浮き球をＦＷ宮井快琉選手が頭で合わせて先制ゴール。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 18,
-    "is_featured": false
+    "importance_score": 33,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "いよいよ決勝カード決まる和歌山「高校サッカー」近大和歌山と初芝橋本が激突",
+        "url": "https://www.yomiuri.co.jp/local/kansai/news/20261108-GYO1T00021/",
+        "source": "読売新聞",
+        "published_at": "2026-11-08 13:07"
+      }
+    ]
   },
   {
     "article_date": "2026-11-08",
@@ -277,9 +336,9 @@
     "summary": "・和歌山県海南市の酒造メーカーで、６月に漬け込んだ梅酒の新酒「梅酒ＮＯＵＶＥＡＵ」が仕上がりました。\n・海南市の酒造メーカー「中野ＢＣ」では、梅酒杜氏らがタンクに詰められた約２２万粒の梅を取り出した後、新酒の出来栄えを確かめていました。\n・とてもいい梅酒に仕上がっております」　「梅酒ＮＯＵＶＥＡＵ」はアルコール度数が２０度と高めの原酒で、出来たての味わいと梅本来の香りが楽しめるということです。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-08",
@@ -290,15 +349,34 @@
     "summary": "・和歌山県海南市藤白の酒造会社「中野BC」で、今年仕込んだ梅酒の新酒「梅酒NOUVEAU（ヌーボー）」の蔵出しが始まり、作業工程を6日、報道関係者に公開した。\n・通常は半年から1年かけて熟成させるが、「ヌーボー」はすぐに瓶詰め。\n・解禁は20日で、一升瓶1万本に相当する約1万8000リットルが国内外へ出荷される。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 41,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "「梅酒ヌーボー」蔵出し始まる 20日に解禁 和歌山の酒造会社",
         "url": "https://article.auone.jp/d24a0f91-d0a5-4a6f-bc39-bafd51f5c30a",
         "source": "au Webポータル",
         "published_at": "2026-11-08 12:15"
+      },
+      {
+        "title": "「梅酒ヌーボー」蔵出し始まる 20日に解禁 和歌山の酒造会社（毎日新聞）",
+        "url": "https://news.yahoo.co.jp/articles/a9392fe02342a404f145d0c923e5401b468a5217",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-08 12:15"
       }
-    ],
-    "importance_score": 26,
+    ]
+  },
+  {
+    "article_date": "2026-11-08",
+    "title": "工場火災から2カ月 酒造会社社長「復活に向かってる」 和歌山",
+    "url": "https://mainichi.jp/articles/20261107/k00/00m/310/061000c",
+    "source": "毎日新聞",
+    "published_at": "2026-11-08 12:15",
+    "summary": "・和歌山県海南市藤白の酒造会社「中野BC」で、焼酎蔵など3棟が焼けた工場火災は発生から2カ月余りがたった。\n・中野幸治社長（51）は「元気だということが皆さんに伝われば」と前を向く。\n・8月27日午後5時25分ごろ、工場内で「建物の天井が燃えている」と社員から119番があった。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 11,
     "is_featured": false
   },
   {
@@ -310,6 +388,8 @@
     "summary": "・和歌山市の和歌山城公園では、立冬(りっとう)のきのう（７日）、およそ２５０本ある松の木にこもをまく作業が行われました。\n・これは、和歌山城公園の恒例の冬支度の一つで、朝から職員が出て、松の根元から１メートルほどの高さの幹に、わらで編んだむしろ状のこもを１本１本巻き付けて、縄で縛りつけました。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 41,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "立冬、和歌山城公園の冬支度、松にこも巻き",
@@ -323,9 +403,46 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-08 10:45"
       }
-    ],
-    "importance_score": 41,
-    "is_featured": true
+    ]
+  },
+  {
+    "article_date": "2026-11-08",
+    "title": "秋篠宮ご夫妻和歌山を訪問 育樹祭、樹木手入れ",
+    "url": "https://www.minpo.jp/articles/-/269595",
+    "source": "福島民報デジタル",
+    "published_at": "2026-11-08 11:00",
+    "summary": "・秋篠宮ご夫妻は７日、全国育樹祭の式典出席などのため、和歌山県を訪問された。\n・この日は田辺市の新庄総合公園で関連行事が開かれ、上皇ご夫妻が在位中の２０１１年に全国植樹祭で植えた樹木の手入れをした。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-08",
+    "title": "秋篠宮ご夫妻「育樹祭」のため和歌山入り 上皇ご夫妻が植樹した樹木を手入れ 関心寄せる地域おこし協力隊とも交流",
+    "url": "https://news.yahoo.co.jp/articles/047c85566253b6dff4722bece3b102ebe55dc427",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-08 06:35",
+    "summary": "・8日、「全国育樹祭」に出席するため、和歌山県を訪問中の秋篠宮ご夫妻は、県内で活動する地域おこし協力隊と交流されました。\n・ご夫妻は7日、和歌山・すさみ町を訪れ、県内で活動する地域おこし協力隊と懇談されました。\n・これに先立ち、ご夫妻は2011年の全国植樹祭で上皇ご夫妻が植えられた木を手入れする行事に臨まれました。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-08",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-11-08 05:40",
+    "summary": "・和歌山県の雨雲レーダー(実況)09日09:15発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-08",
@@ -349,9 +466,9 @@
     "summary": "・立冬の7日、和歌山市の和歌山城公園で、松を害虫から守る「こも巻き」があった。\n・恒例の冬支度で、市職員9人が手分けし、一日がかりで約250本の幹にわらで編んだこもを巻き付けた。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-08",
@@ -388,7 +505,7 @@
     "summary": "・森を守り育てる大切さを普及・啓発する「第４９回全国育樹祭」が、きょう（７日）和歌山県内で始まり、秋篠宮ご夫妻が田辺市でお手入れ行事に臨まれました。\n・風の強い晴天となったきょう（７日）午後、田辺市の新庄総合公園で行われた「お手入れ(おていれ)行事」には、秋篠宮ご夫妻をはじめ、関係者およそ２００人が出席しました。\n・秋篠宮ご夫妻は、２０１１年に和歌山県で開かれた第６２回全国植樹祭で、当時の天皇皇后両陛下がお手植えされたウバメガシとイチイガシの樹をお手入れされました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 185,
+    "importance_score": 200,
     "is_featured": true,
     "related_articles": [
       {
@@ -456,6 +573,12 @@
         "url": "https://news.infoseek.co.jp/article/yomiuri_20261107_gyt1t00178/",
         "source": "Infoseek",
         "published_at": "2026-11-07 17:26"
+      },
+      {
+        "title": "秋篠宮ご夫妻「育樹祭」のため和歌山入り 上皇ご夫妻が植樹のウバメガシを枝を手入れ（FNNプライムオンライン（フジテレビ系））",
+        "url": "https://news.yahoo.co.jp/articles/099a2500a2048e4c6838b16f5ee6e4aa2078fc64",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-07 18:35"
       }
     ]
   },
@@ -1474,7 +1597,7 @@
     "summary": "・徳島市の遠藤市長は11月6日の定例会見で、11月13日に行われる、後藤田知事と和歌山県知事との南海フェリーに関する直接協議に、参加する意向を示しました。\n・（徳島市・遠藤彰良 市長）「南海フェリーが存続して欲しいという思いは、誰しも持っている。\n・遠藤市長は今回、県から連絡を受け、協議への参加を決めたということです。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": false,
     "related_articles": [
       {
@@ -1482,21 +1605,34 @@
         "url": "https://news.ntv.co.jp/n/jrt/category/society/jr52b71e9241b041d5802237c2ca40b98f",
         "source": "日テレNEWS NNN",
         "published_at": "2026-11-06 18:00"
+      },
+      {
+        "title": "和歌山県知事との南海フェリー協議 遠藤市長が参加する意向【徳島】（JRT四国放送）",
+        "url": "https://news.yahoo.co.jp/articles/f430fad659b57a5d880ff88cf4ca3d26f57572a1",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-06 18:00"
       }
     ]
   },
   {
     "article_date": "2026-11-06",
-    "title": "【わたしの里山】庄原市高野町で発見！謎の植物の正体は？ビールの原料「ホップ」だった！ 広島",
-    "url": "https://www.fnn.jp/articles/-/1147555",
-    "source": "FNNプライムオンライン",
-    "published_at": "2026-11-06 18:36",
-    "summary": "・「わたしの里山」では私が県内のさまざまな中山間地にお邪魔して中山間地域の知られざる魅力を調べ、発信しようというコーナーです。\n・今回は庄原市高野町の最終です。\n・すっぽんを育てる養殖場や秋の高野町で旬の野菜を大満喫！",
+    "title": "【わたしの里山】庄原市高野町で発見！謎の植物の正体は？ビールの原料「ホップ」だった！ 広島（テレビ新広島）",
+    "url": "https://news.yahoo.co.jp/articles/7fa7be011bf83bf09212e79fb88a8aa7c3c368fa",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-06 18:37",
+    "summary": "・「わたしの里山」では私が県内のさまざまな中山間地にお邪魔して中山間地域の知られざる魅力を調べ、発信しようというコーナーです。\n・今回は庄原市高野町の最終です。\n・テレビ新広島の辰已と申します。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【わたしの里山】庄原市高野町で発見！謎の植物の正体は？ビールの原料「ホップ」だった！ 広島",
+        "url": "https://www.fnn.jp/articles/-/1147555",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-11-06 18:36"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-06",
@@ -1789,9 +1925,16 @@
     "summary": "・ライフジャケットを身につけ避難先に向かう子どもや職員たち=2026年11月5日午前10時10分、和歌山県田辺市、菊地洋行撮影。\n・「世界津波の日」の5日、和歌山県田辺市内の幼稚園や保育所では、南海トラフ地震に伴う津波の避難訓練があった。\n・0〜5歳の幼児27人と職員16人が参加した「みどり保育所」（同市末広町）は海に近く、津波浸水区域にある。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 9,
+    "importance_score": 24,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "田辺市の幼稚園、保育所で津波避難訓練 子どもや職員540人参加（朝日新聞）",
+        "url": "https://news.yahoo.co.jp/articles/41b3031948af6c88cc3bde2a67865999b541e936",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-06 10:45"
+      }
+    ]
   },
   {
     "article_date": "2026-11-06",
@@ -2561,212 +2704,5 @@
         "published_at": "2026-11-05 10:00"
       }
     ]
-  },
-  {
-    "title": "「世界津波の日」和歌山市の小学校で大津波想定の避難訓練",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261105de70889",
-    "source": "NHKニュース",
-    "published_at": "2026-11-05 13:23",
-    "importance_score": 128,
-    "is_featured": true,
-    "summary": "・「世界津波の日」和歌山市の小学校で大津波想定の避難訓練。",
-    "related_articles": [
-      {
-        "title": "「世界津波の日」に和歌山・広川町で津波避難訓練　地元の小学生ら約３５０人参加",
-        "url": "https://topics.smt.docomo.ne.jp/article/abcnews/region/abcnews-63425?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-11-05 12:40"
-      },
-      {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://smart.shimotsuke.co.jp/articles/-/1453535",
-        "source": "下野新聞社",
-        "published_at": "2026-11-05 11:23"
-      },
-      {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://www.fukuishimbun.co.jp/articles/-/2739482",
-        "source": "福井新聞社",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://www.saitama-np.co.jp/articles/221763",
-        "source": "埼玉新聞",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "「世界津波の日」和歌山市の小学校で大津波想定の避難訓練",
-        "url": "https://news.web.nhk/newsweb/na/nd-20261105de70843",
-        "source": "NHKニュース",
-        "published_at": "2026-11-05 12:45"
-      },
-      {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://www.chugoku-np.co.jp/articles/-/919940",
-        "source": "中国新聞デジタル",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "「世界津波の日」に和歌山・広川町で津波避難訓練　地元の小学生ら約３５０人参加",
-        "url": "https://news.infoseek.co.jp/article/abcnews_63425/",
-        "source": "Infoseek",
-        "published_at": "2026-11-05 12:40"
-      },
-      {
-        "title": "「世界津波の日」に和歌山・広川町で津波避難訓練 地元の小学生ら約３５０人参加",
-        "url": "https://news.yahoo.co.jp/articles/96c9a99408241a2667304375f1decc07be3afd9d",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-11-05 12:40"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-05",
-    "title": "「逃げろ！逃げろ！」 きょう＝11月5日の「世界津波の日」に合わせて津波の避難訓練 制定のきっかけとなった逸話「稲むらの火」の舞台・和歌山・広川町で",
-    "url": "https://www.fnn.jp/articles/-/1146483",
-    "source": "FNNプライムオンライン",
-    "published_at": "2026-11-05 12:21",
-    "summary": "・和歌山県広川町では津波の避難訓練が行われました。\n・和歌山県広川町では南海トラフ巨大地震による津波が発生したと想定して、走行中の列車から乗客らが避難する訓練が行われました。\n・1854年に広川町を津波が襲った際、濱口梧陵が稲のわらに火をつけて村人を高台に導いた「稲むらの火」の逸話をきっかけに、国連は11月5日を「世界津波の日」に定めました。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 36,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "【世界津波の日】和歌山県で“大津波警報の発表を想定”した避難訓練 印南町には高さ1mの津波が11分で到達するとされる場所も | MBSニュース | 関西の最新ニュースを分かりやすく。",
-        "url": "https://newsdig.tbs.co.jp/articles/mbs/3063064",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-11-05 12:02"
-      },
-      {
-        "title": "【世界津波の日】和歌山県で“大津波警報の発表を想定”した避難訓練 印南町には高さ1mの津波が11分で到達するとされる場所も",
-        "url": "https://news.infoseek.co.jp/article/mbs_3063064/",
-        "source": "Infoseek",
-        "published_at": "2026-11-05 12:02"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-05",
-    "title": "津波避難訓練で、緊急停止した列車から高台を目指す小学生ら＝5日午前、和歌山県広川町 - 和歌山で津波避難訓練 「逃げろ」列車から高台へ - 写真・画像(1/1)",
-    "url": "https://www.nishinippon.co.jp/image/1099703/",
-    "source": "西日本新聞me",
-    "published_at": "2026-11-05 11:43",
-    "summary": "・津波避難訓練で、緊急停止した列車から高台を目指す小学生ら＝5日午前、和歌山県広川町｜西日本新聞meは、九州のニュースを中心に最新情報を伝えるニュースサイトです。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 90,
-    "is_featured": true,
-    "related_articles": [
-      {
-        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
-        "url": "https://www.hokkaido-np.co.jp/article/1402784/",
-        "source": "北海道新聞デジタル",
-        "published_at": "2026-11-05 11:24"
-      },
-      {
-        "title": "「逃げろ」列車から高台へ！ 和歌山で津波避難訓練",
-        "url": "https://www.sankei.com/article/20261105-DGQZXS7OU5JXPGWYLKOJ3N3RHY/",
-        "source": "産経ニュース",
-        "published_at": "2026-11-05 11:17"
-      },
-      {
-        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
-        "url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate=National&no=2026110501000560",
-        "source": "山形新聞",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
-        "url": "https://ryukyushimpo.jp/kyodo/entry-5589906.html",
-        "source": "琉球新報デジタル",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
-        "url": "https://www.nnn.co.jp/articles/-/825163",
-        "source": "日本海新聞",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ:社会",
-        "url": "https://www.minyu-net.com/newspack/detail/2026110501000560",
-        "source": "福島民友新聞社",
-        "published_at": "2026-11-05 11:16"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-05",
-    "title": "那智勝浦町、国内外の14都市への距離を示す道標お披露目 和歌山 [和歌山県]",
-    "url": "https://www.asahi.com/articles/ASVC44C9NVC4PXLB004M.html",
-    "source": "朝日新聞",
-    "published_at": "2026-11-05 10:45",
-    "summary": "・那智勝浦町、国内外の14都市への距離を示す道標お披露目 和歌山 [和歌山県]。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 35,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "那智勝浦町、国内外の14都市への距離を示す道標お披露目 和歌山（朝日新聞）",
-        "url": "https://news.yahoo.co.jp/articles/f95342abfde62652acf5a4bcda41949a6a1fd947",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-11-05 10:45"
-      },
-      {
-        "title": "那智勝浦町、国内外の14都市への距離を示す道標お披露目　和歌山",
-        "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVC44C9NVC4PXLB004M",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-11-05 10:45"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-05",
-    "title": "佐藤春夫筆塚の前で筆供養 出身の新宮市で 書道の上達願う（朝日新聞）",
-    "url": "https://news.yahoo.co.jp/articles/277cfd12e666bec0adcfef47c695aef9b9642279",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-05 10:45",
-    "summary": "・文化の日の3日、使い古した筆に感謝して書道の上達を願う「筆供養」が、和歌山県新宮市下本町2丁目の丹鶴ホール敷地内であった。\n・約80人が出席し、市出身の文豪・佐藤春夫が愛用した万年筆や毛筆を納めた筆塚前に置かれた箱に古筆を入れて供養した。\n・【写真】筆塚の前の箱に古い筆を納める人たち=2026年11月3日午前、和歌山県新宮市下本町2丁目、菊地洋行撮影　公益財団法人佐藤春夫記念会と市教育委員会の主催で、60年の歴史がある。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 24,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "佐藤春夫筆塚の前で筆供養 出身の新宮市で 書道の上達願う [和歌山県]",
-        "url": "https://www.asahi.com/articles/ASVC44CFBVC4PXLB006M.html",
-        "source": "朝日新聞",
-        "published_at": "2026-11-05 10:45"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-05",
-    "title": "【楽待】和歌山県和歌山市 1棟アパート | 収益物件数No.1不動産投資サイト",
-    "url": "https://www.rakumachi.jp/syuuekibukken/kansai/wakayama/dim1002/3788486/show.html",
-    "source": "rakumachi.jp",
-    "published_at": "2026-11-05 10:28",
-    "summary": "・【楽待】和歌山県和歌山市 1棟アパート | 収益物件数No.1不動産投資サイト。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-05",
-    "title": "【11月4日（水）】コロナ禍以来数年ぶりの再開になったとのことですが、岩出市更生保護女性会と保...",
-    "url": "https://go2senkyo.com/seijika/156562/posts/1569027",
-    "source": "選挙ドットコム",
-    "published_at": "2026-11-05 10:19",
-    "summary": "・【11月4日（水）】コロナ禍以来数年ぶりの再開になったとのことですが、岩出市更生保護女性会と保...",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
   }
 ]

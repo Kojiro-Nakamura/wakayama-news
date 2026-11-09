@@ -391,7 +391,7 @@
     "summary": "・徳島市の遠藤市長は11月6日の定例会見で、11月13日に行われる、後藤田知事と和歌山県知事との南海フェリーに関する直接協議に、参加する意向を示しました。\n・（徳島市・遠藤彰良 市長）「南海フェリーが存続して欲しいという思いは、誰しも持っている。\n・遠藤市長は今回、県から連絡を受け、協議への参加を決めたということです。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": false,
     "related_articles": [
       {
@@ -399,21 +399,34 @@
         "url": "https://news.ntv.co.jp/n/jrt/category/society/jr52b71e9241b041d5802237c2ca40b98f",
         "source": "日テレNEWS NNN",
         "published_at": "2026-11-06 18:00"
+      },
+      {
+        "title": "和歌山県知事との南海フェリー協議 遠藤市長が参加する意向【徳島】（JRT四国放送）",
+        "url": "https://news.yahoo.co.jp/articles/f430fad659b57a5d880ff88cf4ca3d26f57572a1",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-06 18:00"
       }
     ]
   },
   {
     "article_date": "2026-11-06",
-    "title": "【わたしの里山】庄原市高野町で発見！謎の植物の正体は？ビールの原料「ホップ」だった！ 広島",
-    "url": "https://www.fnn.jp/articles/-/1147555",
-    "source": "FNNプライムオンライン",
-    "published_at": "2026-11-06 18:36",
-    "summary": "・「わたしの里山」では私が県内のさまざまな中山間地にお邪魔して中山間地域の知られざる魅力を調べ、発信しようというコーナーです。\n・今回は庄原市高野町の最終です。\n・すっぽんを育てる養殖場や秋の高野町で旬の野菜を大満喫！",
+    "title": "【わたしの里山】庄原市高野町で発見！謎の植物の正体は？ビールの原料「ホップ」だった！ 広島（テレビ新広島）",
+    "url": "https://news.yahoo.co.jp/articles/7fa7be011bf83bf09212e79fb88a8aa7c3c368fa",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-06 18:37",
+    "summary": "・「わたしの里山」では私が県内のさまざまな中山間地にお邪魔して中山間地域の知られざる魅力を調べ、発信しようというコーナーです。\n・今回は庄原市高野町の最終です。\n・テレビ新広島の辰已と申します。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【わたしの里山】庄原市高野町で発見！謎の植物の正体は？ビールの原料「ホップ」だった！ 広島",
+        "url": "https://www.fnn.jp/articles/-/1147555",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-11-06 18:36"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-06",
@@ -706,9 +719,16 @@
     "summary": "・ライフジャケットを身につけ避難先に向かう子どもや職員たち=2026年11月5日午前10時10分、和歌山県田辺市、菊地洋行撮影。\n・「世界津波の日」の5日、和歌山県田辺市内の幼稚園や保育所では、南海トラフ地震に伴う津波の避難訓練があった。\n・0〜5歳の幼児27人と職員16人が参加した「みどり保育所」（同市末広町）は海に近く、津波浸水区域にある。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 9,
+    "importance_score": 24,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "田辺市の幼稚園、保育所で津波避難訓練 子どもや職員540人参加（朝日新聞）",
+        "url": "https://news.yahoo.co.jp/articles/41b3031948af6c88cc3bde2a67865999b541e936",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-06 10:45"
+      }
+    ]
   },
   {
     "article_date": "2026-11-06",
