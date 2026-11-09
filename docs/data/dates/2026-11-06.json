@@ -371,6 +371,19 @@
   },
   {
     "article_date": "2026-11-06",
+    "title": "和歌山市中心部のイルミネーション21日から 電球飾りつけ進む",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71620",
+    "source": "NHKニュース",
+    "published_at": "2026-11-06 19:15",
+    "summary": "・和歌山市中心部のイルミネーション21日から 電球飾りつけ進む。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-06",
     "title": "熊野古道「安居の渡し」人気インフルエンサーが船頭デビュー",
     "url": "https://news.web.nhk/newsweb/na/nd-20261106de71395",
     "source": "NHKニュース",
@@ -417,6 +430,8 @@
     "summary": "・「わたしの里山」では私が県内のさまざまな中山間地にお邪魔して中山間地域の知られざる魅力を調べ、発信しようというコーナーです。\n・今回は庄原市高野町の最終です。\n・テレビ新広島の辰已と申します。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【わたしの里山】庄原市高野町で発見！謎の植物の正体は？ビールの原料「ホップ」だった！ 広島",
@@ -424,9 +439,7 @@
         "source": "FNNプライムオンライン",
         "published_at": "2026-11-06 18:36"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-06",
