@@ -378,9 +378,9 @@
     "summary": "・和歌山市中心部のイルミネーション21日から 電球飾りつけ進む。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-06",
@@ -456,16 +456,23 @@
   },
   {
     "article_date": "2026-11-06",
-    "title": "【高野山・霜月】晩秋に華やぐ山上の聖地…針葉樹の新緑に浮かぶモミジ・イチョウの赤や黄色",
-    "url": "https://www.yomiuri.co.jp/local/kansai/news/20261106-GYO1T00103/",
-    "source": "読売新聞",
-    "published_at": "2026-11-06 18:00",
+    "title": "【高野山・霜月】晩秋に華やぐ山上の聖地…針葉樹の新緑に浮かぶモミジ・イチョウの赤や黄色 （読売新聞オンライン）",
+    "url": "https://news.yahoo.co.jp/articles/bb28b1f567485c8ab55d86cf2cf852dc610d7566",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-06 18:14",
     "summary": "・色の対照的な「補色」という言葉は、晩秋のためにあるのか。\n・針葉樹の深緑色に浮かぶように、モミジ、イチョウ、ナラ、ブナが赤や黄に染まる。\n・「高野山では夏の初めにヒグラシが鳴き、秋が始まる頃に赤とんぼが飛び、紅葉がやってくる。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 17,
-    "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【高野山・霜月】晩秋に華やぐ山上の聖地…針葉樹の新緑に浮かぶモミジ・イチョウの赤や黄色",
+        "url": "https://www.yomiuri.co.jp/local/kansai/news/20261106-GYO1T00103/",
+        "source": "読売新聞",
+        "published_at": "2026-11-06 18:00"
+      }
+    ],
+    "importance_score": 27,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-06",
