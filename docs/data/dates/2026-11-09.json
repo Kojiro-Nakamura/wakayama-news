@@ -8,9 +8,9 @@
     "summary": "・和歌山県警によると、１１月９日、和歌山市六十谷地区で、男子小学生への声かけが発生しました。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-09",
@@ -21,9 +21,9 @@
     "summary": "・今回、妹との姉妹2人旅の目的地に選んだのは、海と山、そして歴史が心地よく巡る和歌山県・田辺市。\n・そこから少し足を延ばして向かったのは、“和歌山のウユニ塩湖”としても有名な景勝地・天神崎。\n・この「あがら丼」というのは「わたしの丼（どんぶり）」という意味らしく、あがら丼として「宝来寿司」が作っているのが「ふっくら太刀魚天丼」。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-09",
@@ -34,6 +34,8 @@
     "summary": "・和歌山県（地域振興課／わかやまFUNBASE）と、渋谷駅直結の共創施設「SHIBUYA QWS（渋谷キューズ／以下、QWS）」（運営：渋谷スクランブルスクエア株式会社）は、2026年9月29日（火）、果樹王国・和歌山が誇る食の素材をテーマにした体験型共創イベント「和歌山クエスト第１章 〜果樹王国・和歌山の食の宝を掘り起こせ！〜」を開催しました。\n・■ 開催の背景：果樹王国・和歌山が直面する「規格外果実」と「知名度」の壁全国トップクラスの生産量を誇るみかんや梅、柿をはじめ、和歌山県には「幻の果実」と呼ばれる山桃やじゃばら、ぶどう山椒など、豊かな自然と歴史に育まれた魅力的な食材が数多く存在します。\n・■ 第1部：インプットトーク「果樹王国の勇者たちが語る現場のリアル」第1部では、TURNSプロデューサーの堀口正裕氏がファシリテーターを務め、和歌山県庁担当者（宮地氏）による地域と人をつなぐプラットフォーム「わかやまFUNBASE」の紹介に続き、和歌山を代表する2名の食の挑戦者が登壇しました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【開催報告】和歌山県×QWS、２５名と“果樹王国”の宝を活かす新アイデアを創発",
@@ -41,9 +43,7 @@
         "source": "産経ニュース",
         "published_at": "2026-11-09 15:00"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-09",
@@ -75,7 +75,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 47,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "珍しい白いボラ 和歌山県田辺市新庄町の川（紀伊民報）",
@@ -296,23 +296,29 @@
   },
   {
     "article_date": "2026-11-09",
-    "title": "「有吉佐和子文学賞」の作品を募集 来年1月29日まで、出身地の和歌山市",
-    "url": "https://www.sankei.com/article/20261109-ZLRVJOMK2NLWBD7Q6IIIGAPRBE/",
-    "source": "産経ニュース",
-    "published_at": "2026-11-09 19:49",
+    "title": "「有吉佐和子文学賞」の作品を募集 来年1月29日まで、出身地の和歌山市（産経新聞）",
+    "url": "https://news.yahoo.co.jp/articles/605f53c04faac51c7f7b36bcaf9e3df7a7207548",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-09 19:52",
     "summary": "・和歌山市は、同市出身の作家、有吉佐和子（1931～84年）を顕彰し、文学に触れる機会を増やすことを目的とした「第4回有吉佐和子文学賞」の作品を募集している。\n・未発表のオリジナル作品で、人工知能（AI）を使って作成したものは不可。\n・表彰式は6月に市立有吉佐和子記念館で行う予定。",
     "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 32,
-    "is_featured": false,
+    "category": "観光・文化",
     "related_articles": [
+      {
+        "title": "「有吉佐和子文学賞」の作品を募集 来年1月29日まで、出身地の和歌山市",
+        "url": "https://www.sankei.com/article/20261109-ZLRVJOMK2NLWBD7Q6IIIGAPRBE/",
+        "source": "産経ニュース",
+        "published_at": "2026-11-09 19:49"
+      },
       {
         "title": "「有吉佐和子文学賞」の作品を募集　来年1月29日まで、出身地の和歌山市",
         "url": "https://topics.smt.docomo.ne.jp/article/sankei/politics/sankei-_politics_local_ZLRVJOMK2NLWBD7Q6IIIGAPRBE",
         "source": "ｄメニューニュース",
         "published_at": "2026-11-09 19:49"
       }
-    ]
+    ],
+    "importance_score": 42,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-09",
@@ -323,6 +329,8 @@
     "summary": "・11月14日（土）御所南PA「御所の郷」（奈良県御所市）で開催される『感謝祭』に紀の川市ブースを出店！",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 60,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "11月14日（土）御所南PA「御所の郷」（奈良県御所市）で開催される『感謝祭』に紀の川市ブースを出店！",
@@ -341,10 +349,14 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000091.000173667.html",
         "source": "PR TIMES",
         "published_at": "2026-11-09 13:00"
+      },
+      {
+        "title": "11月14日（土）御所南PA「御所の郷」（奈良県御所市）で開催される『感謝祭』に紀の川市ブースを出店！",
+        "url": "https://www.jiji.com/jc/article?k=000000091.000173667&g=prt",
+        "source": "時事ドットコム",
+        "published_at": "2026-11-09 15:16"
       }
-    ],
-    "importance_score": 45,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-09",
@@ -453,6 +465,8 @@
     "summary": "・和歌山県白浜町は６日の町議会全員協議会で、２０２５年度町発注の瀬戸漁港防潮ゲート整備工事に関し、町が誤ったデータを業者に提供したことに起因する工事の一部やり直し（改造）があったと明らかにした。\n・【手作り座布団でほっこり　和歌山県白浜駅に商工会女性部の記事】　事案の概要を説明した農林水産課の冨田康高課長は「深くおわびする。\n・その後、かかった費用の９０・９１％に当たる約５２０万円を町が負担することで合意したという。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 39,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "やり直し工事 費用負担へ 防潮ゲート、業者に誤データ提供、和歌山県白浜町",
@@ -466,9 +480,7 @@
         "source": "47NEWS",
         "published_at": "2026-11-09 14:30"
       }
-    ],
-    "importance_score": 39,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-09",
@@ -479,6 +491,8 @@
     "summary": "・地域の学びやとして歴史を刻んできた小学校が相次いで創立１５０周年の節目を迎えている。\n・【田辺・西牟婁／学びやの歴史　明日へ／各校で記念行事／小学校／創立１５０周年の記事】■音を、心を一つに／和歌山県田辺市新庄小　田辺市の新庄小学校（児童１２５人）では７日、体育館で式典が開かれ、保護者や地域の卒業生ら約２００人が参加した。\n・■獅子舞が創立祝う／上富田町岡小　上富田町の岡小学校では８日、毎年恒例の「岡小まつり」に合わせて式典があり、県無形文化財「岡の獅子舞」も披露された。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "未来へ新たな一歩 新庄と岡小学校が創立１５０周年で式典、和歌山",
@@ -486,9 +500,33 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-11-09 14:30"
       }
+    ]
+  },
+  {
+    "article_date": "2026-11-09",
+    "title": "森林の大切さ伝える 全国育樹祭で従事者や児童が思い発表、和歌山（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/1f2787f17e6044e92cd13795d28ace333f2403df",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-09 16:25",
+    "summary": "・和歌山県田辺市と白浜町で７、８日に開催された全国育樹祭に合わせ、森林の大切さを次代へ伝える併催・記念行事も開かれた。\n・【秋篠宮ご夫妻 紀南到着　全国育樹祭、田辺でお手入れ行事、和歌山の記事】　上富田町にある南紀の台ホールでは７日、県と公益社団法人国土緑化推進機構（東京都）による「育林交流集会」があった。\n・■最新の林業機械ずらり／白浜空港跡地で展示実演　白浜町の旧南紀白浜空港跡地で８、９日、全国育樹祭の併催行事「森林・林業・環境機械展示実演会」が開かれた。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "森林の大切さ伝える 全国育樹祭で従事者や児童が思い発表、和歌山",
+        "url": "https://www.agara.co.jp/article/710032",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-09 14:30"
+      },
+      {
+        "title": "森林の大切さ伝える 全国育樹祭で従事者や児童が思い発表、和歌山",
+        "url": "https://www.47news.jp/15204675.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-09 14:30"
+      }
     ],
-    "importance_score": 24,
-    "is_featured": false
+    "importance_score": 51,
+    "is_featured": true
   },
   {
     "article_date": "2026-11-09",
@@ -554,26 +592,6 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-11-09",
-    "title": "森林の大切さ伝える 全国育樹祭で従事者や児童が思い発表、和歌山",
-    "url": "https://www.agara.co.jp/article/710032",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-11-09 14:30",
-    "summary": "・秋篠宮ご夫妻 紀南到着　全国育樹祭、田辺でお手入れ行事、和歌山。\n・白浜中　吹奏楽部ユニホーム／コシノジュンコさんデザイン／関連イベントで披露／２０２６わかやま　第４９回全国育樹祭。\n・和歌山県田辺市と白浜町で７、８日に開催された全国育樹祭に合わせ、森林の大切さを次代へ伝える併催・記念行事も開かれた。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 41,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "森林の大切さ伝える 全国育樹祭で従事者や児童が思い発表、和歌山",
-        "url": "https://www.47news.jp/15204675.html",
-        "source": "47NEWS",
-        "published_at": "2026-11-09 14:30"
-      }
-    ]
   },
   {
     "article_date": "2026-11-09",
@@ -675,6 +693,8 @@
     "summary": "・秋篠宮ご夫妻 紀州備長炭で作られた「炭琴」でドレミの歌を”デュエット” 和歌山・みなべ町（2026年11月09日）。",
     "summary_type": "auto",
     "category": "経済・産業",
+    "importance_score": 60,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "秋篠宮ご夫妻 紀州備長炭で作られた「炭琴」でドレミの歌を”デュエット” 和歌山・みなべ町",
@@ -700,8 +720,6 @@
         "source": "FNNプライムオンライン",
         "published_at": "2026-11-09 06:46"
       }
-    ],
-    "importance_score": 60,
-    "is_featured": true
+    ]
   }
 ]
