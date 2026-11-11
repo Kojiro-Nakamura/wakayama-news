@@ -701,13 +701,19 @@
     "summary": "・和歌山県古座川町で、特産のユズから果汁を搾り出す作業が始まっています。\n・古座川町の山あいにある平井地区は、昼と夜の寒暖差が大きく、香りの良いユズが育ちます。\n・今年は約１００トンの収穫が見込まれていて、搾り出された果汁はジュースやポン酢、ジャムなどに加工され出荷されるということです。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "importance_score": 21,
+    "importance_score": 36,
     "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山・古座川町でユズ果汁の搾り出し ジュースやポン酢に",
         "url": "https://news.yahoo.co.jp/articles/cc5b424ec718b2f37ee8d3c33e4f84247a058185",
         "source": "Yahoo!ニュース",
+        "published_at": "2026-11-04 13:01"
+      },
+      {
+        "title": "和歌山・古座川町でユズ果汁の搾り出し ジュースやポン酢に",
+        "url": "https://www.asahi.co.jp/webnews/pages/abc_63402.html",
+        "source": "朝日放送",
         "published_at": "2026-11-04 13:01"
       }
     ]
