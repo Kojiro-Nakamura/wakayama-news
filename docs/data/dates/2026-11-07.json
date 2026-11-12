@@ -458,6 +458,8 @@
     "summary": "・三重、和歌山、奈良の３県人会と各県庁による熊野古道の紹介イベント「Kumano Kodo: caminho de peregrinação para o futuro（熊野古道―未来への巡礼の道）」が１０月１８日、サンパウロ市のジャパンハウスで開催され、１２３１人が来場した。\n・山田氏は、熊野古道が通る３県がブラジルで連携し、イベントを成功させたことを歓迎。\n・３県人会は熊野古道の名物料理「めはり寿司」を紹介し、来場者の関心を集めた。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "熊野古道の魅力、ブラジルで発信＝３県人会と各県庁が連携＝ジャパンハウスに１２３１人",
@@ -465,9 +467,7 @@
         "source": "ブラジル日報",
         "published_at": "2026-11-07 07:16"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-07",
@@ -739,5 +739,18 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-07",
+    "title": "電子部品製造会社「和歌山太陽誘電」 地元小学生が見学 和歌山県印南町（テレビ和歌山）",
+    "url": "https://news.yahoo.co.jp/articles/ecf58b3bd7493fafc9e58e70b3500d502edac4b3",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-07 00:18",
+    "summary": "・ものづくりへの理解を深めてもらおうと、印南町の電子部品製造会社で、今日、地元の小学生を対象とした見学会が開かれました。\n・印南町印南原にある和歌山太陽誘電に、今朝、町立印南小学校５年生２７人が訪れました。\n・児童らは、はじめに人事総務課の寺西佳美さんから、スマホや自動車、ゲーム機など、皆さんの身近で活躍している電子部品を作っていると説明を受けたあと、スマートフォンの中に１００個以上入っている、「インダクタ」と呼ばれる和歌山太陽誘電の小型電子部品を手に取って観察しました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   }
 ]

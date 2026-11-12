@@ -424,9 +424,9 @@
     "summary": "・今回、県より配布された「くまよけの鈴」を観光客向けに無料で貸与いたします。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-02",
