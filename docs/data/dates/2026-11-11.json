@@ -8,6 +8,8 @@
     "summary": "・和歌山県の熊野灘捕鯨文化継承協議会は12月19日、太地町で「『鯨とともに生きる』日本遺産ウォークin太地町・ナイトミュージアム」を開く。\n・捕鯨文化にまつわる史跡を巡り、営業終了後の太地町立くじらの博物館でライトアップやイルカのナイトライブを楽しむ。\n・夕方からは、太地町立くじらの博物館のナイトミュージアムを訪れる。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 72,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "太地町で日本遺産ウォーク、夜のくじら博物館も",
@@ -33,9 +35,7 @@
         "source": "PR TIMES",
         "published_at": "2026-11-11 11:30"
       }
-    ],
-    "importance_score": 72,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-11",
@@ -46,9 +46,9 @@
     "summary": "・コーヒー店を中心に飲食店、雑貨店などが集まるイベント「和歌山珈琲市場（ワカヤマコーヒーマーケット）2026」が11月21日〜23日、本町公園（和歌山市北桶屋町）で開催される。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -59,6 +59,8 @@
     "summary": "・コーヒー店を中心に飲食店、雑貨店などが集まるイベント「和歌山珈琲市場（ワカヤマコーヒーマーケット）2026」が11月21日〜23日、本町公園（和歌山市北桶屋町）で開催される。\n・（和歌山経済新聞）【写真】昨年本町公園で開催された珈琲市場の様子　同イベントは2020年に始まり、県内各地で開催してきた。\n・昨年に続き、同公園を会場に、初めて3日間開催する。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "本町公園で「和歌山珈琲市場」 初の3日間開催、県内外の200店が参加",
@@ -66,9 +68,7 @@
         "source": "au Webポータル",
         "published_at": "2026-11-11 23:00"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-11",
@@ -302,6 +302,8 @@
     "summary": "・令和元年7月の京都アニメーション放火殺人事件で犠牲になった渡辺美希子さん＝当時（35）＝の遺族が11日、弘法大師空海の教えにより「慈悲の心」が根付いているとされる和歌山県の高野山真言宗総本山・金剛峯寺で講演した。\n・遺族は事件や裁判を振り返り「持続的な支援で助かる人が一人でも増えたら」と話した。\n・勇さんは「理不尽な内容が多かった」ものの、傍聴に付き添い見守ってくれた支援員らの心配りに支えられたとして「被害者が必要とする形でのサポートが重要だ」と述べた。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 149,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "京アニ事件遺族「持続的支援を」 和歌山・高野山で講演（共同通信）",
@@ -357,9 +359,7 @@
         "source": "佐賀新聞",
         "published_at": "2026-11-11 18:12"
       }
-    ],
-    "importance_score": 149,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-11",
@@ -370,9 +370,9 @@
     "summary": "・【紅葉の高野山】世界遺産・奥之院から金剛峯寺、壇上伽藍へ！HIS日帰りバスツアー🍁。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -396,9 +396,9 @@
     "summary": "・２０１９年７月の京都アニメーション放火殺人事件で犠牲になった渡辺美希子さん＝当時（３５）＝の遺族が１１日、弘法大師空海の教えにより「慈悲の心」が根付いているとされる和歌山県の高野山真言宗総本山・金剛峯寺で講演した。\n・事件や裁判を振り返り「持続的な支援で助かる人が一人でも増えたら」と話した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -448,9 +448,9 @@
     "summary": "・【夏越祭】【獅子舞】【完全版】 2026年7月25日 和歌山県日高郡由良町 夏越祭 獅子舞 横浜地区。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -487,9 +487,9 @@
     "summary": "・神奈川県平塚市にある「荒井だるま屋」では、来年の干支（えと）「未（ひつじ）」にちなんだ「干支だるま」の制作が大忙し。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -526,6 +526,8 @@
     "summary": "・1番目の画像 - 【写真63枚】バイクの文化祭 in かつらぎ町 2026。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "晴天の廃校にバイクがズラリ！ “学んで楽しむ”コンテンツ満載の「バイクの文化祭 2026 in かつらぎ町」イベントレポート",
@@ -533,9 +535,7 @@
         "source": "Webオートバイ",
         "published_at": "2026-11-11 13:45"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-11",
@@ -582,6 +582,32 @@
         "published_at": "2026-11-11 14:30"
       }
     ]
+  },
+  {
+    "article_date": "2026-11-11",
+    "title": "「南紀田辺会」東京で総会 首都圏在住、紀南の高校卒業生ら（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/a7f291dec4d729018bae88376088973ac0fe96ec",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-11 16:25",
+    "summary": "・首都圏在住で和歌山県紀南地方の高校の卒業生らでつくる「南紀田辺会」（大門一成会長）は１０月１７日、東京都千代田区のホテルで第２２回総会を開いた。\n・自治体や地域の関係者を含め、田辺高、神島高（旧田辺商業高）、熊野高、南部高など出身の計８４人が出席し、旧交を温めた。\n・【森林の大切さ伝える　全国育樹祭で従事者や児童が思い発表、和歌山の記事】　総会では２０２５年度の事業・決算報告、２６年度の事業計画案と予算案について説明があった。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "「南紀田辺会」東京で総会 首都圏在住、紀南の高校卒業生ら",
+        "url": "https://www.agara.co.jp/article/710520",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-11 14:30"
+      },
+      {
+        "title": "「南紀田辺会」東京で総会 首都圏在住、紀南の高校卒業生ら",
+        "url": "https://www.47news.jp/15214778.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-11 14:30"
+      }
+    ],
+    "importance_score": 51,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-11",
@@ -683,26 +709,6 @@
   },
   {
     "article_date": "2026-11-11",
-    "title": "「南紀田辺会」東京で総会 首都圏在住、紀南の高校卒業生ら",
-    "url": "https://www.agara.co.jp/article/710520",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-11-11 14:30",
-    "summary": "・東京で「南紀田辺会」／紀南出身７０人集う。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 23,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "「南紀田辺会」東京で総会 首都圏在住、紀南の高校卒業生ら",
-        "url": "https://www.47news.jp/15214778.html",
-        "source": "47NEWS",
-        "published_at": "2026-11-11 14:30"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-11",
     "title": "紀南協会が３位／県柔道団体選手権",
     "url": "https://www.agara.co.jp/article/711022",
     "source": "AGARA 紀伊民報",
@@ -743,6 +749,8 @@
     "summary": "・居酒屋「巻ト酒マキチヨ」（和歌山市吉田、TEL 073-498-6108）がJR和歌山駅近くにオープンして10月18日で2カ月がたった。\n・今年収穫した和歌山県産南高梅で仕込んだ梅酒の新酒の蔵出しが11月6日、酒造会社「中野BC」（海南市藤白）で行われた。\n・コーヒー店を中心に飲食店、雑貨店などが集まるイベント「和歌山珈琲市場（ワカヤマコーヒーマーケット）2026」が11月21日〜23日、本町公園（和歌山市北桶屋町）で開催される。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 60,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "白浜町×おでかけわんこ部 「白浜ワンだふるリゾート」が始動します",
@@ -762,9 +770,7 @@
         "source": "PR TIMES",
         "published_at": "2026-11-11 11:00"
       }
-    ],
-    "importance_score": 60,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-11",
@@ -775,9 +781,9 @@
     "summary": "・政府は有事の継戦能力を確保するため、防衛装備品の増産体制を強化する方針を固めた。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",

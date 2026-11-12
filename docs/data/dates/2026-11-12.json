@@ -1,6 +1,553 @@
 [
   {
     "article_date": "2026-11-12",
+    "title": "移転前に保管資料整理 上富田町郷土資料館で和大生手伝う、和歌山",
+    "url": "https://www.agara.co.jp/article/711645",
+    "source": "紀伊民報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・地宝の物語（９１）／上富田町郷土資料館　（上富田町朝来）／地域築いた道具の数々。\n・明治時代の理科教科書／上富田　庄司さん町教委に寄贈。\n・老朽化で取り壊しが決まっている和歌山県上富田町朝来の町郷土資料館で、保管資料を一時的に移転するための整理作業が行われている。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "移転前に保管資料整理 上富田町郷土資料館で和大生手伝う、和歌山（紀伊民報）",
+        "url": "https://news.yahoo.co.jp/articles/68cacef13ad8553ab4d21b70b34fe5a3657e363a",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-12 16:25"
+      },
+      {
+        "title": "移転前に保管資料整理 上富田町郷土資料館で和大生手伝う、和歌山",
+        "url": "https://www.47news.jp/15219678.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-12 14:30"
+      }
+    ],
+    "importance_score": 41,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "四季折々の日常アートに 竹中さんが作品展、和歌山県田辺で15日まで",
+    "url": "https://www.agara.co.jp/article/711085",
+    "source": "紀伊民報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・山根さん（神島高）銀賞　全日本写真展中高生の部、和歌山・田辺。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "伊、６３００校に爆破予告／千校超で避難、英などにも （14:30）",
+    "url": "https://www.agara.co.jp/article/711587",
+    "source": "紀伊民報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・伊、６３００校に爆破予告／千校超で避難、英などにも （14:30）。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "ミシシッピ州 民主勝利／米上院選４４年ぶり （14:30）",
+    "url": "https://www.agara.co.jp/article/711588",
+    "source": "紀伊民報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・ミシシッピ州 民主勝利／米上院選４４年ぶり （14:30）。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "高速通信また障害／ドコモ、復旧に８時間 （14:30）",
+    "url": "https://www.agara.co.jp/article/711586",
+    "source": "紀伊民報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・ＮＴＴドコモは１１日、高速通信サービスで午前１０時３４分に全国的な障害が発生したと発表した。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "若鷲旗学童野球／新庄ＢＣが優勝／準優勝は上秋津・鮎川龍神 （14:30）",
+    "url": "https://www.agara.co.jp/article/711569",
+    "source": "紀伊民報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・韓国の少年野球チーム来日　地元選手と交流深める、和歌山県田辺。\n・柿田さん、渡邉さん優勝／串本　東牟婁Ｇゴルフ大会。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "京都で鳥インフル／養鶏場は今季初 （14:30）",
+    "url": "https://www.agara.co.jp/article/711585",
+    "source": "紀伊民報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・京都で鳥インフル／養鶏場は今季初 （14:30）。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "「石段オーナー権」好評／金刀比羅宮参道／１６０枠を追加販売 （14:30）",
+    "url": "https://www.agara.co.jp/article/711584",
+    "source": "紀伊民報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・「石段オーナー権」好評／金刀比羅宮参道／１６０枠を追加販売 （14:30）。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "木製名札 心込め作る／龍神村の浦さん／最後の実業団駅伝に向け （14:30）",
+    "url": "https://www.agara.co.jp/article/711540",
+    "source": "紀伊民報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・木製名札 心込め作る／龍神村の浦さん／最後の実業団駅伝に向け （14:30）。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "「ワールドマスターズ関西」組織委・会長が宮﨑知事を訪問／和歌山",
+    "url": "https://news.wbs.co.jp/221670",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・生涯スポーツの世界大会「ワールドマスターズゲームズ２０２７関西」の開催に先立ち、きょう（１２日）、組織委員会の松本正義（まつもと・まさよし）会長が県庁を訪れ、大会旗とメダルセットを和歌山県の宮﨑泉（みやざき・いずみ）知事に伝達しました。\n・ワールドマスターズゲームズは、概ね３０歳以上なら、誰でも参加できる生涯スポーツの世界大会で、和歌山県を含む関西の２府７県で、来年（２０２７年）５月に開催されます。\n・県内では、和歌山市と海南市、田辺市、それに、上富田町で、５月１１日から３０日まで、５競技７種目が行われます。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 20,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "第５０回「市高デパート」、１４日・１５日に／和歌山",
+    "url": "https://news.wbs.co.jp/221684",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・高校生が、商品の仕入れから販売、決算までを行う、恒例の「市高(いちこう)デパート」が、今月（１１月）１４日と１５日の２日間、和歌山市六十谷(むそた)の市立和歌山高校で開催されます。\n・これは、市立和歌山商業だった１９７７年、実践的・体験的な学習の場になるよう始められた取組で、新型コロナでの中止もありましたが、今年（２０２６年）で５０回を数えます。\n・「市高デパート」は、１４日（土）は、午前９時から正午まで、１５日（日）は、午前９時から１１時半まで開催されます。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "【大相撲】九州場所５日目、和歌山県関係の結果",
+    "url": "https://news.wbs.co.jp/221698",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・大相撲九州場所５日目のきょう（１２日）、紀の川市出身の三段目、千代雷山(ちよらいざん)は勝って、３勝０敗となりました。\n・和歌山県出身ではありませんが、県立箕島高校ＯＢで、西前頭筆頭の藤凌駕(ふじりょうが)は、尊富士(たけるふじ)に勝ち、４勝１敗としました。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "【大相撲】九州場所５日目、和歌山県関係の結果",
+        "url": "https://article.auone.jp/09dbb0d2-a23a-49c0-b1e2-2fbb067db8e5",
+        "source": "au Webポータル",
+        "published_at": "2026-11-12 17:28"
+      }
+    ],
+    "importance_score": 23,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "「じゃばらの里の収穫祭」悪天候予報で中止に／和歌山",
+    "url": "https://news.wbs.co.jp/221686",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・唯一の飛び地の村、北山村で、今月（１１月）１５日に開催予定だった「じゃばらの里の収穫祭２０２６」は、悪天候が予想されるため、中止となりました。\n・主催する北山村青年会の事務局によりますと、開催予定日の１５日は、強い雨が見込まれるとして、来場者や関係者の安全確保がむずかしいことから、中止を決めたということです。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "京アニ遺族、高野山で講演「持続的支援を」／和歌山",
+    "url": "https://news.wbs.co.jp/221688",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・２０１９年に発生した京都アニメーション放火殺人事件の犠牲者の遺族がきのう（１１日）、高野山で講演し、犯罪の被害者を支援する取組の大切さを訴えました。\n・これは、和歌山県警が、犯罪被害者への理解を深めてもらおうと高野山真言宗・総本山金剛峯寺(こんごうぶじ)で開いたもので、地元の高校生や住民ら、およそ２００人が参加しました。\n・持続的な支援で助かる人が１人でも増えたら」と語りました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "京アニ事件の遺族、被害者支援「持続的に」 和歌山・高野山で講演",
+        "url": "https://www.nikkei.com/article/DGXZQOUD11BN20R11C26A1000000/",
+        "source": "日本経済新聞",
+        "published_at": "2026-11-12 10:09"
+      }
+    ],
+    "importance_score": 29,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "南海フェリー存廃問題、１３日に、和歌山・徳島両知事が初協議へ",
+    "url": "https://news.wbs.co.jp/221668",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・利用者数の減少などで、再来年（２０２８年）３月までの事業撤退を表明している南海フェリーについて、あす（１１月１３日）和歌山・徳島の両県知事が、徳島市内のホテルで初めて対面で協議します。\n・南海フェリーは、利用者数の減少などで収益が減少し、老朽化した船体の更新などに４０億円以上がかかり、単独では航路の存続が困難として、再来年３月までの事業撤退を表明しています。\n・これを受け、和歌山県の宮﨑泉(みやざき・いずみ)知事と徳島県の後藤田正純(ごとうだ・まさずみ)知事が、航路の存続に向けて直接協議することで合意し、あす、徳島市内のホテルで初めて会談することになったものです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "映画つりこまり 出演者「和歌山ロケに癒やされました」",
+    "url": "https://hidakashimpo.co.jp/?p=109306",
+    "source": "日高新報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・和歌山の自然をバックに、釣りに熱中する少女たちの青春を描いた映画「つりこまち」の県内先行公開に合わせ、出演者らが県庁に宮﨑泉知事を訪ね、撮影をサポートしてくれた和歌山の人たちへの感謝や作品にかける思いなどを伝えた。\n・夢に向かって奮闘する姿を見てください」、吉本さんは「和歌山の景色に癒やされた。\n・宮﨑知事は「映画をよろしくお願いします」と話し、和歌山の温泉やミカン、シラスなどの話題で盛り上がっていた。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "巨人泉口 ２年連続ゴールデン・グラブ賞",
+    "url": "https://hidakashimpo.co.jp/?p=109310",
+    "source": "日高新報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・プロ野球のセ・パ両リーグで守備の優れた選手を選ぶベストナイン「第５５回三井ゴールデン・グラブ賞」が１１日発表され、巨人の泉口友汰内野手（２７）＝御坊市熊野出身＝がセ・リーグ遊撃手部門で２年連続２度目の受賞となった。\n・ゴールデン・グラブ賞は、シーズンを通して各ポジションで最も優れた守備力を発揮した選手に贈られる。\n・受賞に「２年連続でこの賞をいただけたこと、大変光栄に思います。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 20,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "海―１魚料理コンテスト グランプリにイサキのカルパッチョ",
+    "url": "https://hidakashimpo.co.jp/?p=109302",
+    "source": "日高新報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・みなべ町は、先月３１日に初開催した海―１カーニバルのイベントの一つとして実施した、家庭の魚料理のおいしそうナンバーワンを決める海―１グランプリの結果を発表した。\n・グランプリは町内在住の草分八寿子さんのレシピ「イサキのカルパッチョ」に決まった。\n・各家庭で親しまれている「我が家の魚料理」をテーマにした初めての企画で、レシピを募ったところ、９品の応募があった。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "逢母の磯でグレ 日ノ御崎沖でマダイ、イサキ",
+    "url": "https://hidakashimpo.co.jp/?p=109333",
+    "source": "日高新報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・【日高町】　共栄丸℡０７３８―６４―２３１８▽日ノ御崎沖でアオリイカが１０匹。\n・浜吉丸℡０７３８―６４―２３９０▽日ノ御﨑沖でマダイ、イサキ、ブリ狙い。\n・つり一番℡０７３８―２２―４０２４▽９日＝浜ノ瀬の波止場で未明にアジ１８～２５㌢が１５匹（オキアミ、ウキ釣り）▽８日＝田杭の磯でグレ３０～３８㌢が５匹、アイ２５～２６㌢が８匹（ボイル、フカセ）▽７日＝逢母の磯で、半夜釣りでグレ３０～４０㌢が３匹、夕方にアイ２５～２６㌢が６匹（オキアミ、フカセ）。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 11,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "火の用心お願いします！",
+    "url": "https://hidakashimpo.co.jp/?p=109298",
+    "source": "日高新報",
+    "published_at": "2026-11-12 19:39",
+    "summary": "・秋の火災予防運動（９～１５日）で、御坊市のしんせい保育園園児でつくる幼年消防クラブが１２日、防火パレードを行い、住民に火の用心を呼びかけた。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "銅鐸を比べて探る淡路島と和歌山の交流 兵庫・南あわじで特別展（朝日新聞）",
+    "url": "https://news.yahoo.co.jp/articles/aee3ed3df16e6d3dd6961fa3891431e1c590273a",
+    "source": "Yahoo! JAPAN",
+    "published_at": "2026-11-12 18:00",
+    "summary": "・兵庫県南あわじ市で見つかった弥生時代の銅鐸（どうたく）を所蔵する市滝川記念美術館玉青館で、紀淡海峡を隔てた和歌山県（旧紀伊国）で出土した銅鐸との比較を通じて地域間の交流を探る秋季特別展「銅鐸礼賛―地宝を訪ねて　和歌山―」が開かれている。\n・【写真】和歌山県で出土した銅鐸の展示=2026年10月2日、兵庫県南あわじ市松帆西路、大野博撮影　南あわじ市内の砂利加工工場にあった砂山で2015年、銅鐸7点が見つかった。\n・一方、淡路島と和歌山との交流を示す考古資料として銅鐸とともに注目されるのが、弥生土器の一種「紀伊型甕（きいがたがめ）」だ。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "「関西文化の日」文化施設が入場無料に、和歌山県内も３７施設参加",
+    "url": "https://news.wbs.co.jp/221681",
+    "source": "WBS和歌山放送ニュース",
+    "published_at": "2026-11-12 17:50",
+    "summary": "・近畿地方とその周辺の関西２府８県の美術館や博物館などの文化施設が、入館料を無料にして、芸術や文化に触れてもらいやすくする「関西文化の日」が、今月（１１月）１４日と１５日を中心に行われます。\n・これは、関西広域連合と関西元気文化圏推進協議会、それに、関西観光本部が、２００３年から実施しているもので、第２４回となる今年（２０２６年）は、１４日と１５日の２日間を中心に、施設ごとに、１１月中に期日を設定して、実施されます。\n・エリア内でおよそ５００の文化施設が参加し、このうち和歌山県内では、和歌山市の県立近代美術館や県立博物館、旧中筋家(なかすじけ)住宅、海南市の県立自然博物館、白浜町の南方熊楠(みなかた・くまぐす)記念館、串本町のトルコ記念館、新宮市の旧西村家(にしむらけ)住宅など、あわせて３７施設にのぼります。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 26,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "プレスリリース：QommonsAI活用研修を和歌山県御坊市（わかやまけん ごぼうし）で実施- 「実際に操作しながら実践的に学ぶことができた」初級編で生成AIの基本を学ぶ（PR TIMES）",
+    "url": "https://mainichi.jp/articles/20261112/pr2/00m/020/798000c",
+    "source": "毎日新聞",
+    "published_at": "2026-11-12 16:53",
+    "summary": "・生成AIの社会実装を牽引するPolimill株式会社（本社：東京都港区／代表取締役：伊藤あやめ・谷口野乃花）は2026年10月16日、和歌山県御坊市の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修（初級編）を実施しました。\n・本研修は、和歌山県内の自治体を対象に実施した「QommonsAI和歌山県キャラバン」の一環として行いました。\n・■ 研修実施概要実施自治体：和歌山県御坊市。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "QommonsAI活用研修を和歌山県御坊市（わかやまけん ごぼうし）で実施- 「実際に操作しながら実践的に学ぶことができた」初級編で生成AIの基本を学ぶ",
+        "url": "https://www.jiji.com/jc/article?k=000000810.000088829&g=prt",
+        "source": "時事ドットコム",
+        "published_at": "2026-11-12 16:46"
+      },
+      {
+        "title": "プレスリリース：QommonsAI活用研修を和歌山県串本町（わかやまけん くしもとちょう）で実施- 「すごい、感動した」職員同士で教え合いながら、生成AIの活用を体験（PR TIMES）",
+        "url": "https://mainichi.jp/articles/20261112/pr2/00m/020/608000c",
+        "source": "毎日新聞",
+        "published_at": "2026-11-12 14:53"
+      },
+      {
+        "title": "QommonsAI活用研修を和歌山県串本町（わかやまけん くしもとちょう）で実施— 「すごい、感動した」職員同士で教え合いながら、生成AIの活用を体験",
+        "url": "https://prtimes.jp/main/html/rd/p/000000812.000088829.html",
+        "source": "PR TIMES",
+        "published_at": "2026-11-12 12:17"
+      }
+    ],
+    "importance_score": 59,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "女性に対する暴力をなくす運動について",
+    "url": "https://www.city.iwade.lg.jp/soshiki/2/16075.html",
+    "source": "岩出市",
+    "published_at": "2026-11-12 16:31",
+    "summary": "・11月12日から25日までは「女性に対する暴力をなくす運動」期間です。\n・女性に対する暴力根絶のシンボルであるパープルリボンにちなみ、この期間に、全国でランドマーク等を紫色にライトアップする、パープル・ライトアップが実施されます。\n・パープル・ライトアップには、性犯罪・性暴力、配偶者等への暴力、ストーカー行為、セクシュアルハラスメント等の暴力の根絶を呼びかけるとともに、被害者に対して「ひとりで悩まず、まずは相談をしてください。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "紀南協会が３位 和歌山県柔道団体選手権（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/13c03f0282ec38a0eb00ae0f4774857fda7253fc",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-12 16:25",
+    "summary": "・和歌山県柔道連盟主催の県柔道団体選手権が１０月２５日、田辺市扇ケ浜の市立武道館であり、田辺・西牟婁で活動する紀南柔道協会が３位に入賞した。\n・【がんばってます・藪田　怜史（やぶた　さとし）さん（２０歳）／田辺署田辺駅前交番の記事】　大会は９団体が出場し、トーナメントで順位を決めた。\n・紀南柔道協会は初戦で日高柔道協会Ｂ（御坊・日高）に勝ち、準決勝で川口工業所（岩出市）に敗れた。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "紀南協会が３位 和歌山県柔道団体選手権",
+        "url": "https://www.47news.jp/15219680.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-12 14:30"
+      }
+    ],
+    "importance_score": 27,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "韓国の少年野球チーム来日 地元選手と交流深める、和歌山県田辺（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/6d4bb59b9ead87bcf33ac6aec8f001bdfe95a5bc",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-12 16:25",
+    "summary": "・韓国・ソウルの少年野球チーム「ＴＨＥ　ＢＡＬＬ　ＰＡＲＫ（ＴＢＰ、ザ・ボールパーク）」に所属する小学２～６年生１８人が７日、和歌山県田辺市上の山１丁目の田辺スポーツパークを訪れ、地元の学童野球チームと交流試合をした。\n・【連覇に向け上富田で合宿　韓国のプロ野球チーム、和歌山の記事】　試合には、ＴＡＮＡＢＥクラブと上中芳養ベースボールクラブの選手が参加した。\n・田辺西牟婁学童野球協議会の岡本寛史会長は「日韓の友好の架け橋になればうれしい。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "地域限定の保育士試験 県が来年度から実施決定",
+    "url": "https://wakayamashimpo.co.jp/2026/11/20261112_140036.html",
+    "source": "わかやま新報",
+    "published_at": "2026-11-12 16:00",
+    "summary": "・和歌山県は１２日、保育士の人材確保に向けて県が独自に行う「地域限定保育士試験」について、同日付で国の認定を受けたと発表した。\n・地域限定保育士試験は、通常の保育士試験と筆記試験は共通だが、実技試験の代わりに県が実施する保育実技講習会を修了すれば資格を得られる制度。\n・地域限定保育士試験の実施により、１年に２５人、４年間で１００人の合格者を確保し、待機児童の解消を目指す。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 17,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "全国唯一飛び地の村で「じゃばら」収穫始まる 花粉症の緩和に効果 和歌山県北山村（テレビ和歌山）",
+    "url": "https://news.yahoo.co.jp/articles/4f0451d6c74fb16240fd1d4a05fcbf7a1e479307",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-12 16:00",
+    "summary": "・全国唯一の飛び地の村 北山村で、特産のじゃばらの収穫が始まりました。\n・北山村の村営農園で始まったじゃばらの初収穫には、地元の人たちおよそ２０人が参加し、午前７時過ぎから黄色や緑に色づいたじゃばらの実を、手際よくはさみで切り取り籠に入れていきました。\n・じゃばらは、まろやかな酸味とほのかな苦みが特徴で、近年は花粉症の緩和に効果があるとして注目されています。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "米国での国際コンクールへ　バレエ日本１位の野田さん",
+    "url": "https://wakayamashimpo.co.jp/2026/11/20261112_140039.html",
+    "source": "わかやま新報",
+    "published_at": "2026-11-12 16:00",
+    "summary": "・世界最大規模のバレエ国際コンクール「ユース・アメリカ・グランプリ（ＹＡＧＰ）２０２７」の日本予選（ＹＧＰ）が９月２９日に東京で開かれ、和歌山市の小学６年生、野田安里さん（１１）が、プリコンペティティブ部門（８～１１歳）で２３７人の中から「クラシック女性」１位を獲得した。\n・ＹＡＧＰは、北米や世界各地で予選が行われるジュニアバレエの国際コンクールで、世界各国のトップバレエ学校へのスカラシップやオーディションの機会を提供する場として知られている。\n・野田さんは、姉や兄がバレエに取り組む姿を見て「自分もやりたい」と思いバレエを始めた。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "地図を頼りにゴールへ　オリエンテーリング展",
+    "url": "https://wakayamashimpo.co.jp/2026/11/20261112_140033.html",
+    "source": "わかやま新報",
+    "published_at": "2026-11-12 16:00",
+    "summary": "・和歌山市本町の商業施設「フォルテワジマ」３階の「わかやまスポーツ伝承館」で２３日まで、「オリエンテーリング展」が開かれている。\n・オリエンテーリングは、地図とコンパスを手に、山野や公園などに設置されたチェックポイントを決められた順序でたどり、ゴールまでのタイムを競う野外スポーツ。\n・地図を読み解き最良のルートを判断する推理力や記憶力も試されるため、ランニングスピードで勝る相手にも頭脳戦で勝利できるスリルと達成感が大きな魅力となっている。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "全市町村で財政健全 25年度決算、和歌山",
+    "url": "https://www.agara.co.jp/article/711646",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-11-12 14:30",
+    "summary": "・歳出入ともに増加　和歌山県田辺市25年度決算。\n・「職員が主体的改革を」　来年度予算編成方針、和歌山県田辺市。\n・和歌山県は市町村の２０２５年度決算に基づく財政の健全化判断比率（暫定値）を取りまとめ、発表した。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 20,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "「一瓢庵」作品展／２５日まで たなべる",
+    "url": "https://www.agara.co.jp/article/711571?rct=society",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-11-12 14:30",
+    "summary": "・「一瓢庵」作品展／２５日まで たなべる。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "たなべの台所事情 ―行財政改革―（下）／膨らむ固定費 板挟み",
+    "url": "https://www.agara.co.jp/article/711644?rct=politics",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-11-12 14:30",
+    "summary": "・これまで以上に行財政改革を進める―。\n・全市町村で財政健全　25年度決算、和歌山。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 8,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "13日から田辺・弁慶映画祭 12作品上映、和歌山",
+    "url": "https://www.agara.co.jp/article/711650",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-11-12 14:30",
+    "summary": "・審査員に坂井真紀さんら　11月13～15日、田辺・弁慶映画祭、和歌山。\n・招待作品４本決まる　田辺・弁慶映画祭、和歌山。\n・第２０回「田辺・弁慶映画祭」（実行委員会主催、紀伊民報など後援）が１３日、和歌山県田辺市新庄町のビッグ・ユーで開幕する。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 14,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "生命保険和歌山県協会、老人福祉・障害者福祉施設5カ所に車いすなど贈呈",
+    "url": "https://news.infoseek.co.jp/article/sankein__life_trend_CL3WJ3UMP5LYTO7DETL5EW4QJE/",
+    "source": "Infoseek",
+    "published_at": "2026-11-12 13:00",
+    "summary": "・生命保険会社でつくる「生命保険協会和歌山県協会」は、和歌山県内の老人福祉・障害者福祉の計5施設に車いすなどを贈呈した。\n・施設側が希望する福祉器具を協会加盟企業の従業員による寄付をもとに贈る試みで、平成2年から取り組んでいる。\n・贈呈者を代表し、明治安田生命保険の村尾和義・和歌山支社長は「必要な物を選定してもらうなど、それぞれの思いがつながっている。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "令和8年度(第16回)紀の川市防災総合訓練を実施",
+    "url": "https://prtimes.jp/main/html/rd/p/000000093.000173667.html",
+    "source": "PR TIMES",
+    "published_at": "2026-11-12 13:00",
+    "summary": "・今年度の紀の川市防災総合訓練は、大規模地震を想定した「避難所開設・運営訓練」を実施します。\n・訓練を通じて、市民、自主防災組織、消防団、関係団体及び市がそれぞれの役割を理解し、相互に連携・協力することで、大規模災害時に円滑な避難所の開設・運営ができる地域防災体制の構築を目指します。\n・■実施日：令和8年11月15日（日）午前8：30～正午。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "駅の入場券が「合格のお守り」に！？ 受験シーズンを前に南海電鉄高野線「学文路駅」で販売【和歌山・橋本市】",
+    "url": "https://newsdig.tbs.co.jp/articles/mbs/3080284",
+    "source": "TBS NEWS DIG",
+    "published_at": "2026-11-12 12:28",
+    "summary": "・受験シーズンを前に、南海電鉄高野線・学文路（かむろ）駅の入場券が「合格のお守り」として販売されています。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "和歌山・串本で、熱いタイラババトル！　オーシャンフィールド杯開催／関西フィッシング",
+    "url": "https://www.sanspo.com/article/20261112-MC6FKRXADBODDEZ2QUHZMXZJJM/",
+    "source": "サンスポ",
+    "published_at": "2026-11-12 12:00",
+    "summary": "・南紀の海に熱いタイラバ野郎たちが集結！7日、和歌山県串本町古座のルアー船「オーシャンフィールド」（藤田渡船）で「第4回オーシャンフィールド・タイラバ杯」が開催された。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
     "title": "福澤研究センター シンポジウム「諭吉と熊楠をむすぶー紀州、倫敦、そして･･････。」開催",
     "url": "https://www.keio.ac.jp/ja/news-related-sites/20261112-history-symposium/",
     "source": "慶應義塾",
@@ -8,9 +555,9 @@
     "summary": "・」開催公開日：2026.11.12広報室詳細は以下リンクよりご覧いただけます。\n・」開催お知らせ一覧（外部サイト）。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",
@@ -21,9 +568,16 @@
     "summary": "・和歌山市明王寺の道の駅四季の郷公園に、今年もアイススケートリンク「AOZORA　ICE　PARK」がオープンする。\n・市によると、冬季の閑散期ににぎわいを呼び込もうと昨年に始まった取り組みで、昨年は想定を約23%上回る1万3447人の利用があったという。\n・屋外型のアイススケートリンク（約400平方メートル）で、園内の人工池にリンクが整備される。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
+    "importance_score": 24,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "昨年好評のアイススケートリンク今年も 和歌山市の道の駅に [和歌山県]",
+        "url": "https://www.asahi.com/articles/ASVCC3W47VCCPXLB005M.html",
+        "source": "朝日新聞",
+        "published_at": "2026-11-12 10:45"
+      }
+    ]
   },
   {
     "article_date": "2026-11-12",
@@ -34,9 +588,9 @@
     "summary": "・新宮の観光地やグルメ巡るスマホ音声ガイド開始 淵上泰史さん案内 [和歌山県]。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",
@@ -47,9 +601,9 @@
     "summary": "・県は4日、2027年11月ごろの交付開始を目指す「県版図柄ナンバープレート」の候補案3点を発表し、インターネットや郵送による県民投票を始めた。\n・投票は12月3日までで、最多得票を得た案を国土交通省に提出する。\n・全国78地域で導入されている図柄ナンバープレートを和歌山の魅力発信につなげようと、県は昨年12月～今年1月に「どんな図柄がふさわしいか」の県民アンケートを実施。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",
@@ -60,9 +614,9 @@
     "summary": "・結婚の平等にYES！三重実行委員会からのお知らせです。\n・イベントでは「大切なあなたへのお手紙」「マリフォーベアーズと学ぶ結婚の平等」の展示のほか、開催メンバーによるオリジナルパネルも展示予定です。\n・また本イベントを皮切りに、地域住民や移住者と共に三重県南部地域におけるLGBTQ+や結婚の平等訴訟への関心を高めることを目指し、活動を行っていきたいと考えています。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",
@@ -73,22 +627,9 @@
     "summary": "・岩出市制施行20周年を記念して開催いたしました「いわでフォトコンテスト」において、「いわでの魅力」をテーマに、たくさんのご応募をいただき、誠にありがとうございました。\n・また、10月31日・11月1日に開催された「岩出市制施行20周年記念第21回岩出市文化祭」では、受賞作品の選考にあたり、来場された多くの皆様に投票のご協力をいただきました。\n・投票の結果、以下の8作品が受賞作品に決定しましたので、お知らせいたします。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-12",
-    "title": "京アニ事件の遺族、被害者支援「持続的に」 和歌山・高野山で講演",
-    "url": "https://www.nikkei.com/article/DGXZQOUD11BN20R11C26A1000000/",
-    "source": "日本経済新聞",
-    "published_at": "2026-11-12 10:09",
-    "summary": "・2019年7月の京都アニメーション放火殺人事件で犠牲になった渡辺美希子さん（当時35）の遺族が11日、和歌山県の高野山真言宗総本山・金剛峯寺で講演した。\n・事件や裁判を振り返り「持続的な支援で助かる人が一人でも増えたら」と話した。\n・勇さんは「理不尽な内容が多かった」ものの、傍聴に付き添い見守ってくれた支援員や関係機関の心配りに支えられたとして「被害者が必要とする形でのサポートが重要だ」と述べた。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",
@@ -99,8 +640,21 @@
     "summary": "・eスタジアム株式会社（代表取締役社長：加藤 寛之、以下「eスタジアム」）は、株式会社NANKAI（代表取締役社長：岡嶋 信行、以下「NANKAI」）と共同で、和歌山県（知事：宮﨑 泉）が主催する「和歌山県高校eスポーツ選手権2027」の参画企業として、本大会の企画・制作を担います。\n・本大会は2025年から、和歌山県がNANKAIおよびeスタジアムと連携して開催している高校生向けeスポーツ大会です。\n・予選は2027年1月31日（日）にオンラインで開催し、本選は2月7日（日）に「eスタジアムサテライトスタジオ和歌山」で開催します。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 9,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "焼肉・すき焼き純 梅田本店で「和歌山県産柿フェア」を開催",
+    "url": "https://www.atpress.ne.jp/news/647001",
+    "source": "アットプレス",
+    "published_at": "2026-11-12 10:00",
+    "summary": "・ＪＡ全農は、直営飲食店舗「焼肉・すき焼き純 梅田本店」で、１１月１５日（日）～３０日（月）の間、「和歌山県産柿フェア」を開催します。\n・１．期　　間：令和８年１１月１５日（日）～３０日（月）２．実施店舗：焼肉・すき焼き純 梅田本店（大阪府大阪市北区角田町７－１０　ＨＥＰ ＮＡＶＩＯ ７F）３．内　　容：ランチまたはコースのデザートとして富有柿を提供。\n・焼肉・すき焼きコース焼肉・すき焼きコース柿イメージ画像柿イメージ画像焼肉・すき焼き純　梅田本店焼肉・すき焼き純　梅田本店。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 6,
     "is_featured": false
   },
   {
@@ -112,9 +666,9 @@
     "summary": "・スペインで１１日、市民団体や主要労組の呼び掛けにより、住宅不足と家賃高騰に抗議するゼネストが行われた。\n・同国でのゼネストは２０１２年以来１４年ぶり。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",
@@ -125,9 +679,9 @@
     "summary": "・南海トラフ地震の発生に備えた「和歌山県地震・津波被害想定検討委員会」が11日、和歌山県庁南別館で開かれ、委員らが被害想定の公表方法などについて意見を交わした。\n・検討委は今回で終了し、来年3月までに被害想定と災害時の「県民行動シナリオ」を公表する方針。\n・当初は被害想定を今年3月に公表する予定だったが、能登半島地震などの影響で、国が約10年ぶりに見直した南海トラフ地震の被害想定の公表がずれ込んだため、国の想定に基づく県の作業にも遅れが生じた。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",
@@ -138,6 +692,8 @@
     "summary": "・オーケーが大阪市此花区に新店、松源は和歌山・新宮市に出店へ【大店立地法速報】。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "オーケーが大阪市此花区に新店、松源は和歌山・新宮市に出店へ【大店立地法速報】",
@@ -145,9 +701,7 @@
         "source": "ダイヤモンド・チェーンストアオンライン",
         "published_at": "2026-11-12 06:10"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-12",
@@ -158,9 +712,9 @@
     "summary": "・和歌山地方気象台が11月12日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山20℃、潮岬21℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",
@@ -171,9 +725,9 @@
     "summary": "・★お天気川柳★冷えた朝ため息白く日差し待つーーおはようございます！和歌山市専用のお天気サポートAIです！■きょうのざっくり天気■【気温の目安】昨日と比べて、最低気温は9℃で2℃高く、冷えるタイミングがありそうです。\n・最高気温は20℃で3℃高く、過ごしやすく感じられそうです。\n・【空模様】朝から夜にかけて晴れる時間が多く、夜はくもりに変わる時間もありそうです。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",
@@ -184,9 +738,9 @@
     "summary": "・紀州ファスナー、和歌山・御坊に新工場 締結部品一貫生産。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",
@@ -197,8 +751,8 @@
     "summary": "・和歌山県 近隣の雨雲レーダー(実況)。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]
