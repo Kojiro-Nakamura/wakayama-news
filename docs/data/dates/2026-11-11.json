@@ -9,7 +9,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 72,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "太地町で日本遺産ウォーク、夜のくじら博物館も",
@@ -473,7 +473,7 @@
     "summary": "・2026年11月28日(土)『みんなdeおいなあよフェスタ2026』を「コープ自然派 和歌山センター」で開催！オーガニック青果や食品の朝市、ワークショップなど多彩なマルシェをぜひ体験ください。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 30,
+    "importance_score": 45,
     "is_featured": false,
     "related_articles": [
       {
@@ -487,6 +487,12 @@
         "url": "https://www.jiji.com/jc/article?k=000000120.000182609&g=prt",
         "source": "時事ドットコム",
         "published_at": "2026-11-11 13:46"
+      },
+      {
+        "title": "JR名古屋駅で「なんて南紀！観光展」を2026年11月21日（土）・22日（日）に開催",
+        "url": "https://prtimes.jp/main/html/rd/p/000000120.000182609.html",
+        "source": "PR TIMES",
+        "published_at": "2026-11-11 11:30"
       }
     ]
   },
@@ -761,8 +767,8 @@
     "summary": "・居酒屋「巻ト酒マキチヨ」（和歌山市吉田、TEL 073-498-6108）がJR和歌山駅近くにオープンして10月18日で2カ月がたった。\n・今年収穫した和歌山県産南高梅で仕込んだ梅酒の新酒の蔵出しが11月6日、酒造会社「中野BC」（海南市藤白）で行われた。\n・コーヒー店を中心に飲食店、雑貨店などが集まるイベント「和歌山珈琲市場（ワカヤマコーヒーマーケット）2026」が11月21日〜23日、本町公園（和歌山市北桶屋町）で開催される。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 60,
-    "is_featured": false,
+    "importance_score": 75,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "白浜町×おでかけわんこ部 「白浜ワンだふるリゾート」が始動します",
@@ -780,6 +786,12 @@
         "title": "ポストパンダの新たな観光資源として「ペットツーリズム」に着目。和歌山県白浜町×おでかけわんこ部『白浜ワンだふるリゾート』始動",
         "url": "https://prtimes.jp/main/html/rd/p/000000025.000055845.html",
         "source": "PR TIMES",
+        "published_at": "2026-11-11 11:00"
+      },
+      {
+        "title": "ポストパンダの新たな観光資源として「ペットツーリズム」に着目。和歌山県白浜町×おでかけわんこ部『白浜ワンだふるリゾート』始動",
+        "url": "https://www.agara.co.jp/article/711014",
+        "source": "AGARA 紀伊民報",
         "published_at": "2026-11-11 11:00"
       }
     ]

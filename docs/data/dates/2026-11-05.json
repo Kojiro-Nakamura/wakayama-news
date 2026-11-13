@@ -263,7 +263,7 @@
     "summary_type": "auto",
     "category": "社会・事件",
     "importance_score": 71,
-    "is_featured": false,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "「世界津波の日」広川町のＪＲ紀勢線で津波避難訓練／和歌山",
@@ -459,6 +459,86 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-05",
+    "title": "「逃げろ」列車から高台へ！ 和歌山で津波避難訓練",
+    "url": "https://www.sankei.com/article/20261105-DGQZXS7OU5JXPGWYLKOJ3N3RHY/",
+    "source": "産経ニュース",
+    "published_at": "2026-11-05 17:00",
+    "summary": "・「津波防災の日」の5日、マグニチュード（M）9.1の南海トラフ巨大地震を想定した列車からの津波避難訓練が和歌山県広川町のJR紀勢線で行われた。\n・地元の小学生ら約350人が運転士の誘導で列車を降り、消防団員が「逃げろ」と声をかける中、高台の神社に走って向かった。\n・1854年の安政南海地震で大津波が紀伊半島を襲ったのが旧暦の11月5日とされ、2011年の東日本大震災をきっかけに津波防災の日に制定された。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "和歌山で津波避難訓練",
+        "url": "https://smart.shimotsuke.co.jp/articles/-/1453535",
+        "source": "下野新聞社",
+        "published_at": "2026-11-05 11:23"
+      },
+      {
+        "title": "和歌山で津波避難訓練",
+        "url": "https://www.fukuishimbun.co.jp/articles/-/2739482",
+        "source": "福井新聞社",
+        "published_at": "2026-11-05 11:16"
+      },
+      {
+        "title": "和歌山で津波避難訓練",
+        "url": "https://www.saitama-np.co.jp/articles/221763",
+        "source": "埼玉新聞",
+        "published_at": "2026-11-05 11:16"
+      },
+      {
+        "title": "和歌山で津波避難訓練",
+        "url": "https://www.chugoku-np.co.jp/articles/-/919940",
+        "source": "中国新聞デジタル",
+        "published_at": "2026-11-05 11:16"
+      },
+      {
+        "title": "津波避難訓練で、緊急停止した列車から高台を目指す小学生ら＝5日午前、和歌山県広川町 - 和歌山で津波避難訓練 「逃げろ」列車から高台へ - 写真・画像(1/1)",
+        "url": "https://www.nishinippon.co.jp/image/1099703/",
+        "source": "西日本新聞me",
+        "published_at": "2026-11-05 11:43"
+      },
+      {
+        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
+        "url": "https://www.hokkaido-np.co.jp/article/1402784/",
+        "source": "北海道新聞デジタル",
+        "published_at": "2026-11-05 11:24"
+      },
+      {
+        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
+        "url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate=National&no=2026110501000560",
+        "source": "山形新聞",
+        "published_at": "2026-11-05 11:16"
+      },
+      {
+        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
+        "url": "https://ryukyushimpo.jp/kyodo/entry-5589906.html",
+        "source": "琉球新報デジタル",
+        "published_at": "2026-11-05 11:16"
+      },
+      {
+        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
+        "url": "https://www.nnn.co.jp/articles/-/825163",
+        "source": "日本海新聞",
+        "published_at": "2026-11-05 11:16"
+      },
+      {
+        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ:社会",
+        "url": "https://www.minyu-net.com/newspack/detail/2026110501000560",
+        "source": "福島民友新聞社",
+        "published_at": "2026-11-05 11:16"
+      },
+      {
+        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ（共同通信）",
+        "url": "https://news.yahoo.co.jp/articles/9a6bf859adbfb02c133a1c528ef0cb70a1745fae",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-05 11:16"
+      }
+    ],
+    "importance_score": 176,
+    "is_featured": true
   },
   {
     "article_date": "2026-11-05",
@@ -738,8 +818,8 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261105de70889",
     "source": "NHKニュース",
     "published_at": "2026-11-05 13:23",
-    "importance_score": 128,
-    "is_featured": true,
+    "importance_score": 68,
+    "is_featured": false,
     "summary": "・「世界津波の日」和歌山市の小学校で大津波想定の避難訓練。",
     "related_articles": [
       {
@@ -749,34 +829,10 @@
         "published_at": "2026-11-05 12:40"
       },
       {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://smart.shimotsuke.co.jp/articles/-/1453535",
-        "source": "下野新聞社",
-        "published_at": "2026-11-05 11:23"
-      },
-      {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://www.fukuishimbun.co.jp/articles/-/2739482",
-        "source": "福井新聞社",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://www.saitama-np.co.jp/articles/221763",
-        "source": "埼玉新聞",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
         "title": "「世界津波の日」和歌山市の小学校で大津波想定の避難訓練",
         "url": "https://news.web.nhk/newsweb/na/nd-20261105de70843",
         "source": "NHKニュース",
         "published_at": "2026-11-05 12:45"
-      },
-      {
-        "title": "和歌山で津波避難訓練",
-        "url": "https://www.chugoku-np.co.jp/articles/-/919940",
-        "source": "中国新聞デジタル",
-        "published_at": "2026-11-05 11:16"
       },
       {
         "title": "「世界津波の日」に和歌山・広川町で津波避難訓練　地元の小学生ら約３５０人参加",
@@ -821,62 +877,6 @@
         "url": "https://topics.smt.docomo.ne.jp/article/mbs_news/region/mbs_news-3063064",
         "source": "ｄメニューニュース",
         "published_at": "2026-11-05 12:02"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-05",
-    "title": "津波避難訓練で、緊急停止した列車から高台を目指す小学生ら＝5日午前、和歌山県広川町 - 和歌山で津波避難訓練 「逃げろ」列車から高台へ - 写真・画像(1/1)",
-    "url": "https://www.nishinippon.co.jp/image/1099703/",
-    "source": "西日本新聞me",
-    "published_at": "2026-11-05 11:43",
-    "summary": "・津波避難訓練で、緊急停止した列車から高台を目指す小学生ら＝5日午前、和歌山県広川町｜西日本新聞meは、九州のニュースを中心に最新情報を伝えるニュースサイトです。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 105,
-    "is_featured": true,
-    "related_articles": [
-      {
-        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
-        "url": "https://www.hokkaido-np.co.jp/article/1402784/",
-        "source": "北海道新聞デジタル",
-        "published_at": "2026-11-05 11:24"
-      },
-      {
-        "title": "「逃げろ」列車から高台へ！ 和歌山で津波避難訓練",
-        "url": "https://www.sankei.com/article/20261105-DGQZXS7OU5JXPGWYLKOJ3N3RHY/",
-        "source": "産経ニュース",
-        "published_at": "2026-11-05 11:17"
-      },
-      {
-        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
-        "url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate=National&no=2026110501000560",
-        "source": "山形新聞",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
-        "url": "https://ryukyushimpo.jp/kyodo/entry-5589906.html",
-        "source": "琉球新報デジタル",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
-        "url": "https://www.nnn.co.jp/articles/-/825163",
-        "source": "日本海新聞",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ:社会",
-        "url": "https://www.minyu-net.com/newspack/detail/2026110501000560",
-        "source": "福島民友新聞社",
-        "published_at": "2026-11-05 11:16"
-      },
-      {
-        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ（共同通信）",
-        "url": "https://news.yahoo.co.jp/articles/9a6bf859adbfb02c133a1c528ef0cb70a1745fae",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-11-05 11:16"
       }
     ]
   },

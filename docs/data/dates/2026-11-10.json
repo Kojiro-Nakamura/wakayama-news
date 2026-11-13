@@ -406,7 +406,7 @@
     "summary": "・北山村の特産かんきつ「ジャバラ」を栽培している村営農園で１０日、果実の収穫作業が始まった。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "importance_score": 95,
+    "importance_score": 110,
     "is_featured": true,
     "related_articles": [
       {
@@ -443,6 +443,12 @@
         "title": "和歌山の特産ジャバラ、収穫開始 かんきつ類、飛び地の北山村",
         "url": "https://news.jp/i/1492683178402185315",
         "source": "NEWSjp",
+        "published_at": "2026-11-10 09:29"
+      },
+      {
+        "title": "和歌山の特産ジャバラ、収穫開始 かんきつ類、飛び地の北山村（共同通信）",
+        "url": "https://news.yahoo.co.jp/articles/52298617b535782d3f8a2b64a4364de8ca6fa07f",
+        "source": "Yahoo!ニュース",
         "published_at": "2026-11-10 09:29"
       }
     ]
