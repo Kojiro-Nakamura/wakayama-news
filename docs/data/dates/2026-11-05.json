@@ -521,7 +521,7 @@
     "summary": "・登山届、スマホで完結　和歌山県警察と協定締結記事｜西日本新聞meは、九州のニュースを中心に最新情報を伝えるニュースサイトです。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 15,
+    "importance_score": 30,
     "is_featured": false,
     "related_articles": [
       {
@@ -529,6 +529,12 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000279.000011352.html",
         "source": "PR TIMES",
         "published_at": "2026-11-05 13:00"
+      },
+      {
+        "title": "登山届、スマホで完結 和歌山県警察と協定締結",
+        "url": "https://corporate.yamap.co.jp/news/mMbjg39X",
+        "source": "株式会社ヤマップ / YAMAP",
+        "published_at": "2026-11-05 13:03"
       }
     ]
   },

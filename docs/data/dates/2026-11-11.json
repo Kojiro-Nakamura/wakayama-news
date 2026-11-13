@@ -59,13 +59,19 @@
     "summary": "・コーヒー店を中心に飲食店、雑貨店などが集まるイベント「和歌山珈琲市場（ワカヤマコーヒーマーケット）2026」が11月21日〜23日、本町公園（和歌山市北桶屋町）で開催される。\n・（和歌山経済新聞）【写真】昨年本町公園で開催された珈琲市場の様子　同イベントは2020年に始まり、県内各地で開催してきた。\n・昨年に続き、同公園を会場に、初めて3日間開催する。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 27,
+    "importance_score": 42,
     "is_featured": false,
     "related_articles": [
       {
         "title": "本町公園で「和歌山珈琲市場」 初の3日間開催、県内外の200店が参加",
         "url": "https://article.auone.jp/efe61a3d-c99e-488a-a8fc-7788f7bb8ee0",
         "source": "au Webポータル",
+        "published_at": "2026-11-11 23:00"
+      },
+      {
+        "title": "本町公園で「和歌山珈琲市場」　 初の3日間開催、県内外の200店が参加",
+        "url": "https://topics.smt.docomo.ne.jp/article/minkei/region/minkei-wakayama3175",
+        "source": "ｄメニューニュース",
         "published_at": "2026-11-11 23:00"
       }
     ]
@@ -302,7 +308,7 @@
     "summary": "・令和元年7月の京都アニメーション放火殺人事件で犠牲になった渡辺美希子さん＝当時（35）＝の遺族が11日、弘法大師空海の教えにより「慈悲の心」が根付いているとされる和歌山県の高野山真言宗総本山・金剛峯寺で講演した。\n・遺族は事件や裁判を振り返り「持続的な支援で助かる人が一人でも増えたら」と話した。\n・勇さんは「理不尽な内容が多かった」ものの、傍聴に付き添い見守ってくれた支援員らの心配りに支えられたとして「被害者が必要とする形でのサポートが重要だ」と述べた。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 149,
+    "importance_score": 164,
     "is_featured": true,
     "related_articles": [
       {
@@ -358,6 +364,12 @@
         "url": "https://www.saga-s.co.jp/articles/-/1827943",
         "source": "佐賀新聞",
         "published_at": "2026-11-11 18:12"
+      },
+      {
+        "title": "京アニ事件遺族「持続的支援を」 和歌山・高野山で講演:社会",
+        "url": "https://www.minyu-net.com/newspack/detail/2026111101001471",
+        "source": "福島民友新聞社",
+        "published_at": "2026-11-11 18:48"
       }
     ]
   },
@@ -592,6 +604,8 @@
     "summary": "・首都圏在住で和歌山県紀南地方の高校の卒業生らでつくる「南紀田辺会」（大門一成会長）は１０月１７日、東京都千代田区のホテルで第２２回総会を開いた。\n・自治体や地域の関係者を含め、田辺高、神島高（旧田辺商業高）、熊野高、南部高など出身の計８４人が出席し、旧交を温めた。\n・【森林の大切さ伝える　全国育樹祭で従事者や児童が思い発表、和歌山の記事】　総会では２０２５年度の事業・決算報告、２６年度の事業計画案と予算案について説明があった。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 51,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「南紀田辺会」東京で総会 首都圏在住、紀南の高校卒業生ら",
@@ -605,9 +619,7 @@
         "source": "47NEWS",
         "published_at": "2026-11-11 14:30"
       }
-    ],
-    "importance_score": 51,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-11",
