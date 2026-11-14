@@ -184,6 +184,19 @@
   },
   {
     "article_date": "2026-11-10",
+    "title": "保育所・認定こども園について",
+    "url": "https://www.city.kainan.lg.jp/kakubusho/kurashibu/kosodatesuishinka/kosodatesuishinkatorikumi/hoikushoninteikodomoen/hoikushoichiran.html",
+    "source": "海南市",
+    "published_at": "2026-11-10 17:00",
+    "summary": "・※私立認定こども園（幼稚園部）を希望する場合。\n・海南市保育所・認定こども園（保育所部）【令和9年4月利用】0・1・2歳児用 申請フォーム。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-10",
     "title": "保育士不足に悩む和歌山、県が実技試験免除の制度を導入へ…保育科のある短大の学生募集停止で危機感高まる",
     "url": "https://news.yahoo.co.jp/articles/10202dd4dfd6f9dfb911887e74951dbf480d0a48?page=2",
     "source": "Yahoo!ニュース",
@@ -380,9 +393,16 @@
     "summary": "・子どもたちに土木の魅力や大切さを伝えるイベント「たなべ土木フェスタ」が１５日午前１０時～午後２時、田辺市の扇ケ浜交流広場である。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 11,
+    "importance_score": 26,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "土木の魅力 もっと知って／１５日 田辺で「フェスタ」初開催",
+        "url": "https://www.agara.co.jp/article/710510",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-10 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-11-10",

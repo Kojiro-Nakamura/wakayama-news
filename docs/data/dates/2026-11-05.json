@@ -326,7 +326,7 @@
     "summary": "・紀州漆器の産地問屋による年１回の大漆器市「紀州漆器まつり」が、今月（１１月）７日と８日に、海南市内で開催されます。\n・これは、海南市の黒江(くろえ)地区を中心に４００年以上続く、紀州漆器を知ってもらおうと、漆器問屋などでつくる実行委員会が、毎年この時期に開催しているもので、今年は初めて、海南市民防災公園「海南ハレアメ」を主会場に開かれます。\n・第３８回「紀州漆器まつり」は、１１月７日と８日の両日、午前９時半から午後４時まで、海南市大野中(おおのなか)の海南ハレアメを主会場に開かれ、ＪＲ海南駅と各会場を結ぶ無料のシャトルバスも運行されます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 44,
+    "importance_score": 59,
     "is_featured": false,
     "related_articles": [
       {
@@ -340,6 +340,12 @@
         "url": "https://news.yahoo.co.jp/articles/1f4bf86ba9d0b1ac9adf0ec6516d9f67a7710b79/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-05 15:24"
+      },
+      {
+        "title": "和歌山県海南市で「紀州漆器まつり」年に一度の大漆器市（WBS和歌山放送ニュース）",
+        "url": "https://news.yahoo.co.jp/articles/1f4bf86ba9d0b1ac9adf0ec6516d9f67a7710b79?source=rss",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-05 17:00"
       }
     ]
   },
@@ -469,6 +475,8 @@
     "summary": "・「津波防災の日」の5日、マグニチュード（M）9.1の南海トラフ巨大地震を想定した列車からの津波避難訓練が和歌山県広川町のJR紀勢線で行われた。\n・地元の小学生ら約350人が運転士の誘導で列車を降り、消防団員が「逃げろ」と声をかける中、高台の神社に走って向かった。\n・1854年の安政南海地震で大津波が紀伊半島を襲ったのが旧暦の11月5日とされ、2011年の東日本大震災をきっかけに津波防災の日に制定された。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 176,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山で津波避難訓練",
@@ -536,9 +544,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-05 11:16"
       }
-    ],
-    "importance_score": 176,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-05",
