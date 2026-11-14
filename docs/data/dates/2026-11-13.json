@@ -8,9 +8,9 @@
     "summary": "・有識者が政府事業の効果を検証する「秋の行政レビュー」は１３日、東京都内で行われ２日間の日程を終えた。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -21,6 +21,8 @@
     "summary": "・和歌山港と徳島港を結ぶ南海フェリーについて、親会社である南海電鉄は2028年3月末をめどに事業から撤退する方針です。\n・13日、和歌山県の宮﨑泉知事がフェリーに乗って徳島入りし、徳島県の後藤田正純知事と存続について協議しました。\n・両知事は、存続を前提とした関連自治体などによる協議体を発足させることなどで合意しました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 194,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "“撤退表明”の南海フェリー「航路の維持存続を前提」和歌山県と徳島県が合意 「何としても残したい」和歌山・宮崎知事は公的支出の必要性にも言及 新たな事業者の確保を最優先に連携",
@@ -87,10 +89,14 @@
         "url": "https://mainichi.jp/articles/20261113/k00/00m/310/156000c",
         "source": "毎日新聞",
         "published_at": "2026-11-13 15:42"
+      },
+      {
+        "title": "和歌山－徳島のフェリー航路、存続へ協議体 両県知事が設置合意（毎日新聞）",
+        "url": "https://news.yahoo.co.jp/articles/ef7f03db0cf26c28f2f3f49e25f3de3b7bb7d874",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-13 15:43"
       }
-    ],
-    "importance_score": 179,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-13",
@@ -101,33 +107,39 @@
     "summary": "・アメリカビーバーの「バーチ」の公開が11月3日、和歌山城公園動物園（和歌山市一番丁）で始まった。\n・居酒屋「巻ト酒マキチヨ」（和歌山市吉田、TEL 073-498-6108）がJR和歌山駅近くにオープンして10月18日で2カ月がたった。\n・今年収穫した和歌山県産南高梅で仕込んだ梅酒の新酒の蔵出しが11月6日、酒造会社「中野BC」（海南市藤白）で行われた。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
-    "importance_score": 12,
-    "is_featured": false
+    "importance_score": 27,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "和歌山城公園動物園でプールを泳ぐ「バーチ」と運動場にいる「あんず」（2026年11月5日撮影）",
+        "url": "https://wakayama.keizai.biz/photoflash/8030/",
+        "source": "和歌山経済新聞",
+        "published_at": "2026-11-13 20:02"
+      }
+    ]
   },
   {
     "article_date": "2026-11-13",
-    "title": "和歌山城公園動物園でアメリカビーバー「バーチ」公開 先輩「あんず」の妹（みんなの経済新聞ネットワーク）",
-    "url": "https://news.yahoo.co.jp/articles/c1b6efd9c443b5d174f20e18a27d6a0cc4c0e919",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-13 20:00",
-    "summary": "・アメリカビーバーの「バーチ」の公開が11月3日、和歌山城公園動物園（和歌山市一番丁）で始まった。\n・（和歌山経済新聞）【写真】プールを泳ぐ「バーチ」と運動場にいる「あんず」（2026年11月5日撮影）　「バーチ」は2025年5月17日生まれの雌。\n・2025年7月に日立市かみね動物園（茨城県）から迎え入れたアメリカビーバー「あんず」の妹で、9月25日に和歌山城公園動物園にやって来た。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-13",
-    "title": "震度1 和歌山県北部 2026年11月13日19:42ごろ 地震詳細",
-    "url": "https://newsdig.tbs.co.jp/list/bousai/earthquake/detail?event=20261113194233",
+    "title": "震度1 和歌山県北部 2026年11月13日19:42ごろ 地震詳細 | 静岡のニュース | SBSNEWS | 静岡放送",
+    "url": "https://newsdig.tbs.co.jp/list/sbs/bousai/earthquake/detail?event=20261113194233",
     "source": "TBS NEWS DIG",
-    "published_at": "2026-11-13 19:59",
+    "published_at": "2026-11-13 20:12",
     "summary": "・震度1　和歌山県北部　19:42ごろ。\n・和歌山県で最大震度1の地震　和歌山県・和歌山市、13日午後7時42分ごろ、和歌山県で最大震度1を観測する地震がありました。\n・気象庁によりますと、震源地は和歌山県北部で、震源の深さはおよそ10km、地震の規模を示すマグニチュードは2.4と推定されます。",
     "summary_type": "auto",
     "category": "社会・事件",
     "related_articles": [
+      {
+        "title": "震度1 和歌山県北部 2026年11月13日19:42ごろ 地震詳細 | 山形のニュース│TUYテレビユー山形",
+        "url": "https://newsdig.tbs.co.jp/list/tuy/bousai/earthquake/detail?event=20261113194233",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-13 20:04"
+      },
+      {
+        "title": "震度1 和歌山県北部 2026年11月13日19:42ごろ 地震詳細",
+        "url": "https://newsdig.tbs.co.jp/list/bousai/earthquake/detail?event=20261113194233",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-13 19:59"
+      },
       {
         "title": "震度1 和歌山県北部 2026年11月13日19:42ごろ 地震詳細 | IBC NEWS | IBC岩手放送",
         "url": "https://newsdig.tbs.co.jp/list/ibc/bousai/earthquake/detail?event=20261113194233",
@@ -151,10 +163,36 @@
         "url": "https://news.livedoor.com/topics/detail/32804909/",
         "source": "ライブドアニュース",
         "published_at": "2026-11-13 07:45"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震 和歌山県・和歌山市 (2026年11月13日掲載)",
+        "url": "https://news.livedoor.com/topics/detail/32812857/",
+        "source": "ライブドアニュース",
+        "published_at": "2026-11-13 19:45"
       }
     ],
-    "importance_score": 69,
+    "importance_score": 114,
     "is_featured": true
+  },
+  {
+    "article_date": "2026-11-13",
+    "title": "和歌山城公園動物園でアメリカビーバー「バーチ」公開 先輩「あんず」の妹",
+    "url": "https://wakayama.keizai.biz/headline/3177/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-11-13 20:02",
+    "summary": "・アメリカビーバーの「バーチ」の公開が11月3日、和歌山城公園動物園（和歌山市一番丁）で始まった。\n・プールを泳ぐ「バーチ」と運動場にいる「あんず」（2026年11月5日撮影）。\n・2025年7月に日立市かみね動物園（茨城県）から迎え入れたアメリカビーバー「あんず」の妹で、9月25日に和歌山城公園動物園にやって来た。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [
+      {
+        "title": "和歌山城公園動物園でアメリカビーバー「バーチ」公開 先輩「あんず」の妹（みんなの経済新聞ネットワーク）",
+        "url": "https://news.yahoo.co.jp/articles/c1b6efd9c443b5d174f20e18a27d6a0cc4c0e919",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-13 20:00"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-13",
@@ -165,6 +203,8 @@
     "summary": "・和歌山県で最大震度1の地震 和歌山県・和歌山市。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 123,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山県で最大震度1の地震 和歌山県・和歌山市（TBS NEWS DIG Powered by JNN）",
@@ -207,10 +247,14 @@
         "url": "https://news.livedoor.com/article/detail/32812857/",
         "source": "ライブドアニュース",
         "published_at": "2026-11-13 19:45"
+      },
+      {
+        "title": "和歌山県で最大震度1の地震 和歌山県・和歌山市",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3085517?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-13 19:45"
       }
-    ],
-    "importance_score": 108,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-13",
@@ -221,9 +265,9 @@
     "summary": "・北山村特産「じゃばら」の収穫が最盛期迎える 和歌山。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -429,9 +473,9 @@
     "summary": "・現在（令和8年11月13日現在）、熊野古道紀伊路の「藤白坂」（12丁付近・筆捨松から約200m下）において、オオスズメバチの活動が確認されております。\n・たいへん危険ですので、むやみに立ち入らないようご注意ください。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -471,6 +515,38 @@
     "importance_score": 26,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-13",
+    "title": "「幻のエビ」45年ぶり発見 和歌山で、生態研究に進展",
+    "url": "https://www.nikkei.com/article/DGXZQOUD130YQ0T11C26A1000000/",
+    "source": "日本経済新聞",
+    "published_at": "2026-11-13 17:30",
+    "summary": "・1980年に新種として記載されて以降、その姿が確認されておらず「幻のエビ」となっていたムラサキエビモドキを約45年ぶりに発見したと、京都大などのチームが13日までに国際学術誌に発表した。\n・長崎大の研究者が長崎県と熊本県の海岸で初めて見つけ、新種と明らかにして以降は発見例がなかった。\n・チームは2021〜25年に和歌山県白浜町と串本町の海岸の潮だまりから7匹のエビを採集した。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "【画像】「幻のエビ」ムラサキエビモドキ、和歌山県の海岸で45年ぶり発見される",
+        "url": "https://news.livedoor.com/article/image_detail/32804909/?img_id=57582673",
+        "source": "ライブドアニュース",
+        "published_at": "2026-11-13 05:39"
+      },
+      {
+        "title": "「幻のエビ」45年ぶり発見 和歌山で、生態研究に進展（共同通信）",
+        "url": "https://news.yahoo.co.jp/articles/2d9b06b335dce9a97fbfeda783b65c98a5c0db65",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-13 05:38"
+      },
+      {
+        "title": "「幻のエビ」４５年ぶり発見 和歌山で、生態研究に進展",
+        "url": "https://www.kochinews.co.jp/article/detail/1063408",
+        "source": "高知新聞",
+        "published_at": "2026-11-13 05:38"
+      }
+    ],
+    "importance_score": 66,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-13",
@@ -523,6 +599,19 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-13",
+    "title": "日本蓄電池、佐賀と和歌山で蓄電所、CATL採用 - ニュース - メガソーラービジネス plus",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06210/?ST=msb",
+    "source": "日経BP",
+    "published_at": "2026-11-13 15:35",
+    "summary": "・日本蓄電池（東京都千代田区）は11月6日、佐賀県唐津市に設置した系統用蓄電所「NC唐津市浜玉町浜崎蓄電所」において、需給調整市場での運用を同日開始したと発表した。\n・また、日本蓄電池とリミックスポイントの共同事業7カ所のうち5カ所目として、和歌山県海南市の「NC海南市木津蓄電所」が、11月9日に受電を開始した。\n・このほかにも日本蓄電池は、熊本県荒尾市で開発を進めている「NC荒尾市府本字打越蓄電所」において、10月28日に系統用蓄電池を設置した。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-13",
@@ -656,6 +745,19 @@
   },
   {
     "article_date": "2026-11-13",
+    "title": "１５年間 稼働を延長／古座川 池野山環境衛生センター",
+    "url": "https://www.agara.co.jp/article/712054?rct=politics",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-11-13 14:30",
+    "summary": "・古座川町池野山にある池野山環境衛生センターの稼働が、新たに１５年間延長されることになった。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-13",
     "title": "海南市物品・役務提供受注資格者の追加登録について(受付期間 令和8年6月1日〜19日)",
     "url": "https://www.city.kainan.lg.jp/kakubusho/soumubu/kanzaijohoka/nyusatsukeiyaku/sankasikaku/1366932759052.html",
     "source": "海南市",
@@ -692,6 +794,26 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-13",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-11-13 12:33",
+    "summary": "・和歌山県の雨雲レーダー(実況)14日18:45発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山県の雨雲レーダー(予報)",
+        "url": "https://tenki.jp/radar/6/33/rainmesh.html",
+        "source": "tenki.jp",
+        "published_at": "2026-11-13 09:23"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-13",
@@ -806,26 +928,6 @@
   },
   {
     "article_date": "2026-11-13",
-    "title": "和歌山県の雨雲レーダー(予報)",
-    "url": "https://tenki.jp/radar/6/33/rainmesh.html",
-    "source": "tenki.jp",
-    "published_at": "2026-11-13 09:23",
-    "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・和歌山県の落雷地点・雷予報をチェック！\n・2026年11月の和歌山県の雨雲レーダーを見る。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "related_articles": [
-      {
-        "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
-        "url": "https://tenki.jp/radar/6/33/",
-        "source": "tenki.jp",
-        "published_at": "2026-11-13 03:58"
-      }
-    ],
-    "importance_score": 21,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-13",
     "title": "保育士不足解消へ 和歌山県が地域限定試験 実技講習で資格取得可能に 受験者門戸広げる（産経新聞）",
     "url": "https://news.yahoo.co.jp/articles/687ecc751e99e8057de76c3833adea54f0b1fe01",
     "source": "Yahoo!ニュース",
@@ -843,22 +945,6 @@
         "published_at": "2026-11-13 08:00"
       }
     ]
-  },
-  {
-    "title": "【画像】「幻のエビ」ムラサキエビモドキ、和歌山県の海岸で45年ぶり発見される",
-    "url": "https://news.livedoor.com/article/image_detail/32804909/?img_id=57582673",
-    "source": "ライブドアニュース",
-    "published_at": "2026-11-13 05:39",
-    "related_articles": [
-      {
-        "title": "「幻のエビ」45年ぶり発見 和歌山で、生態研究に進展（共同通信）",
-        "url": "https://news.yahoo.co.jp/articles/2d9b06b335dce9a97fbfeda783b65c98a5c0db65",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-11-13 05:38"
-      }
-    ],
-    "importance_score": 15,
-    "is_featured": false
   },
   {
     "article_date": "2026-11-13",
@@ -885,19 +971,6 @@
         "published_at": "2026-11-13 06:00"
       }
     ]
-  },
-  {
-    "article_date": "2026-11-13",
-    "title": "「幻のエビ」４５年ぶり発見 和歌山で、生態研究に進展",
-    "url": "https://www.kochinews.co.jp/article/detail/1063408",
-    "source": "高知新聞",
-    "published_at": "2026-11-13 05:38",
-    "summary": "・「幻のエビ」４５年ぶり発見 和歌山で、生態研究に進展。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "related_articles": [],
-    "importance_score": 0,
-    "is_featured": false
   },
   {
     "article_date": "2026-11-13",

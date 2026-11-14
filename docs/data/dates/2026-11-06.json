@@ -158,7 +158,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 44,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "子ども保護の流れ確認 児相と警察が合同研修、和歌山県田辺（紀伊民報）",
@@ -476,6 +476,38 @@
   },
   {
     "article_date": "2026-11-06",
+    "title": "田辺市の幼稚園、保育所で津波避難訓練 子どもや職員540人参加 [和歌山県] [南海トラフ地震]",
+    "url": "https://www.asahi.com/articles/ASVC53VZJVC5PXLB004M.html",
+    "source": "朝日新聞",
+    "published_at": "2026-11-06 17:00",
+    "summary": "・田辺市の幼稚園、保育所で津波避難訓練 子どもや職員540人参加 [和歌山県] [南海トラフ地震]。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "防災庁と和歌山県が「世界津波の日」にシンポ 京大防災研教授が講演 [和歌山県] [南海トラフ地震]",
+        "url": "https://www.asahi.com/articles/ASVC53W60VC5PXLB009M.html",
+        "source": "朝日新聞",
+        "published_at": "2026-11-06 10:45"
+      },
+      {
+        "title": "田辺市の幼稚園、保育所で津波避難訓練　子どもや職員540人参加",
+        "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVC53VZJVC5PXLB004M",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-11-06 10:45"
+      },
+      {
+        "title": "田辺市の幼稚園、保育所で津波避難訓練 子どもや職員540人参加（朝日新聞）",
+        "url": "https://news.yahoo.co.jp/articles/41b3031948af6c88cc3bde2a67865999b541e936",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-06 10:45"
+      }
+    ],
+    "importance_score": 53,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-06",
     "title": "センバツ 県推薦校",
     "url": "https://www.tv-wakayama.co.jp/news/detail.php?id=89006",
     "source": "テレビ和歌山",
@@ -719,42 +751,9 @@
     "summary": "・2日に発足した防災庁と、和歌山県が主催する防災シンポジウムが「世界津波の日」の5日、和歌山市内で開かれた。\n・防災庁の設置準備に協力した京都大防災研究所の矢守克也教授が基調講演した。\n・【写真】防災庁への期待などについて話す矢守克也・京都大防災研究所教授=2026年11月5日、和歌山市小松原通1丁目、白木琢歩撮影　世界津波の日は、安政南海地震（1854年）の際に広村（現・広川町）の実業家・浜口梧陵（ごりょう）が稲わらに火をつけ、村人を高台に導いたという逸話「稲むらの火」にちなみ、2015年に制定された。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 24,
+    "importance_score": 9,
     "is_featured": false,
-    "related_articles": [
-      {
-        "title": "防災庁と和歌山県が「世界津波の日」にシンポ 京大防災研教授が講演 [和歌山県] [南海トラフ地震]",
-        "url": "https://www.asahi.com/articles/ASVC53W60VC5PXLB009M.html",
-        "source": "朝日新聞",
-        "published_at": "2026-11-06 10:45"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-06",
-    "title": "田辺市の幼稚園、保育所で津波避難訓練　子どもや職員540人参加",
-    "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVC53VZJVC5PXLB004M",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-11-06 10:45",
-    "summary": "・ライフジャケットを身につけ避難先に向かう子どもや職員たち=2026年11月5日午前10時10分、和歌山県田辺市、菊地洋行撮影。\n・「世界津波の日」の5日、和歌山県田辺市内の幼稚園や保育所では、南海トラフ地震に伴う津波の避難訓練があった。\n・0〜5歳の幼児27人と職員16人が参加した「みどり保育所」（同市末広町）は海に近く、津波浸水区域にある。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 39,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "田辺市の幼稚園、保育所で津波避難訓練 子どもや職員540人参加（朝日新聞）",
-        "url": "https://news.yahoo.co.jp/articles/41b3031948af6c88cc3bde2a67865999b541e936",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-11-06 10:45"
-      },
-      {
-        "title": "田辺市の幼稚園、保育所で津波避難訓練 子どもや職員540人参加 [和歌山県] [南海トラフ地震]",
-        "url": "https://www.asahi.com/articles/ASVC53VZJVC5PXLB004M.html",
-        "source": "朝日新聞",
-        "published_at": "2026-11-06 10:45"
-      }
-    ]
+    "related_articles": []
   },
   {
     "article_date": "2026-11-06",

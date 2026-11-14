@@ -308,6 +308,8 @@
     "summary": "・今年度の紀の川市防災総合訓練は、大規模地震を想定した「避難所開設・運営訓練」を実施します。\n・訓練を通じて、市民、自主防災組織、消防団、関係団体及び市がそれぞれの役割を理解し、相互に連携・協力することで、大規模災害時に円滑な避難所の開設・運営ができる地域防災体制の構築を目指します。\n・■実施日：令和8年11月15日（日）午前8：30〜正午。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 36,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "令和8年度(第16回)紀の川市防災総合訓練を実施",
@@ -321,9 +323,7 @@
         "source": "PR TIMES",
         "published_at": "2026-11-12 13:00"
       }
-    ],
-    "importance_score": 36,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-12",
@@ -633,6 +633,19 @@
   },
   {
     "article_date": "2026-11-12",
+    "title": "江戸時代の絵師・長沢芦雪が描いた障壁画など収蔵 串本応挙芦雪館 竣工式 和歌山県串本町（テレビ和歌山）",
+    "url": "https://news.yahoo.co.jp/articles/f0069450630e84629fe80492a88d737092e823e2",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-12 13:03",
+    "summary": "・江戸時代の絵師・長沢芦雪が描いた障壁画などを収蔵している、串本町の「串本応挙芦雪館」で収蔵庫の改修工事が終了し、このほど、竣工式が行われました。\n・串本町串本の無量寺で、このほど行われた竣工式には、田嶋勝正町長や寺の総代らおよそ５０人が参列し、串本応挙芦雪館の館長を務める東谷洞雲住職が、収蔵庫の安全を祈願してお経をあげたあと、改修された収蔵庫がお披露目されました。\n・収蔵庫には、江戸時代の絵師・長沢芦雪が描いた「虎図襖」や「龍図襖」など、国の重要文化財に指定されている襖絵などが収蔵・保存されていますが、２０年ほど前から天井全体にシミやカビが発生するなどしていたため、風除室を新設して外気が直接入り込むのを防ぐ構造にするなどの改修工事を、およそ４か月半にわたり行ってきました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-12",
     "title": "駅の入場券が「合格のお守り」に！？ 受験シーズンを前に南海電鉄高野線「学文路駅」で販売【和歌山・橋本市】",
     "url": "https://newsdig.tbs.co.jp/articles/mbs/3080284",
     "source": "TBS NEWS DIG",
@@ -676,6 +689,19 @@
     "importance_score": 3,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-12",
+    "title": "小説集「紀州熊野サーガ」 和歌山・新宮 失われた「路地」を追って【物語をゆく】",
+    "url": "https://news.at-s.com/article/2096286",
+    "source": "静岡新聞DIGITAL",
+    "published_at": "2026-11-12 11:52",
+    "summary": "・小説集「紀州熊野サーガ」 和歌山・新宮 失われた「路地」を追って【物語をゆく】。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-12",
