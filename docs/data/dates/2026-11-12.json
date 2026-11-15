@@ -21,7 +21,7 @@
     "summary": "・地宝の物語（９１）／上富田町郷土資料館　（上富田町朝来）／地域築いた道具の数々。\n・明治時代の理科教科書／上富田　庄司さん町教委に寄贈。\n・老朽化で取り壊しが決まっている和歌山県上富田町朝来の町郷土資料館で、保管資料を一時的に移転するための整理作業が行われている。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 41,
+    "importance_score": 56,
     "is_featured": true,
     "related_articles": [
       {
@@ -34,6 +34,12 @@
         "title": "移転前に保管資料整理 上富田町郷土資料館で和大生手伝う、和歌山",
         "url": "https://www.47news.jp/15219678.html",
         "source": "47NEWS",
+        "published_at": "2026-11-12 14:30"
+      },
+      {
+        "title": "移転前に保管資料整理　上富田町郷土資料館で和大生手伝う、和歌山",
+        "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow711645",
+        "source": "ｄメニューニュース",
         "published_at": "2026-11-12 14:30"
       }
     ]
@@ -640,9 +646,9 @@
     "summary": "・江戸時代の絵師・長沢芦雪が描いた障壁画などを収蔵している、串本町の「串本応挙芦雪館」で収蔵庫の改修工事が終了し、このほど、竣工式が行われました。\n・串本町串本の無量寺で、このほど行われた竣工式には、田嶋勝正町長や寺の総代らおよそ５０人が参列し、串本応挙芦雪館の館長を務める東谷洞雲住職が、収蔵庫の安全を祈願してお経をあげたあと、改修された収蔵庫がお披露目されました。\n・収蔵庫には、江戸時代の絵師・長沢芦雪が描いた「虎図襖」や「龍図襖」など、国の重要文化財に指定されている襖絵などが収蔵・保存されていますが、２０年ほど前から天井全体にシミやカビが発生するなどしていたため、風除室を新設して外気が直接入り込むのを防ぐ構造にするなどの改修工事を、およそ４か月半にわたり行ってきました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",
@@ -699,9 +705,9 @@
     "summary": "・小説集「紀州熊野サーガ」 和歌山・新宮 失われた「路地」を追って【物語をゆく】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-12",

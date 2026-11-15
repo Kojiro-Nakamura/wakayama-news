@@ -127,6 +127,8 @@
     "summary": "・震度1　和歌山県北部　19:42ごろ。\n・和歌山県で最大震度1の地震　和歌山県・和歌山市、13日午後7時42分ごろ、和歌山県で最大震度1を観測する地震がありました。\n・気象庁によりますと、震源地は和歌山県北部で、震源の深さはおよそ10km、地震の規模を示すマグニチュードは2.4と推定されます。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 114,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "震度1 和歌山県北部 2026年11月13日19:42ごろ 地震詳細 | 山形のニュース│TUYテレビユー山形",
@@ -170,9 +172,7 @@
         "source": "ライブドアニュース",
         "published_at": "2026-11-13 19:45"
       }
-    ],
-    "importance_score": 114,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-13",
@@ -183,6 +183,8 @@
     "summary": "・アメリカビーバーの「バーチ」の公開が11月3日、和歌山城公園動物園（和歌山市一番丁）で始まった。\n・プールを泳ぐ「バーチ」と運動場にいる「あんず」（2026年11月5日撮影）。\n・2025年7月に日立市かみね動物園（茨城県）から迎え入れたアメリカビーバー「あんず」の妹で、9月25日に和歌山城公園動物園にやって来た。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山城公園動物園でアメリカビーバー「バーチ」公開 先輩「あんず」の妹（みんなの経済新聞ネットワーク）",
@@ -190,9 +192,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-13 20:00"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-13",
@@ -440,6 +440,26 @@
   },
   {
     "article_date": "2026-11-13",
+    "title": "【和歌山県】11/14の天気予報",
+    "url": "https://www.fnn.jp/articles/-/1151889",
+    "source": "FNNプライムオンライン",
+    "published_at": "2026-11-13 19:30",
+    "summary": "・和歌山地方気象台が11月13日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・最高気温は、和歌山22℃、潮岬21℃でしょう。\n・各地の天気予報は以下の通りです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "【和歌山県】11/13の天気予報",
+        "url": "https://www.fnn.jp/articles/-/1151563",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-11-13 05:10"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-13",
     "title": "オーケーが大阪市此花区に新店、松源は和歌山・新宮市に出店へ【大店立地法速報】",
     "url": "https://diamond-rm.net/store/563264/",
     "source": "ダイヤモンド・チェーンストアオンライン",
@@ -525,6 +545,8 @@
     "summary": "・1980年に新種として記載されて以降、その姿が確認されておらず「幻のエビ」となっていたムラサキエビモドキを約45年ぶりに発見したと、京都大などのチームが13日までに国際学術誌に発表した。\n・長崎大の研究者が長崎県と熊本県の海岸で初めて見つけ、新種と明らかにして以降は発見例がなかった。\n・チームは2021〜25年に和歌山県白浜町と串本町の海岸の潮だまりから7匹のエビを採集した。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 66,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【画像】「幻のエビ」ムラサキエビモドキ、和歌山県の海岸で45年ぶり発見される",
@@ -544,9 +566,7 @@
         "source": "高知新聞",
         "published_at": "2026-11-13 05:38"
       }
-    ],
-    "importance_score": 66,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-13",
@@ -609,9 +629,9 @@
     "summary": "・日本蓄電池（東京都千代田区）は11月6日、佐賀県唐津市に設置した系統用蓄電所「NC唐津市浜玉町浜崎蓄電所」において、需給調整市場での運用を同日開始したと発表した。\n・また、日本蓄電池とリミックスポイントの共同事業7カ所のうち5カ所目として、和歌山県海南市の「NC海南市木津蓄電所」が、11月9日に受電を開始した。\n・このほかにも日本蓄電池は、熊本県荒尾市で開発を進めている「NC荒尾市府本字打越蓄電所」において、10月28日に系統用蓄電池を設置した。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -752,9 +772,9 @@
     "summary": "・古座川町池野山にある池野山環境衛生センターの稼働が、新たに１５年間延長されることになった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -804,6 +824,8 @@
     "summary": "・和歌山県の雨雲レーダー(実況)14日18:45発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の雨雲レーダー(予報)",
@@ -811,9 +833,7 @@
         "source": "tenki.jp",
         "published_at": "2026-11-13 09:23"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-13",
@@ -971,19 +991,6 @@
         "published_at": "2026-11-13 06:00"
       }
     ]
-  },
-  {
-    "article_date": "2026-11-13",
-    "title": "【和歌山県】11/13の天気予報",
-    "url": "https://www.fnn.jp/articles/-/1151563",
-    "source": "FNNプライムオンライン",
-    "published_at": "2026-11-13 05:10",
-    "summary": "・和歌山地方気象台が11月13日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山22℃、潮岬20℃でしょう。\n・各地の天気予報は以下の通りです。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
   },
   {
     "article_date": "2026-11-13",

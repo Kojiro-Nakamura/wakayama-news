@@ -483,6 +483,8 @@
     "summary": "・田辺市の幼稚園、保育所で津波避難訓練 子どもや職員540人参加 [和歌山県] [南海トラフ地震]。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 53,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "防災庁と和歌山県が「世界津波の日」にシンポ 京大防災研教授が講演 [和歌山県] [南海トラフ地震]",
@@ -502,9 +504,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-06 10:45"
       }
-    ],
-    "importance_score": 53,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-06",
