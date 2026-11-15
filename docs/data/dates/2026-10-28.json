@@ -544,6 +544,8 @@
     "summary": "・地域活性化に向けた再開発計画が白紙に、和歌山市街地の準備組合解散 [和歌山県]。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 38,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "地域活性化に向けた再開発計画が白紙に、和歌山市街地の準備組合解散 (朝日新聞)",
@@ -557,9 +559,7 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-28 07:00"
       }
-    ],
-    "importance_score": 38,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-28",
