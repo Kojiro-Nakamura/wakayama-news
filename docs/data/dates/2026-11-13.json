@@ -21,7 +21,7 @@
     "summary": "・和歌山港と徳島港を結ぶ南海フェリーについて、親会社である南海電鉄は2028年3月末をめどに事業から撤退する方針です。\n・13日、和歌山県の宮﨑泉知事がフェリーに乗って徳島入りし、徳島県の後藤田正純知事と存続について協議しました。\n・両知事は、存続を前提とした関連自治体などによる協議体を発足させることなどで合意しました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 194,
+    "importance_score": 209,
     "is_featured": true,
     "related_articles": [
       {
@@ -95,6 +95,12 @@
         "url": "https://news.yahoo.co.jp/articles/ef7f03db0cf26c28f2f3f49e25f3de3b7bb7d874",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-13 15:43"
+      },
+      {
+        "title": "南海フェリー航路存続に向け 徳島・和歌山の両県知事が初協議【徳島】（JRT四国放送）",
+        "url": "https://news.yahoo.co.jp/articles/ce15d779f2df8ad25ace3b5eba1e6120062088be",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-13 18:06"
       }
     ]
   },
@@ -460,6 +466,26 @@
   },
   {
     "article_date": "2026-11-13",
+    "title": "鳥インフルエンザ対策 和歌山市の動物園では展示が一部中止に",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75582",
+    "source": "NHKニュース",
+    "published_at": "2026-11-13 19:25",
+    "summary": "・鳥インフルエンザ対策 和歌山市の動物園では展示が一部中止に",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [
+      {
+        "title": "鳥インフルエンザ対策で動物園の展示一部中止 和歌山",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261113de75548",
+        "source": "NHKニュース",
+        "published_at": "2026-11-13 18:29"
+      }
+    ],
+    "importance_score": 23,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-13",
     "title": "オーケーが大阪市此花区に新店、松源は和歌山・新宮市に出店へ【大店立地法速報】",
     "url": "https://diamond-rm.net/store/563264/",
     "source": "ダイヤモンド・チェーンストアオンライン",
@@ -507,19 +533,6 @@
     "summary_type": "auto",
     "category": "政治・行政",
     "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-13",
-    "title": "鳥インフルエンザ対策で動物園の展示一部中止 和歌山",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75548",
-    "source": "NHKニュース",
-    "published_at": "2026-11-13 18:29",
-    "summary": "・鳥インフルエンザ対策で動物園の展示一部中止 和歌山。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 5,
     "is_featured": false,
     "related_articles": []
   },
@@ -580,6 +593,19 @@
     "importance_score": 15,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-13",
+    "title": "新庄ＢＣが優勝 準優勝は上秋津・鮎川龍神、若鷲旗学童野球、和歌山（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/1abf6dfd2dc698a73851644376b2a6c2f84d0103",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-13 16:25",
+    "summary": "・第５２回若鷲旗争奪学童軟式野球大会（田辺西牟婁学童野球協議会主催、紀伊民報後援）の決勝が８日、和歌山県田辺市の神島台グラウンドであり、新庄ベースボールクラブが上秋津・鮎川龍神少年野球クラブに１２―２で勝ち、優勝した。\n・【韓国の少年野球チーム来日　地元選手と交流深める、和歌山県田辺の記事】　【決勝】新庄ベースボールクラブ　２０１０ ０００　１２　１１０　 ０００　２上秋津・鮎川龍神少年野球クラブ◇　大会は１２チームが出場し、トーナメントで優勝を争った。\n・１回戦＝白浜４―２あいづ、ＴＡＮＡＢＥ９―４生馬・すさみ、上中芳養５―４岩田、芳養１―０三栖　準々決勝＝上秋津・鮎川龍神４―０白浜、稲成２―１ＴＡＮＡＢＥ、新庄３―２上中芳養、芳養４―３朝来　準決勝＝上秋津・鮎川龍神５―０稲成、新庄３―０芳養。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-13",

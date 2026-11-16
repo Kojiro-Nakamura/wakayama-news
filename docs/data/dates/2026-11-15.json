@@ -1,6 +1,58 @@
 [
   {
     "article_date": "2026-11-15",
+    "title": "特別展 弘法大師空海 ―高野山の至宝と信仰のひろがり―",
+    "url": "https://www.artagenda.jp/exhibition/detail/12979",
+    "source": "アートアジェンダ",
+    "published_at": "2026-11-15 22:32",
+    "summary": "・弘法大師空海（774～835）は、宇宙の真理を体現する大日如来を中心とした密教の教えを唐の都長安で学び、日本に伝えひろめました。\n・本展では、空海が真言密教の修行道場として開創した高野山の名宝と、西日本各地の空海ゆかりの寺院の宝物から、空海の魅力とその信仰のひろがりを紹介します。\n・「弘法大師空海 ―高野山の至宝と信仰のひろがり―」チラシ重要文化財 大日如来坐像（部分） 平安時代 仁和3年（887）頃 和歌山・金剛峯寺。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-15",
+    "title": "壁一面のイルミネーション",
+    "url": "https://wakayama.keizai.biz/gpnews/1779061/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-11-15 22:18",
+    "summary": "・三重県桑名市の「なばなの里」で発光ダイオード（ＬＥＤ）による国内最大級のイルミネーションが色鮮やかに来場者を迎えている。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-15",
+    "title": "和歌山 九度山町で特産柿の皮むき大会",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261115de76264",
+    "source": "NHKニュース",
+    "published_at": "2026-11-15 21:09",
+    "summary": "・和歌山 九度山町で特産柿の皮むき大会。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-15",
+    "title": "（和歌山）田辺市龍神村福井でクマ出没　１１月１５日",
+    "url": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1494647111680016706",
+    "source": "ｄメニューニュース",
+    "published_at": "2026-11-15 19:31",
+    "summary": "・田辺市によると、１１月１５日午後４時３０分頃、田辺市龍神村福井で、クマが出没しました。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-15",
     "title": "【大相撲】九州場所８日目、和歌山県関係の結果",
     "url": "https://news.wbs.co.jp/221789",
     "source": "WBS和歌山放送ニュース",
@@ -8,9 +60,9 @@
     "summary": "・大相撲九州場所は、中日(なかび)８日目のきょう（１５日）、有田市出身の幕下、藤壮大(ふじそうだい)は勝って、１勝３敗としました。\n・和歌山県出身ではありませんが、県立箕島高校ＯＢで、西前頭筆頭の藤凌駕(ふじりょうが)は、美ノ海(ちゅらのうみ)に「おしだし」で勝ち、５勝３敗としました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
@@ -21,9 +73,9 @@
     "summary": "・京奈和自動車道の奈良県・五條北インターチェンジから、かつらぎ町のかつらぎ西インターチェンジまでの上下線が、あす（１６日）から今月（１１月）２０日まで、夜間通行止めとなります。\n・通行止めの時間は、毎日・午後８時から翌朝６時までで、迂回路は国道２４号などです。\n・道路を管理する国土交通省・和歌山河川国道事務所によりますと、ワイヤーロープ式防護柵の修繕や舗装修繕、トンネル照明工事などのための夜間通行止めで、現場では、規制看板や交通誘導員などの案内に従って通行するよう理解と協力を呼びかけています。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
@@ -34,9 +86,9 @@
     "summary": "・設置駅は、一部急行停車駅と学校や観光地がある駅、他社線との乗換駅など、利用需要が見込まれる駅で、和歌山県内では、和歌山市駅と加太駅、橋本駅、それに、高野山駅の４駅です。\n・南海では、駅を起点に必要な時に傘を借りられる環境を整えることで、沿線での移動を支援するもので、実証実験としてスタートし、利用状況を踏まえて、今後の展開を検討することにしています。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
@@ -47,9 +99,9 @@
     "summary": "・和歌山県田辺市の熊野本宮大社では、早くも来年の干支、「未」の色紙作りが進められています。\n・【熊野本宮大社・九鬼家隆宮司】「来年は未年で穏やかな干支でもあります。\n・物事が丸く収まるようにという思いで丸い絵柄のヒツジを描かせていただいた」色紙は１５００枚作られ、新年の祈祷を受けた参拝者に配られます。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
@@ -60,16 +112,22 @@
     "summary": "・災害発生時の連携や対応力の向上を目的とした「第５回新宮市総合防災訓練」が、きょう（１５日）、熊野川河川敷などで行われ、警察や消防、災害派遣医療チーム＝ＤＭＡＴ(ディーマット)などが参加しました。\n・訓練では、地震の発生で、建物などに取り残された人がいるという想定のもと、まず、警察が捜索活動を行い、建物の高所に取り残された人を発見、連絡を受けた消防が救助活動を行い、ＤＭＡＴに引き継ぎました。\n・ＤＭＡＴは、その場で、初期治療を行ったあと、医療センターへ搬送するという一連の流れを確認しました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 53,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "新宮市で総合防災訓練、警察・消防・ＤＭＡＴなど連携確認／和歌山",
         "url": "https://portal.uqmobile.jp/detail/1/2/5/10485_5_r_20261115_1794731977332096",
         "source": "UQライフ",
         "published_at": "2026-11-15 17:37"
+      },
+      {
+        "title": "新宮市で総合防災訓練、警察・消防・ＤＭＡＴなど連携確認／和歌山",
+        "url": "https://article.auone.jp/4ca1d531-b8f8-47cc-9687-6bd0428391fb",
+        "source": "au Webポータル",
+        "published_at": "2026-11-15 17:37"
       }
-    ],
-    "importance_score": 38,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-15",
@@ -80,12 +138,32 @@
     "summary": "・「第２回和福祭」紀州ぶんだらプロレスで交流／和歌山・串本町和歌山放送ニュース11/15 17:3111/15(日) 17:31 配信和歌山放送ニュース続きを読む（外部サイト）出典元: 和歌山放送ニュース。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「第２回和福祭」紀州ぶんだらプロレスで交流／和歌山・串本町",
         "url": "https://news.wbs.co.jp/221774",
         "source": "WBS和歌山放送ニュース",
         "published_at": "2026-11-15 17:31"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-11-15",
+    "title": "和歌山県大会決勝 初芝橋本VS近大和歌山",
+    "url": "https://tver.jp/episodes/ep9hetggwo",
+    "source": "TVer",
+    "published_at": "2026-11-15 17:18",
+    "summary": "・和歌山県大会決勝 初芝橋本VS近大和歌山。",
+    "summary_type": "auto",
+    "category": "スポーツ",
+    "related_articles": [
+      {
+        "title": "初芝橋本 - 近大和歌山(ライブ配信) | 和歌山 | 地域 | 全国高校サッカー選手権大会",
+        "url": "https://sportsbull.jp/highschool_soccer/area/31/?game_id=10237",
+        "source": "スポーツブル",
+        "published_at": "2026-11-15 13:03"
       }
     ],
     "importance_score": 18,
@@ -100,16 +178,9 @@
     "summary": "・初芝橋本高と近大和歌山高の対戦は、0-0のPK戦の末に5-4で勝利した。\n・PK戦で、初芝橋本はGK宮崎皓大(3年)が近大和歌山の1人目をセーブ。\n・[決勝](11月15日)初芝橋本高 0-0(PK5-4) 近大和歌山高。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [
-      {
-        "title": "初芝橋本 - 近大和歌山(ライブ配信) | 和歌山 | 地域 | 全国高校サッカー選手権大会",
-        "url": "https://sportsbull.jp/highschool_soccer/area/31/?game_id=10237",
-        "source": "スポーツブル",
-        "published_at": "2026-11-15 13:03"
-      }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    "importance_score": 12,
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
@@ -120,6 +191,8 @@
     "summary": "・田辺市では、元プロテニスプレーヤーの森上亜希子(もりがみ・あきこ)さんをゲストに熊野古道を歩くイベント開催することにし、参加者を募集します。\n・これは、田辺市の世界遺産熊野本宮館が、吉野熊野国立公園指定９０周年や熊野古道の岩神王子(いわがみおうじ)ルート復旧を記念して、来月（１２月）６日に開催する「森上亜希子さんと歩く熊野古道 中辺路(なかへち)街道」です。\n・また、紀伊半島大水害で１４年間にわたり通行止めとなっていた熊野古道・岩神王子ルート３・５キロが去年（２０２５年）秋、ようやく歩けるようになり、今回のコースに盛り込まれました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 38,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "「森上亜希子さんと歩く熊野古道」参加者募集／和歌山・田辺市",
@@ -127,9 +200,7 @@
         "source": "au Webポータル",
         "published_at": "2026-11-15 14:24"
       }
-    ],
-    "importance_score": 38,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-15",
@@ -140,6 +211,8 @@
     "summary": "・第106回全国高校ラグビーの和歌山県大会決勝が14日、和歌山市の紀三井寺公園陸上競技場であった。\n・近大和歌山が34―14で和歌山工を下し、6年連続8回目の全国大会出場を決めた。\n・【写真】前半17分、近大和歌山が二つめのトライ=2026年11月14日午後1時18分、和歌山市毛見、滝川直広撮影　近大和歌山は前半7分、ゴール前のラックを起点に攻撃を展開。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 42,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "近大和歌山が和歌山工を破り6連覇 和歌山県高校ラグビー決勝 [和歌山県]",
@@ -153,9 +226,7 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-11-15 10:45"
       }
-    ],
-    "importance_score": 42,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-15",
@@ -166,9 +237,9 @@
     "summary": "・和歌山県eスポーツフェスタ「きら★スポ」2026。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
@@ -179,9 +250,9 @@
     "summary": "・（写真）声援に応える（左から）くすもと、小池の両氏＝１４日、和歌山県御坊市。\n・日本共産党の小池晃書記局長は１４日、和歌山県御坊市、白浜町、上富田（かみとんだ）町で党が開いた「政治を語るつどい」で、来年４月の県議選での党の現有１議席から３議席への躍進を訴えました。\n・御坊で物価対策についての質問に答えた小池氏は、食料品の消費税を２年間だけ１％に引き下げる政府の法案は、２年後には８％に戻り、約１億人が支援金の対象外になる「１億人大増税約束法案だ」と批判。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
@@ -198,6 +269,26 @@
   },
   {
     "article_date": "2026-11-15",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-11-15 07:29",
+    "summary": "・和歌山県の雨雲レーダー(実況)16日09:35発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山県の雨雲レーダー(予報)",
+        "url": "https://tenki.jp/radar/6/33/rainmesh.html",
+        "source": "tenki.jp",
+        "published_at": "2026-11-15 02:54"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-15",
     "title": "【和歌山県】11/15の天気予報",
     "url": "https://www.fnn.jp/articles/-/1152626",
     "source": "FNNプライムオンライン",
@@ -205,9 +296,9 @@
     "summary": "・和歌山地方気象台が11月15日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山20℃、潮岬21℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
