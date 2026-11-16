@@ -8,9 +8,9 @@
     "summary": "・弘法大師空海（774～835）は、宇宙の真理を体現する大日如来を中心とした密教の教えを唐の都長安で学び、日本に伝えひろめました。\n・本展では、空海が真言密教の修行道場として開創した高野山の名宝と、西日本各地の空海ゆかりの寺院の宝物から、空海の魅力とその信仰のひろがりを紹介します。\n・「弘法大師空海 ―高野山の至宝と信仰のひろがり―」チラシ重要文化財 大日如来坐像（部分） 平安時代 仁和3年（887）頃 和歌山・金剛峯寺。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
@@ -21,9 +21,9 @@
     "summary": "・三重県桑名市の「なばなの里」で発光ダイオード（ＬＥＤ）による国内最大級のイルミネーションが色鮮やかに来場者を迎えている。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
@@ -34,9 +34,9 @@
     "summary": "・和歌山 九度山町で特産柿の皮むき大会。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
@@ -47,9 +47,9 @@
     "summary": "・田辺市によると、１１月１５日午後４時３０分頃、田辺市龍神村福井で、クマが出没しました。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-15",
@@ -158,6 +158,8 @@
     "summary": "・和歌山県大会決勝 初芝橋本VS近大和歌山。",
     "summary_type": "auto",
     "category": "スポーツ",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "初芝橋本 - 近大和歌山(ライブ配信) | 和歌山 | 地域 | 全国高校サッカー選手権大会",
@@ -165,9 +167,7 @@
         "source": "スポーツブル",
         "published_at": "2026-11-15 13:03"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-15",
@@ -181,6 +181,26 @@
     "importance_score": 12,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-15",
+    "title": "和歌山県の雨雲レーダー(予報)",
+    "url": "https://tenki.jp/radar/6/33/rainmesh.html",
+    "source": "tenki.jp",
+    "published_at": "2026-11-15 14:49",
+    "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・和歌山県の落雷地点・雷予報をチェック！\n・2026年11月の和歌山県の雨雲レーダーを見る。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+        "url": "https://tenki.jp/radar/6/33/",
+        "source": "tenki.jp",
+        "published_at": "2026-11-15 07:29"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-15",
@@ -266,26 +286,6 @@
     "importance_score": 12,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-11-15",
-    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
-    "url": "https://tenki.jp/radar/6/33/",
-    "source": "tenki.jp",
-    "published_at": "2026-11-15 07:29",
-    "summary": "・和歌山県の雨雲レーダー(実況)16日09:35発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "related_articles": [
-      {
-        "title": "和歌山県の雨雲レーダー(予報)",
-        "url": "https://tenki.jp/radar/6/33/rainmesh.html",
-        "source": "tenki.jp",
-        "published_at": "2026-11-15 02:54"
-      }
-    ],
-    "importance_score": 24,
-    "is_featured": false
   },
   {
     "article_date": "2026-11-15",

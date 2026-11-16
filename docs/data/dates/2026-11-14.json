@@ -300,9 +300,9 @@
     "summary": "・【女ひとり旅】高野山へ行く、大阪グルメも堪能 #車なし #空海。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -313,7 +313,7 @@
     "summary": "・和歌山県は11月14日、御坊市湯川町財部の飲食店で食中毒が発生したと発表しました。\n・県はこの店に対し３日間の営業停止処分にしました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 21,
+    "importance_score": 36,
     "is_featured": false,
     "related_articles": [
       {
@@ -321,6 +321,12 @@
         "url": "https://news.yahoo.co.jp/articles/3342809ff5894f7ed5af84763d7de962bd40b750",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-14 17:24"
+      },
+      {
+        "title": "飲食店で「カンピロバクター」食中毒…20代の男女3人が下痢・発熱など 生焼けの『鶏肉の串焼き』提供した店は3日間営業停止 和歌山・御坊市 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+        "url": "https://newsdig.tbs.co.jp/articles/mbs/3086223?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-14 17:25"
       }
     ]
   },
@@ -588,9 +594,9 @@
     "summary": "・和歌山市は11月21日㊏午後７時〜15分間、和歌山城公園でドローンショー「ＷＡＫＡＹＡＭＡ　ＬＩＧＨＴＳ　２０２６」を開く。\n・また同日から、二の丸庭園で「和歌山城　光と幻想の夜」を実施する。\n・（ニュース和歌山／2026年11月14日更新）。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",

@@ -769,6 +769,8 @@
     "summary": "・元中学校長の大樫氏／みなべ町の新教育長に",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 20,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "元中学校長の大樫氏／みなべ町の新教育長に",
@@ -776,9 +778,7 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-10-29 14:30"
       }
-    ],
-    "importance_score": 20,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-29",
