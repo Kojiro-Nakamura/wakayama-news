@@ -34,9 +34,16 @@
     "summary": "・上富田町では地域資源の有効活用及び地域の活性化を図るために『上富田町産業振興・文化交流館』の、指定管理者を募集しています。\n・施設における募集要項、仕様書等については、以下のとおりとなります。\n・振興課企画・商工観光班まで持参又は郵送してください。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "上富田町産業振興・文化交流館における指定管理者の募集について",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYTZsVVFJV2pqYkh5UTBZZTJIZ1hQNWp4NUMyc2c4Qy1VcHRtRHdBbDFaM2prRXBnX3hDWlZqTHhzUWxHSXdkSU40TDBQQS1WZ2FjRjJFc0R6SmlvV1dDX1ZiQWlDclFyRV9zbWUyTmZPMW5zLWlHc0RuN251eTFHV0pR?oc=5",
+        "source": "上富田町",
+        "published_at": "2026-10-02 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-02",
@@ -100,7 +107,7 @@
     "summary_type": "auto",
     "category": "社会・事件",
     "importance_score": 14,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {

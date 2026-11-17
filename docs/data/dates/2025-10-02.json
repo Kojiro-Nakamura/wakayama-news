@@ -8,7 +8,7 @@
     "summary": "・【有田川町の風レーダー｜ウェザーニュース】有田川町の風の予報(予測)ならウェザーニュースのサイトをチェック。\n・雨雲レーダーや週間天気、台風情報もあわせてご確認ください。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 93,
+    "importance_score": 123,
     "is_featured": true,
     "related_articles": [
       {
@@ -46,6 +46,18 @@
         "url": "https://weathernews.jp/onebox/wind/kinki/wakayama/30392/",
         "source": "ウェザーニュース",
         "published_at": "2025-10-02 18:05"
+      },
+      {
+        "title": "和歌山県日高川町の風の予報（風レーダー）",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5OWxBNnJSSTdQRkVsVlc4bDM5V2NJbmZJWTZZZVpyOERabTNDOVRDM3I4RkZtZmF5QVVwYzR5dHpKaXBETDQ4M1ZFeTVkczRidkVqOXJpZE5uSy1yWjZCbFFPbjZRMUU?oc=5",
+        "source": "ウェザーニュース",
+        "published_at": "2025-10-02 18:05"
+      },
+      {
+        "title": "和歌山県かつらぎ町の風の予報（風レーダー）",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYk9YemV1TVpIWjFZUTd5dFdlNEtUWWliakp5aWhsTVljaVlGcmRpem54Uk9sWUR3TVh2MndnU0NTd1BPLWZpTUNjSFpfbWgtRlRPNHRkcGFHMTBVNm1WdlJfckdBVlU?oc=5",
+        "source": "ウェザーニュース",
+        "published_at": "2025-10-02 17:44"
       }
     ]
   }

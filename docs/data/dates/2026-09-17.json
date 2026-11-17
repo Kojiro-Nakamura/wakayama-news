@@ -21,12 +21,18 @@
     "summary": "・NEXCO西日本関西支社（大阪府茨木市、支社長：諸富(もろどみ)　正和(まさかず)）では、お客さまが高速道路を安全で快適にご利用いただけるよう、E42 阪和(はんわ)自動車道（E42 阪和道）印南(いなみ)インターチェンジ（IC）～南紀田(なんきた)辺(なべ)（IC）（上下線）の夜間通行止めにより、道路保全作業および4車線化工事等を実施いたします。\n・夜間通行止めの時間帯は、国道42号等へう回いただきますようお願いいたします（3．う回路案内参照）。\n・阪和道　印南IC～南紀田辺IC （上下線）（約17.4km）。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": true,
     "related_articles": [
       {
         "title": "E42 阪和自動車道 印南IC～南紀田辺IC（上下線）で 夜間通行止めを実施いたします ― 夜間通行止めの時間帯は、国道42号等へのう回をお願いいたします ―",
         "url": "https://corp.w-nexco.co.jp/newly/release/2026/09/e42_icic_42.html",
+        "source": "NEXCO 西日本 企業情報",
+        "published_at": "2026-09-17 16:00"
+      },
+      {
+        "title": "E42 阪和自動車道 印南IC～南紀田辺IC（上下線）で 夜間通行止めを実施いたします ― 夜間通行止めの時間帯は、国道42号等へのう回をお願いいたします ―",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEOHRIazZ4RVlBZjEtUkdvNU1xWDZ3Z0sxTGo4X3o2X2h1dU9PbGVfVlJkMVZDZ0xra1Jld1VNOURwaGtDaWs0RlZoM3RvUWJMWFE3RjdiTHVwUFhFYmNual9fb2VkaHNVODRzUGx3by1VZ3M?oc=5",
         "source": "NEXCO 西日本 企業情報",
         "published_at": "2026-09-17 16:00"
       }
@@ -54,9 +60,16 @@
     "summary": "・日本国内に本店を有する旅行業者で、旅行業法により旅行業または旅行業者代理業の登録を受けている事業者。\n・※補助金の上限は、1ツアーあたり200,000円です。\n・※補助金の交付回数は、同一旅行事業者につき3回までです。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "南紀白浜観光バスツアー誘致促進事業補助金のご案内",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tcU1XYllxQm8xVExHUGdySjRWZVNWdFlXOFk3cFh0bFdaMUx0RmYzcV9ramRfQ29SbXBkV1U0ZVN0OUpwZzNpY2dzLV9Nb1RuRXg3a1h2NWtqM3ByWmwySmt1RGZRajhSSUZFY3hmcFQ2SU04cmxUV29XN3E5SlE?oc=5",
+        "source": "白浜町ホームページ",
+        "published_at": "2026-09-17 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-09-17",

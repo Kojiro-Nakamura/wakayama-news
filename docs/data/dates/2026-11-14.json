@@ -8,7 +8,7 @@
     "summary": "・和歌山で震度2の地震。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 185,
+    "importance_score": 215,
     "is_featured": true,
     "related_articles": [
       {
@@ -82,6 +82,18 @@
         "url": "https://news.yahoo.co.jp/articles/5c0c87043b96cca997a0e2c828529c936e5dfba7/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-14 22:05"
+      },
+      {
+        "title": "和歌山県で最大震度2の地震 和歌山県・和歌山市",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JRlhaMjR1dlRMQWxiU0ZsbU16UjlyYUg4QUFDS0M1NXlqcC1kMWNGbEVSMk1sdW9LZ0gzb09WY2VDcTdiUm1LRjRBTm5WbFNKQm80aW00MEN3VFR4UEs3MmZOSE53VUR1SXIzM1RB?oc=5",
+        "source": "au Webポータル",
+        "published_at": "2026-11-14 22:05"
+      },
+      {
+        "title": "和歌山県で最大震度2の地震 和歌山県・和歌山市 (FNNプライムオンライン（フジテレビ系）)",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQi1WbFZPbEt3M05Wdlk5TG1nX0NIb0F6S0JvcmlTU2NMVkVDX2tEQXBoYWdpME9VbHNmM2tzNnhmbmhvcUIwV3d2TUdMa0lyOGZVa3EyQnVBSVNNd0Y0ODNTNWM1dTVmWFgyUEVZZjRxS0xPQVIwOEZfclJuRFBNTmNqcWpURHhxb01VUk9R?oc=5",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-14 22:05"
       }
     ]
   },
@@ -127,7 +139,7 @@
     "summary": "・震度2　和歌山県北部　22:02ごろ。\n・和歌山県で最大震度2の地震　和歌山県・和歌山市、14日午後10時2分ごろ、和歌山県で最大震度2を観測する地震がありました。\n・気象庁によりますと、震源地は和歌山県北部で、震源の深さはおよそ10km、地震の規模を示すマグニチュードは2.9と推定されます。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 99,
+    "importance_score": 129,
     "is_featured": true,
     "related_articles": [
       {
@@ -165,6 +177,18 @@
         "url": "https://newsdig.tbs.co.jp/list/itv/bousai/earthquake/detail?event=20261114220229",
         "source": "TBS NEWS DIG",
         "published_at": "2026-11-14 22:00"
+      },
+      {
+        "title": "震度2 和歌山県北部 2026年11月14日22:02ごろ 地震詳細",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcG4xTi1LU2c4Rl8zRVhXaWpuQ1loU3BYUFowTTBkVnMtSXQ3ZGpPYXM5QW9HM0lnc3pPWjZDU3g1MWdFcmxnS3h0Q0VGZGNIVEQxeXB4SnBhb3BmT05tdGFKQ09DNGw0R2lkb2tIU2JRUDA3YkJZb2pJdS0zcEFFaHpn?oc=5",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-14 22:02"
+      },
+      {
+        "title": "震度2 和歌山県北部 2026年11月14日22:02ごろ 地震詳細 | 福島のニュース│TUF",
+        "url": "https://newsdig.tbs.co.jp/list/tuf/bousai/earthquake/detail?event=20261114220229",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-14 22:02"
       }
     ]
   },
@@ -364,6 +388,19 @@
   },
   {
     "article_date": "2026-11-14",
+    "title": "九度山町が誇る日本一の富有柿の収穫を祝うお祭り『大収穫祭IN九度山』開催！",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hRnB3My1XeHE3V3h3OEduLXB4bjJuZmd3RHJ4SHg2Y0taWjFEOWdfb3IwNXdQMWJ6TWgzbEZ1bl9fTDJuVENUajZkcktueUczQVJfQW1oVzhWUUV3SEptT0NqdWcxU19oQlFPMA?oc=5",
+    "source": "南海電気鉄道株式会社",
+    "published_at": "2026-11-14 17:00",
+    "summary": "・九度山町が誇る日本一の富有柿の収穫を祝うお祭り『大収穫祭IN九度山』開催！",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-14",
     "title": "近大和歌山、6大会連続で花園へ 全国高校ラグビー和歌山県予選（毎日新聞）",
     "url": "https://news.yahoo.co.jp/articles/4c03cbecca31bd583b737de7551b5df472abd7a1",
     "source": "Yahoo!ニュース",
@@ -535,12 +572,18 @@
     "summary": "・三重県建設労働組合紀南支部（熊野市）の新宮分会青年部のメンバーが13日、地元・熊野産ヒノキで作ったベンチ15脚を和歌山県新宮市に贈った。\n・【写真】熊野産ヒノキに座って写真に納まる関係者たち=2026年11月13日午前9時1分、和歌山県新宮市役所前、菊地洋行撮影　ベンチは長さ約1・5メートルで大人3人掛け。\n・コロナ禍だった2020年と21年を除いて毎年続けられ、今年で25回目の寄贈になる。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 30,
+    "importance_score": 45,
     "is_featured": false,
     "related_articles": [
       {
         "title": "建設労働組合が新宮市に木製ベンチ15脚寄贈、木製品の良さ知って [和歌山県]",
         "url": "https://www.asahi.com/articles/ASVCF43PZVCFPXLB004M.html",
+        "source": "朝日新聞",
+        "published_at": "2026-11-14 10:45"
+      },
+      {
+        "title": "建設労働組合が新宮市に木製ベンチ15脚寄贈、木製品の良さ知って [和歌山県]",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iNmZTQlhpdUZrd19Dbm9BdUxudXp1UE1zaXNXQXNsY0IxV2I3bjNPNkFrVGUwOFdZTGpaWHRLS0Y1aDFNVkVIRmE2bWRoSmZFaU5YUjBfTlU1UEFvRzJ3TThCZUFEa1U?oc=5",
         "source": "朝日新聞",
         "published_at": "2026-11-14 10:45"
       }
@@ -575,15 +618,22 @@
   {
     "article_date": "2026-11-14",
     "title": "秋の沖磯エギング！ 海の変化を読みイカを狙う 〜和歌山県串本町〜",
-    "url": "https://locipo.jp/creative/8fadcd0e-d669-43f3-873e-09f93dddffb3",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44Snc1UHFWTldLTTUzRzloYWVMSVZEdUtMU1poSnp1VU9VdnV4YmdBOE04cHRZRDlwVWNqRGFZc1BmTTFudExwRjFKSGhzN05kcFhRWno2VHl3ZzBCd1g0QktiVThQSE9HWUgzUHNjd2w?oc=5",
     "source": "Locipo(ロキポ)",
-    "published_at": "2026-11-14 07:41",
-    "summary": "・今回の舞台は、和歌山県串本町田子にある沖磯。\n・サンライン エギングテスターの笠松仁さんが、秋のアオリイカを狙ってエギングに挑みます。\n・自然豊かな沖磯に渡った笠松さんは、海の状況を見極めながらアオリイカを探していきます。",
+    "published_at": "2026-11-14 09:16",
+    "summary": "・秋の沖磯エギング！ 海の変化を読みイカを狙う 〜和歌山県串本町〜。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "秋の沖磯エギング！ 海の変化を読みイカを狙う 〜和歌山県串本町〜",
+        "url": "https://locipo.jp/creative/8fadcd0e-d669-43f3-873e-09f93dddffb3",
+        "source": "Locipo(ロキポ)",
+        "published_at": "2026-11-14 07:41"
+      }
+    ],
+    "importance_score": 18,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-14",

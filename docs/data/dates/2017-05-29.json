@@ -8,7 +8,7 @@
     "summary": "・北部に現在発表されている早期注意情報はありません。\n・※ 警報は、警報級の現象が予想される時間帯の最大6時間前に発表します。\n・北部の早期注意情報（警報級の可能性）。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 42,
+    "importance_score": 57,
     "is_featured": true,
     "related_articles": [
       {
@@ -20,6 +20,12 @@
       {
         "title": "印南町の警報・注意報",
         "url": "https://tenki.jp/bousai/warn/6/33/3039000/",
+        "source": "tenki.jp",
+        "published_at": "2017-05-29 16:36"
+      },
+      {
+        "title": "みなべ町の警報・注意報",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtQjNGRWprREI2UDZ5RHhYYmtRRGc0SGtqQzNQRzJHblVXbVI4SWdxS2E0b0tEbml1M1M3TUV0dFBuN1c5Tk90M1A2RHhxNVFyT01rMw?oc=5",
         "source": "tenki.jp",
         "published_at": "2017-05-29 16:36"
       }

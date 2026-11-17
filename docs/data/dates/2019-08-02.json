@@ -8,7 +8,7 @@
     "summary": "・2週間天気の後半に表示されている「A〜E」の記号は、降水有無の予報に対する信頼度です（毎日10時頃更新）。\n・Aの方が高い信頼度があり、予報が的中しやすく、予報が変わりにくいことを表しています。\n・【予報精度No.1】和歌山県紀の川市の天気予報を5分毎・1時間毎・今日明日・週間(10日間)で掲載中！今知りたい現地の天気は、ウェザーニュースアプリから届く空の写真で確認。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 186,
+    "importance_score": 246,
     "is_featured": true,
     "related_articles": [
       {
@@ -82,6 +82,30 @@
         "url": "https://weathernews.jp/onebox/tenki/wakayama/30390/",
         "source": "ウェザーニュース",
         "published_at": "2019-08-02 10:25"
+      },
+      {
+        "title": "和歌山県有田市の天気予報(1時間・今日明日・週間)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Dd1JWd3NWaWN6OHlON1ZxdldiaDVIekJ6d05KU3lNNENrNGRKQ1hnaW1qTzRaWlZEdWI1bHhUa0NhSGdwc3NmcXIxYzR4eWN1bjVzb1FjVjJwLVVfaWx0cA?oc=5",
+        "source": "ウェザーニュース",
+        "published_at": "2019-08-02 15:35"
+      },
+      {
+        "title": "和歌山県橋本市の天気予報(1時間・今日明日・週間)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uMUVJc2JDZkpUcXVOTmNlSE9ueGRWcGljSTJBMU1nN3U4RVVpb2dQTFQ0ZWZHM2lCN29lTWlQcDYtMWhGaEVMei1lbVZ4cmRmS1lmNk9EeVluVE9lMnp3LQ?oc=5",
+        "source": "ウェザーニュース",
+        "published_at": "2019-08-02 11:32"
+      },
+      {
+        "title": "和歌山県白浜町の天気予報(1時間・今日明日・週間)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UczBETVFIVWdsR3NSLU96amVqYV9XQWkwbThPYkxwT0tydkhteWhpczFpVDhYTy1QTE5vX3RkcndkQTlZbnJTWC1ZZHVORFBOSVVYaTI4Sl95Sm82b2h0eQ?oc=5",
+        "source": "ウェザーニュース",
+        "published_at": "2019-08-02 09:03"
+      },
+      {
+        "title": "和歌山県日高川町の天気予報(1時間・今日明日・週間)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aMk5OX2FaYWpkWGZoRTdmbnMzUVFBd3E4ZVpuazJHOXpYZTJLb19YSjAyX2xjTG1iVlFnV2JXdjAtcnhQTHRSeEhZZEVIdDk1Z3lrTzNoeTd0M0wyWFUxbg?oc=5",
+        "source": "ウェザーニュース",
+        "published_at": "2019-08-02 07:52"
       }
     ]
   }

@@ -8,9 +8,16 @@
     "summary": "・「めぐっておいしい！有田みかんスタンプラリー」を開催します！！",
     "summary_type": "auto",
     "category": "経済・産業",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 15,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "「めぐっておいしい！有田みかんスタンプラリー」を開催します！！",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56eEh0OXh0MUtmamJIOGJaXy1fQ0U3VWRfY3B2UE9taTVud2pHeW5yN0pab3Vqa2RzS0lNdXNVelk0OVhXQWV6T0c5TWdhc2VFWUtoejRsYUtjZlNqMUpGR0psYm82cUVVeWtv?oc=5",
+        "source": "www.pref.wakayama.lg.jp",
+        "published_at": "2026-09-01 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-09-01",

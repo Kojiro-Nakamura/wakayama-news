@@ -198,7 +198,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 47,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山市出身の俳優・岡部たかしさんがナイツのラジオに生出演",
@@ -544,8 +544,8 @@
     "summary": "・地域活性化に向けた再開発計画が白紙に、和歌山市街地の準備組合解散 [和歌山県]。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "importance_score": 38,
-    "is_featured": false,
+    "importance_score": 53,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "地域活性化に向けた再開発計画が白紙に、和歌山市街地の準備組合解散 (朝日新聞)",
@@ -558,6 +558,12 @@
         "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVBW0R0XVBWPXLB00MM",
         "source": "ｄメニューニュース",
         "published_at": "2026-10-28 07:00"
+      },
+      {
+        "title": "地域活性化に向けた再開発計画が白紙に、和歌山市街地の準備組合解散 [和歌山県]",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4OEJJZzZXbWFQcE5vaWR4WjBhYWxzR2lrSEdfc0JqUDEyWEJtWUVHb1FHZkdwc3otcVlET0VmVkI4N0hMLTBwSy1WTVdYNU5YX19vUTc4aTJCQ00tOWtleEkzRVBrZjg?oc=5",
+        "source": "朝日新聞",
+        "published_at": "2026-10-28 16:00"
       }
     ]
   },
