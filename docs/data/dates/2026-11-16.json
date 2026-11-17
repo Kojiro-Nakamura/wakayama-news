@@ -8,6 +8,8 @@
     "summary": "・和歌山県和歌山市とさとふる、学生の地域活動や診療看護師の養成に取り組む教育機関を支援するため2事業への寄付受け付けを開始。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 48,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県和歌山市とさとふる、学生の地域活動や診療看護師の養成に取り組む教育機関を支援するため2事業への寄付受け付けを開始",
@@ -20,10 +22,14 @@
         "url": "https://www.sankei.com/pressrelease/prtimes/LEAATYYPJVMZZGWARPNDZ5FSKU/",
         "source": "産経ニュース",
         "published_at": "2026-11-16 11:00"
+      },
+      {
+        "title": "和歌山県和歌山市とさとふる、学生の地域活動や診療看護師の養成に取り組む教育機関を支援するため2事業への寄付受け付けを開始",
+        "url": "https://www.rbbtoday.com/release/prtimes2-today/20261116/1404260.html",
+        "source": "RBB TODAY",
+        "published_at": "2026-11-16 23:10"
       }
-    ],
-    "importance_score": 33,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-16",
@@ -34,9 +40,9 @@
     "summary": "・兵庫県警によると、１１月１６日午前９時２０分頃、姫路市白浜町甲付近の路上で、小学生へのつきまといが発生しました。\n・■現場付近の施設・白浜の宮駅［山陽電鉄］、姫路市立白浜小学校、浜手緑地白浜地区■その他・兵庫県警は、この事案は解決したと公表した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-16",
@@ -47,9 +53,9 @@
     "summary": "・和歌山は和歌山市にあります『玉林園 グリーンコーナー 本店』さんへ訪麺してきました。\n・和歌山市民ならば一度は食した事があるであろうグリーンコーナーさん。\n・1958年に発売した抹茶風味のソフトクリーム『グリーンソフト』は地域の名物にもなっているそうです。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-16",
@@ -60,6 +66,8 @@
     "summary": "・世界遺産 高野山の女人道でクマ現れ通行止め 和歌山 高野町。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 29,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "世界遺産 高野山の「女人道」クマ出没で一部通行止め 和歌山",
@@ -67,9 +75,7 @@
         "source": "NHKニュース",
         "published_at": "2026-11-16 19:18"
       }
-    ],
-    "importance_score": 29,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-16",
@@ -80,6 +86,8 @@
     "summary": "・高野山 金剛峯寺で入山式 第416世座主就任 和歌山 高野町。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 128,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "金剛峯寺、新たな座主就任 高野山で入山式",
@@ -122,10 +130,14 @@
         "url": "https://www.saga-s.co.jp/articles/-/1830966",
         "source": "佐賀新聞",
         "published_at": "2026-11-16 15:35"
+      },
+      {
+        "title": "金剛峯寺、新たな座主就任 和歌山・高野山で入山式:社会",
+        "url": "https://www.minyu-net.com/newspack/detail/2026111601000887",
+        "source": "福島民友新聞社",
+        "published_at": "2026-11-16 15:35"
       }
-    ],
-    "importance_score": 113,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-16",
@@ -336,15 +348,6 @@
     "related_articles": []
   },
   {
-    "title": "金剛峯寺、新たな座主就任",
-    "url": "https://smart.shimotsuke.co.jp/articles/-/1460106",
-    "source": "下野新聞社",
-    "published_at": "2026-11-16 15:42",
-    "related_articles": [],
-    "importance_score": 0,
-    "is_featured": false
-  },
-  {
     "article_date": "2026-11-16",
     "title": "第１０５回全国高校サッカー選手権 初芝橋本は富山第一と",
     "url": "https://news.wbs.co.jp/221810",
@@ -451,9 +454,16 @@
     "summary": "・【和歌山県】11/17の天気予報。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
-    "importance_score": 0,
-    "is_featured": false
+    "importance_score": 15,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "【和歌山県】11/17の天気予報",
+        "url": "https://www.fnn.jp/articles/-/1153232",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-11-16 19:30"
+      }
+    ]
   },
   {
     "article_date": "2026-11-16",
@@ -510,9 +520,9 @@
     "summary": "・利用客数が特に少ない紀勢線の新宮・白浜間を巡り、ＪＲ西日本は今日、利用客数の現状や今後の取り組みについて説明しました。\n・ＪＲ西日本は今月４日、利用客数が特に少ないローカル線の経営状況を公表していて、今日、和歌山市でＪＲ西日本和歌山支社の礒川健太郎副支社長が、県内で対象となっている紀勢線新宮・白浜間の現状や今後の取り組みについて説明しました。\n・説明によりますと、新宮・白浜間の１日平均通過人員を表す輸送密度は９９７人で、前の年度の９６０人からわずかに増加しました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-16",
@@ -523,9 +533,9 @@
     "summary": "・大相撲九州場所 和歌山県出身力士9日目までの結果。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-16",
@@ -647,8 +657,8 @@
     "summary": "・近畿大学経済学部（大阪府東大阪市）総合経済政策学科准教授新井圭太ゼミは、令和8年（2026年）11月21日（土）・28日（土）に、南海電鉄「和歌山市駅」及びJR「和歌山駅」にて、和歌山市に到着した訪日客を対象とした、パーソントリップ調査※ を実施します。\n・その後、収集したデータを基に周遊ルートを分析し、和歌山をはじめとする近畿圏の地方観光地への潜在需要を推計する研究を行います。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 36,
-    "is_featured": false,
+    "importance_score": 51,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "近大経済学部の新井ゼミが和歌山市内の主要2駅でヒアリング調査 訪日客の周遊ルートを分析し、観光客誘致施策の提案へ",
@@ -661,8 +671,24 @@
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TdjBRa2tSNTRhRU5FUDJEcHNUUmRZWlF5ZlVNQkRhMmpDX0JYMWJrOHpGNk9XWkJZaWt3enhHSGZpNFhvOWRscXc5elBrM2QzaGZLSjRKQWVQN0lNbEpGY2FB?oc=5",
         "source": "ライブドアニュース",
         "published_at": "2026-11-16 15:50"
+      },
+      {
+        "title": "近大経済学部の新井ゼミが和歌山市内の主要2駅でヒアリング調査 訪日客の周遊ルートを分析し、観光客誘致施策の提案へ",
+        "url": "https://news.infoseek.co.jp/article/atpress_650225/",
+        "source": "Infoseek",
+        "published_at": "2026-11-16 14:00"
       }
     ]
+  },
+  {
+    "title": "金剛峯寺、新たな座主就任",
+    "url": "https://smart.shimotsuke.co.jp/articles/-/1460106",
+    "source": "下野新聞社",
+    "published_at": "2026-11-16 15:42",
+    "importance_score": 0,
+    "is_featured": false,
+    "summary": "・金剛峯寺、新たな座主就任",
+    "related_articles": []
   },
   {
     "article_date": "2026-11-16",
@@ -689,6 +715,19 @@
     "importance_score": 12,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-16",
+    "title": "脱炭素先行地域 モデルエリアの取組がスタート！",
+    "url": "https://prtimes.jp/main/html/rd/p/000000124.000115515.html",
+    "source": "PR TIMES",
+    "published_at": "2026-11-16 15:27",
+    "summary": "・この度、脱炭素先行地域のモデル的取組エリアを対象とした「和歌山市脱炭素先行地域住宅・店舗省エネ設備等導入補助金」の令和８年度受付を開始します。\n・これにより、脱炭素先行地域における取組が全て整い、脱炭素社会の実現に向けた取組が新たな段階へ進みます。\n・【和歌山市脱炭素先行地域住宅・店舗省エネ設備等導入補助金の概要】。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-16",
@@ -777,6 +816,19 @@
   },
   {
     "article_date": "2026-11-16",
+    "title": "地域住民が健康チェック／くしもと町立病院糖尿病デーで催し",
+    "url": "https://www.agara.co.jp/article/712948?rct=area_kushimoto",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-11-16 14:30",
+    "summary": "・地域住民が健康チェック／くしもと町立病院糖尿病デーで催し。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-16",
     "title": "「日本全国こども食堂応援訪問チュウ！」和歌山県かつらぎ町 もぐもぐカフェ",
     "url": "https://www.pokemon-foundation.or.jp/news/188/",
     "source": "ポケモン・ウィズ・ユー財団",
@@ -844,7 +896,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 51,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "熊野古道ガイドを養成 地域や案内手順学ぶ講座開始 三重",
