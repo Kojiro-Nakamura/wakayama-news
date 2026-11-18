@@ -93,7 +93,7 @@
     "summary": "・「市民ZOO（ズー）フェスティバル2026」が11月29日、和歌山城公園動物園（和歌山市一番丁）で開催される。\n・居酒屋「巻ト酒マキチヨ」（和歌山市吉田、TEL 073-498-6108）がJR和歌山駅近くにオープンして10月18日で2カ月がたった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 69,
+    "importance_score": 84,
     "is_featured": true,
     "related_articles": [
       {
@@ -119,6 +119,12 @@
         "url": "https://news.infoseek.co.jp/article/digitalprplatform_148406/",
         "source": "Infoseek",
         "published_at": "2026-11-17 15:05"
+      },
+      {
+        "title": "プレスリリース：［南紀白浜マリオットホテル］和歌山県産いちご「まりひめ」の魅力が花開く冬春限定スイーツ「MARIHIME Bloom Parfait」を発売（PR TIMES）",
+        "url": "https://mainichi.jp/articles/20261117/pr2/00m/020/793000c",
+        "source": "毎日新聞",
+        "published_at": "2026-11-17 16:23"
       }
     ]
   },
@@ -131,9 +137,9 @@
     "summary": "・田辺市など休日急患診療所を高台に移転へ 和歌山。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-17",
@@ -269,6 +275,38 @@
   },
   {
     "article_date": "2026-11-17",
+    "title": "アルミ缶回収で優秀賞 朝日ケ丘子供会、和歌山県田辺市（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/7a38dfecbd7f85228561908a9e231ee23a29d9f9",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-17 16:25",
+    "summary": "・アルミ缶リサイクル協会（東京都）が実施する本年度の「アルミ缶一般回収協力者表彰」で、和歌山県田辺市の朝日ケ丘子供会が優秀賞に選ばれた。\n・表彰式は１日、同市朝日ケ丘の町内会館であり、田辺東部小学校６年の岩見将英君（１２）が、回収業者の蒲田嵩商店の蒲田友士専務から表彰状を受け取った。\n・【天神崎で清掃活動　田辺税務署と納税協会、和歌山の記事】　同子供会は年６回の廃品回収を継続しており、回収活動が特に優れていると評価された。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [
+      {
+        "title": "アルミ缶回収で優秀賞　朝日ケ丘子供会、和歌山県田辺市",
+        "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow713029?fm=latestnews",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-11-17 14:30"
+      },
+      {
+        "title": "アルミ缶回収で優秀賞 朝日ケ丘子供会、和歌山県田辺市",
+        "url": "https://www.47news.jp/15244257.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-17 14:30"
+      },
+      {
+        "title": "アルミ缶回収で優秀賞 朝日ケ丘子供会、和歌山県田辺市",
+        "url": "https://www.agara.co.jp/article/713029",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-17 14:30"
+      }
+    ],
+    "importance_score": 54,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-17",
     "title": "河北新報社 ビズラボ 河北経済研究所",
     "url": "https://kahoku.news/bizlabo/release-contents/dpr148406/",
     "source": "河北新報オンライン",
@@ -289,9 +327,9 @@
     "summary": "・政務調査会の小林 鷹之 会長、田畑 裕明 副会長、高見 康裕 特別補佐そして堀内 詔子 クビアカツヤカミキリ被害対策PT座長らは和歌山県を訪問し、第22回となる移動政調会を開催しました。\n・移動政調会は、地域の実情や課題を直接伺い、現場の声を政策に反映させることを目的として、全国各地で開催しています。\n・自民党では、今回の移動政調会や現地視察でいただいた声を踏まえ、地域が抱える諸課題への対応とともに、クビアカツヤカミキリの被害拡大防止に向けた対策の充実に取り組んでまいります。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-17",
@@ -380,9 +418,9 @@
     "summary": "・公益財団法人日本ハンドボール協会は、2027年3月1日（月）から7日（日）にかけて、女子日本代表「おりひめジャパン」が和歌山県紀の川市で2026年度第4回国内強化合宿を実施することを決定しました。\n・本合宿は、27年に予定されているロサンゼルス・オリンピック アジア予選に向けての強化の一環として、和歌山県スポーツキャンプ実行委員会の協力のもと実施されます。\n・お寄せいただいたご寄付は、海外遠征や強化合宿の費用として、男女日本代表の強化に活用します。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-17",
@@ -432,31 +470,12 @@
     "summary": "・本物そっくりのペンギンロボット　白浜のアドベン、和歌山。\n・水中でハロウィーン／すさみ　エビとカニの水族館。\n・がんばってます・井坂　彩人（いさか　あやと）さん（２５歳）／すさみ町　エビとカニの水族館。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 14,
+    "importance_score": 29,
     "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-17",
-    "title": "アルミ缶回収で優秀賞　朝日ケ丘子供会、和歌山県田辺市",
-    "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow713029?fm=latestnews",
-    "source": "ｄメニューニュース",
-    "published_at": "2026-11-17 14:30",
-    "summary": "・アルミ缶リサイクル協会（東京都）が実施する本年度の「アルミ缶一般回収協力者表彰」で、和歌山県田辺市の朝日ケ丘子供会が優秀賞に選ばれた。\n・表彰式は１日、同市朝日ケ丘の町内会館であり、田辺東部小学校６年の岩見将英君（１２）が、回収業者の蒲田嵩商店の蒲田友士専務から表彰状を受け取った。\n・同子供会は年６回の廃品回収を継続しており、回収活動が特に優れていると評価された。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 39,
-    "is_featured": true,
     "related_articles": [
       {
-        "title": "アルミ缶回収で優秀賞 朝日ケ丘子供会、和歌山県田辺市",
-        "url": "https://www.47news.jp/15244257.html",
-        "source": "47NEWS",
-        "published_at": "2026-11-17 14:30"
-      },
-      {
-        "title": "アルミ缶回収で優秀賞 朝日ケ丘子供会、和歌山県田辺市",
-        "url": "https://www.agara.co.jp/article/713029",
+        "title": "「ペンギン駅長」就任 和歌山・すさみの水族館の「なえ」、21日に道の駅で",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vNTJiLWhjQ3BzdU1GU3F1S0FvTjh6T3BBSEpJMUR0Qy04b3NBQWFnS2hDM09mWjV4MmxIZWVfZkprbTJ3Wk0xbHZoQXZJM1E?oc=5",
         "source": "AGARA 紀伊民報",
         "published_at": "2026-11-17 14:30"
       }
@@ -504,12 +523,18 @@
     "summary": "・金剛峯寺、新たな座主就任／高野山で入山式。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 23,
+    "importance_score": 38,
     "is_featured": false,
     "related_articles": [
       {
         "title": "飛鷹新座主就任 高野山で入山式 金剛峯寺 ／和歌山",
         "url": "https://mainichi.jp/articles/20261117/ddl/k30/040/260000c",
+        "source": "毎日新聞",
+        "published_at": "2026-11-17 05:02"
+      },
+      {
+        "title": "飛鷹新座主就任 高野山で入山式 金剛峯寺 ／和歌山",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFNWlvdUtJYkhCYWhmTGZQczJHcjRQVVFUaWRiZzdFWHZJclE2eEZnWndMaE5OMFBnS1FVOWdzRjhNZ3BKNl9TU0pRTUlOcHVfdFprRXlyQVlnRUlOR1k0d3AwRENLR1Vf?oc=5",
         "source": "毎日新聞",
         "published_at": "2026-11-17 05:02"
       }
@@ -589,6 +614,26 @@
   },
   {
     "article_date": "2026-11-17",
+    "title": "和歌山県の雨雲レーダー(予報)",
+    "url": "https://tenki.jp/radar/6/33/rainmesh.html",
+    "source": "tenki.jp",
+    "published_at": "2026-11-17 11:24",
+    "summary": "・正しい知識を持ち大雨に対する備えを「雨雲の動き」を知る。\n・和歌山県の落雷地点・雷予報をチェック！\n・2026年11月の和歌山県の雨雲レーダーを見る。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+        "url": "https://tenki.jp/radar/6/33/",
+        "source": "tenki.jp",
+        "published_at": "2026-11-17 08:46"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-17",
     "title": "【ニュース】 近畿大学水産研究所とアーマリン近大、11月21日に開催される「うめだマルシェ」で同大学で生産された養殖魚やキャビアを販売 和歌山県白浜町",
     "url": "https://yutosoken.com/wp/2026/11/17/kindai-ac-26/",
     "source": "遊都総研",
@@ -635,9 +680,16 @@
     "summary": "・高野山真言宗総本山の金剛峯寺（和歌山県高野町）で16日、飛鷹全隆大僧正（83）が第416世座主に就任する入山式があった。\n・【写真】金剛峯寺の正門をくぐる飛鷹全隆座主（中央）=2026年11月16日午前9時52分、和歌山県高野町高野山、滝川直広撮影　座主は金剛峯寺の住職にあたる役職。\n・入山式で飛鷹座主は高野山真言宗の役員や僧侶らを前に、8年後の2034年にある弘法大師御入定1200年御遠忌の準備段階であることに触れ、「お大師様の『虚空尽き、衆生尽き、涅槃（ねはん）尽きなば我が願いも尽きなん』という誓願を大切にして、粉骨砕身、この身を捧げたい」などと述べた。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 9,
+    "importance_score": 24,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "高野山の金剛峯寺に飛鷹・新座主が入山　「お大師様の誓願大切に」",
+        "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVCJ46LRVCJPXLB005M",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-11-17 10:45"
+      }
+    ]
   },
   {
     "article_date": "2026-11-17",
@@ -684,19 +736,6 @@
         "published_at": "2026-11-17 09:23"
       }
     ]
-  },
-  {
-    "article_date": "2026-11-17",
-    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
-    "url": "https://tenki.jp/radar/6/33/",
-    "source": "tenki.jp",
-    "published_at": "2026-11-17 08:46",
-    "summary": "・和歌山県の雨雲レーダー(実況)18日11:40発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
   },
   {
     "article_date": "2026-11-17",

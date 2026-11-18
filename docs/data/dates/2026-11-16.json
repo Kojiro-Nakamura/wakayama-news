@@ -498,6 +498,8 @@
     "summary": "・「Best Fruit Liqueur（フルーツリキュール部門最高賞）」とのダブル受賞。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "紀州みなべの梅干メーカーが造った梅酒が、世界の頂点へ。梅酒「Kumahei」が国際的な酒類品評会SFWSC2026でリキュール最高賞「Best in Show」を受賞！",
@@ -505,9 +507,7 @@
         "source": "PR TIMES",
         "published_at": "2026-11-16 15:57"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-16",
@@ -759,6 +759,19 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-16",
+    "title": "米国建国250 周年日米友好銘板寄贈式に伴う日米修交記念館の臨時休館及び無料開放について",
+    "url": "https://www.town.kushimoto.wakayama.jp/kanko/2026-1110-1019-29.html",
+    "source": "串本町",
+    "published_at": "2026-11-16 15:24",
+    "summary": "・令和8年11月20日(金)午前9時より、串本樫野の日米修交記念館において、米国建国250周年記念日米友好銘板寄贈式が執り行われます。\n・寄贈式に伴い、日米修交記念館の開館状況が下記の通りとなりますので、お知らせいたします。\n・令和8年11月19日(木)・・・臨時休館(式典準備のため)。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-16",
