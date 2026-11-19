@@ -262,9 +262,9 @@
     "summary": "・ガソリン価格やガソリンスタンドのサービス情報などを共有するクチコミサイト「gogo.gs」では、都道府県ごとのガソリン（レギュラー／ハイオク）や軽油・灯油などの平均価格を公開しています。\n・2026年11月17日時点の平均価格は161.7円で、先週比では-0.1円下落、全国平均比では-4.6円となりました。\n・なお、経済産業省資源エネルギー庁が週次でまとめている「石油製品価格調査」では、2026年11月9日の全国の平均価格は169.9円、和歌山県は167.5円です。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-17",
@@ -791,9 +791,16 @@
     "summary": "・天神崎で清掃活動 田辺税務署と納税協会、和歌山。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 8,
+    "importance_score": 23,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "天神崎で清掃活動 田辺税務署と納税協会、和歌山",
+        "url": "https://www.agara.co.jp/article/712106",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-17 02:41"
+      }
+    ]
   },
   {
     "article_date": "2026-11-17",

@@ -8,6 +8,8 @@
     "summary": "・いい部屋ネット 街の幸福度＆住み続けたい街ランキング2026＜和歌山県版＞。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 45,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "いい部屋ネット 街の幸福度＆住み続けたい街ランキング2026＜和歌山県版＞",
@@ -27,9 +29,7 @@
         "source": "PR TIMES",
         "published_at": "2026-11-18 11:10"
       }
-    ],
-    "importance_score": 45,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-18",
@@ -40,9 +40,9 @@
     "summary": "・串本・田並劇場で「紀伊半島ブックマルシェ」プレイベント　地元9書店が参加みんなの経済新聞ネットワーク11/18 23:0011/18(水) 23:00 配信みんなの経済新聞ネットワーク出典元: みんなの経済新聞ネットワーク「紀伊半島ブックマルシェ」プレイベントの「ブックマルシェ小さな本屋さん展」を開催する「田並劇場外観串本で「紀伊半島ブックマルシェ」　県内外の13書店が集結和歌山・海南の漆工場跡に古書店「オールドファクトリーブックス」　旅・アートをテーマに選書和歌山に小さな書店「かみつれ文庫」　「寝る前に読める文章」を選書和歌山在住の宇野碧さん、小説「レペゼン母」がイコカ本大賞にノミネート。\n・「紀伊半島ブックマルシェ2026」プレイベントを開催する田並劇場の様子　「紀伊半島ブックマルシェ2026」のプレイベントが11月16日、JR田並駅近くの「田並劇場」（串本町田並）で始まった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
@@ -85,12 +85,18 @@
     "summary": "・世界の「クマイチ」へ　熊野のサイクリングルート、和歌山県地域おこし隊に唐見さん（元五輪選手）。\n・自転車で日本一周　横浜の栗原さん、和歌山からラストラン。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 32,
+    "importance_score": 47,
     "is_featured": false,
     "related_articles": [
       {
         "title": "サイクリングのおやつに 地域おこし隊・唐見さんが補給食考案、和歌山（紀伊民報）",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PZUk1VjBNRDlkbU1mUzFBTHVMaHIxTEU0TGVoenFfSGJlR01kSWZQNlFhc1NBdnRSYjZsT2pNVWNkZG5pdFRrWFg5SkxxM2w1RDVGb2pqN3MwclQ1a3hudGRsWE5jTzUwLUZ2UW1RVkNMZE84RGdCQTludVRXc1U?oc=5",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-18 16:25"
+      },
+      {
+        "title": "サイクリングのおやつに 地域おこし隊・唐見さんが補給食考案、和歌山（紀伊民報）",
+        "url": "https://news.yahoo.co.jp/articles/c3cdddb5291fa62a87b6806db9d8729ba371c794",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-18 16:25"
       }
@@ -331,6 +337,19 @@
     "importance_score": 14,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-18",
+    "title": "伝統の「串柿」づくり 和歌山 かつらぎ町",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261118de77514",
+    "source": "NHKニュース",
+    "published_at": "2026-11-18 19:31",
+    "summary": "・伝統の「串柿」づくり 和歌山 かつらぎ町。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 5,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-18",
@@ -585,6 +604,26 @@
     "importance_score": 17,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-18",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-11-18 15:57",
+    "summary": "・和歌山県の雨雲レーダー(実況)19日20:00発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山県の雨雲レーダー(予報)",
+        "url": "https://tenki.jp/radar/6/33/rainmesh.html",
+        "source": "tenki.jp",
+        "published_at": "2026-11-18 12:21"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-18",
