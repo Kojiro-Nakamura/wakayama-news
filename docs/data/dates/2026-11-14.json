@@ -8,7 +8,7 @@
     "summary": "・和歌山で震度2の地震。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 230,
+    "importance_score": 245,
     "is_featured": true,
     "related_articles": [
       {
@@ -99,6 +99,12 @@
         "title": "和歌山県で最大震度2の地震　和歌山県・和歌山市",
         "url": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3086342",
         "source": "ｄメニューニュース",
+        "published_at": "2026-11-14 22:05"
+      },
+      {
+        "title": "和歌山県で最大震度2の地震 和歌山県・和歌山市（FNNプライムオンライン（フジテレビ系））",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55bTFwemg1YW50LU1sWnFHSzZZbloyMzdQQ1BMOTZhaEx0OS1JLXVIVUFSS3lNX0k0dXRpOTd1di03eTE2VktNLWhvYW13d0RPaEsxN2xZUnpTSXVBQXhQNlhZZUpDNGlaUlhhTWdGUThFQXdLRFZhWGd0cDJJc1E?oc=5",
+        "source": "Yahoo!ニュース",
         "published_at": "2026-11-14 22:05"
       }
     ]

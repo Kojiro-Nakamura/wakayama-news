@@ -437,9 +437,16 @@
     "summary": "・海南市水道ビジョンは、将来にわたって安全で安心な水道水を安定してお届けするため、海南市の水道をどのように維持・整備していくか、その方向性や取り組みを示す計画です。\n・改訂した水道ビジョンでは、「安心を未来へ繋ぐ、海南水道」を基本理念とし、「強靭」「持続」「安全」の3つの視点から、水道施設の更新・耐震化や適切な維持管理など、今後取り組む施策を示しています。\n・海南市水道ビジョン【改訂版】 (PDFファイル: 6.3MB)。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 6,
+    "importance_score": 21,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "海南市水道事業経営戦略の改定について",
+        "url": "https://www.city.kainan.lg.jp/kakubusho/suidobu/komuka/suidousisetujigyoukeikaku/8906.html",
+        "source": "海南市",
+        "published_at": "2026-11-02 17:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-02",
@@ -453,6 +460,19 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-02",
+    "title": "海南市物品・役務提供受注資格者の登録（新規・継続）について(受付期間 令和8年12月7日～25日)",
+    "url": "https://www.city.kainan.lg.jp/kakubusho/soumubu/kanzaijohoka/nyusatsukeiyaku/sankasikaku/1410997756264.html",
+    "source": "海南市",
+    "published_at": "2026-11-02 17:00",
+    "summary": "・海南市と物品及び役務提供（物品リース・清掃業務等）の取引を希望する場合、受注資格者登録が必要です。\n・令和9.10.11年度に登録を希望される方は、下記ファイルを参照のうえ期限までに申請書及び必要書類を提出してください。\n・なお、今回の受付は登録を希望する全業者を対象とし、現在、ご登録いただいている方も含め、申請が必要となりますのでご注意ください。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-02",
