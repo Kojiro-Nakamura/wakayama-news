@@ -21,6 +21,8 @@
     "summary": "・気象台は、8日午後5時15分に、レベル４土砂災害危険警報を印南町に発表しました。\n・北部では、土砂災害に厳重に警戒してください。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 24,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【レベル３大雨警報】和歌山県・印南町に発表 16:47時点",
@@ -28,8 +30,6 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-09-08 16:00"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": true
+    ]
   }
 ]

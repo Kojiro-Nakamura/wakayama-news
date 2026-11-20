@@ -368,6 +368,8 @@
     "summary": "・杉本さんに旭日双光章 秋の叙勲、紀南は５人、和歌山県みなべ町。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 75,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "杉本さんに旭日双光章 秋の叙勲、紀南は５人、和歌山県みなべ町（紀伊民報）",
@@ -399,9 +401,7 @@
         "source": "47NEWS",
         "published_at": "2026-11-04 14:30"
       }
-    ],
-    "importance_score": 75,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-04",

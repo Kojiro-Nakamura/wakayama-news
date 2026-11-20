@@ -647,6 +647,8 @@
     "summary": "・「ＡＩ学校司書」を千葉市・日高川町で試験運用 授業実践データから図書資料を提案。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「ＡＩ学校司書」を千葉市・日高川町で試験運用 授業実践データから図書資料を提案",
@@ -654,9 +656,7 @@
         "source": "月刊私塾界",
         "published_at": "2026-10-27 12:25"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-27",

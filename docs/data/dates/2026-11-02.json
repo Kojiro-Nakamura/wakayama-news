@@ -483,9 +483,9 @@
     "summary": "・和歌山県 ウィンターカップ予選2026 男子高野山 女子和歌山信愛が優勝。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-02",
@@ -496,6 +496,8 @@
     "summary": "・紀州口熊野マラソン開催休止について",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "紀州口熊野マラソン開催休止について",
@@ -503,9 +505,7 @@
         "source": "上富田町",
         "published_at": "2026-11-02 10:43"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-02",
