@@ -640,6 +640,26 @@
   },
   {
     "article_date": "2026-10-27",
+    "title": "「ＡＩ学校司書」を千葉市・日高川町で試験運用 授業実践データから図書資料を提案",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iMjM2OURHbjBwT2thZDF0cTQzdlVmNzJJeXhrM0tYVjFiZS1ReG5FamQ3ZDB0YzVOdWNLQ0M4N0NrRmtIbWNoZXVsQkttSDE0emc?oc=5",
+    "source": "月刊私塾界",
+    "published_at": "2026-10-27 16:00",
+    "summary": "・「ＡＩ学校司書」を千葉市・日高川町で試験運用 授業実践データから図書資料を提案。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "「ＡＩ学校司書」を千葉市・日高川町で試験運用 授業実践データから図書資料を提案",
+        "url": "https://www.shijyukukai.jp/2026/10/31114",
+        "source": "月刊私塾界",
+        "published_at": "2026-10-27 12:25"
+      }
+    ],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-27",
     "title": "飲酒運転撲滅へ　東署が啓発、ゴーグル危険歩行体験も",
     "url": "https://wakayamashimpo.co.jp/2026/10/20261027_139908.html",
     "source": "わかやま新報",
@@ -798,19 +818,6 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-27",
-    "title": "「ＡＩ学校司書」を千葉市・日高川町で試験運用 授業実践データから図書資料を提案",
-    "url": "https://www.shijyukukai.jp/2026/10/31114",
-    "source": "月刊私塾界",
-    "published_at": "2026-10-27 12:25",
-    "summary": "・京都産業大学と日本事務器株式会社が共同研究を進める「ＡＩ学校司書」の試験運用が、千葉市と和歌山県日高川町で行われている。\n・教員や学校司書が授業の単元、学年、探究テーマなどを入力すると、過去の授業で活用された図書資料や提案理由、所蔵する図書館を示す仕組みだ。\n・教育家庭新聞の取材によると、試験運用は千葉市で６月、日高川町で７月に始まった。",
-    "summary_type": "auto",
-    "category": "地域・一般",
-    "importance_score": 6,
     "is_featured": false,
     "related_articles": []
   },

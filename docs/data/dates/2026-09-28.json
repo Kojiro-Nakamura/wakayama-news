@@ -78,9 +78,16 @@
     "summary": "・町の歳入・歳出は、家計における収入・支出とは異なるものですが、町の財政状況をわかりやすくするために、収入を年収480万円（月収40万円）に置き換えてみました。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 15,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "上富田町の財政状況について",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMk9HU1ZxTS0ydGFYNDVvdGNEd3oxSkp4Y2h3bko1bjVOQWNvZk9KRU1UQ3N1MV95MGxYSm9tRWs5WW5nSE9nNVhTeDdrRkNhbTdCaTg5WmpQWWtKNTJaUkwzZnZLcTNobGoxeWxDYWhpNmhFUFlWbmh1WWFwQjVYeU54RQ?oc=5",
+        "source": "上富田町",
+        "published_at": "2026-09-28 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-09-28",

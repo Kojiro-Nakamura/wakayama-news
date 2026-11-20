@@ -8,8 +8,8 @@
     "summary": "・いい部屋ネット 街の幸福度＆住み続けたい街ランキング2026＜和歌山県版＞。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 45,
-    "is_featured": false,
+    "importance_score": 60,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "いい部屋ネット 街の幸福度＆住み続けたい街ランキング2026＜和歌山県版＞",
@@ -28,6 +28,12 @@
         "url": "https://prtimes.jp/main/html/rd/p/000001684.000035668.html",
         "source": "PR TIMES",
         "published_at": "2026-11-18 11:10"
+      },
+      {
+        "title": "いい部屋ネット 街の幸福度＆住み続けたい街ランキング2026＜和歌山県版＞",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIOGZpaE96UGMwdUc5b1JjMFZSd3hiLXRCOF9nNEd4VEN0WlprYUFWeFhvMDY2RUJzZzVEZEt3WnNxUnZJRHh3QkdLdlBBdE1KcGg3Zlp1TUwtWTNGV21zYXhydmwtYXhQY3NORDhReldtQQ?oc=5",
+        "source": "Infoseek",
+        "published_at": "2026-11-18 23:40"
       }
     ]
   },
@@ -54,7 +60,7 @@
     "summary_type": "auto",
     "category": "スポーツ",
     "importance_score": 56,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「スターフィッシュ」金賞 マーチング関西大会で３年連続、和歌山紀南",
@@ -347,9 +353,16 @@
     "summary": "・伝統の「串柿」づくり 和歌山 かつらぎ町。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
-    "importance_score": 5,
-    "is_featured": false
+    "importance_score": 20,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "伝統の「串柿」づくり 和歌山 かつらぎ町",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16bWIwYlYycEluNDNTTTJEMlpKOWJOTmlUQ1NmNXR3SFNpZEVYclFxZExMVjBxTlByc1FoeGprN3gwY0FMUlA1dHFLZXhSV1FPUXBhVFBnZGNjLU11UFZJ?oc=5",
+        "source": "NHKニュース",
+        "published_at": "2026-11-18 19:31"
+      }
+    ]
   },
   {
     "article_date": "2026-11-18",
@@ -614,6 +627,8 @@
     "summary": "・和歌山県の雨雲レーダー(実況)19日20:00発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の雨雲レーダー(予報)",
@@ -621,9 +636,7 @@
         "source": "tenki.jp",
         "published_at": "2026-11-18 12:21"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-18",
@@ -790,7 +803,7 @@
     "summary": "・「今高野山」で紅葉見頃 広島・世羅町の紅葉の名所。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 33,
+    "importance_score": 48,
     "is_featured": false,
     "related_articles": [
       {
@@ -803,6 +816,12 @@
         "title": "「今高野山」で紅葉見頃 広島・世羅町の紅葉の名所",
         "url": "https://news.yahoo.co.jp/articles/3a53f7b14da255d52e0c99a76631fd43da8fa056",
         "source": "Yahoo!ニュース",
+        "published_at": "2026-11-18 12:30"
+      },
+      {
+        "title": "「今高野山」で紅葉見頃 広島・世羅町の紅葉の名所（2026年11月17日掲載）｜広テレ！NEWS NNN",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVFWZ0Q3NkZ4WEFreVN6TUpfVnZWQW8xMjFUN3FhNTBYaFBGUXdadFRvZHFOa2loNmI4VGo2OUpmQ2p6dHAxVUh3MjBZaG5jTjJHOEZLeVVvUU04VXlxeXNYQlp6VW5kbGYwX3E2TjNZbWhhSlBwaGRBM1BEUktOT0k5UUF6S2c?oc=5",
+        "source": "日テレNEWS NNN",
         "published_at": "2026-11-18 12:30"
       }
     ]

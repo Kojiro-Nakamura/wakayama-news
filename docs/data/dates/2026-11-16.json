@@ -66,12 +66,18 @@
     "summary": "・世界遺産 高野山の女人道でクマ現れ通行止め 和歌山 高野町。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 29,
+    "importance_score": 44,
     "is_featured": false,
     "related_articles": [
       {
         "title": "世界遺産 高野山の「女人道」クマ出没で一部通行止め 和歌山",
         "url": "https://news.web.nhk/newsweb/na/nd-20261116de76530",
+        "source": "NHKニュース",
+        "published_at": "2026-11-16 19:18"
+      },
+      {
+        "title": "世界遺産 高野山の「女人道」クマ出没で一部通行止め 和歌山",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wOE9nWlVRUXVpQ3puYjZCbnRqT0ZpcVZ0S0NMeHZIcmxydGF2ejNZb1VILXFIX3BySmR4WFUzM0I2clhza1RVR3hZOU52VWJtMUdGQk9DZmNSeGFTWE5V?oc=5",
         "source": "NHKニュース",
         "published_at": "2026-11-16 19:18"
       }
@@ -596,9 +602,16 @@
     "summary": "・【黒河道トレッキングイベントは中止となりました】。\n・クマの目撃情報が相次いでいることから、参加者の皆さまの安全を最優先に考慮し、開催を予定しておりました黒河道トレッキングイベントを中止いたします。\n・戦国武将たちが歩んだ歴史の足跡をたどりながら、高野山の開祖である空海さんに出会う旅へ出かけませんか。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 12,
+    "importance_score": 27,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "「黒河道＜総集編＞～謎の高野山参詣道～」講演会",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmFQQl8wbnl3M0Znc2djU3JoZVk0QkpPeXF0c0thRXZoTS1rZVVEQWY3LXN5QnI2eXVYV2JOcUNOWEo1N09wZ0g3X2pIUFl6UUtSdWl2VmpiRE04M3pFLUxSYVBIdHI4ODYwNUJ4MS1vWVdFS1Mxc2s3VElzUHI2MHVjR2I4X1RVNVMzaFB4Q2F5X0dH?oc=5",
+        "source": "橋本市",
+        "published_at": "2026-11-16 17:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-16",
@@ -609,9 +622,9 @@
     "summary": "・仕事やレジャーのため、または病気や他市町村に滞在中のため投票日に投票所へ行けない人は、期日前投票又は不在者投票をすることができます。\n・平成15年12月1日に公職選挙法が改正され、これまでの不在者投票のうち、選挙人名簿登録地でおこなわれる投票が期日前投票となりました。\n・注意：都合により変更する場合がありますので、事前に投票所入場券でご確認ください。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-16",

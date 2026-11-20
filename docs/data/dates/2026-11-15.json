@@ -191,12 +191,18 @@
     "summary": "・県内有数のユズの産地として知られる和歌山県古座川町で、果汁を搾るユズ搾りが始まりました。\n・古座川町の平井地区では山の斜面に約2万本のユズの木が植えられていて、毎年この時期に収穫されたユズが工場に持ち込まれ果汁が搾られます。\n・今季初めてのユズ搾りとなったこの日は、約2.5トンのユズが水洗いされたあとローラーにかけられて果汁が搾られていき、早速、加工場いっぱいに甘酸っぱい香りが漂っていました。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": false,
     "related_articles": [
       {
         "title": "ジャムやジュースに…ユズ搾り始まる 加工場いっぱいに甘酸っぱい香り 和歌山・古座川町",
         "url": "https://news.ntv.co.jp/n/ytv/category/society/yt6a9c3b27bfeb431cb6155a70f3520d5f",
+        "source": "日テレNEWS NNN",
+        "published_at": "2026-11-15 17:00"
+      },
+      {
+        "title": "ジャムやジュースに…ユズ搾り始まる 加工場いっぱいに甘酸っぱい香り 和歌山・古座川町",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUpfT2hNckdjcHg1WDJaMFp2Qnh6VzBJXy10d0llSUVnallEQUVvaVRoYTlzZEdrdVpEdzdwVmRmM2ZXTDFTV050eWx4NnJJS3FkMkxtcDNKQzJoMjhMOHNNSXJRYUR2VU9YYktuaHNtdXN4a1pNVjBuWWhhVmQtMW12MjQxeVE?oc=5",
         "source": "日テレNEWS NNN",
         "published_at": "2026-11-15 17:00"
       }
@@ -211,8 +217,21 @@
     "summary": "・大収穫祭IN九度山は、2026年11月14日（土）～11月15日 （日）開催。\n・九度山の富有柿や長野県上田市の信州りんご などの直売のほか、ステージイベントを実施します。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-15",
+    "title": "和歌山県の最低賃金は1,101円（2026年10月3日〜）｜65歳以上も同じ、月給チェック・年収の目安、近隣県との比較",
+    "url": "https://taxlabor.com/wakayama-minimum-wage/",
+    "source": "寺田税理士・社会保険労務士事務所",
+    "published_at": "2026-11-15 17:00",
+    "summary": "・2026年度（令和8年度）の和歌山県の最低賃金は、時間額1,101円です。\n・和歌山県の最低賃金を満たしているか、30秒で確認できます。\n・月給での確認方法、週15〜40時間の月収・年収の目安、大阪・奈良など近隣県との比較、助成金、FAQを社労士が解説。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 6,
     "is_featured": false
   },
   {
@@ -224,9 +243,16 @@
     "summary": "・初芝橋本高と近大和歌山高の対戦は、0-0のPK戦の末に5-4で勝利した。\n・PK戦で、初芝橋本はGK宮崎皓大(3年)が近大和歌山の1人目をセーブ。\n・[決勝](11月15日)初芝橋本高 0-0(PK5-4) 近大和歌山高。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "importance_score": 12,
+    "importance_score": 27,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "2026度 第105回全国高校サッカー選手権 和歌山県大会 優勝は初芝橋本高校！PKを制し！2年連続19回目",
+        "url": "https://www.juniorsoccer-news.com/post-1959258",
+        "source": "Green Card ニュース",
+        "published_at": "2026-11-15 15:29"
+      }
+    ]
   },
   {
     "article_date": "2026-11-15",

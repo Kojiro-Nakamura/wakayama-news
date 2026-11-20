@@ -8,7 +8,7 @@
     "summary": "・リーグ戦表より情報ありがとうございます！\n・昨年度の出場チームおよび判明分の出場チームを元に暫定リーグ表を作成しました。\n・今年度のリーグ編成情報の提供お待ちしています。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "importance_score": 21,
+    "importance_score": 36,
     "is_featured": true,
     "related_articles": [
       {
@@ -16,6 +16,12 @@
         "url": "https://report.iko-yo.net/articles/34232",
         "source": "いこーよニュース",
         "published_at": "2026-10-09 07:02"
+      },
+      {
+        "title": "【和歌山】2026年10月10日・11日・12日三連休の無料イベント10選 秋祭り＆花火も",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zeXBXejhZQ3lsUnd2MG94R3U0NE9lUW5IeF9RN3FnTUNLRmFKWGxERWpsb0xJa3VrbHEwcmJiTFpWRU9NRFdBdGFiUlZseEExekE?oc=5",
+        "source": "いこーよニュース",
+        "published_at": "2026-10-09 16:00"
       }
     ]
   },

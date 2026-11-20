@@ -93,7 +93,7 @@
     "summary": "・「市民ZOO（ズー）フェスティバル2026」が11月29日、和歌山城公園動物園（和歌山市一番丁）で開催される。\n・居酒屋「巻ト酒マキチヨ」（和歌山市吉田、TEL 073-498-6108）がJR和歌山駅近くにオープンして10月18日で2カ月がたった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 84,
+    "importance_score": 99,
     "is_featured": true,
     "related_articles": [
       {
@@ -125,6 +125,12 @@
         "url": "https://mainichi.jp/articles/20261117/pr2/00m/020/793000c",
         "source": "毎日新聞",
         "published_at": "2026-11-17 16:23"
+      },
+      {
+        "title": "【南紀白浜マリオットホテル】和歌山県産いちご「まりひめ」の魅力が花開く冬春限定スイーツ「MARIHIME Bloom Parfait」を発売",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0xTlh0NHdRZUhyeVh0VXEyeFZmeTFWZ3B4cWZ4Mm9NNkhGc0l1dVRWT01xSWFGMHFXUXViaEstRmJ5NWs?oc=5",
+        "source": "Digital PR Platform",
+        "published_at": "2026-11-17 15:15"
       }
     ]
   },
@@ -150,7 +156,7 @@
     "summary": "・スポーツの大会や合宿を呼び込み地域活性化を目指す和歌山県の紀南地域の８市町でつくる南紀エリアスポーツ合宿誘致推進協議会は、令和8年度上半期（4～9月）の県外からの受け入れ実績をまとめた。\n・8市町の合計で前年同期比13％増の5万2991人と過去最多。\n・上半期は、高校総体の会場や同日本代表の合宿地となった田辺市が17％増の2万5582人、那智勝浦町が82％増の2368人、全日本大学女子硬式野球選手権大会の事前合宿があったみなべ町は約8倍の1305人となるなど全体的に増加した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": false,
     "related_articles": [
       {
@@ -158,6 +164,12 @@
         "url": "https://news.infoseek.co.jp/article/sankein__life_trend_NP5AGOOCSVNIJLTSOVXNFKKHIM/",
         "source": "Infoseek",
         "published_at": "2026-11-17 19:46"
+      },
+      {
+        "title": "和歌山・南紀エリアでのスポーツ合宿が過去最多 上半期は5万人超、高校総体など押し上げ（産経新聞）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2UDNrMm5jNF9QbWtac3F6eHZwaEtKOVVoOU5QZjlYWDRYQUJXR0NRd2FNWFpvOVZLazBBbmZIM1VIREZXLVhqbWkxRV9fMXBxV2RZOG5LSGZxWEZmOHdTbnYxVlIySGM4Yml1SWpZZFpMMlRQQi1BRlZpNWhBRE0?oc=5",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-17 19:51"
       }
     ]
   },
@@ -216,9 +228,16 @@
     "summary": "・海や漁村の魅力を生かし、交流や消費を生み出そうというイベントが、みなべ町の漁港で開かれました。\n・イベントは、みなべ町の堺漁港で行われました。\n・「海-１カーニバルｉｎ堺漁港」と名付けられたこのイベントは、「魚」をテーマに行われ、その日あがった魚介類の販売や家庭で親しまれている魚料理のレシピを会場で展示し、来場者の投票による魚料理コンテストが行われました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 6,
+    "importance_score": 21,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "海や漁村の魅力を生かすイベント開催 和歌山県みなべ町 (テレビ和歌山)",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRHlBS0U2eXFud2VPQzZCREFyRzcxV3pzWDlfdXI1T3I4amZCajhWTElIWDNVOG9PNkEwelJ4WVQxQ05NY1FGRE9qVWNSYWEwYVB1Um5zOUU5MkplUW1kQTM3MHZ6VDhIYVN6dGtoN2lJUG1LVWFIZDJMVjlnRUtVV2x1cWpvZkVwMHdYTjdn?oc=5",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-17 17:58"
+      }
+    ]
   },
   {
     "article_date": "2026-11-17",
@@ -265,6 +284,19 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-17",
+    "title": "和歌山県かつらぎ町こども特派員を実施しました！【令和8年10月31日実施】（レポート掲載中）",
+    "url": "https://www.city.izumiotsu.lg.jp/kakuka/koushitsu/senryaku/kodomotokuhain/16156.html",
+    "source": "泉大津市",
+    "published_at": "2026-11-17 17:00",
+    "summary": "・当日の様子やこども特派員が作成した取材記事を追加しました！\n・▶「こども特派員」の応募はこちら（応募フォームへ移行します）。\n・フルーツ王国である和歌山県のかつらぎ町で、親子農業体験！",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-17",
@@ -470,9 +502,16 @@
     "summary": "・この企画は、生物資源学研究科　岡島賢治教授を中心として進めている「三重スマートヴィレッジプロジェクト」の関連科目である共通教育科目「みどりのアントレプレナーシップ論」（担当　藤山宗准教授、岡島賢治教授）の授業の一環として実施したものです。\n・当日は、紀南地域の小学生3名、高校生6名、本学生物資源学部5名、生物資源学研究科3名、人文学部1名、工学部1名の学生10名が参加しました。\n・プログラムでは、三重大学生と紀南地域の学生が一緒に、ミカン農家の悩みを解決するための会社をつくる体験をしました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 6,
+    "importance_score": 21,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "「みどりのアントレプレナーシップ教育プログラム－10年後の紀南地域の農業と未来をつくる－」を開催しました",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4ZWl0SHVMMlljZVY4cTFNTUYzb0toaGxUYkQxUG5VTnZYVWQtWEZKRnQyYkI2R1JvZTBCM29GS1Bla1B3b1FJUDhZeVhrVXdpekstcUZWbmEydGhsZk1WWnhSaGw?oc=5",
+        "source": "三重大学",
+        "published_at": "2026-11-17 14:53"
+      }
+    ]
   },
   {
     "article_date": "2026-11-17",
@@ -536,7 +575,7 @@
     "summary": "・金剛峯寺、新たな座主就任／高野山で入山式。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 38,
+    "importance_score": 53,
     "is_featured": false,
     "related_articles": [
       {
@@ -550,6 +589,12 @@
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFNWlvdUtJYkhCYWhmTGZQczJHcjRQVVFUaWRiZzdFWHZJclE2eEZnWndMaE5OMFBnS1FVOWdzRjhNZ3BKNl9TU0pRTUlOcHVfdFprRXlyQVlnRUlOR1k0d3AwRENLR1Vf?oc=5",
         "source": "毎日新聞",
         "published_at": "2026-11-17 05:02"
+      },
+      {
+        "title": "金剛峯寺、新たな座主就任／高野山で入山式",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82WU9yX2lCOXA5akc0MVVranZXekZyYUMydXE0TnVNZ01NU1pDLVB3UnFTU05oNU1mN05nSlVNTkR1Z185cHNMMVpYTWZkYWc?oc=5",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-17 14:30"
       }
     ]
   },
@@ -668,7 +713,7 @@
     "summary_type": "auto",
     "category": "地域・一般",
     "importance_score": 41,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "新宮市で県内初の緊急代執行、全面倒壊の危険増す空き家撤去へ（朝日新聞）",
@@ -693,8 +738,8 @@
     "summary": "・高野山真言宗総本山の金剛峯寺（和歌山県高野町）で16日、飛鷹全隆大僧正（83）が第416世座主に就任する入山式があった。\n・【写真】金剛峯寺の正門をくぐる飛鷹全隆座主（中央）=2026年11月16日午前9時52分、和歌山県高野町高野山、滝川直広撮影　座主は金剛峯寺の住職にあたる役職。\n・入山式で飛鷹座主は高野山真言宗の役員や僧侶らを前に、8年後の2034年にある弘法大師御入定1200年御遠忌の準備段階であることに触れ、「お大師様の『虚空尽き、衆生尽き、涅槃（ねはん）尽きなば我が願いも尽きなん』という誓願を大切にして、粉骨砕身、この身を捧げたい」などと述べた。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 39,
-    "is_featured": false,
+    "importance_score": 54,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "高野山の金剛峯寺に飛鷹・新座主が入山　「お大師様の誓願大切に」",
@@ -705,6 +750,12 @@
       {
         "title": "高野山の金剛峯寺に飛鷹・新座主が入山 「お大師様の誓願大切に」 [和歌山県]",
         "url": "https://www.asahi.com/articles/ASVCJ46LRVCJPXLB005M.html",
+        "source": "朝日新聞",
+        "published_at": "2026-11-17 10:45"
+      },
+      {
+        "title": "高野山の金剛峯寺に飛鷹・新座主が入山 「お大師様の誓願大切に」 [和歌山県]",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HblJlSm9QbmRvbU5WSXU2Q2gwQkZKdWpleWVPaElFbVF0dkdvaUJ2OW11Sm1TamtSMnJ1QllLMUVKN1NSNGV4RlVMZEtNMU94NmQ0Z2gwZzVnR2hOb3RJbGNyNERoR3c?oc=5",
         "source": "朝日新聞",
         "published_at": "2026-11-17 10:45"
       }

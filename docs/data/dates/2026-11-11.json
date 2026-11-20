@@ -759,9 +759,16 @@
     "summary": "・印南町商工会（中村泰介会長）は、県と「人権尊重の社会づくり協定」を結んだ。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 5,
+    "importance_score": 20,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "人権尊重の協定結ぶ／印南町商工会と県",
+        "url": "https://www.agara.co.jp/article/710989",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-11 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-11-11",
