@@ -8,7 +8,7 @@
     "summary": "・3時間ごとの天気、降水量、気温などがチェックできます。\n・細かい地点単位の天気を知るには最適です。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 63,
+    "importance_score": 78,
     "is_featured": true,
     "related_articles": [
       {
@@ -34,6 +34,12 @@
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MV2xjME5KVkZ2dmhtZ3lmbXRuZVFfNEsxUURsa0ZXOXBBTkd0ZjdDOEVwRmstcDFOTjlHdHp2NjNGUnl1b3dUWUE5c3ZlNWNYRnhCZnBpeHl4cTJXSW9DUHkxT1VfcVN2?oc=5",
         "source": "Yahoo!天気",
         "published_at": "2017-04-13 17:36"
+      },
+      {
+        "title": "九度山町の天気",
+        "url": "https://weather.yahoo.co.jp/weather/jp/30/6510/30343.html",
+        "source": "Yahoo!天気",
+        "published_at": "2017-04-13 12:21"
       }
     ]
   }
