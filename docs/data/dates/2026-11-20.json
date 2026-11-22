@@ -368,9 +368,9 @@
     "summary": "・３連休初日の２１日、三重県尾鷲市では、熊野古道を歩くイベントが行われています。\n・世界遺産・熊野古道を歩きながら自然を満喫してもらおうと毎年行われているこのイベントには、全国から参加者が集まっています。\n・熊野古道センターを出発した参加者は、急な石畳に悪戦苦闘しながらも、秋の紀州路を満喫していました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 21,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-20",
@@ -440,6 +440,8 @@
     "summary": "・文化審議会は２０日、現存する最古の民放局舎「ＣＢＣ会館」（写真）や高野山大師教会大講堂など２８都道府県の建造物１２１件を新たに登録有形文化財とするよう関芳弘文部科学相に答申した＝名古屋市（文化庁提供）　【時事通信社】。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "ＣＢＣ会館など有形文化財に＝１２１件の登録答申―文化審",
@@ -447,9 +449,7 @@
         "source": "Infoseek",
         "published_at": "2026-11-20 17:10"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-20",
@@ -512,7 +512,7 @@
     "summary": "・紀の川市内高校生を対象に、地元企業を知っていただくためのバスツアーを開催します。\n・今年の見学先についてはハグルマ株式会社様にご協力いただき、参加する高校生が、普段何気なく口にしている食品が製造される過程や、食品づくりに携わる人々の仕事に触れることで、ものづくりの魅力や働くことのやりがいを感じ、自身の将来の職業について考えるきっかけとするとともに、地元企業への理解と関心を深め、将来的な地元就職の促進につなげることを目指します。\n・【開催予定】日 時：令和８年１２月８日（火） 9：00〜12：00。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 36,
+    "importance_score": 51,
     "is_featured": false,
     "related_articles": [
       {
@@ -526,6 +526,12 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000096.000173667.html",
         "source": "PR TIMES",
         "published_at": "2026-11-20 13:00"
+      },
+      {
+        "title": "紀の川市内高校生による地元企業見学バスツアーを開催",
+        "url": "https://www.agara.co.jp/article/715557",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-20 16:11"
       }
     ]
   },
@@ -931,9 +937,16 @@
     "summary": "・和歌山県の熊野灘沿岸地域の捕鯨文化に関するストーリー「鯨とともに生きる」が、日本遺産に認定されて10周年を迎えたことを記念してウォークイベントを開催する。\n・会場くじらの博物館（集合）和歌山県東牟婁郡太地町太地2904。\n・アクセス公共交通：JR太地駅から太地町営じゅんかんバス「くじら館前」下車車：-。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 12,
+    "importance_score": 27,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "「鯨とともに生きる」日本遺産ウォーク in太地町・ナイトミュージアム",
+        "url": "https://topics.smt.docomo.ne.jp/article/eventbank/region/eventbank-10655897",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-11-20 10:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-20",

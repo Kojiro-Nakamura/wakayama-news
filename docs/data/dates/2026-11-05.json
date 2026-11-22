@@ -262,7 +262,7 @@
     "summary": "・国連「世界津波の日」制定のきっかけとなった「稲むらの火」の舞台・広川町(ひろがわちょう)で、きょう（１１月５日）村人を津波から救った濱口梧陵(はまぐち・ごりょう)の功績をしのぶ「津浪祭(つなみまつり)」が営まれ、町民らが玉串を捧げました。\n・濱口梧陵は、１８５４年・安政元年の１１月５日、南海地震による津波の襲来を察知し、稲わらに火を放って村人を避難させたとされ、のちに「稲むらの火」の故事として伝えられました。\n・広川町では、安政の南海地震から５０年後の１９０３年（明治３６年）に津浪祭を開始し、犠牲者を追悼するとともに梧陵に感謝を捧げていて、今回で１２４回目となります。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 71,
+    "importance_score": 86,
     "is_featured": false,
     "related_articles": [
       {
@@ -288,6 +288,12 @@
         "url": "https://news.yahoo.co.jp/articles/f3d8370bc8195d7a08172c068b4dc366109fd036",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-05 15:01"
+      },
+      {
+        "title": "「世界津波の日」和歌山県広川町で濱口梧陵をしのぶ「津浪祭」 (WBS和歌山放送ニュース)",
+        "url": "https://news.yahoo.co.jp/articles/f3d8370bc8195d7a08172c068b4dc366109fd036/images/001",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-05 17:00"
       }
     ]
   },
@@ -555,7 +561,7 @@
     "summary": "・国連が定めた「世界津波の日」の５日、和歌山県広川町では津波避難訓練が行われました。\n・工事現場の資材がバスの窓を突き破る　けが人なし　大阪・茨木市　訓練はマグニチュード９．１の南海トラフ巨大地震が発生し電車が急停止した想定で行われ、地元の小学生ら約３５０人が参加しました。\n・「世界津波の日」は、１８５４年の安政南海地震で地元の実業家・濱口梧陵が稲わらに火をつけて住民を高台に避難させた逸話にちなんで、２０１５年に国連で制定されました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 96,
+    "importance_score": 126,
     "is_featured": true,
     "related_articles": [
       {
@@ -593,6 +599,18 @@
         "url": "https://news.infoseek.co.jp/article/abcnews_63425/",
         "source": "Infoseek",
         "published_at": "2026-11-05 12:40"
+      },
+      {
+        "title": "「世界津波の日」に和歌山・広川町で津波避難訓練 地元の小学生ら約３５０人参加",
+        "url": "https://www.asahi.co.jp/webnews/pages/abc_63425.html",
+        "source": "朝日放送",
+        "published_at": "2026-11-05 17:00"
+      },
+      {
+        "title": "「世界津波の日」和歌山県広川町のJR紀勢線で津波避難訓練 (WBS和歌山放送ニュース)",
+        "url": "https://news.yahoo.co.jp/articles/c5648b14cc934ed234156d82f515b462e368558b/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-05 17:00"
       }
     ]
   },
