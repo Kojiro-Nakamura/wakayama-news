@@ -34,7 +34,7 @@
     "summary": "・和歌山 九度山町で特産柿の皮むき大会。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "importance_score": 20,
+    "importance_score": 35,
     "is_featured": false,
     "related_articles": [
       {
@@ -42,6 +42,12 @@
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NOTl0bU9MM2pQTWZWZHloOFF2N1k4ZGdQS21NU3dmNm0tN1ctOVVWOTVJRlFSUk84cEg3Z2VYR3hlY0lSWGFaamQ2TklzYi00YXZpcGVpc0g1cVZEOENR?oc=5",
         "source": "NHKニュース",
         "published_at": "2026-11-15 21:09"
+      },
+      {
+        "title": "和歌山 九度山町で特産柿の皮むき大会",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261115de76152",
+        "source": "NHKニュース",
+        "published_at": "2026-11-15 19:57"
       }
     ]
   },

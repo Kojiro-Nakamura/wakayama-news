@@ -712,8 +712,8 @@
     "summary": "・新宮市で県内初の緊急代執行、全面倒壊の危険増す空き家撤去へ [和歌山県]。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 41,
-    "is_featured": false,
+    "importance_score": 56,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "新宮市で県内初の緊急代執行、全面倒壊の危険増す空き家撤去へ（朝日新聞）",
@@ -724,6 +724,12 @@
       {
         "title": "新宮市で県内初の緊急代執行、全面倒壊の危険増す空き家撤去へ（朝日新聞）",
         "url": "https://news.yahoo.co.jp/articles/1ac97a7ededa33d2cb001e762ab89cc31fd676de",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-17 10:45"
+      },
+      {
+        "title": "新宮市で県内初の緊急代執行、全面倒壊の危険増す空き家撤去へ (朝日新聞)",
+        "url": "https://news.yahoo.co.jp/articles/1ac97a7ededa33d2cb001e762ab89cc31fd676de/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-17 10:45"
       }
@@ -739,7 +745,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 54,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "高野山の金剛峯寺に飛鷹・新座主が入山　「お大師様の誓願大切に」",
