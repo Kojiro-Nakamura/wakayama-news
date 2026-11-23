@@ -8,6 +8,8 @@
     "summary": "・「紀伊半島ブックマルシェ2026」のプレイベントが11月16日、JR田並駅近くの「田並劇場」（串本町田並）で始まった。\n・「紀伊半島ブックマルシェ」プレイベントの「ブックマルシェ小さな本屋さん展」を開催する「田並劇場外観。\n・田並劇場を運営する林憲昭さんによると、昨年は2日間開催のイベントに参加できなかった人から要望があったため、今年は展示販売期間を拡大しようとプレイベントを企画したという。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "串本・田並劇場で「紀伊半島ブックマルシェ」プレイベント 地元9書店が参加",
@@ -15,9 +17,7 @@
         "source": "au Webポータル",
         "published_at": "2026-11-18 23:00"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-18",
@@ -771,9 +771,9 @@
     "summary": "・来年１月２２日打ち上げへ／串本／「カイロス」４号機。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",

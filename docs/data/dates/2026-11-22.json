@@ -1,6 +1,19 @@
 [
   {
     "article_date": "2026-11-22",
+    "title": "和歌山の冬の夜を彩る！160万球の光が輝くイルミネーション",
+    "url": "https://www.pretty-online.jp/news/10150/",
+    "source": "PrettyOnline",
+    "published_at": "2026-11-22 20:00",
+    "summary": "・「けやきライトパレード2026」が2026年11月21日（土）～2027年2月28日（日）まで開催中！JR「和歌山駅」から「和歌山城」、南海「和歌山市駅」・「和歌山県庁前」までの約3.5kmが、160万球のイルミネーションで彩られます。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-22",
     "title": "コウテイペンギン・ペアに「いい夫婦」特別賞／和歌山・白浜町",
     "url": "https://news.wbs.co.jp/221982",
     "source": "WBS和歌山放送ニュース",
@@ -106,9 +119,9 @@
     "summary": "・女子テニスの国別対抗戦、ビリー・ジーン・キング杯プレーオフの日本―アルゼンチン最終日が２２日、東京・有明コロシアムで行われ、日本は前日の第１日から３連勝で来年のファイナル予選への進出を決めた。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-22",
@@ -119,6 +132,8 @@
     "summary": "・古謝氏は米軍普天間飛行場の危険性除去などを国、県、市が協議する「負担軽減推進会議」の早期開催を要求。\n・木原氏は年内にも開催する考えを伝えた。\n・「市民ZOO（ズー）フェスティバル2026」が11月29日、和歌山城公園動物園（和歌山市一番丁）で開催される。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "古謝知事、普天間会議の開催要求",
@@ -126,9 +141,7 @@
         "source": "和歌山経済新聞",
         "published_at": "2026-11-22 16:06"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-22",
@@ -231,7 +244,7 @@
     "summary": "・和歌山市の冬を彩る「けやきライトパレード」が21日夜、和歌山城周辺で始まった。\n・4回目となる今年は総延長3・5キロの街路に160万球余りのLEDをともし、「街路イルミネーションで使用されたLEDライト球の最多数」でギネス世界記録を達成した。\n・【写真】ギネス世界記録の認定証を受け取る古沢良祐実行委員長（中央）=2026年11月21日午後6時すぎ、和歌山市のけやき通り公園前交差点、菊地洋行撮影　地元企業などでつくる実行委員会の主催。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 54,
+    "importance_score": 69,
     "is_featured": true,
     "related_articles": [
       {
@@ -250,6 +263,12 @@
         "title": "和歌山市を彩る「けやきライトパレード」、ギネス世界記録達成 (朝日新聞)",
         "url": "https://news.yahoo.co.jp/articles/8a60ffc9b0cd3218e8bc633c8cf4fb5c3dfd9faf/images/000",
         "source": "Yahoo!ニュース",
+        "published_at": "2026-11-22 10:45"
+      },
+      {
+        "title": "和歌山市を彩る「けやきライトパレード」、ギネス世界記録達成 [和歌山県]",
+        "url": "https://www.asahi.com/articles/ASVCP4724VCPPXLB001M.html",
+        "source": "朝日新聞",
         "published_at": "2026-11-22 10:45"
       }
     ]
@@ -348,8 +367,8 @@
     "summary": "・和歌山県の雨雲レーダー(実況)23日10:15発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]
