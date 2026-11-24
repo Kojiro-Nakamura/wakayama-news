@@ -79,6 +79,26 @@
   },
   {
     "article_date": "2026-10-08",
+    "title": "クビアカ対策強化求める／みなべ町 独自予算を検討",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LdWRyX2gzSmEwcjNLZWJMMGxMQ1lkdHhXVk9ab1lSUkU3emtaLWFvMDFGd2JGU3NuX1I0SWs2YjFZNF9BdGJKc3F1TjFsem8?oc=5",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-10-08 16:00",
+    "summary": "・クビアカ対策強化求める／みなべ町 独自予算を検討。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [
+      {
+        "title": "クビアカ対策強化求める／みなべ町 独自予算を検討",
+        "url": "https://www.agara.co.jp/article/696490",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-08 14:30"
+      }
+    ],
+    "importance_score": 23,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-08",
     "title": "ヘスティア主催講座「中庭ランド」のご紹介",
     "url": "https://www.city.hashimoto.lg.jp/guide/kenko_fukushibu/kateikyouikusiensitsu/kateikyouikushien/kyouikusienteam/23546.html",
     "source": "橋本市",
@@ -87,19 +107,6 @@
     "summary_type": "auto",
     "category": "地域・一般",
     "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-08",
-    "title": "クビアカ対策強化求める／みなべ町 独自予算を検討",
-    "url": "https://www.agara.co.jp/article/696490",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-10-08 14:30",
-    "summary": "・「地域一丸で防除を」　和歌山・みなべでクビアカ被害調査。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "importance_score": 8,
     "is_featured": false,
     "related_articles": []
   }

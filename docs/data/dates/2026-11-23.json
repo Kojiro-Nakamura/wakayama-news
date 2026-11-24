@@ -1,6 +1,32 @@
 [
   {
     "article_date": "2026-11-23",
+    "title": "和歌山の冬を彩るけやきライトパレード開幕 過去最多160万9700球でギネス世界記録",
+    "url": "https://japan-forward.com/ja/wakayama-winter-illumination-guinness-world-record/",
+    "source": "JAPAN Forward",
+    "published_at": "2026-11-23 23:25",
+    "summary": "・和歌山市中心部のけやき大通りをLEDライトで飾る「けやきライトパレード」が始まった。\n・今年は、160万9700球の電球で街路樹を照らし、「街路イルミネーションで使用されたLEDライト球の最多数」部門のギネス世界記録に認定された。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-23",
+    "title": "#ふるさとのある暮らし 】和歌山県田辺市「みんなの梅仁豆腐 365」＆ちょい足しレシピ「甘酒うめソースの梅仁豆腐」",
+    "url": "https://t.co/yjbIkFyVbG",
+    "source": "Howl.Link",
+    "published_at": "2026-11-23 21:50",
+    "summary": "・#ふるさとのある暮らし 】和歌山県田辺市「みんなの梅仁豆腐 365」＆ちょい足しレシピ「甘酒うめソースの梅仁豆腐」。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-23",
     "title": "福士さん映画、日本初公開 日韓で野球人生、悲喜描く",
     "url": "https://news.wbs.co.jp/221994",
     "source": "WBS和歌山放送ニュース",
@@ -8,20 +34,39 @@
     "summary": "・日本と韓国のプロ野球で活躍し、引退後はみなべ町に住んで生涯を終えた在日コリアン、福士敬章（ふくし・ひろあき）さん、韓国名・張明夫（チャン・ミョンブ）さんの栄光と悲哀が交錯する人生を描いたドキュメンタリー映画「張明夫（チャン・ミョンブ）、玄界灘の落ち葉」がきのう（２２日）ときょう（２３日）、大阪市で日本初公開されました。\n・福士さんは、投手として広島で日本一に輝いた後、韓国の三美（サムミ）でシーズン３０勝を挙げるなど、日韓両国のプロ野球で活躍し、引退後は実母の郷里でもあるみなべ町で生涯を終えました。\n・映画は、大阪市の大阪韓国文化院で開催中の「大阪韓国映画祭」で上映され、在日コリアンであることへの差別の中、２００５年に５４歳の若さで静かに生涯を閉じるまでの華々しい栄光と悲惨な転落の軌跡がスクリーンに映し出されました。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-23",
+    "title": "核ごみ、初の住民説明会",
+    "url": "https://wakayama.keizai.biz/gpnews/1779293/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-11-23 20:07",
+    "summary": "・原発から出る高レベル放射性廃棄物（核のごみ）の最終処分地選定を巡り、第１段階の文献調査が始まった茨城県常陸大宮市で２３日、初の住民説明会が開かれた。\n・写真は住民に説明する鈴木定幸市長。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-23",
     "title": "旅行者と地域の共生目指す 外国人にぎわう熊野古道",
-    "url": "https://www.okinawatimes.co.jp/articles/-/1972529",
-    "source": "沖縄タイムス社",
-    "published_at": "2026-11-23 17:00",
-    "summary": "・世界文化遺産の熊野古道を歩く外国人旅行者が急増している。",
+    "url": "https://www.sanyonews.jp/article/2025824",
+    "source": "山陽新聞",
+    "published_at": "2026-11-23 17:05",
+    "summary": "・熊野古道を歩く外国人旅行者＝和歌山県田辺市。\n・世界文化遺産の熊野古道を歩く外国人旅行者が急増している。",
     "summary_type": "auto",
     "category": "観光・文化",
     "related_articles": [
+      {
+        "title": "旅行者と地域の共生目指す 外国人にぎわう熊野古道",
+        "url": "https://www.okinawatimes.co.jp/articles/-/1972529",
+        "source": "沖縄タイムス社",
+        "published_at": "2026-11-23 17:00"
+      },
       {
         "title": "旅行者と地域の共生目指す 外国人にぎわう熊野古道｜全国のニュース｜Web東奥",
         "url": "https://www.toonippo.co.jp/articles/-/2409225",
@@ -33,9 +78,21 @@
         "url": "https://news.at-s.com/article/2104601",
         "source": "静岡新聞DIGITAL",
         "published_at": "2026-11-23 17:00"
+      },
+      {
+        "title": "旅行者と地域の共生目指す 外国人にぎわう熊野古道｜全国のニュース｜Web東奥",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XWWR6YmYzVk1xc3huT0dpNkdGWWx2VVhJR0xKS04xdDV3ZmMxbEpQY05aajN2WVlIZ1FfVW5aaEZjN2swWWtVMXlqQ1ktLU9KRWhCMHZ5bTY?oc=5",
+        "source": "東奥日報社",
+        "published_at": "2026-11-23 17:00"
+      },
+      {
+        "title": "旅行者と地域の共生目指す",
+        "url": "https://www.shimotsuke.co.jp/articles/-/1464583",
+        "source": "下野新聞社",
+        "published_at": "2026-11-23 17:00"
       }
     ],
-    "importance_score": 36,
+    "importance_score": 87,
     "is_featured": true
   },
   {
@@ -47,9 +104,9 @@
     "summary": "・奉仕団体が献血呼びかけ。",
     "summary_type": "auto",
     "category": "スポーツ",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-23",
@@ -60,9 +117,9 @@
     "summary": "・和歌山市で今日、市内の企業が主催する子供やその保護者らを対象にした体力測定会が開かれました。\n・子供たちの健やかな成長を後押ししたいと代表取締役の中谷久さんの知人でマスターズ陸上で活躍する長谷利明さんの協力のもと毎年開いているもので、今日は握力測定と立ち幅跳び、５０メートル走、砲丸投げの４種目で記録を測定。\n・なお、事前に測定した中谷さんのそれぞれの記録を超えた人には社長賞として記念品が贈られ、中谷代表取締役は「楽しんでもらえてよかった。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-23",
@@ -73,9 +130,9 @@
     "summary": "・和歌山市の雑賀崎漁港で、漁船から直接魚介類を買えることで人気を集めている「船上販売」を中心とした賑わいづくりの実証実験が今日から始まりました。\n・雑賀崎漁港では、出漁日には水揚げされた魚介類を漁船から直接買うことができる船上販売が行われていて、市は、これを地域のさらなる賑わいづくりにつなげたい考えです。\n・実証実験の実施は、明日を除く２９日までの正午から午後５時までで、船上販売は午後３時から、休漁日となる明日と２８日は行われません。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-23",
@@ -86,8 +143,21 @@
     "summary": "・【楽待】和歌山県和歌山市 1棟アパート | 収益物件数No.1不動産投資サイト。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 3,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-23",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-11-23 13:53",
+    "summary": "・和歌山県の雨雲レーダー(実況)24日14:00発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 9,
     "is_featured": false
   },
   {
@@ -99,9 +169,9 @@
     "summary": "・「飲酒運転なめたらアカン！」天童よしみさん、古里の田辺で [和歌山県]。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-23",
@@ -112,9 +182,9 @@
     "summary": "・五輪金の萩野公介さん、海南中で特別授業「オリンピックの理念は」 [和歌山県]。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-23",
@@ -125,9 +195,22 @@
     "summary": "・和歌山県は27日、埼玉県八潮市で令和7年1月に発生した道路陥没事故を受け、伊都浄化センター（和歌山県かつらぎ町）で実施中の下水道管路更生工事を県内市町村の職員に公開する。\n・八潮市の道路陥没事故で、国土交通省は昨年3月に下水道を管理する各自治体に重点調査を要請。\n・和歌山県によると、県内では8市町の計約24キロが対象となり、腐食や損傷など深刻度に応じて対策の緊急性を2段階で判定。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 36,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "和歌山県、下水管掘らず直す更生工事を公開へ 道路陥没事故受け市町村の技術力向上狙う (産経新聞)",
+        "url": "https://news.yahoo.co.jp/articles/32b186d5baea54b0545f96a930efb02ed377f7c2/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-23 08:11"
+      },
+      {
+        "title": "和歌山県、下水管掘らず直す更生工事を公開へ 道路陥没事故受け市町村の技術力向上狙う",
+        "url": "https://www.sankei.com/article/20261123-H4PYJRYD6RKH7JBWWGNFWAE324/",
+        "source": "産経ニュース",
+        "published_at": "2026-11-23 08:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-23",
@@ -152,7 +235,7 @@
     "summary_type": "auto",
     "category": "社会・事件",
     "importance_score": 14,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {

@@ -47,9 +47,16 @@
     "summary": "・金融機関等で特定の融資を受けた中小企業者に対し、利子の一部に相当する金額を給付します。\n・対象融資につき、利子の支払いを開始した月から12か月間（対象期間）のうち、令和7年4月1日から令和8年3月31日までに支払った利子。\n・注意：中小機構基盤整備機構が実施する特別利子補給事業の対象となっている「その他の融資」については、その補給が及ばない部分のみを本市の利子補給の対象とします。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
-    "importance_score": 6,
-    "is_featured": false
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "海南市中小企業不況対策振興融資資金利子補給金について",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2FKeG5uQTEwS2puanJmZF9mbFc3dWpPMy1ZZFVWOEtVNm5QbVRzVlNJdmxLUGlFeUllbjItSHgzcFVIMW9yNlNJaHFoZGNDNjNMNGoxS0pCMTFSdUlMeFlpbktsXzlCa21EUXVCaGwtUHkyRHZCbzF6WDFYSThCZDBHREkxMUhnZE1Sc1h1UXd4STlXUUxyZnlJNnNuc21CMmJIVFZCbjM?oc=5",
+        "source": "海南市",
+        "published_at": "2026-04-01 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-04-01",
@@ -60,9 +67,9 @@
     "summary": "・海南市では、市民の皆さまに積極的に市政参画いただけるよう、市の基本的な政策などに関する情報・ご意見等を募集する手続きを定めています。\n・市民の皆さまの生活に関係する市の基本的な計画や方針などを策定する過程において、その計画等の素案や関係資料を公表し、市民の皆さまに広く意見を求め、これらに関して提出いただいた意見を考慮して意思決定を行うとともに、提出された意見に対する市の考え方を公表する一連の手続きです。\n・意見を提出いただいた方の氏名などの情報は公表しないことを原則としていますが、公表する場合は、その旨を意見募集時に明示します。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-04-01",

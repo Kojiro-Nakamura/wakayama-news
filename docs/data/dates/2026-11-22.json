@@ -8,9 +8,9 @@
     "summary": "・「けやきライトパレード2026」が2026年11月21日（土）～2027年2月28日（日）まで開催中！JR「和歌山駅」から「和歌山城」、南海「和歌山市駅」・「和歌山県庁前」までの約3.5kmが、160万球のイルミネーションで彩られます。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-22",
@@ -109,6 +109,26 @@
         "published_at": "2026-11-22 18:45"
       }
     ]
+  },
+  {
+    "article_date": "2026-11-22",
+    "title": "和歌山県の過去の天気(実況天気・2026年11月)",
+    "url": "https://tenki.jp/past/2026/11/weather/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-11-22 18:31",
+    "summary": "・今日の天気  24日14:00発表。\n・和歌山県の過去天気の実況天気では、実況天気(2026年11月)の過去の気象情報を確認できます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山県の停電情報",
+        "url": "https://weathernews.jp/onebox/poweroutage/kinki/wakayama/",
+        "source": "ウェザーニュース",
+        "published_at": "2026-11-22 02:30"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-22",

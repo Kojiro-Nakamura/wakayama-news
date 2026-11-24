@@ -8,9 +8,16 @@
     "summary": "・「いい風呂の日」に合わせ、熱い湯と冷たい水に交互に入る「温冷浴」を広めるイベントが11月26日、温浴温泉施設「紀州 忍びの湯 二ノ丸温泉」（湯浅町山田、TEL 0737-64-1826）で開かれる。\n・一棟貸しの宿泊施設「noroshi（ノロシ）」（有田市宮崎）が有田市矢櫃（やびつ）地区にオープンして3カ月がたった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 3,
+    "importance_score": 18,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "湯浅町の温浴温泉施設「紀州 忍びの湯 二ノ丸温泉」外観",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nV3VueFFxeXNNUGxYWUVSWXJOMWFnemlTbjl1SzRfYl80UHZ5YTZHRU5sUHZYMHVHSVhPWTNJakdKa1Y5U3JfYWRWeXhzY1Iyc2hwY2k0WQ?oc=5",
+        "source": "和歌山経済新聞",
+        "published_at": "2026-11-20 23:06"
+      }
+    ]
   },
   {
     "article_date": "2026-11-20",
@@ -427,7 +434,7 @@
     "summary": "・和歌山県串本町で、高齢者の津波避難に電動モビリティが検討されています。\n・高齢者が運転しているのは電動の四輪車です。\n・しかし、厳しい津波の想定や高齢化を理由に、避難を諦めている人が少なくないということで、関西大学が今回、串本町に4台寄贈し、電動四輪車の有用性を確かめることになりました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 39,
+    "importance_score": 54,
     "is_featured": false,
     "related_articles": [
       {
@@ -441,6 +448,12 @@
         "url": "https://newsdig.tbs.co.jp/articles/mbs/3102285",
         "source": "TBS NEWS DIG",
         "published_at": "2026-11-20 18:06"
+      },
+      {
+        "title": "避難あきらめないで…高齢者の津波避難に「電動四輪車」検討 最高時速20キロで免許不要 和歌山・串本町",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54dUlIYkV6b1BNX19fV2pOdlpxVGltdWowa0JLajd1STdLdGV0NlpDcE1Da1ROT1IxVldkRDFRbXlzZmM0NVNiM1p6TDl5TTdFdC1ndzJhREpUUHprOU9BZzE3MlJpYm90LXpzYWpodWdWUl9Ma1pYYm1vdmVqZEU?oc=5",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-20 18:04"
       }
     ]
   },
@@ -622,7 +635,7 @@
     "summary": "・和歌山県内の上空に寒気が流れ込み、山間部の標高の高い場所では雪が降った。\n・観光地・高野山（高野町）では20日朝、寺院などの屋根がうっすらと雪化粧している光景が見られた。\n・【写真で見る】難波から直接高野山へ　南海電鉄に新観光列車　和歌山地方気象台によると、高野山のこの日の朝の最低気温は0・7度だった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": false,
     "related_articles": [
       {
@@ -630,6 +643,12 @@
         "url": "https://mainichi.jp/articles/20261120/k00/00m/310/187000c",
         "source": "毎日新聞",
         "published_at": "2026-11-20 15:48"
+      },
+      {
+        "title": "高野山、うっすらと雪化粧 最低気温0.7度 和歌山上空に寒気（毎日新聞）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jcGROdXkwMVZfWF9uNDJuY2RaVy1fZzU4TWtlcGxzd2ctY0hka3ROWnQyNkVtd0dvR0M2dzJoSk1Hbk9KeUFTd3kzYmhnNjEwdEhDSV8xWG5mMEVlajFKS1NhYXVabXlCOWJkakxjbXRxQWY1SmNnX3FrcVFTVFU?oc=5",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-20 15:49"
       }
     ]
   },
@@ -779,7 +798,7 @@
     "summary": "・民間ロケット「カイロス」の4号機が、来年（2027年）1月22日に打ち上げられる方向で調整していることがわかりました。\n・ベンチャー企業「スペースワン」は、和歌山県串本町の日本初の民間ロケット発射場「スペースポート紀伊」で、これまでに3回、小型ロケット「カイロス」の打ち上げに挑戦しましたが、初号機は直後に爆発、2号機と3号機は打ち上げ後に飛行中断措置が取られるなど、いずれも失敗しています。\n・打ち上げ後、地球周回軌道への投入に成功すれば、日本の民間企業が単独で開発したロケットとして、初めての成功となります。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 63,
+    "importance_score": 78,
     "is_featured": true,
     "related_articles": [
       {
@@ -799,6 +818,12 @@
         "url": "https://news.ntv.co.jp/n/ytv/category/society/yt67ab4640ac72405ba61dd3213609e89e",
         "source": "日テレNEWS NNN",
         "published_at": "2026-11-20 09:50"
+      },
+      {
+        "title": "【速報】ロケット「カイロス4号機」‟民間単独初”の打ち上げ成功なるか 来年1月に4度目の打ち上げへ 過去3回は失敗 和歌山・串本町 （読売テレビ）",
+        "url": "https://news.yahoo.co.jp/articles/7d7360ec700809b05be38e07e269404602d9b763",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-20 09:50"
       }
     ]
   },
@@ -811,6 +836,8 @@
     "summary": "・事業を通して社会課題解決に取り組む、株式会社LIFULLのグループ会社である株式会社LIFULL ArchiTech（ライフルアーキテック）（以下「LIFULL ArchiTech」）は、和歌山県橋本市と、災害発生時の支援・地域防災力強化のために「平時及び災害時におけるインスタントプロダクツの供給に関する協定」（以下、「本協定」）を2026年10月23日に締結しました。\n・（左：和歌山県橋本市 市長 平木 哲朗 氏、右：LIFULL ArchiTech取締役COO 山中 典）。\n・LIFULL ArchiTechは、災害時の迅速な支援や平時の備蓄支援、インスタントプロダクツを活用した防災教育イベントの開催など、橋本市の取り組みを支援し、平常時からの多面的な連携を進めてまいります。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 36,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "LIFULL ArchiTech、和歌山県橋本市と平時及び災害時におけるインスタントプロダクツの供給に関する協定を締結",
@@ -824,9 +851,7 @@
         "source": "PR TIMES",
         "published_at": "2026-11-20 11:00"
       }
-    ],
-    "importance_score": 36,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-20",
