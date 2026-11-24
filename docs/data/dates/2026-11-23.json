@@ -8,9 +8,9 @@
     "summary": "・和歌山市中心部のけやき大通りをLEDライトで飾る「けやきライトパレード」が始まった。\n・今年は、160万9700球の電球で街路樹を照らし、「街路イルミネーションで使用されたLEDライト球の最多数」部門のギネス世界記録に認定された。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-23",
@@ -21,9 +21,9 @@
     "summary": "・#ふるさとのある暮らし 】和歌山県田辺市「みんなの梅仁豆腐 365」＆ちょい足しレシピ「甘酒うめソースの梅仁豆腐」。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-23",
@@ -35,7 +35,7 @@
     "summary_type": "auto",
     "category": "スポーツ",
     "importance_score": 14,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
@@ -47,9 +47,9 @@
     "summary": "・原発から出る高レベル放射性廃棄物（核のごみ）の最終処分地選定を巡り、第１段階の文献調査が始まった茨城県常陸大宮市で２３日、初の住民説明会が開かれた。\n・写真は住民に説明する鈴木定幸市長。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-23",
@@ -60,6 +60,8 @@
     "summary": "・熊野古道を歩く外国人旅行者＝和歌山県田辺市。\n・世界文化遺産の熊野古道を歩く外国人旅行者が急増している。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 87,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "旅行者と地域の共生目指す 外国人にぎわう熊野古道",
@@ -91,9 +93,7 @@
         "source": "下野新聞社",
         "published_at": "2026-11-23 17:00"
       }
-    ],
-    "importance_score": 87,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-23",
@@ -156,9 +156,22 @@
     "summary": "・和歌山県の雨雲レーダー(実況)24日14:00発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-23",
+    "title": "秋の紀州路を満喫 熊野古道を歩くイベント 三重・尾鷲市（中京テレビＮＥＷＳ）",
+    "url": "https://news.yahoo.co.jp/articles/fe7911b16ae431442ca937b319734d5ab70e7176",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-23 12:17",
+    "summary": "・３連休初日の２１日、三重県尾鷲市では、熊野古道を歩くイベントが行われています。\n・世界遺産・熊野古道を歩きながら自然を満喫してもらおうと毎年行われているこのイベントには、全国から参加者が集まっています。\n・熊野古道センターを出発した参加者は、急な石畳に悪戦苦闘しながらも、秋の紀州路を満喫していました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 21,
+    "is_featured": true
   },
   {
     "article_date": "2026-11-23",

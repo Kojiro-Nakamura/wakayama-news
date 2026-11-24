@@ -481,7 +481,7 @@
     "summary": "・「津波防災の日」の5日、マグニチュード（M）9.1の南海トラフ巨大地震を想定した列車からの津波避難訓練が和歌山県広川町のJR紀勢線で行われた。\n・地元の小学生ら約350人が運転士の誘導で列車を降り、消防団員が「逃げろ」と声をかける中、高台の神社に走って向かった。\n・1854年の安政南海地震で大津波が紀伊半島を襲ったのが旧暦の11月5日とされ、2011年の東日本大震災をきっかけに津波防災の日に制定された。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 176,
+    "importance_score": 191,
     "is_featured": true,
     "related_articles": [
       {
@@ -549,6 +549,12 @@
         "url": "https://news.yahoo.co.jp/articles/9a6bf859adbfb02c133a1c528ef0cb70a1745fae",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-05 11:16"
+      },
+      {
+        "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
+        "url": "https://www.sanyonews.jp/article/2015988?kw=8",
+        "source": "山陽新聞",
+        "published_at": "2026-11-05 17:00"
       }
     ]
   },
