@@ -8,9 +8,16 @@
     "summary": "・観光振興を目的に和歌山県が導入を目指す「宿泊税」について、県観光審議会は24日、「税額は一律200円とする」など宿泊税の制度設計案を踏まえた報告書を宮崎泉知事に提出した。\n・この日、知事への報告に先立ち、県観光審議会が和歌山市内のホテルで開かれ、制度設計案が報告された。\n・その後、同審議会会長の大浦由美・和歌山大観光学部長、同部会会長の赤井伸郎・大阪大大学院教授が県庁で、宮崎知事に制度設計案を踏まえた報告書を提出。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 17,
-    "is_featured": false
+    "importance_score": 32,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "和歌山県の宿泊税「一律200円」 県観光審議会が知事に報告書、令和10年度以降導入へ",
+        "url": "https://www.sankei.com/article/20261124-VRZ33GEZMFKCXABBOW32BO74EE/",
+        "source": "産経ニュース",
+        "published_at": "2026-11-24 21:40"
+      }
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -21,6 +28,8 @@
     "summary": "・カイロス4号機 来年1月22日 和歌山串本町から打ち上げへ",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 86,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "“4度目の正直”なるか 小型ロケット「カイロス」来年1月22日に打ち上げ挑戦 スペースワンが発表 和歌山・串本町",
@@ -52,9 +61,7 @@
         "source": "NHKニュース",
         "published_at": "2026-11-24 18:09"
       }
-    ],
-    "importance_score": 86,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -65,6 +72,8 @@
     "summary": "・和歌山県の雨雲レーダー(実況)25日04:40発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の雨雲レーダー(予報)",
@@ -72,9 +81,7 @@
         "source": "tenki.jp",
         "published_at": "2026-11-24 20:29"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -83,6 +90,19 @@
     "source": "和歌山経済新聞",
     "published_at": "2026-11-24 20:02",
     "summary": "・政府は２４日、経済財政諮問会議（議長・高市早苗首相）を開き、２０２７年度予算編成の基本方針を議論した＝首相官邸　【時事通信社】。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "importance_score": 3,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-24",
+    "title": "政府専門調査会が初会合",
+    "url": "https://wakayama.keizai.biz/gpnews/1779319/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-11-24 20:02",
+    "summary": "・政府は２４日、人工知能（ＡＩ）の社会実装に向け、規制改革について議論する専門調査会の初会合をデジタル庁で開いた。",
     "summary_type": "auto",
     "category": "観光・文化",
     "related_articles": [],
@@ -98,9 +118,16 @@
     "summary": "・日本で唯一の飛び地の村、和歌山県北山村では、村の特産品「じゃばら」の収穫が始まっています。\n・北山村特産のじゃばらは、酸味とほのかな苦みが特徴のかんきつで「邪を払う」が名前の由来とされ、お正月の縁起物としても知られています。\n・収穫されたじゃばらは、ポン酢やドレッシングに加工され、全国に出荷されます。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
+    "importance_score": 24,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "和歌山・北山村の特産「じゃばら」収穫始まる 「邪（じゃ）を払う」が由来の柑橘 ポン酢やドレッシングに",
+        "url": "https://news.ntv.co.jp/n/ytv/category/society/ytc7178a0774764b3792a75a50c449d7e9",
+        "source": "日テレNEWS NNN",
+        "published_at": "2026-11-24 18:54"
+      }
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -111,6 +138,8 @@
     "summary": "・和歌山県内の持続的な観光地域づくりの新たな財源として「宿泊税」の導入を検討してきた県の有識者会議の会合が、11月24日、和歌山市のホテル・アバローム紀の国で開かれ、和歌山県による宿泊税導入は「必要不可欠」とする結論を出し、宮﨑泉知事に報告書を提出しました。\n・県内の有識者や自治体、観光関連事業者などによる和歌山県観光審議会では、2026年3月から4回にわたって審議会を開催し、宿泊税導入を念頭に置いた新たな観光振興財源の検討を行ってきました。\n・まとめとなるこの日の会合では、人口減少と少子高齢化の急速な進行に加えて、観光関連業者の人手不足や観光の多様化、急速な気候変動の進行などによる県の観光資源の変容、それに、国際情勢や災害対応なども視野に入れた持続可能な観光を推進するために、県の宿泊税導入は「必要不可欠」であると結論づけました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 42,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山県観光審議会「宿泊税導入は必要不可欠」知事に報告",
@@ -124,9 +153,7 @@
         "source": "au Webポータル",
         "published_at": "2026-11-24 18:20"
       }
-    ],
-    "importance_score": 42,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -137,9 +164,9 @@
     "summary": "・（１１月２４日）新たな観光振興財源として県が導入に向けて検討を進めている宿泊税について、知事の附属機関である県観光審議会は今日、※宮崎知事に検討結果をまとめた報告書を提出しました。\n・県は、新たな観光振興財源として安定的で継続的な財源確保につながる宿泊税の導入に向けた検討を進めていて、検討部会は、今年３月から全４回にわたる会合で、税額を１人１泊につき一律２００円とする宿泊税の制度設計などを報告書としてまとめました。\n・県は、提出された報告書をもとに宿泊税の導入に向けた検討をさらに深めるとともに宿泊事業者らへの説明などを行い、令和１０年度以降の導入を目指すとしています。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -150,6 +177,8 @@
     "summary": "・民間ロケット来年１月発射 ４号機、和歌山・串本から",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 36,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "民間ロケット来年１月発射",
@@ -163,9 +192,7 @@
         "source": "Infoseek",
         "published_at": "2026-11-24 18:00"
       }
-    ],
-    "importance_score": 36,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -176,8 +203,21 @@
     "summary": "・「飛び地の村」から世界に通じる人材を！ 和歌山 北山村。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-24",
+    "title": "屋内型遊び場の必要性探る実証実験／和歌山・紀の川市",
+    "url": "https://article.auone.jp/3ed21d96-40b4-4b9e-99f2-86b2cadaa148",
+    "source": "au Webポータル",
+    "published_at": "2026-11-24 16:44",
+    "summary": "・屋内型遊び場の必要性探る実証実験／和歌山・紀の川市和歌山放送ニュース11/24 16:4411/24(火) 16:44 配信和歌山放送ニュース続きを読む（外部サイト）出典元: 和歌山放送ニュース。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 0,
     "is_featured": false
   },
   {
@@ -189,6 +229,8 @@
     "summary": "・和歌山県は、白浜町沖に設置していた表層型浮き魚礁１基が流出した可能性があると発表した。\n・付近を航行する船舶への注意を呼びかけている。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 39,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "県の浮き魚礁 流失か 船舶へ注意呼びかけ、和歌山県白浜沖",
@@ -202,9 +244,7 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-11-24 14:30"
       }
-    ],
-    "importance_score": 39,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -215,9 +255,9 @@
     "summary": "・２０１１年の紀伊半島大水害で甚大な被害を受けた和歌山県田辺市熊野（いや）地区で２２日、クマノザクラを植樹するイベントがあった。\n・水害から１５年の節目に、復興の祈りと未来への希望を込めながら苗木を一本一本丁寧に植えていった。\n・【復興のワイナリー誕生へ　亡き友への思い胸に、大水害受けた和歌山県田辺市熊野で の記事】　１１年９月４日、熊野地区では集落上手にある山腹で深層崩壊が発生。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 18,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -228,9 +268,9 @@
     "summary": "・和歌山マリーナシティ㈱（和歌山市毛見）を買収した霞ヶ関キャピタル㈱（東京都千代田区）の緒方秀和副社長ら同社一行が２１日、和歌山市を訪れ、世耕弘成衆院議員（和歌山２区）、尾﨑太郎市長らと共に和歌浦湾沿岸部の観光名所や未利用の元宿泊施設などを視察した。\n・霞ヶ関キャピタルはホテル事業や不動産開発を手がけ、８月に連結子会社を通じて和歌山マリーナシティ社の全株式を取得したと発表。\n・地元の方々、事業者、県・市とも協力して、エリア全体を盛り上げていけるような開発をしていきたい」と意欲を示した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -241,9 +281,9 @@
     "summary": "・和歌山県内の劇場で先行上映されている全編和歌山県内ロケの映画『つりこまち』。\n・今作で初めてメガホンをとった広部監督は「単なるアイドルの集合映画にはしたくなかった。\n・映画初主演の仲村さんは「真理萌の表情の変化を大切に演じたので、そこを見ていただきたい。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -254,9 +294,9 @@
     "summary": "・和歌山市の冬を彩る「KEYAKI Light Parade by FeStA LuCe（けやきライトパレード）」が、２１日に始まった。\n・ことしはギネスワールドレコーズの世界記録に挑戦し、ＬＥＤライト球数過去最多の１６０万９７００球が、「街路イルミネーションで使用されたＬＥＤライト球の最多数」のカテゴリーでギネス世界記録に認定された。\n・ギネスワールドレコーズ公式認定員が、イルミネーションの点灯状況などの確認を行い、その場でギネス世界記録挑戦・公式認定授与式が行われた。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -267,9 +307,9 @@
     "summary": "・岡山、広島両県を走るＪＲ芸備線の存廃を巡り、国、沿線自治体、鉄道事業者が話し合う全国初の「再構築協議会」で、国は２４日、一部区間のバス転換を盛り込んだ骨子案を提示した＝岡山市北区　【時事通信社】。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -280,9 +320,9 @@
     "summary": "・「南紀・白浜 海山のあいだに」。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -293,9 +333,9 @@
     "summary": "・三重、和歌山、鳥取、静岡で旅館・ホテルを運営するアンドリゾート株式会社（本社：三重県伊勢市 代表取締役：田中 雄一郎）は、和歌山県太地町に位置するプライベートヴィラのグランピング施設「グランオーシャンリュクス海熊野」にて、2026年12月1日（火）から、12月25日（金）のご宿泊を対象にしたクリスマスプラン「Twinkle Noël」を販売します。\n・2026年7月、グランオーシャンリュクス海熊野と花いろどりの宿 花游のガーデンに、常設のイルミネーションを新設しました。\n・アンドリゾート株式会社のプレスリリース（2026年11月24日 15時47分）愛犬とサンタ衣装で過ごす、グランピング。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -306,9 +346,9 @@
     "summary": "・日高川町の日高川交流センターで２２日、町文化協会（戸根一彦会長）主催の２０２６年度文化講演会が開かれ、同町出身で太陽系の起源や惑星研究を専門とする北海道大学名誉卓越教授の圦本尚義氏（６８）、元重工メーカーのエンジニアで宇宙ロケットのエンジン開発に携わった戸根重幸氏（６９）、串本古座高校宇宙探究コース専門教員の藤島徹氏（５９）の３人が登壇。\n・宇宙やロケットの専門家３人がそれぞれの分野から、いくつになっても夢をあきらめず挑戦することの大切さを語った（左から戸根氏、圦本氏、藤島氏）。\n・大成中、日高高で圦本氏と同級生だったロケットの専門家の戸根氏は、ＪＡＸＡと共同開発した次世代大型基幹ロケット「Ｈ３ロケット」の前身、ＨⅠ、ＨⅡロケットの第１段エンジンの設計や燃焼試験、１０台以上のロケット打ち上げに携わった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -319,9 +359,16 @@
     "summary": "・過去最高の５万人超　本年度上半期に南紀エリアのスポーツ合宿、和歌山。\n・新庄ＢＣが優勝　準優勝は上秋津・鮎川龍神、若鷲旗学童野球、和歌山。\n・韓国の少年野球チーム来日　地元選手と交流深める、和歌山県田辺。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 17,
-    "is_featured": false
+    "importance_score": 32,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "松坂大輔さん直球エール 上富田で野球少年に、和歌山",
+        "url": "https://www.agara.co.jp/photo_detail/716545?article_id=716545&pid=18596796",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-24 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -332,9 +379,9 @@
     "summary": "・印南町は２１日、初めてとなる町文化賞の表彰式を同町印南の町公民館で開いた。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -345,9 +392,9 @@
     "summary": "・BANYU4007 和歌山市 RC造 想定利回り24.43％。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -358,6 +405,8 @@
     "summary": "・「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現。",
     "summary_type": "auto",
     "category": "経済・産業",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現",
@@ -365,9 +414,7 @@
         "source": "Newscast.jp",
         "published_at": "2026-11-24 14:00"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -411,9 +458,9 @@
     "summary": "・今日から始まった「ＫＥＹＡＫＩ　ＬｉｇｈｔＰａｒａｄｅ　ｂｙ　ＦｅＳｔＡＬｕＣｅ」は、和歌山市の冬を彩るライトアップイベントで、今年で４年目を迎えました。\n・和歌山市の和歌山中央郵便局付近に設けられた特設会場では、今日午後５時３０分から点灯式が行われ、和歌山けやき大通りイルミネーション実行委員会の古澤良祐委員長が「この光は記録だけでなく和歌山の誇りであり、未来へ続く希望の光です」と挨拶しました。\n・すでに、日本最大のストリートイルミネーションでしたが、今年は、街路イルミネーションで使用されたＬＥＤライト球の最多数としてギネス世界記録にも挑戦し、見事、認定されました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -527,9 +574,9 @@
     "summary": "・特産ジャバラ収穫 和歌山の飛び地、北山村 「邪気を払う」縁起物 ｜朝刊・夕刊ニュース｜下野新聞デジタル。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",

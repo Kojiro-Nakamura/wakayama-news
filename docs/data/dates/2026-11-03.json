@@ -381,6 +381,8 @@
     "summary": "・ペーパードレスで3組の家族が晴れ姿 古座川町で撮影会 [和歌山県]。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 50,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "ペーパードレスで3組の家族が晴れ姿 古座川町で撮影会 [和歌山県]",
@@ -400,9 +402,7 @@
         "source": "朝日新聞",
         "published_at": "2026-11-03 10:45"
       }
-    ],
-    "importance_score": 50,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-03",

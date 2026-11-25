@@ -34,6 +34,8 @@
     "summary": "・通りはＬＥＤの華やかな光に包まれた＝２１日午後、和歌山市（安元雄太撮影）（株式会社 産経デジタル）。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 63,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "けやきライトパレード、「街路イルミネーションで使用されたLEDライト球の最多数」としてギネス世界記録™に認定！",
@@ -59,9 +61,7 @@
         "source": "産経ニュース",
         "published_at": "2026-11-21 19:40"
       }
-    ],
-    "importance_score": 63,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-21",
@@ -359,6 +359,8 @@
     "summary": "・※日最高気温・日最低気温・日最大風速は、アメダス10分値です。\n・高野山(コウヤサン)のアメダス(2026年11月21日)2026年11月21日。\n・高野山(和歌山県)のアメダスによる2026年11月21日の気温、降水量、風向・風速、日照時間、積雪深の観測情報を閲覧できます。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 39,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "高野山(和歌山県)の過去のアメダス(2026年11月20日)",
@@ -372,9 +374,7 @@
         "source": "tenki.jp",
         "published_at": "2026-11-21 00:29"
       }
-    ],
-    "importance_score": 39,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-21",

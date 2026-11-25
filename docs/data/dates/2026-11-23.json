@@ -53,6 +53,26 @@
   },
   {
     "article_date": "2026-11-23",
+    "title": "【和歌山県】11/24の天気予報",
+    "url": "https://www.fnn.jp/articles/-/1157685",
+    "source": "FNNプライムオンライン",
+    "published_at": "2026-11-23 19:30",
+    "summary": "・和歌山地方気象台が11月23日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・最高気温は、和歌山17℃、潮岬20℃でしょう。\n・各地の天気予報は以下の通りです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "【和歌山県】11/23の天気予報",
+        "url": "https://www.fnn.jp/articles/-/1157473",
+        "source": "FNNプライムオンライン",
+        "published_at": "2026-11-23 05:10"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-23",
     "title": "旅行者と地域の共生目指す 外国人にぎわう熊野古道",
     "url": "https://www.sanyonews.jp/article/2025824",
     "source": "山陽新聞",
@@ -169,9 +189,9 @@
     "summary": "・３連休初日の２１日、三重県尾鷲市では、熊野古道を歩くイベントが行われています。\n・世界遺産・熊野古道を歩きながら自然を満喫してもらおうと毎年行われているこのイベントには、全国から参加者が集まっています。\n・熊野古道センターを出発した参加者は、急な石畳に悪戦苦闘しながらも、秋の紀州路を満喫していました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 21,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-23",
@@ -208,7 +228,7 @@
     "summary": "・和歌山県は27日、埼玉県八潮市で令和7年1月に発生した道路陥没事故を受け、伊都浄化センター（和歌山県かつらぎ町）で実施中の下水道管路更生工事を県内市町村の職員に公開する。\n・八潮市の道路陥没事故で、国土交通省は昨年3月に下水道を管理する各自治体に重点調査を要請。\n・和歌山県によると、県内では8市町の計約24キロが対象となり、腐食や損傷など深刻度に応じて対策の緊急性を2段階で判定。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 36,
+    "importance_score": 51,
     "is_featured": true,
     "related_articles": [
       {
@@ -222,21 +242,14 @@
         "url": "https://www.sankei.com/article/20261123-H4PYJRYD6RKH7JBWWGNFWAE324/",
         "source": "産経ニュース",
         "published_at": "2026-11-23 08:00"
+      },
+      {
+        "title": "和歌山県、下水管掘らず直す更生工事を公開へ　道路陥没事故受け市町村の技術力向上狙う",
+        "url": "https://news.infoseek.co.jp/article/sankein__west_west_affairs_H4PYJRYD6RKH7JBWWGNFWAE324/",
+        "source": "Infoseek",
+        "published_at": "2026-11-23 08:00"
       }
     ]
-  },
-  {
-    "article_date": "2026-11-23",
-    "title": "【和歌山県】11/23の天気予報",
-    "url": "https://www.fnn.jp/articles/-/1157473",
-    "source": "FNNプライムオンライン",
-    "published_at": "2026-11-23 05:10",
-    "summary": "・和歌山地方気象台が11月23日午前5時に発表した、和歌山県内の最新のきょうの天気予報です。\n・最高気温は和歌山15℃、潮岬15℃でしょう。\n・各地の天気予報は以下の通りです。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
   },
   {
     "article_date": "2026-11-23",

@@ -550,6 +550,8 @@
     "summary": "・北山村の農園でジャバラの収穫始まる、酸味とほろ苦さの縁起もの [和歌山県]。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 35,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "北山村の農園でジャバラの収穫始まる、酸味とほろ苦さの縁起もの（朝日新聞）",
@@ -563,9 +565,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-11 10:45"
       }
-    ],
-    "importance_score": 35,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-11",
