@@ -191,6 +191,65 @@
   },
   {
     "article_date": "2026-11-22",
+    "title": "梅産地で収穫手助け、和歌山・みなべ町 交流通じて充足感も",
+    "url": "https://www.sanyonews.jp/photo/detail?article_id=1942327",
+    "source": "山陽新聞",
+    "published_at": "2026-11-22 17:00",
+    "summary": "・「梅収穫ワーケーション」の休憩中に農家の山本康雄さん（左）と談笑する山本幸司さんと妻の尚子さん＝和歌山県みなべ町。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-22",
+    "title": "看護師兼業でコーヒー農園、「特産品に」 和歌山県日高川町で開業",
+    "url": "https://www.sanyonews.jp/photo/detail?article_id=1885656&pid=5784336",
+    "source": "山陽新聞",
+    "published_at": "2026-11-22 17:00",
+    "summary": "・コーヒーの実を摘むミドファームの道仙信也さん＝和歌山県日高川町。",
+    "summary_type": "auto",
+    "category": "経済・産業",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-22",
+    "title": "クジラから高齢者の町へ 町中にベンチ、自動運転も 和歌山・太地町",
+    "url": "https://www.sanyonews.jp/article/1987767",
+    "source": "山陽新聞",
+    "published_at": "2026-11-22 17:00",
+    "summary": "・狭い道を走る自動運転カート＝４月、和歌山県太地町。\n・江戸時代から古式捕鯨で栄えた和歌山県太地町。\n・捕鯨が衰退して高齢化が進む中、町は住民の生活の質向上につなげようと、移動に便利な自動運転カートを導入するなど外出支援に取り組んでいる。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-22",
+    "title": "秋の紀州路を満喫 熊野古道を歩くイベント 三重・尾鷲市（2026年11月20日掲載）｜中京テレビNEWS NNN",
+    "url": "https://news.ntv.co.jp/n/ctv/category/life/ctc58350bc30cf47b3adf14158fdb25119",
+    "source": "日テレNEWS NNN",
+    "published_at": "2026-11-22 17:00",
+    "summary": "・３連休初日の２１日、三重県尾鷲市では、熊野古道を歩くイベントが行われています。\n・世界遺産・熊野古道を歩きながら自然を満喫してもらおうと毎年行われているこのイベントには、全国から参加者が集まっています。\n・熊野古道センターを出発した参加者は、急な石畳に悪戦苦闘しながらも、秋の紀州路を満喫していました。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫（CBCテレビ）",
+        "url": "https://news.yahoo.co.jp/articles/d414bbd59328a4e332d2fc3984496f399653c412",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-22 16:05"
+      }
+    ],
+    "importance_score": 36,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-22",
     "title": "世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫",
     "url": "https://newsdig.tbs.co.jp/articles/gallery/3104085",
     "source": "TBS NEWS DIG",
@@ -198,15 +257,9 @@
     "summary": "・世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 39,
+    "importance_score": 24,
     "is_featured": false,
     "related_articles": [
-      {
-        "title": "世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫（CBCテレビ）",
-        "url": "https://news.yahoo.co.jp/articles/d414bbd59328a4e332d2fc3984496f399653c412",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-11-22 16:05"
-      },
       {
         "title": "世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫",
         "url": "https://newsdig.tbs.co.jp/articles/cbc/3104085",

@@ -105,9 +105,9 @@
     "summary": "・政府は２４日、人工知能（ＡＩ）の社会実装に向け、規制改革について議論する専門調査会の初会合をデジタル庁で開いた。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -118,13 +118,19 @@
     "summary": "・日本で唯一の飛び地の村、和歌山県北山村では、村の特産品「じゃばら」の収穫が始まっています。\n・北山村特産のじゃばらは、酸味とほのかな苦みが特徴のかんきつで「邪を払う」が名前の由来とされ、お正月の縁起物としても知られています。\n・収穫されたじゃばらは、ポン酢やドレッシングに加工され、全国に出荷されます。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山・北山村の特産「じゃばら」収穫始まる 「邪（じゃ）を払う」が由来の柑橘 ポン酢やドレッシングに",
         "url": "https://news.ntv.co.jp/n/ytv/category/society/ytc7178a0774764b3792a75a50c449d7e9",
         "source": "日テレNEWS NNN",
+        "published_at": "2026-11-24 18:54"
+      },
+      {
+        "title": "和歌山・北山村の特産「じゃばら」収穫始まる　「邪（じゃ）を払う」が由来の柑橘　ポン酢やドレッシングに",
+        "url": "https://news.infoseek.co.jp/amp/article/ytv_2026112404949517/",
+        "source": "Infoseek",
         "published_at": "2026-11-24 18:54"
       }
     ]
@@ -216,9 +222,9 @@
     "summary": "・屋内型遊び場の必要性探る実証実験／和歌山・紀の川市和歌山放送ニュース11/24 16:4411/24(火) 16:44 配信和歌山放送ニュース続きを読む（外部サイト）出典元: 和歌山放送ニュース。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -255,9 +261,16 @@
     "summary": "・２０１１年の紀伊半島大水害で甚大な被害を受けた和歌山県田辺市熊野（いや）地区で２２日、クマノザクラを植樹するイベントがあった。\n・水害から１５年の節目に、復興の祈りと未来への希望を込めながら苗木を一本一本丁寧に植えていった。\n・【復興のワイナリー誕生へ　亡き友への思い胸に、大水害受けた和歌山県田辺市熊野で の記事】　１１年９月４日、熊野地区では集落上手にある山腹で深層崩壊が発生。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 18,
+    "importance_score": 33,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "復興のサクラに希望込め 大水害被災地に植樹、和歌山県田辺市熊野",
+        "url": "https://www.agara.co.jp/article/716538",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-24 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -405,13 +418,19 @@
     "summary": "・「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "importance_score": 15,
+    "importance_score": 30,
     "is_featured": false,
     "related_articles": [
       {
         "title": "「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現",
         "url": "https://newscast.jp/smart/news/1908678",
         "source": "Newscast.jp",
+        "published_at": "2026-11-24 14:00"
+      },
+      {
+        "title": "「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現",
+        "url": "https://www.atpress.ne.jp/news/1908678",
+        "source": "アットプレス",
         "published_at": "2026-11-24 14:00"
       }
     ]
