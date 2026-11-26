@@ -41,9 +41,16 @@
     "summary": "・和歌山市で「けやきライトパレード」 全長3.5キロにLED160万球点灯。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "importance_score": 3,
+    "importance_score": 18,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "和歌山市で「けやきライトパレード」 全長3.5キロにLED160万球点灯（みんなの経済新聞ネットワーク）",
+        "url": "https://news.yahoo.co.jp/articles/0bc2f3575ee679745b711ef8a8a53f630b47501a",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-25 23:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-25",
@@ -54,9 +61,9 @@
     "summary": "・韓国企業への就職を目指す日本人や、日本企業に関心がある韓国人を対象とした就職イベントが２５日、ソウルで開かれた。\n・日韓の若者ら約５００人、企業２２社が参加した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -80,9 +87,9 @@
     "summary": "・第５５回ベストドレッサー賞の発表・授賞式が２５日、東京都内で行われた。\n・和紙で制作された袖をあしらった衣装の篠原ともえさん（左から２人目）や歌手の氷川きよしさん（同３人目）らが受賞した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -139,9 +146,9 @@
     "summary": "・プロ野球の年間表彰式「ＮＰＢアワーズ」が２５日、東京都内で行われ、パ・リーグのＭＶＰはソフトバンクの栗原陵矢内野手（３０）が初めて受賞した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -158,49 +165,26 @@
   },
   {
     "article_date": "2026-11-25",
-    "title": "今冬もジビエ料理でおもてなし「わかやまジビエフェスタ」１２月１日開幕",
-    "url": "https://news.wbs.co.jp/222042",
-    "source": "WBS和歌山放送ニュース",
-    "published_at": "2026-11-25 19:06",
-    "summary": "・和歌山県内で獲れたシカ肉やイノシシ肉を使ったジビエ料理を飲食店などで味わえる「わかやまジビエフェスタ」が、この冬も来月（１２月）１日からスタートします。\n・今回は、県内８７店舗が参加し、１２月１日から２月２８日までの３か月にわたって、県内で狩猟されたシカやイノシシの肉・ジビエを材料に、ローストやハンバーグ、ソーセージ、ぼたん鍋など、和洋さまざまな肉料理として提供されます。\n・和歌山県畜産課では、参加店舗とジビエ料理をカラー写真で紹介する小型のパンフレットを作成し、県や関連する市町村、観光施設などで無料配布するほか、わかやまジビエフェスタの公式サイトや公式インスタグラムでも発信します。",
+    "title": "今冬もジビエ料理でおもてなし「わかやまジビエフェスタ」12月1日開幕（WBS和歌山放送ニュース）",
+    "url": "https://news.yahoo.co.jp/articles/60df4a7290b5fce20aa4310dd5f4a0680febf400",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-25 19:12",
+    "summary": "・和歌山県内で獲れたシカ肉やイノシシ肉を使ったジビエ料理を飲食店などで味わえる「わかやまジビエフェスタ」が、この冬も12月1日からスタートします。",
     "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 11,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-25",
-    "title": "和歌山県・６１億１１００万円増額の１２月補正予算案",
-    "url": "https://article.auone.jp/df33df48-111f-46de-a561-61c9d4c7198c",
-    "source": "au Webポータル",
-    "published_at": "2026-11-25 19:03",
-    "summary": "・和歌山県・６１億１１００万円増額の１２月補正予算案和歌山放送ニュース11/25 19:0311/25(水) 19:03 配信和歌山放送ニュース続きを読む（外部サイト）出典元: 和歌山放送ニュース。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 18,
-    "is_featured": false,
+    "category": "社会・事件",
     "related_articles": [
+      {
+        "title": "今冬もジビエ料理でおもてなし「わかやまジビエフェスタ」１２月１日開幕",
+        "url": "https://news.wbs.co.jp/222042",
+        "source": "WBS和歌山放送ニュース",
+        "published_at": "2026-11-25 19:06"
+      },
       {
         "title": "和歌山県・61億1100万円増額の12月補正予算案（WBS和歌山放送ニュース）",
         "url": "https://news.yahoo.co.jp/articles/30dc5aac3e7dc483478df2474bba06b663c0d982",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-25 17:03"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-25",
-    "title": "和歌山市と橋本市エリアで初の軽タクシー導入へ／和歌山",
-    "url": "https://portal.uqmobile.jp/detail/1/2/5/10485_5_r_20261125_1795601217794640",
-    "source": "UQライフ",
-    "published_at": "2026-11-25 19:03",
-    "summary": "・和歌山市と橋本市エリアで初の軽タクシー導入へ／和歌山。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "importance_score": 51,
-    "is_featured": false,
-    "related_articles": [
+      },
       {
         "title": "和歌山市と橋本市エリアで初の軽タクシー導入へ/和歌山県（WBS和歌山放送ニュース）",
         "url": "https://news.yahoo.co.jp/articles/fb5f2c96f6872ce84be5f0ec4952df399e952f7f",
@@ -212,7 +196,36 @@
         "url": "https://news.yahoo.co.jp/articles/fb5f2c96f6872ce84be5f0ec4952df399e952f7f/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-25 17:34"
-      },
+      }
+    ],
+    "importance_score": 60,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-25",
+    "title": "和歌山県・６１億１１００万円増額の１２月補正予算案",
+    "url": "https://article.auone.jp/df33df48-111f-46de-a561-61c9d4c7198c",
+    "source": "au Webポータル",
+    "published_at": "2026-11-25 19:03",
+    "summary": "・和歌山県・６１億１１００万円増額の１２月補正予算案和歌山放送ニュース11/25 19:0311/25(水) 19:03 配信和歌山放送ニュース続きを読む（外部サイト）出典元: 和歌山放送ニュース。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "importance_score": 3,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-25",
+    "title": "和歌山市と橋本市エリアで初の軽タクシー導入へ／和歌山",
+    "url": "https://portal.uqmobile.jp/detail/1/2/5/10485_5_r_20261125_1795601217794640",
+    "source": "UQライフ",
+    "published_at": "2026-11-25 19:03",
+    "summary": "・和歌山市と橋本市エリアで初の軽タクシー導入へ／和歌山。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "importance_score": 21,
+    "is_featured": false,
+    "related_articles": [
       {
         "title": "和歌山市域・橋本市域初の軽自動車タクシー導入！12月に式典開催",
         "url": "https://prtimes.jp/main/html/rd/p/000000110.000134574.html",
@@ -230,9 +243,9 @@
     "summary": "・三重の世界遺産で冬の花が見頃 熊野古道に咲く「アサマリンドウ」と鬼ヶ城の「キノクニシオギク」。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -302,9 +315,9 @@
     "summary": "・すさみ町多世代交流施設E'coraご視察（和歌山県すさみ町）。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -315,9 +328,9 @@
     "summary": "・２３日、スイス北部チューリヒ州の山間部で犬の散歩をする男性。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -355,7 +368,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 56,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "１月22日午後打ち上げ 小型ロケット「カイロス４号機」、和歌山・串本",
@@ -490,6 +503,8 @@
     "summary": "・商業を学ぶ和歌山県内の高校生による「第２９回生徒商業研究発表大会」が１１日に和歌山市であり、神島（田辺市文里２丁目）が１３連覇した。\n・【はまゆう祭で釣りゲーム　田辺ライオンズが神島屋と、和歌山の記事】　大会には３校４チームがエントリー。\n・神島高からは２年生の北紗会さん、徳田美宇さん、栗川茉紘さんの３人が出場した。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 30,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "神島高が13連覇 生徒商業研究発表、和歌山県大会",
@@ -497,9 +512,7 @@
         "source": "47NEWS",
         "published_at": "2026-11-25 14:30"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-25",
@@ -667,9 +680,9 @@
     "summary": "・伝統の踊り次世代へ　11月21日に市ノ瀬小で披露、和歌山県上富田。\n・秋祭りの芝居稽古に熱　田辺の杵荒神社と上富田の春日神社、和歌山。\n・和歌山県上富田町の市ノ瀬小学校は２１、２２日、同校創立１５０周年記念の催しを開いた。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -961,9 +974,9 @@
     "summary": "・和歌山県の雨雲レーダー(実況)26日12:15発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -1262,6 +1275,19 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-25",
+    "title": "和歌山で津波避難訓練 「逃げろ」列車から高台へ",
+    "url": "https://www.sanyonews.jp/article/2015988?kw=4",
+    "source": "山陽新聞",
+    "published_at": "2026-11-25 04:42",
+    "summary": "・津波避難訓練で、緊急停止した列車から高台を目指す小学生ら＝５日午前、和歌山県広川町。\n・「津波防災の日」の５日、マグニチュード（Ｍ）９・１の南海トラフ巨大地震を想定した列車からの津波避難訓練が和歌山県広川町のＪＲ紀勢線で行われた。\n・地元の小学生ら約３５０人が運転士の誘導で列車を降り、消防団員が「逃げろ」と声をかける中、高台の神社に走って向かった。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-25",
