@@ -320,6 +320,8 @@
     "summary": "・高野山の金剛峯寺に飛鷹・新座主が入山 「お大師様の誓願大切に」 [和歌山県]。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 53,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "高野山の金剛峯寺に飛鷹・新座主が入山 「お大師様の誓願大切に」（朝日新聞）",
@@ -339,9 +341,7 @@
         "source": "朝日新聞",
         "published_at": "2026-11-17 10:45"
       }
-    ],
-    "importance_score": 53,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-17",

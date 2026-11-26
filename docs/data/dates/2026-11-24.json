@@ -145,7 +145,7 @@
     "summary_type": "auto",
     "category": "観光・文化",
     "importance_score": 42,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県観光審議会「宿泊税導入は必要不可欠」知事に報告",
@@ -202,6 +202,38 @@
   },
   {
     "article_date": "2026-11-24",
+    "title": "県の浮き魚礁 流失か 船舶へ注意呼びかけ､和歌山県白浜沖",
+    "url": "https://www.agara.co.jp/article/715870",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-11-24 17:00",
+    "summary": "・カツオの漁獲予測へ　和歌山県水試がシステム開発中、浮き魚礁に探知機。\n・やり直し工事 費用負担へ　防潮ゲート、業者に誤データ提供、和歌山県白浜町。\n・和歌山県は、白浜町沖に設置していた表層型浮き魚礁１基が流出した可能性があると発表した。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "県の浮き魚礁 流失か 船舶へ注意呼びかけ､和歌山県白浜沖（紀伊民報）",
+        "url": "https://news.yahoo.co.jp/articles/7ea0c12aeb4b946d7be98847eb37d7e897623ef2",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-24 16:25"
+      },
+      {
+        "title": "県の浮き魚礁 流失か 船舶へ注意呼びかけ、和歌山県白浜沖",
+        "url": "https://www.47news.jp/15277846.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-24 14:30"
+      },
+      {
+        "title": "県の浮き魚礁 流失か　船舶へ注意呼びかけ､和歌山県白浜沖",
+        "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow715870?fm=latestnews",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-11-24 14:30"
+      }
+    ],
+    "importance_score": 62,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-24",
     "title": "「飛び地の村」から世界に通じる人材を！ 和歌山 北山村",
     "url": "https://news.web.nhk/newsweb/na/nd-20261120de78986",
     "source": "NHKニュース",
@@ -225,32 +257,6 @@
     "importance_score": 0,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-11-24",
-    "title": "県の浮き魚礁 流失か 船舶へ注意呼びかけ､和歌山県白浜沖（紀伊民報）",
-    "url": "https://news.yahoo.co.jp/articles/7ea0c12aeb4b946d7be98847eb37d7e897623ef2",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-24 16:25",
-    "summary": "・和歌山県は、白浜町沖に設置していた表層型浮き魚礁１基が流出した可能性があると発表した。\n・付近を航行する船舶への注意を呼びかけている。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 39,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "県の浮き魚礁 流失か 船舶へ注意呼びかけ、和歌山県白浜沖",
-        "url": "https://www.47news.jp/15277846.html",
-        "source": "47NEWS",
-        "published_at": "2026-11-24 14:30"
-      },
-      {
-        "title": "県の浮き魚礁 流失か　船舶へ注意呼びかけ､和歌山県白浜沖",
-        "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow715870?fm=latestnews",
-        "source": "ｄメニューニュース",
-        "published_at": "2026-11-24 14:30"
-      }
-    ]
   },
   {
     "article_date": "2026-11-24",

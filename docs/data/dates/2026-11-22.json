@@ -198,9 +198,9 @@
     "summary": "・「梅収穫ワーケーション」の休憩中に農家の山本康雄さん（左）と談笑する山本幸司さんと妻の尚子さん＝和歌山県みなべ町。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-22",
@@ -211,9 +211,9 @@
     "summary": "・コーヒーの実を摘むミドファームの道仙信也さん＝和歌山県日高川町。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-22",
@@ -224,9 +224,9 @@
     "summary": "・狭い道を走る自動運転カート＝４月、和歌山県太地町。\n・江戸時代から古式捕鯨で栄えた和歌山県太地町。\n・捕鯨が衰退して高齢化が進む中、町は住民の生活の質向上につなげようと、移動に便利な自動運転カートを導入するなど外出支援に取り組んでいる。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-22",
@@ -237,6 +237,8 @@
     "summary": "・３連休初日の２１日、三重県尾鷲市では、熊野古道を歩くイベントが行われています。\n・世界遺産・熊野古道を歩きながら自然を満喫してもらおうと毎年行われているこのイベントには、全国から参加者が集まっています。\n・熊野古道センターを出発した参加者は、急な石畳に悪戦苦闘しながらも、秋の紀州路を満喫していました。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 36,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫（CBCテレビ）",
@@ -244,8 +246,19 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-22 16:05"
       }
-    ],
-    "importance_score": 36,
+    ]
+  },
+  {
+    "article_date": "2026-11-22",
+    "title": "しぶき豪快、いかだ下りスタート 和歌山・北山村",
+    "url": "https://www.sanyonews.jp/article/1915590",
+    "source": "山陽新聞",
+    "published_at": "2026-11-22 17:00",
+    "summary": "・和歌山県北山村を流れる北山川で始まった「観光いかだ下り」＝３日午前。\n・紀伊半島山間部の和歌山県北山村で３日、丸太を組んだいかだに乗り、急流のスリルと山々の風景を楽しむ「観光いかだ下り」が始まった。\n・いかだ下りは１９７９年にスタート。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
     "is_featured": false
   },
   {
@@ -257,12 +270,18 @@
     "summary": "・世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": false,
     "related_articles": [
       {
         "title": "世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫",
         "url": "https://newsdig.tbs.co.jp/articles/cbc/3104085",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-22 15:43"
+      },
+      {
+        "title": "世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫",
+        "url": "https://newsdig.tbs.co.jp/articles/cbc/3104085?display=1",
         "source": "TBS NEWS DIG",
         "published_at": "2026-11-22 15:43"
       }
