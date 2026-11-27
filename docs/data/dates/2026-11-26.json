@@ -92,9 +92,9 @@
     "summary": "・ＳＶリーグ男子に所属し、和歌山市をホームタウンの一つとしている日本製鉄堺ブレイザーズと東京グレートベアーズの試合は今日、和歌山市の和歌山ビッグホエールで行われ、ブレイザーズはセットカウント２対３でグレートベアーズに惜しくも敗れました。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -118,6 +118,8 @@
     "summary": "・「冬限定の白良浜を…」海水浴場で砂の飛散を防ぐ防砂ネットの設置作業 冬の強風から砂浜を守る 和歌山・白浜町。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 93,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "「冬限定の白良浜を…」海水浴場で砂の飛散を防ぐ防砂ネットの設置作業 冬の強風から砂浜を守る 和歌山・白浜町",
@@ -155,9 +157,7 @@
         "source": "南日本新聞",
         "published_at": "2026-11-26 13:37"
       }
-    ],
-    "importance_score": 93,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -181,9 +181,9 @@
     "summary": "・和歌山市 1億7,000万円 10.73% 一棟マンション。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -207,13 +207,19 @@
     "summary": "・和歌山県の文化の向上や発展に顕著な功績のある個人や団体を表彰する、今年度（２０２６年度）の和歌山県文化表彰の受賞者が、きょう（１１月２６日）発表されました。\n・１９６４年度以来、今回で６３回目となる文化表彰では、文化の向上発展に顕著な業績を示し、県の誇りに値する人へ贈られる文化賞に、早稲田大学客員教授の宇恵誠(うえ・まこと)さん７０歳が選ばれました。\n・宇恵さんは「和歌山県の歴史と文化の一端につながる者として、受賞を大変感慨深く受け止めています」とコメントしています。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "importance_score": 29,
+    "importance_score": 44,
     "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県文化表彰の受賞者発表",
         "url": "https://article.auone.jp/2b6deef8-640b-4e8d-9fb2-75c1b1d3011b",
         "source": "au Webポータル",
+        "published_at": "2026-11-26 18:02"
+      },
+      {
+        "title": "和歌山県文化表彰の受賞者発表",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1wdzNKMXRUc3VfMElwUlBUNlBOYjR2QmRjLW40WFBDTXJYdWNSNW9qdnpEX0dJQ1FKX0RhaENlU2xzTU0?oc=5",
+        "source": "WBS和歌山放送ニュース",
         "published_at": "2026-11-26 18:02"
       }
     ]
@@ -253,9 +259,16 @@
     "summary": "・雪景色の大台ヶ原へ。奈良県上北山村で登録ガイドと歩く1泊2日の冬山ツアー。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 0,
+    "importance_score": 15,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "雪景色の大台ヶ原へ。奈良県上北山村で登録ガイドと歩く1泊2日の冬山ツアー",
+        "url": "https://www.nara-np.co.jp/prtimes/prtc142065_r676.html",
+        "source": "奈良新聞",
+        "published_at": "2026-11-26 14:13"
+      }
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -338,6 +351,8 @@
     "summary": "・津波発生時に列車から素早く乗客を避難させるため、ＪＲ西日本と東日本の運転士ら計約２０人が２５日、和歌山県田辺市宝来町で、避難用はしごの設置訓練をした。\n・【列車飛び降り、逃げろ！／ＪＲとみなべ町／全中学生が避難訓練の記事】　紀伊田辺駅（田辺市湊）の運転士が所属する紀伊田辺運転区と、ＪＲ東日本湘南伊豆事業本部（神奈川県小田原市）の主催。\n・南海トラフ地震が発生した際、いずれも想定される津波到達時間が３分のエリアを抱えていることから合同で訓練をした。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "乗客を津波から守れ ＪＲ西・東がはしご設置訓練、和歌山・田辺",
@@ -345,9 +360,7 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-11-26 14:30"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -358,6 +371,8 @@
     "summary": "・和歌山県田辺市、上富田町、白浜町、すさみ町、みなべ町の議会議員研修会が１０月３０日、みなべ町であった。\n・日本公共経営研究所代表で元大阪府寝屋川市議会議長の宮本正一さんが「これからの地方議員に必要なこと」と題して講演した。\n・【クビアカ梅被害で意見交換　小林・自民政調会長が現地視察で危機感、和歌山の記事】　研修会は「田辺市及び周辺町議会正副議長会」が主催。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 42,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "地方議員には何が必要か ５市町の議員が研修会、和歌山紀南",
@@ -371,9 +386,7 @@
         "source": "AGARA 紀伊民報",
         "published_at": "2026-11-26 14:30"
       }
-    ],
-    "importance_score": 42,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -462,9 +475,16 @@
     "summary": "・120人 元気にラジオ体操　主催者「継続イベントに」、ＪＲ白浜駅前、和歌山。\n・白浜駅前をにぎやかに　活性化へ協議会発足、和歌山。\n・28日にエキストラ商店街　田辺の湊本通り、和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 17,
+    "importance_score": 32,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "「朝市」と同時開催 12月５日に白浜駅前でラジオ体操、和歌山",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83amRXakVtenQwaEs5TVNkMjV5b09xTFpsZEJRbGVaaWZHWjNSZFdnbjJOam1NeGdVbEl1YlYyN2dWbHhsdEk0SUVGcFJYT1E?oc=5",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-26 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -508,9 +528,16 @@
     "summary": "・すさみ町周参見小／釣りで海の豊かさ学ぶ／日本釣振興会が協力。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 5,
+    "importance_score": 20,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "すさみ町周参見小／釣りで海の豊かさ学ぶ／日本釣振興会が協力",
+        "url": "https://www.agara.co.jp/article/717696",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-26 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -521,8 +548,21 @@
     "summary": "・和歌山県観光審議会（会長＝大浦由美・和歌山大学観光学部長）は２４日、新たな県の観光振興財源として「宿泊税導入は必要不可欠」だとする報告書を宮﨑泉知事に提出した。\n・宮﨑知事は「素晴らしい報告書を頂いた。\n・和歌山県南部のニュースをお届けします。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "和歌山・広川「稲むらの火祭り」 防災意識、たいまつで継承",
+    "url": "https://www.sanyonews.jp/article/2010127?kw=%EF%BC%91",
+    "source": "山陽新聞",
+    "published_at": "2026-11-26 13:50",
+    "summary": "・「稲むらの火祭り」で、たいまつを手に歩く町民ら＝２４日夜、和歌山県広川町。\n・和歌山県広川町で２４日、江戸時代に起きた安政南海地震（１８５４年）の際に闇夜の中で稲わらに火をともして村人を高台に導き、津波から住民を救った実業家浜口梧陵の故事を今に伝える「稲むらの火祭り」が開かれた。\n・防災意識の継承が目的で、町民ら約３７０人が参加。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 6,
     "is_featured": false
   },
   {
@@ -618,9 +658,16 @@
     "summary": "・秋の深まりとともに旬を迎えるのがカワハギ釣り。\n・おなじみ人気インスタグラマー、フッチーこと渕上万莉さんが、〝にっしゃん〟こと西田直恵さんとともに和歌山・湯浅町の栖原港から出船する「かるも丸」（佐藤友則船長）に乗船。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 3,
+    "importance_score": 18,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "和歌山・湯浅町　フッチー、カワハギ攻略！　キモは「フグ対策」／関西フィッシング",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oVXlXU2Ftdi1IZnN0aGNQekRrel9MOFpjRmVjVmdoZWFvNnJfODQzWnR5cVlFRmk2QTJwcXZfZGNWaWJsdzVxZldTRHUtZFk3WE1lTFg0eVBIb0tEZFVPQ2NlcVlVYVRtUUtNVmVnLS14RDNvZ3fSAYoBQVVfeXFMT3BHcjVueFd0TGJWNy1DbEt1c0l5Q1VwWnI2STBTSk1aN3pDNS1tNjJtdDdvSVk2NC1UbWJuRzF6dGtYTVVReDY5Zmwwd0VfSEJJanVPa2FZanNTZ3JUcTRNdnpBRjRqVlZtRF9JWUFvSThsRU1ZNkRZUlltSzVWcFdZdFZ1bV9zOVdR?oc=5",
+        "source": "サンスポ",
+        "published_at": "2026-11-26 12:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -631,9 +678,9 @@
     "summary": "・和歌山県立近代美術館では2027年2月28日（日）まで、駅周辺等のイルミネーションと連動したイベントを実施します！期間中の全10日は夜間特別開館やナイトマーケット、音楽イベントも開催します。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -660,6 +707,19 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "子どもたちの新たな門出を笑顔に！和歌山県新宮市、クラウドファンディング型ふるさと納税で「子育て応援入学等準備支援給付金」の寄附募集を開始",
+    "url": "https://newscast.jp/smart/news/4602037",
+    "source": "Newscast.jp",
+    "published_at": "2026-11-26 10:27",
+    "summary": "・和歌山県新宮市は、物価高騰などの影響を強く受ける子育て世帯を支援するため、小学校、中学校、高等学校等への入学を控える年代の子どもをもつ世帯に対して、子ども1人あたり5万円を支給する「新宮市子育て応援入学等準備支援給付金」事業に取り組んでいます。\n・寄附金の使途：「新宮市子育て応援入学等準備支援給付金」の支給事業に活用させていただきます。\n・子育て世帯の入学準備を支援する新宮市の給付金事業（子ども1人5万円）を、クラウドファンディング型ふるさと納税で支えるプロジェクトです。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-26",
@@ -729,6 +789,8 @@
     "summary": "・和歌山県の雨雲レーダー(実況)27日12:20発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県の雨雲レーダー(予報)",
@@ -736,9 +798,7 @@
         "source": "tenki.jp",
         "published_at": "2026-11-26 03:37"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-26",

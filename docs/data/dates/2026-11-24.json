@@ -247,9 +247,16 @@
     "summary": "・「飛び地の村」から世界に通じる人材を！ 和歌山 北山村。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "importance_score": 5,
+    "importance_score": 20,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "「飛び地の村」から世界に通じる人材を！ 和歌山 北山村",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91bHAyV0NLU25WUm1GRTZhUXNMY2JfemFKejJweU9GNk9fOWhGeVI1UlNoLVJoZW1pRk5qOFJnRWJhS05fc2ctdUIweV9rWl9vcnd5dklxMWhXNkpTUjZn?oc=5",
+        "source": "NHKニュース",
+        "published_at": "2026-11-24 16:50"
+      }
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -361,6 +368,26 @@
     "importance_score": 12,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-24",
+    "title": "【橋本市水道】「利き水チャレンジ」を実施しました！（おもしろ環境まつり 2026）",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSU9Sal9ZWnlWWWhJaW1Wa1N2aFgwUUExenYtcG5nSDFVNzdMc2xnQ1Z1V28zMk5Zc1VEVkwxeTdld2FxanJLUWNVcjdhSlIzQU0tR3BCaVhNQVpUWVpYWUJ3YkszSFA3aGZrNWdPbkpWWE85b29qTndQTEtJWkhhOHo0ZUVjTFhYZE5n?oc=5",
+    "source": "橋本市",
+    "published_at": "2026-11-24 15:12",
+    "summary": "・【橋本市水道】「利き水チャレンジ」を実施しました！（おもしろ環境まつり 2026）。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "【橋本市水道】「利き水チャレンジ」を実施しました！（おもしろ環境まつり 2026）",
+        "url": "https://www.city.hashimoto.lg.jp/guide/jougesuidoubu/suidokeiei/oshirase/23736.html",
+        "source": "橋本市",
+        "published_at": "2026-11-24 09:51"
+      }
+    ],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-24",
@@ -567,19 +594,6 @@
     "summary_type": "auto",
     "category": "政治・行政",
     "importance_score": 14,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-24",
-    "title": "【橋本市水道】「利き水チャレンジ」を実施しました！（おもしろ環境まつり 2026）",
-    "url": "https://www.city.hashimoto.lg.jp/guide/jougesuidoubu/suidokeiei/oshirase/23736.html",
-    "source": "橋本市",
-    "published_at": "2026-11-24 09:51",
-    "summary": "・令和8年11月14日（土）に海南市で開催された「おもしろ環境まつり 2026」に、橋本市水道事業としてブースを出展し「利き水チャレンジ」を実施しました！\n・利き水チャレンジとは、「はしもとの水」を含めた３種類の水を名前を伏せて試飲してもらい、どれか”一番美味しかったか”を選んでいただくというものです。\n・橋本市 上下水道部 水道経営課〒648-0072和歌山県橋本市東家一丁目1番19号電話：0736-33-2860　ファクス：0736-32-8688問い合わせフォーム。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "importance_score": 6,
     "is_featured": false,
     "related_articles": []
   },

@@ -527,9 +527,16 @@
     "summary": "・がんばってます／みなべ町うめ課／湯川 輝〈ゆかわ ひかる〉さん（３０）。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 5,
+    "importance_score": 20,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "がんばってます／みなべ町うめ課／湯川 輝〈ゆかわ ひかる〉さん（３０）",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90dmtqcUhYc04ydlhKRV9ENjNEYXFQa29HV0NQS3JMVUNkLWZROFdMMm03ZHpBa3F6eVluekpjc1d2RnNBZWFuSjh1bUs2QUk?oc=5",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-06 17:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-06",
