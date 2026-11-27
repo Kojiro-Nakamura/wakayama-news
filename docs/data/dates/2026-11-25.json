@@ -172,6 +172,8 @@
     "summary": "・和歌山県内で獲れたシカ肉やイノシシ肉を使ったジビエ料理を飲食店などで味わえる「わかやまジビエフェスタ」が、この冬も12月1日からスタートします。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 60,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "今冬もジビエ料理でおもてなし「わかやまジビエフェスタ」１２月１日開幕",
@@ -197,9 +199,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-25 17:34"
       }
-    ],
-    "importance_score": 60,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-25",
@@ -654,9 +654,16 @@
     "summary": "・串本漁港の水揚げ（１１月２４日）。\n・特選４回目　「殿堂入り」／岩谷の「紀州　梅真鯛梅」／串本　秘書が選ぶ手土産。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 14,
+    "importance_score": 29,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "ロケット生かそう／串本 関連商品展示や商談",
+        "url": "https://www.agara.co.jp/article/717054",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-25 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-11-25",
@@ -1285,9 +1292,9 @@
     "summary": "・津波避難訓練で、緊急停止した列車から高台を目指す小学生ら＝５日午前、和歌山県広川町。\n・「津波防災の日」の５日、マグニチュード（Ｍ）９・１の南海トラフ巨大地震を想定した列車からの津波避難訓練が和歌山県広川町のＪＲ紀勢線で行われた。\n・地元の小学生ら約３５０人が運転士の誘導で列車を降り、消防団員が「逃げろ」と声をかける中、高台の神社に走って向かった。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",

@@ -8,9 +8,9 @@
     "summary": "・「シナボン」が近鉄百貨店 和歌山店へやってくる！2026年12月2日（水）から12月8日（火）まで出張販売を開催します。\n・JR九州ファーストフーズ株式会社（所在地:福岡県福岡市、代表取締役社長:村上悟郎）は、近鉄百貨店和歌山店でシナモンロール専門店「シナボン」の臨時出張販売を開催します。\n・今回の和歌山出張販売では、定番の「シナボンクラシック」「ミニボンクラシック」に加え、人気の「ミニモカチーノボン」や「キャラメルピーカンボン」をご用意しております。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -21,6 +21,8 @@
     "summary": "・株式会社リシンクス、和歌山県すさみ町の野外フェス「GOAT -INAZUMI Terrace 2026」に協賛。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 45,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "株式会社リシンクス、和歌山県すさみ町の野外フェス「GOAT -INAZUMI Terrace 2026」に協賛",
@@ -40,9 +42,7 @@
         "source": "PR TIMES",
         "published_at": "2026-11-26 11:00"
       }
-    ],
-    "importance_score": 45,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -53,9 +53,9 @@
     "summary": "・和歌山県警によると、１１月２６日午後１時３０分頃、有田川町粟生で、クマが出没しました。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -66,9 +66,9 @@
     "summary": "・高市早苗首相は２６日、太平洋島しょ国マーシャル諸島のハイネ大統領と首相官邸で会談し、両国の連携深化をうたった初の首脳共同声明を発表した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -79,8 +79,21 @@
     "summary": "・串本の海に、ひと足早くクリスマスがやってきました。\n・白良浜に「防砂ネット」設置　冬の強風による砂の飛散防ぐ　和歌山・白浜町　和歌山県串本町沖で、毎年恒例となっているクリスマスツリーの海中設置作業。\n・ツリーは水深１７メートルの海底に固定され、色とりどりの電球でライトアップされました。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 12,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "ブレイザーズ 惜敗",
+    "url": "https://www.tv-wakayama.co.jp/news/detail.php?id=89091",
+    "source": "テレビ和歌山",
+    "published_at": "2026-11-26 21:55",
+    "summary": "・ＳＶリーグ男子に所属し、和歌山市をホームタウンの一つとしている日本製鉄堺ブレイザーズと東京グレートベアーズの試合は今日、和歌山市の和歌山ビッグホエールで行われ、ブレイザーズはセットカウント２対３でグレートベアーズに惜しくも敗れました。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 3,
     "is_featured": false
   },
   {
@@ -92,46 +105,26 @@
     "summary": "・和歌山県警によると、１１月２６日午後４時３０分頃、和歌山市友田町３丁目の公園で、女子中学生への盗撮が発生しました。\n・■現場付近の施設・和歌山駅［ＪＲ・和歌山電鐵］、和歌山市立城東中学校。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-26",
-    "title": "昭和天皇記念館がリニューアル",
-    "url": "https://wakayama.keizai.biz/gpnews/1779378/",
-    "source": "和歌山経済新聞",
-    "published_at": "2026-11-26 20:03",
-    "summary": "・国営昭和記念公園内にある昭和天皇記念館（東京都立川市）の改修工事が終わり、２６日に報道向け内覧会が開かれた。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 0,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-26",
-    "title": "高校生が防災を学ぶ 和歌山 かつらぎ町",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81644",
-    "source": "NHKニュース",
-    "published_at": "2026-11-26 19:32",
-    "summary": "・高校生が防災を学ぶ 和歌山 かつらぎ町。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
     "title": "「冬限定の白良浜を…」海水浴場で砂の飛散を防ぐ防砂ネットの設置作業 冬の強風から砂浜を守る 和歌山・白浜町",
-    "url": "https://news.ntv.co.jp/n/ytv/category/society/yt29b9fa4420894ae3bce41fed44ec73c5",
-    "source": "日テレNEWS NNN",
-    "published_at": "2026-11-26 18:52",
-    "summary": "・和歌山県白浜町の海水浴場では、冬の季節風による砂の飛散を防ぐ防砂ネットの設置作業が行われました。\n・白浜町にある白良浜海水浴場は、約620メートルにわたり白い砂浜が続いています。\n・白浜町観光課 中松雅莉 主事　「冬の風物詩になっているので、冬限定の白良浜を見に来ていただけたらなと思っています」　白浜に冬の訪れを告げるこの防砂ネットは、来年（2027年）3月中旬まで設置されます。",
+    "url": "https://tver.jp/episodes/ep2rgkh2hv",
+    "source": "TVer",
+    "published_at": "2026-11-26 20:05",
+    "summary": "・「冬限定の白良浜を…」海水浴場で砂の飛散を防ぐ防砂ネットの設置作業 冬の強風から砂浜を守る 和歌山・白浜町。",
     "summary_type": "auto",
     "category": "観光・文化",
     "related_articles": [
+      {
+        "title": "「冬限定の白良浜を…」海水浴場で砂の飛散を防ぐ防砂ネットの設置作業 冬の強風から砂浜を守る 和歌山・白浜町",
+        "url": "https://news.ntv.co.jp/n/ytv/category/society/yt29b9fa4420894ae3bce41fed44ec73c5",
+        "source": "日テレNEWS NNN",
+        "published_at": "2026-11-26 18:52"
+      },
       {
         "title": "白浜町の冬支度、砂浜に防砂ネット設置／和歌山",
         "url": "https://news.wbs.co.jp/222060",
@@ -163,8 +156,47 @@
         "published_at": "2026-11-26 13:37"
       }
     ],
-    "importance_score": 84,
+    "importance_score": 93,
     "is_featured": true
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "昭和天皇記念館がリニューアル",
+    "url": "https://wakayama.keizai.biz/gpnews/1779378/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-11-26 20:03",
+    "summary": "・国営昭和記念公園内にある昭和天皇記念館（東京都立川市）の改修工事が終わり、２６日に報道向け内覧会が開かれた。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "importance_score": 0,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "和歌山市 1億7,000万円 10.73% 一棟マンション",
+    "url": "https://www.kenbiya.com/pp3/k/wakayama/wakayama-shi/re_48616258un/",
+    "source": "健美家",
+    "published_at": "2026-11-26 19:59",
+    "summary": "・和歌山市 1億7,000万円 10.73% 一棟マンション。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "高校生が防災を学ぶ 和歌山 かつらぎ町",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81644",
+    "source": "NHKニュース",
+    "published_at": "2026-11-26 19:32",
+    "summary": "・高校生が防災を学ぶ 和歌山 かつらぎ町。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "importance_score": 5,
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -175,6 +207,8 @@
     "summary": "・和歌山県の文化の向上や発展に顕著な功績のある個人や団体を表彰する、今年度（２０２６年度）の和歌山県文化表彰の受賞者が、きょう（１１月２６日）発表されました。\n・１９６４年度以来、今回で６３回目となる文化表彰では、文化の向上発展に顕著な業績を示し、県の誇りに値する人へ贈られる文化賞に、早稲田大学客員教授の宇恵誠(うえ・まこと)さん７０歳が選ばれました。\n・宇恵さんは「和歌山県の歴史と文化の一端につながる者として、受賞を大変感慨深く受け止めています」とコメントしています。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 29,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県文化表彰の受賞者発表",
@@ -182,9 +216,7 @@
         "source": "au Webポータル",
         "published_at": "2026-11-26 18:02"
       }
-    ],
-    "importance_score": 29,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -195,9 +227,9 @@
     "summary": "・警視庁戸塚署は２６日、ＩＳＩキャリア外語アカデミー高田馬場校で防犯ボランティアの発足式を実施。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -208,9 +240,9 @@
     "summary": "・「いい風呂の日」湯浅町の温泉施設は定休日に特別営業 和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -221,9 +253,9 @@
     "summary": "・雪景色の大台ヶ原へ。奈良県上北山村で登録ガイドと歩く1泊2日の冬山ツアー。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -234,6 +266,8 @@
     "summary": "・冬の風物詩「仙人風呂」１２月１日オープン／和歌山・田辺市和歌山放送ニュース11/26 17:2711/26(木) 17:27 配信和歌山放送ニュース続きを読む（外部サイト）出典元: 和歌山放送ニュース。",
     "summary_type": "auto",
     "category": "経済・産業",
+    "importance_score": 33,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "冬の風物詩「仙人風呂」１２月１日オープン／和歌山・田辺市",
@@ -247,9 +281,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-26 17:18"
       }
-    ],
-    "importance_score": 33,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -260,6 +292,8 @@
     "summary": "・和歌山市の６０代男性、８００万円以上詐欺被害和歌山放送ニュース11/26 17:1911/26(木) 17:19 配信和歌山放送ニュース続きを読む（外部サイト）出典元: 和歌山放送ニュース。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山市の５０代男性、１３０万円近く詐欺被害",
@@ -267,9 +301,7 @@
         "source": "au Webポータル",
         "published_at": "2026-11-26 17:15"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -280,9 +312,9 @@
     "summary": "・和歌山県の文化の向上や発展に顕著な功績のある個人や団体を表彰する、2026年度の和歌山県文化表彰の受賞者が発表されました。\n・1964年度以来、今回で63回目となる文化表彰では、文化の向上発展に顕著な業績を示し、県の誇りに値する人へ贈られる文化賞に、早稲田大学客員教授の宇恵誠(うえ・まこと)さん(70)が選ばれました。\n・表彰式は2027年1月14日の午後2時に、和歌山県庁の正庁で行われます。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -293,8 +325,54 @@
     "summary": "・クリスマスを前に、本場フィンランドの財団公認のサンタクロースが２６日、成田空港に到着した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 0,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "乗客を津波から守れ ＪＲ西・東がはしご設置訓練、和歌山・田辺（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/31a19c0c8ed54b0cfbaaf3c5c191ee3e7200237c",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-26 16:25",
+    "summary": "・津波発生時に列車から素早く乗客を避難させるため、ＪＲ西日本と東日本の運転士ら計約２０人が２５日、和歌山県田辺市宝来町で、避難用はしごの設置訓練をした。\n・【列車飛び降り、逃げろ！／ＪＲとみなべ町／全中学生が避難訓練の記事】　紀伊田辺駅（田辺市湊）の運転士が所属する紀伊田辺運転区と、ＪＲ東日本湘南伊豆事業本部（神奈川県小田原市）の主催。\n・南海トラフ地震が発生した際、いずれも想定される津波到達時間が３分のエリアを抱えていることから合同で訓練をした。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "乗客を津波から守れ ＪＲ西・東がはしご設置訓練、和歌山・田辺",
+        "url": "https://www.agara.co.jp/article/717826",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-26 14:30"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "地方議員には何が必要か ５市町の議員が研修会、和歌山紀南（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/9b65a1c1cd63bde0fd3fcc553865e6d322eda0dc",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-26 16:25",
+    "summary": "・和歌山県田辺市、上富田町、白浜町、すさみ町、みなべ町の議会議員研修会が１０月３０日、みなべ町であった。\n・日本公共経営研究所代表で元大阪府寝屋川市議会議長の宮本正一さんが「これからの地方議員に必要なこと」と題して講演した。\n・【クビアカ梅被害で意見交換　小林・自民政調会長が現地視察で危機感、和歌山の記事】　研修会は「田辺市及び周辺町議会正副議長会」が主催。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "地方議員には何が必要か ５市町の議員が研修会、和歌山紀南",
+        "url": "https://www.47news.jp/15289669.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-26 14:30"
+      },
+      {
+        "title": "地方議員には何が必要か ５市町の議員が研修会、和歌山紀南",
+        "url": "https://www.agara.co.jp/article/717142",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-26 14:30"
+      }
+    ],
+    "importance_score": 42,
     "is_featured": false
   },
   {
@@ -306,9 +384,9 @@
     "summary": "・１９４３（昭和１８）年の創業以来、和歌山県広川町で学校用家具を作り続けている松屋電工㈱。\n・東亜燃料工業（現ＥＮＥＯＳ）和歌山工場の協力工場として創業し、１９４５年の終戦後に家具の製造・販売を開始。\n・国内４カ所の工場（広川町、日高川町、有田市、静岡県）に加え、９６年にはインドネシアにも現地法人・工場を設立。",
     "summary_type": "auto",
     "category": "経済・産業",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -319,9 +397,9 @@
     "summary": "・和歌山県観光審議会（会長＝大浦由美和歌山大学観光学部長）が１人１泊２００円の「宿泊税」の導入を提案する報告書を県に提出したことを受け、宮﨑泉知事は２６日の定例記者会見で「観光立県の実現を目標にしている県として、新たな原資になる宿泊税は非常に大事だ。\n・県内を訪れる観光客が増加する中、宿泊業をはじめ観光関連産業の人手不足、多様化する観光への対応、二次交通などの対策が課題となっており、同審議会は３月から４回にわたり、新たな観光振興の財源について検討し、宿泊税の制度案をまとめ、今月２４日に宮﨑知事に報告書を提出した。\n・『導入して良かった』と皆さんに喜ばれる宿泊税にしていきたい」と話した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -332,9 +410,9 @@
     "summary": "・フラメンコの祭典「２０２６～フラメンコフィエスタVol.V～」が１２月１２日午後５時から、和歌山市の県民文化会館小ホールで開かれる。\n・第２部の記念公演では、ゲストアーティストを迎え、今も語り継がれる「忠臣蔵」の「赤穂浪士の討ち入り」をフラメンコでつづる。\n・フラメンコと見事に融合する「忠臣蔵」の世界が舞台に広がる。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -345,29 +423,9 @@
     "summary": "・関西リーグ昇格目指す／社会人サッカー／南紀オレンジサンライズＦＣ。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-26",
-    "title": "地方議員には何が必要か ５市町の議員が研修会、和歌山紀南",
-    "url": "https://www.47news.jp/15289669.html",
-    "source": "47NEWS",
-    "published_at": "2026-11-26 14:30",
-    "summary": "・和歌山県田辺市、上富田町、白浜町、すさみ町、みなべ町の議会議員研修会が１０月３０日、みなべ町であった。\n・和歌山県南部のニュースをお届けします。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "related_articles": [
-      {
-        "title": "地方議員には何が必要か ５市町の議員が研修会、和歌山紀南",
-        "url": "https://www.agara.co.jp/article/717142",
-        "source": "AGARA 紀伊民報",
-        "published_at": "2026-11-26 14:30"
-      }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -378,9 +436,9 @@
     "summary": "・首長日程（１１月２７日）田辺市、白浜町、上富田町。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -391,9 +449,9 @@
     "summary": "・田辺署と白浜署は、交通安全功労者や優良運転者の表彰式を開き、各署長らが対象者に表彰状を手渡した。\n・売上金５５３万円横領疑い／白浜署、男を逮捕。\n・乗客を津波から守れ　ＪＲ西・東がはしご設置訓練、和歌山・田辺。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 20,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -404,9 +462,9 @@
     "summary": "・120人 元気にラジオ体操　主催者「継続イベントに」、ＪＲ白浜駅前、和歌山。\n・白浜駅前をにぎやかに　活性化へ協議会発足、和歌山。\n・28日にエキストラ商店街　田辺の湊本通り、和歌山。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 17,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -417,22 +475,9 @@
     "summary": "・自転車乗れたよ　楽しみながらルール学ぶ、和歌山・周参見保育所。\n・田二小１年生と交流／立正幼稚園の年長児。\n・年長児が「火の用心」／田辺の立正幼稚園／防火啓発パレード。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 14,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-26",
-    "title": "乗客を津波から守れ ＪＲ西・東がはしご設置訓練、和歌山・田辺",
-    "url": "https://www.agara.co.jp/article/717826",
-    "source": "AGARA 紀伊民報",
-    "published_at": "2026-11-26 14:30",
-    "summary": "・率先避難者になって／田辺駅で津波訓練／ＪＲ西日本。\n・列車から避難体験　和歌山県串本―新宮間で鉄道防災「鉄學」。\n・テロから乗客守れ　万博控え　警察、消防、駅が合同訓練、和歌山県田辺署。",
-    "summary_type": "auto",
-    "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 20,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -443,9 +488,16 @@
     "summary": "・グランプリに草分さん／みなべ町の「海―１」。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 5,
-    "is_featured": false
+    "importance_score": 20,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "グランプリに草分さん／みなべ町の「海―１」",
+        "url": "https://www.agara.co.jp/article/717708",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-26 14:30"
+      }
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -456,8 +508,21 @@
     "summary": "・すさみ町周参見小／釣りで海の豊かさ学ぶ／日本釣振興会が協力。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "「観光振興財源に宿泊税」 審議会が報告書、和歌山県が検討へ",
+    "url": "https://www.47news.jp/15289663.html",
+    "source": "47NEWS",
+    "published_at": "2026-11-26 14:30",
+    "summary": "・和歌山県観光審議会（会長＝大浦由美・和歌山大学観光学部長）は２４日、新たな県の観光振興財源として「宿泊税導入は必要不可欠」だとする報告書を宮﨑泉知事に提出した。\n・宮﨑知事は「素晴らしい報告書を頂いた。\n・和歌山県南部のニュースをお届けします。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [],
+    "importance_score": 9,
     "is_featured": false
   },
   {
@@ -469,6 +534,8 @@
     "summary": "・和歌山県白浜町の白良浜で、砂の飛散を防ぐネットを設置する町の職員ら＝２６日午前。\n・白い砂のビーチで人気が高い和歌山県白浜町の白良浜で２６日、冬の強い風で砂が沿岸の白浜温泉街に飛散しないようにするネットが設置された。\n・温泉街の冬支度として１９８２年から続く。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 54,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "和歌山・白良浜で冬支度",
@@ -488,9 +555,7 @@
         "source": "埼玉新聞",
         "published_at": "2026-11-26 13:37"
       }
-    ],
-    "importance_score": 54,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -501,9 +566,9 @@
     "summary": "・衆院政治改革特別委員会は２６日午前の理事会で、与党と国民民主党が提出した衆院比例代表定数３１削減法案の採決について協議した。\n・この日の採決は見送り、３０日に改めて質疑を行うことで合意した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -514,9 +579,9 @@
     "summary": "・イルミネーションでギネス記録 和歌山県。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -556,6 +621,19 @@
     "importance_score": 3,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "和歌山県立近代美術館で初開催！「光をつなぐナイトミュージアム」",
+    "url": "https://www.nankai.co.jp/community/natts/event/1128_wakayama_nightmuseum/",
+    "source": "南海電気鉄道株式会社",
+    "published_at": "2026-11-26 11:46",
+    "summary": "・和歌山県立近代美術館では2027年2月28日（日）まで、駅周辺等のイルミネーションと連動したイベントを実施します！期間中の全10日は夜間特別開館やナイトマーケット、音楽イベントも開催します。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-26",
@@ -641,6 +719,26 @@
     "importance_score": 17,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-11-26 05:13",
+    "summary": "・和歌山県の雨雲レーダー(実況)27日12:20発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [
+      {
+        "title": "和歌山県の雨雲レーダー(予報)",
+        "url": "https://tenki.jp/radar/6/33/rainmesh.html",
+        "source": "tenki.jp",
+        "published_at": "2026-11-26 03:37"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-26",
