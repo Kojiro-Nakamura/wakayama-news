@@ -878,9 +878,16 @@
     "summary": "・【和歌山県】高野山ヒルクライムが2027年6月6日に初開催予定 九度山から大門へ約20km。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 6,
+    "importance_score": 21,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "【和歌山県】高野山ヒルクライムが2027年6月6日に初開催予定 九度山から大門へ約20km",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xVWJMeFM0dXVzeDZITHdETFZRRndHV1hEQllZUzVScElESUNkUkw5NzZFSzZveTYxQklpb3N6NkxmaW5BMkFRNi1CbGtJTjVmN0JqUjQtRQ?oc=5",
+        "source": "サイクルスポーツ.jp",
+        "published_at": "2026-11-19 11:52"
+      }
+    ]
   },
   {
     "article_date": "2026-11-19",

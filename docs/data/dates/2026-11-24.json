@@ -378,6 +378,8 @@
     "summary": "・【橋本市水道】「利き水チャレンジ」を実施しました！（おもしろ環境まつり 2026）。",
     "summary_type": "auto",
     "category": "地域・一般",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【橋本市水道】「利き水チャレンジ」を実施しました！（おもしろ環境まつり 2026）",
@@ -385,9 +387,7 @@
         "source": "橋本市",
         "published_at": "2026-11-24 09:51"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -401,6 +401,38 @@
     "importance_score": 17,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-24",
+    "title": "「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現",
+    "url": "https://osaka.style/news/pressrelease/79980/",
+    "source": "osaka style",
+    "published_at": "2026-11-24 14:32",
+    "summary": "・近畿大学地域創生農業研究所（和歌山県有田郡湯浅町）と有田川町（和歌山県有田郡、町長：坂頭徳彦）は、令和8年（2026年）12月1日（火）から、ブランド合鴨肉「近大鴨（きんだいかも）」を、一昨年・昨年に続き、今年も同町のふるさと納税の返礼品として提供します。\n・●「近大式鴨肥育法」で肥育した「近大鴨」を、有田川町のふるさと納税の返礼品として3年連続で提供。\n・長年の研究でより美味しくなった「近大鴨」を広く一般の方にも味わっていただくために、一昨年・昨年に続き3年連続で有田川町のふるさと納税の返礼品として提供します。",
+    "summary_type": "auto",
+    "category": "観光・文化",
+    "related_articles": [
+      {
+        "title": "「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現",
+        "url": "https://news.nicovideo.jp/watch/nw20024482?news_ref=watch_50_nw19993886",
+        "source": "ニコニコニュース",
+        "published_at": "2026-11-24 14:09"
+      },
+      {
+        "title": "「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現",
+        "url": "https://newscast.jp/smart/news/1908678",
+        "source": "Newscast.jp",
+        "published_at": "2026-11-24 14:00"
+      },
+      {
+        "title": "「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現",
+        "url": "https://www.atpress.ne.jp/news/1908678",
+        "source": "アットプレス",
+        "published_at": "2026-11-24 14:00"
+      }
+    ],
+    "importance_score": 51,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-24",
@@ -447,32 +479,6 @@
     "importance_score": 3,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-11-24",
-    "title": "「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現",
-    "url": "https://news.nicovideo.jp/watch/nw20024482?news_ref=watch_50_nw19993886",
-    "source": "ニコニコニュース",
-    "published_at": "2026-11-24 14:09",
-    "summary": "・「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現。",
-    "summary_type": "auto",
-    "category": "経済・産業",
-    "importance_score": 30,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現",
-        "url": "https://newscast.jp/smart/news/1908678",
-        "source": "Newscast.jp",
-        "published_at": "2026-11-24 14:00"
-      },
-      {
-        "title": "「近大鴨」を有田川町ふるさと納税返礼品に3年連続提供 大学・自治体・企業等の産官学連携で肉質改良や安定生産を実現",
-        "url": "https://www.atpress.ne.jp/news/1908678",
-        "source": "アットプレス",
-        "published_at": "2026-11-24 14:00"
-      }
-    ]
   },
   {
     "article_date": "2026-11-24",
@@ -529,7 +535,7 @@
     "summary": "・和歌山県気象防災速報（竜巻注意）　第１号　　２０２６年１１月２４日午後０時３分　気象庁発表　　和歌山県北部、南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。\n・空の様子に注意してください。\n・【注意情報対象地域】　和歌山市、海南市、橋本市、有田市、御坊市、田辺市田辺、田辺市龍神、田辺市中辺路、田辺市大塔、田辺市本宮、新宮市、紀の川市、岩出市、紀美野町、３０３４１０１、３０３４１０２、九度山町、高野町、湯浅町、広川町、３０３６６０１、３０３６６０２、美浜町、日高町、由良町、印南町、みなべ町、３０３９２０１、３０３９２０２、３０３９２０３、白浜町、上富田町、すさみ町、那智勝浦町、太地町、古座川町、北山村、串本町　　この情報は１１月２４日１３時１０分まで有効です。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 81,
+    "importance_score": 96,
     "is_featured": true,
     "related_articles": [
       {
@@ -553,6 +559,12 @@
       {
         "title": "和歌山県気象防災速報（竜巻注意） 第１号＝気象庁発表",
         "url": "https://www.kyoto-np.co.jp/articles/-/1831795",
+        "source": "京都新聞デジタル",
+        "published_at": "2026-11-24 12:03"
+      },
+      {
+        "title": "和歌山県気象防災速報（竜巻注意） 第１号＝気象庁発表",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96OE9NUTVOZFdoanhTYVVuWnNXREVxWHdyMlNOSmcyczI0TU9aaENLZ21pRkVnUjV4ZVBfb3FsOXRRQ0VMNW9QTkRaR0tuV2pseVQwM1N0TVg?oc=5",
         "source": "京都新聞デジタル",
         "published_at": "2026-11-24 12:03"
       }

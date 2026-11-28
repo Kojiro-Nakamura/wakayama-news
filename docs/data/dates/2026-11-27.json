@@ -8,9 +8,9 @@
     "summary": "・政府主催の全国知事会議が２７日、首相官邸で開かれた。\n・これに対し、高市早苗首相（左から２人目）は、是正策を検討する考えを示した。",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -21,6 +21,8 @@
     "summary": "・高橋茉奈美さんのイラストを使ったカレンダー「2027ポルテクカレンダー」が11月上旬から県内の図書館やカフェで販売されている。\n・高橋茉奈美さんが描く「2027ポルテクカレンダー」の2月のイラスト。\n・就労継続支援B型施設「ポルテク」（紀の川市名手市場）に通い、スケッチブックとペンで1日1、2枚を描き上げる。",
     "summary_type": "auto",
     "category": "政治・行政",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "紀の川市・「ポルテク」の高橋茉奈美さんがイラストカレンダー販売（みんなの経済新聞ネットワーク）",
@@ -28,9 +30,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-27 22:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-27",
@@ -41,9 +41,9 @@
     "summary": "・和歌山 古座川町の大イチョウ色づく。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -54,9 +54,9 @@
     "summary": "・小学生が「紀州へらざお」づくりを体験 和歌山 橋本。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 5,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -67,6 +67,8 @@
     "summary": "・経営不振から存続が焦点となっている紀州鉄道について、和歌山県御坊市の三浦源吾市長は27日の定例記者会見で「『現状、廃線を考えておらず、鉄道の存続に向けた具体的な方法を慎重に検討している』と（同社から）回答を受けた」と明らかにした。\n・同市の御坊―西御坊間（2.7キロ）を結ぶ紀州鉄道では利用者の減少が続き、令和7年度までの3年平均で鉄道事業は5700万円の赤字。\n・三浦市長は「廃線を考えておらず、と言ってもらえただけでもありがたい。",
     "summary_type": "auto",
     "category": "社会・事件",
+    "importance_score": 111,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "紀州鉄道「現在、廃線を考えていない」と存続に向け慎重に検討 和歌山・御坊市長が明かす",
@@ -85,10 +87,32 @@
         "url": "https://article.auone.jp/33ebdde2-b2af-475a-829c-2cc1227d2c27",
         "source": "au Webポータル",
         "published_at": "2026-11-27 17:19"
+      },
+      {
+        "title": "紀州鉄道「現在、廃線を考えていない」と存続に向け慎重に検討 和歌山・御坊市長が明かす (産経新聞)",
+        "url": "https://news.yahoo.co.jp/articles/aaac1f301b72a4d18bd5d5201734a31b464a0215/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-27 20:11"
+      },
+      {
+        "title": "紀州鉄道「現状、廃線考えておらず慎重に検討中」",
+        "url": "https://news.wbs.co.jp/222081",
+        "source": "WBS和歌山放送ニュース",
+        "published_at": "2026-11-27 17:19"
+      },
+      {
+        "title": "紀州鉄道「現状、廃線考えておらず慎重に検討中」",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wYk9FbjRSMWxHNU04X2MycFpFeFhETWI4WHpnV3hldnBmNy1vY21KVDliM0I0cVJKWTVZVlUzUnhSUzkxak1hVVdUaW81MVBoM2FtSjktUUFUYkZDVU1tLWNkbmlDVlpsMkNnc1RB?oc=5",
+        "source": "au Webポータル",
+        "published_at": "2026-11-27 17:19"
+      },
+      {
+        "title": "紀州鉄道「現状、廃線考えておらず慎重に検討中」/和歌山県御坊市（WBS和歌山放送ニュース）",
+        "url": "https://news.yahoo.co.jp/articles/0de78a323006609826420ba85c632fe0b89a51ed",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-27 16:37"
       }
-    ],
-    "importance_score": 51,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-27",
@@ -99,8 +123,21 @@
     "summary": "・過労死防ぐシンポジウム 「働く人の命守られる社会に」 和歌山。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 5,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "１１年ぶりの就航",
+    "url": "https://wakayama.keizai.biz/gpnews/1779409/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-11-27 20:08",
+    "summary": "・ニュージーランド航空は２７日、約１１年ぶりに復活する成田―クライストチャーチ路線の就航記念イベントを成田空港で開催。\n・キウイブラザーズが搭乗ゲートに登場し、就航に花を添えた。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "related_articles": [],
+    "importance_score": 3,
     "is_featured": false
   },
   {
@@ -112,9 +149,9 @@
     "summary": "・アメリカ建国250周年記念の銘板 和歌山 串本町へ寄贈。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 8,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -125,6 +162,8 @@
     "summary": "・和歌山地方気象台が11月27日午後5時に発表した、和歌山県内の最新のあすの天気予報です。\n・最高気温は、和歌山20℃、潮岬20℃でしょう。\n・各地の天気予報は以下の通りです。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 24,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【和歌山県】11/27の天気予報",
@@ -132,9 +171,7 @@
         "source": "FNNプライムオンライン",
         "published_at": "2026-11-27 05:10"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-27",
@@ -145,125 +182,26 @@
     "summary": "・「ビフテキ牛ノ福」と総菜・弁当「厨房さと」複合店が11月25日、近鉄布施駅1階の近鉄百貨店東大阪店（東大阪市長堂1）食品売り場にオープンした。\n・12月12日〜12月29日までの期間限定オープン！お得なワゴンセールも開催！",
     "summary_type": "auto",
     "category": "政治・行政",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
-    "title": "鶴保参議院議員(和歌山県選出) 韓国メディア等に二地域居住を説明（テレビ和歌山）",
-    "url": "https://news.yahoo.co.jp/articles/cbddfb807c36e831036460c1f86e0aaa0135f4df",
+    "title": "世界初“絶滅危惧種ペンギン”人工授精繁殖に成功 和歌山・アドベンチャーワールド （テレビ朝日系（ANN））",
+    "url": "https://news.yahoo.co.jp/articles/8c683c13322030b2d554bcfde8829c0b7c730336",
     "source": "Yahoo!ニュース",
-    "published_at": "2026-11-27 16:46",
-    "summary": "・県選出の鶴保庸介参議院議員は、東京都内でこのほど、人口の減少や一極集中といった日本と同じ課題のある韓国のメディアなどに自ら提唱する二地域居住について説明しました。\n・鶴保議員らが提唱している「二地域居住」とは、都市と地方、二つの地域に生活の拠点を置いて行き来しながら暮らすことで関係人口を増やし、地域課題の解決につなげようというものです。\n・鶴保議員はインタビューに「和歌山は人口減少の多い県であり、そのことが社会インフラの減少としてまちの魅力を失わせ、どんどん人口が減っていく。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 6,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-27",
-    "title": "関西リーグ昇格目指す 社会人サッカー、南紀オレンジサンライズＦＣ、和歌山（紀伊民報）",
-    "url": "https://news.yahoo.co.jp/articles/30726d716eb353a338f9a7ceb5a13bd284cb0785",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-27 16:25",
-    "summary": "・和歌山県社会人サッカー１部リーグに所属する南紀オレンジサンライズＦＣが、２９日に開幕する２府４県の府県リーグ代表による「関西府県サッカーリーグ決勝大会」（和歌山県、兵庫県などで開催）に出場し、初の関西サッカーリーグへの昇格を目指す。\n・【熱気いっぱい運動会／上富田／子どもと選手一緒に、の記事】　今季の県１部リーグ（４月５日～１１月１日）は県内６チームが参加。\n・５、６位決定戦もあり、１～５位が関西リーグ２部に昇格する。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "related_articles": [
-      {
-        "title": "関西リーグ昇格目指す 社会人サッカー、南紀オレンジサンライズＦＣ、和歌山",
-        "url": "https://www.47news.jp/15295298.html",
-        "source": "47NEWS",
-        "published_at": "2026-11-27 14:30"
-      }
-    ],
-    "importance_score": 27,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-27",
-    "title": "人件費、３億円増へ 和歌山県田辺市議会が開会（紀伊民報）",
-    "url": "https://news.yahoo.co.jp/articles/d8245a0bff269919764eeaab76878bc5be5b146a",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-27 16:25",
-    "summary": "・和歌山県田辺市議会１２月定例会が１１月２５日、開会した。\n・職員らの給与やボーナス引き上げなど、人事院勧告に伴う人件費の増額に約３億円を充てている。\n・【紀南にも大学共通テスト会場を　田辺市議会で意見書可決、和歌山の記事】　今年８月の人事院勧告に準じ、職員の給与を平均３・３％（会計年度任用職員は４・０％）引き上げる。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "related_articles": [
-      {
-        "title": "人件費、３億円増へ 和歌山県田辺市議会が開会",
-        "url": "https://www.47news.jp/15295300.html",
-        "source": "47NEWS",
-        "published_at": "2026-11-27 14:30"
-      }
-    ],
-    "importance_score": 24,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-27",
-    "title": "３６キロの大物クエ 和歌山みなべ（紀伊民報）",
-    "url": "https://news.yahoo.co.jp/articles/31a9be2baf6e2cf9415b29691950e12d224564b6",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-27 16:25",
-    "summary": "・和歌山県みなべ町堺の堺漁港で２７日、地元漁師が重さ３６・２キロ、全長約１４０センチのクエを水揚げした。\n・【イセエビ漁始まる　堺漁港で主力の海産物、和歌山県みなべの記事】　買い付けた田辺市鮎川の仲買業「ナガサコ」の長嶝彰人代表（６２）によると、３５キロを超える大物はめったにない。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 6,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-27",
-    "title": "化学産業の成長へ 和歌山市がクラスター計画の核に",
-    "url": "https://wakayamashimpo.co.jp/2026/11/20261127_140206.html",
-    "source": "わかやま新報",
-    "published_at": "2026-11-27 16:09",
-    "summary": "・国の地域未来戦略に基づく「和歌山県化学分野における地域産業クラスター計画」が２６日、公表され、和歌山市がクラスター形成の核となる区域に位置づけられた。\n・同市は日本の「有機化学工業発祥の地」といわれ、独自の有機合成技術や高機能材料の開発力を有するニッチトップ企業が集積しており、尾﨑太郎市長は「計画に選ばれることによって、さらに大きく成長する土壌ができた」と話した。\n・県内化学産業は、製造品出荷額が２０２４年に４４８２億円に達し、過去１０年間で年平均２・８％の成長を続けている。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "related_articles": [],
-    "importance_score": 14,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-27",
-    "title": "都大路・花園へ健闘誓う 県代表校の結団壮行式",
-    "url": "https://wakayamashimpo.co.jp/2026/11/20261127_140216.html",
-    "source": "わかやま新報",
-    "published_at": "2026-11-27 16:08",
-    "summary": "・全国高校総合体育大会（駅伝・ラグビーフットボール競技）に出場する和歌山県代表校の結団壮行式が２６日、和歌山市小松原通の県民文化会館で行われた。\n・出場するのは、１２月２０日に京都市のたけびしスタジアム京都を発着点に行われる全国高校駅伝競走大会の男子代表・和歌山北（４年連続２６回目）と女子代表・智弁和歌山（４年ぶり４回目）、１２月２７日に大阪府東大阪市の東大阪市花園ラグビー場などで開幕する全国高校ラグビーフットボール大会の近大付属和歌山（６年連続８回目）。\n・本番までの時間、この思いを忘れることなく都大路、花園で堂々と躍進したい」と謝辞を述べた。",
-    "summary_type": "auto",
-    "category": "政治・行政",
-    "related_articles": [],
-    "importance_score": 17,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-27",
-    "title": "「高血圧ゼロのまち」推進 和歌山市とエレコム協定",
-    "url": "https://wakayamashimpo.co.jp/2026/11/20261127_140214.html",
-    "source": "わかやま新報",
-    "published_at": "2026-11-27 16:08",
-    "summary": "・市民の健康づくり推進を目的に、和歌山市とデジタル機器メーカーのエレコム㈱（大阪市）は２７日、連携協定を締結した。\n・同社から企業版ふるさと納税を活用して血圧計２００台の寄贈を受け、高血圧を指摘された４０～６５歳の市民に日常的な測定を行ってもらうことで、健康意識の向上や生活習慣の改善につなげてもらうなど、効果的な活用を進める。\n・市はことし４月、ＮＰＯ法人日本高血圧学会が進める「高血圧ゼロのまち」のモデルタウンに承認され、健診の受診勧奨や血圧測定、保健指導などの啓発に取り組んでおり、今回の協定を生かして、さらに取り組みを推進する。",
-    "summary_type": "auto",
-    "category": "社会・事件",
-    "related_articles": [],
-    "importance_score": 14,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-27",
-    "title": "絶滅危惧種「キタイワトビペンギン」の人工授精に成功、世界初―和歌山・アドベンチャーワールド",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaUZvcDhxVVktVTEtSXdQRS02bDhMN2ktM3o2UWxDeldKRHZ2blFqVFJSOW9RYklRWmQ3THl0WVEwRGNxdExvUTZudWdPYnlLTHZQalN2YnNDQllISTBLeTZjaWdlUlBWaXkyZno4WmRDVXU4ajdLTUFWZTJJb3VWVmxR?oc=5",
-    "source": "時事ドットコム",
-    "published_at": "2026-11-27 15:05",
-    "summary": "・絶滅危惧種「キタイワトビペンギン」の人工授精に成功、世界初―和歌山・アドベンチャーワールド。",
+    "published_at": "2026-11-27 17:53",
+    "summary": "・和歌山県白浜町のアドベンチャーワールドは27日、絶滅危惧種のキタイワトビペンギンの人工授精による繁殖に成功したと発表しました。\n・アドベンチャーワールドによりますと、キタイワトビペンギンの人工授精の成功は「世界初」だということです。\n・先月誕生したヒナのDNA鑑定を実施した結果、人工授精での受精が確認されました。",
     "summary_type": "auto",
     "category": "観光・文化",
     "related_articles": [
+      {
+        "title": "絶滅危惧種「キタイワトビペンギン」の人工授精に成功、世界初―和歌山・アドベンチャーワールド",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaUZvcDhxVVktVTEtSXdQRS02bDhMN2ktM3o2UWxDeldKRHZ2blFqVFJSOW9RYklRWmQ3THl0WVEwRGNxdExvUTZudWdPYnlLTHZQalN2YnNDQllISTBLeTZjaWdlUlBWaXkyZno4WmRDVXU4ajdLTUFWZTJJb3VWVmxR?oc=5",
+        "source": "時事ドットコム",
+        "published_at": "2026-11-27 15:05"
+      },
       {
         "title": "絶滅危惧種「キタイワトビペンギン」の人工授精に世界で初めて成功 和歌山のアドベンチャーワールド",
         "url": "https://article.auone.jp/cc9eb9b5-9083-4222-b2bb-b64a342c7b17",
@@ -299,10 +237,152 @@
         "url": "https://news.ntv.co.jp/n/ytv/category/society/yt74d5e139481c41b19ce8651d00372563",
         "source": "日テレNEWS NNN",
         "published_at": "2026-11-27 09:31"
+      },
+      {
+        "title": "絶滅危惧種「キタイワトビペンギン」の人工授精に成功、世界初―和歌山・アドベンチャーワールド",
+        "url": "https://www.jiji.com/jc/article?k=2026112700623&g=soc&p=20261127at35S&rel=pv",
+        "source": "時事ドットコム",
+        "published_at": "2026-11-27 15:05"
+      },
+      {
+        "title": "世界初 絶滅危惧種「キタイワトビペンギン」 人工授精による繁殖成功 和歌山・アドベンチャーワールド",
+        "url": "https://news.yahoo.co.jp/articles/cc45d3b7b7c459dff81af6b76fb464a3565d44ba",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-27 11:27"
+      },
+      {
+        "title": "ペンギンの人工授精、繁殖に成功 絶滅危惧種、和歌山の施設",
+        "url": "https://www.shinmai.co.jp/news/article/gfkn2026112701000305",
+        "source": "信濃毎日新聞デジタル",
+        "published_at": "2026-11-27 09:59"
       }
     ],
-    "importance_score": 96,
+    "importance_score": 168,
     "is_featured": true
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "鶴保参議院議員(和歌山県選出) 韓国メディア等に二地域居住を説明（テレビ和歌山）",
+    "url": "https://news.yahoo.co.jp/articles/cbddfb807c36e831036460c1f86e0aaa0135f4df",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-27 16:46",
+    "summary": "・県選出の鶴保庸介参議院議員は、東京都内でこのほど、人口の減少や一極集中といった日本と同じ課題のある韓国のメディアなどに自ら提唱する二地域居住について説明しました。\n・鶴保議員らが提唱している「二地域居住」とは、都市と地方、二つの地域に生活の拠点を置いて行き来しながら暮らすことで関係人口を増やし、地域課題の解決につなげようというものです。\n・鶴保議員はインタビューに「和歌山は人口減少の多い県であり、そのことが社会インフラの減少としてまちの魅力を失わせ、どんどん人口が減っていく。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "importance_score": 6,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "関西リーグ昇格目指す 社会人サッカー、南紀オレンジサンライズＦＣ、和歌山（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/30726d716eb353a338f9a7ceb5a13bd284cb0785",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-27 16:25",
+    "summary": "・和歌山県社会人サッカー１部リーグに所属する南紀オレンジサンライズＦＣが、２９日に開幕する２府４県の府県リーグ代表による「関西府県サッカーリーグ決勝大会」（和歌山県、兵庫県などで開催）に出場し、初の関西サッカーリーグへの昇格を目指す。\n・【熱気いっぱい運動会／上富田／子どもと選手一緒に、の記事】　今季の県１部リーグ（４月５日～１１月１日）は県内６チームが参加。\n・５、６位決定戦もあり、１～５位が関西リーグ２部に昇格する。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "importance_score": 42,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "関西リーグ昇格目指す 社会人サッカー、南紀オレンジサンライズＦＣ、和歌山",
+        "url": "https://www.47news.jp/15295298.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-27 14:30"
+      },
+      {
+        "title": "関西リーグ昇格目指す 社会人サッカー、南紀オレンジサンライズＦＣ、和歌山",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxVTl5Z25feGRyTHdWejJhc2VXSGlUUmM0VjBRdnhVUzFiRVVrcXJxeDVTWGNqX1B1a09ndlgwUzJSSG5jWmFISkZDMA?oc=5",
+        "source": "47NEWS",
+        "published_at": "2026-11-27 14:30"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "人件費、３億円増へ 和歌山県田辺市議会が開会（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/d8245a0bff269919764eeaab76878bc5be5b146a",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-27 16:25",
+    "summary": "・和歌山県田辺市議会１２月定例会が１１月２５日、開会した。\n・職員らの給与やボーナス引き上げなど、人事院勧告に伴う人件費の増額に約３億円を充てている。\n・【紀南にも大学共通テスト会場を　田辺市議会で意見書可決、和歌山の記事】　今年８月の人事院勧告に準じ、職員の給与を平均３・３％（会計年度任用職員は４・０％）引き上げる。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "importance_score": 39,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "人件費、３億円増へ 和歌山県田辺市議会が開会",
+        "url": "https://www.47news.jp/15295300.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-27 14:30"
+      },
+      {
+        "title": "人件費、３億円増へ　和歌山県田辺市議会が開会",
+        "url": "https://topics.smt.docomo.ne.jp/article/agara/region/agara-ow717827",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-11-27 14:30"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "３６キロの大物クエ 和歌山みなべ（紀伊民報）",
+    "url": "https://news.yahoo.co.jp/articles/31a9be2baf6e2cf9415b29691950e12d224564b6",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-27 16:25",
+    "summary": "・和歌山県みなべ町堺の堺漁港で２７日、地元漁師が重さ３６・２キロ、全長約１４０センチのクエを水揚げした。\n・【イセエビ漁始まる　堺漁港で主力の海産物、和歌山県みなべの記事】　買い付けた田辺市鮎川の仲買業「ナガサコ」の長嶝彰人代表（６２）によると、３５キロを超える大物はめったにない。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "importance_score": 21,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "３６キロの大物クエ 和歌山みなべ (紀伊民報)",
+        "url": "https://news.yahoo.co.jp/articles/31a9be2baf6e2cf9415b29691950e12d224564b6/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-27 16:25"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "化学産業の成長へ 和歌山市がクラスター計画の核に",
+    "url": "https://wakayamashimpo.co.jp/2026/11/20261127_140206.html",
+    "source": "わかやま新報",
+    "published_at": "2026-11-27 16:09",
+    "summary": "・国の地域未来戦略に基づく「和歌山県化学分野における地域産業クラスター計画」が２６日、公表され、和歌山市がクラスター形成の核となる区域に位置づけられた。\n・同市は日本の「有機化学工業発祥の地」といわれ、独自の有機合成技術や高機能材料の開発力を有するニッチトップ企業が集積しており、尾﨑太郎市長は「計画に選ばれることによって、さらに大きく成長する土壌ができた」と話した。\n・県内化学産業は、製造品出荷額が２０２４年に４４８２億円に達し、過去１０年間で年平均２・８％の成長を続けている。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "importance_score": 14,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "都大路・花園へ健闘誓う 県代表校の結団壮行式",
+    "url": "https://wakayamashimpo.co.jp/2026/11/20261127_140216.html",
+    "source": "わかやま新報",
+    "published_at": "2026-11-27 16:08",
+    "summary": "・全国高校総合体育大会（駅伝・ラグビーフットボール競技）に出場する和歌山県代表校の結団壮行式が２６日、和歌山市小松原通の県民文化会館で行われた。\n・出場するのは、１２月２０日に京都市のたけびしスタジアム京都を発着点に行われる全国高校駅伝競走大会の男子代表・和歌山北（４年連続２６回目）と女子代表・智弁和歌山（４年ぶり４回目）、１２月２７日に大阪府東大阪市の東大阪市花園ラグビー場などで開幕する全国高校ラグビーフットボール大会の近大付属和歌山（６年連続８回目）。\n・本番までの時間、この思いを忘れることなく都大路、花園で堂々と躍進したい」と謝辞を述べた。",
+    "summary_type": "auto",
+    "category": "政治・行政",
+    "importance_score": 17,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "「高血圧ゼロのまち」推進 和歌山市とエレコム協定",
+    "url": "https://wakayamashimpo.co.jp/2026/11/20261127_140214.html",
+    "source": "わかやま新報",
+    "published_at": "2026-11-27 16:08",
+    "summary": "・市民の健康づくり推進を目的に、和歌山市とデジタル機器メーカーのエレコム㈱（大阪市）は２７日、連携協定を締結した。\n・同社から企業版ふるさと納税を活用して血圧計２００台の寄贈を受け、高血圧を指摘された４０～６５歳の市民に日常的な測定を行ってもらうことで、健康意識の向上や生活習慣の改善につなげてもらうなど、効果的な活用を進める。\n・市はことし４月、ＮＰＯ法人日本高血圧学会が進める「高血圧ゼロのまち」のモデルタウンに承認され、健診の受診勧奨や血圧測定、保健指導などの啓発に取り組んでおり、今回の協定を生かして、さらに取り組みを推進する。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "importance_score": 14,
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -313,9 +393,16 @@
     "summary": "・みなべ町で先人に感謝の梅供養。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
-    "importance_score": 5,
-    "is_featured": false
+    "importance_score": 20,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "みなべ町で先人に感謝の梅供養",
+        "url": "https://hidakashimpo.co.jp/?p=109546",
+        "source": "日高新報",
+        "published_at": "2026-11-27 15:04"
+      }
+    ]
   },
   {
     "article_date": "2026-11-27",
@@ -326,9 +413,9 @@
     "summary": "・天然洞窟を利用した温泉「忘帰洞」で知られるホテル浦島（和歌山県那智勝浦町）は8月から、熊野市や尾鷲市など三重県東紀州地域の土産物を館内に置いている。\n・宿泊客の選択肢を広げるとともに、県をまたいだ地域全体の活性化につなげる狙いがある。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -339,9 +426,16 @@
     "summary": "・世界でも珍しい道の世界遺産「熊野古道伊勢路」。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
+    "importance_score": 24,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "道の世界遺産「熊野古道伊勢路」、なぜ歩くか聞いてみた マレーシア出身のチェクさんの場合",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95Vm1WcjFuLXMxMEVDZWVSWHVDcm5ROWFwdW44MkVoQ2ZtUGRwZmlYLXVodl85MktpWWUwT0tPSC1ReTZ3Si00TGFUX29SNTZPdXlZXw?oc=5",
+        "source": "中日新聞Web",
+        "published_at": "2026-11-27 14:33"
+      }
+    ]
   },
   {
     "article_date": "2026-11-27",
@@ -352,9 +446,9 @@
     "summary": "・田辺市本宮町に、コンビニエンスストア大手の「ローソン」が出店を計画していることが分かった。\n・特殊詐欺未然に防ぐ　谷本さんに感謝状、和歌山県田辺署。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 11,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -365,9 +459,9 @@
     "summary": "・秋の全国交通安全運動　夕暮れの事故防止啓発、和歌山県田辺。\n・「スクールガード」始動　安全強化へ警察ＯＢ、和歌山県白浜町教委。\n・和歌山県の田辺署と白浜署は、交通安全功労者や優良運転者の表彰式を開き、各署長らが対象者に表彰状を手渡した。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 20,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -378,9 +472,9 @@
     "summary": "・「共通巡礼」投票１位／田辺市とスペイン／欧州観光アワード。\n・「共通巡礼」最終候補に　欧州観光アワードで投票中、和歌山県田辺市とスペイン。\n・24年度売上高が過去最高　11億円超、海外客の増加顕著、和歌山・田辺市熊野ＴＢ。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 20,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -391,8 +485,28 @@
     "summary": "・酒気帯び運転の疑い／田辺署　男を逮捕。\n・２９日に「こだま祭」／田辺市本宮町。\n・大手コンビニが出店計画／田辺市本宮町　地元で賛否の声。",
     "summary_type": "auto",
     "category": "観光・文化",
+    "importance_score": 32,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "梅干し食べよう／紀州田辺うめ振興協／モニター募集",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VdWlpZkVDYkZPWktZazJfT1ZPczFfaTZ3NjJrVG51UmZWa2gxMWJ0V1JsY20yMWRxRDlxaS1acVZoYll4cHlva1RTYi14Z1k?oc=5",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-11-27 14:30"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "がんばってます／小川 珠里亜〈おがわ じゅりあ〉さん 田辺市湊 田辺市熊野ツーリズムビューロー",
+    "url": "https://www.agara.co.jp/article/718192?rct=ganba",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-11-27 14:30",
+    "summary": "・「熊野古道に世界各地から旅行者が訪れている。\n・がんばってます／寒川　穂風（そうがわ　ほのか）さん（２５歳）／田辺市消防本部田辺消防署。\n・がんばってます・松上　賢太（まつうえ　けんた）さん（３４歳）／田辺市中芳養　蒲田辰商店。",
+    "summary_type": "auto",
+    "category": "観光・文化",
     "related_articles": [],
-    "importance_score": 17,
+    "importance_score": 20,
     "is_featured": false
   },
   {
@@ -404,8 +518,21 @@
     "summary": "・和歌山県警によると、１１月２７日午前１０時３０分頃、日高川町中津川で、クマが出没しました。",
     "summary_type": "auto",
     "category": "社会・事件",
-    "related_articles": [],
     "importance_score": 3,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "現場付近で情報提供呼び掛け",
+    "url": "https://wakayama.keizai.biz/gpnews/1779392/",
+    "source": "和歌山経済新聞",
+    "published_at": "2026-11-27 12:58",
+    "summary": "・写真は情報提供を求めるビラを配る警視庁荒川署長＝２７日　【時事通信社】。",
+    "summary_type": "auto",
+    "category": "社会・事件",
+    "related_articles": [],
+    "importance_score": 0,
     "is_featured": false
   },
   {
@@ -417,9 +544,9 @@
     "summary": "・和歌山県立近代美術館は、冬の夜に美術と光、食や音楽などを楽しむイベント「光をつなぐナイトミュージアム」を初開催します。\n・和歌山県立近代美術館を光で彩るイルミネーションの点灯とライトアップを実施します。\n・期間中の全10日間、美術館の夜間特別開館とナイトマーケットを開催します。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -456,7 +583,7 @@
     "summary": "・和歌山県が策定した「繊維分野における地域産業クラスター計画」で、丸編みニット生地の生産が盛んな和歌山市などが、核となる区域に位置づけられた。\n・市は、県や関係自治体と連携し、繊維関連業者への設備投資や人材育成、販路開拓を支え、食や観光とも組み合わせて地域活性化を図る。\n・【写真】丸編みニットの生地を作る機械=和歌山市提供　同計画は10月、地方の経済活性化をめざす国の「地域未来戦略」に基づき、作られた。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 69,
+    "importance_score": 84,
     "is_featured": true,
     "related_articles": [
       {
@@ -481,6 +608,12 @@
         "title": "和歌山市、強みの繊維を「推し」に 関連業者支え、地域活性化目指す [和歌山県]",
         "url": "https://www.asahi.com/sp/articles/photo/AS20261126004217.html",
         "source": "朝日新聞",
+        "published_at": "2026-11-27 10:45"
+      },
+      {
+        "title": "和歌山市、強みの繊維を「推し」に　関連業者支え、地域活性化目指す",
+        "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVCV3T0PVCVPXLB00NM",
+        "source": "ｄメニューニュース",
         "published_at": "2026-11-27 10:45"
       }
     ]
@@ -724,7 +857,7 @@
     "summary_type": "auto",
     "category": "社会・事件",
     "importance_score": 80,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "駐輪場７０歳男性刺され死亡／福岡、暴行容疑で男逮捕 （11/26 14:30）",
@@ -881,6 +1014,19 @@
     "importance_score": 17,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "和歌山県の雨雲レーダー(実況) / リアルタイムの雨雲",
+    "url": "https://tenki.jp/radar/6/33/",
+    "source": "tenki.jp",
+    "published_at": "2026-11-27 02:22",
+    "summary": "・和歌山県の雨雲レーダー(実況)28日12:00発表。\n・2026年11月の和歌山県の雨雲レーダーを見る。\n・和歌山県の雨雲レーダー(実況)では、気象レーダーで現在の雨の状況を5分更新でリアルタイムで見ることができます。",
+    "summary_type": "auto",
+    "category": "地域・一般",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-27",

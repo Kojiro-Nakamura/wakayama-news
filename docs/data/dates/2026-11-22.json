@@ -270,9 +270,9 @@
     "summary": "・2026年度（令和8年度）の和歌山県の最低賃金は、時間額1,101円です。\n・和歌山県の最低賃金を満たしているか、30秒で確認できます。\n・月給での確認方法、週15〜40時間の月収・年収の目安、大阪・奈良など近隣県との比較、助成金、FAQを社労士が解説。",
     "summary_type": "auto",
     "category": "地域・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-22",
@@ -283,8 +283,8 @@
     "summary": "・世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫。",
     "summary_type": "auto",
     "category": "観光・文化",
-    "importance_score": 39,
-    "is_featured": false,
+    "importance_score": 54,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫",
@@ -295,6 +295,12 @@
       {
         "title": "世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫",
         "url": "https://newsdig.tbs.co.jp/articles/cbc/3104085?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-22 15:43"
+      },
+      {
+        "title": "世界遺産「熊野古道」でウォーキング 2日で約800人が参加し自然を満喫",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3104085",
         "source": "TBS NEWS DIG",
         "published_at": "2026-11-22 15:43"
       }
@@ -401,7 +407,7 @@
     "summary_type": "auto",
     "category": "地域・一般",
     "importance_score": 42,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "【全国初か】道の駅にペンギン駅長が誕生！主な仕事は「よく食べ、よく寝て、よく泳ぐこと」 和歌山・すさみ町",
